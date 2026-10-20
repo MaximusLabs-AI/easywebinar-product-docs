@@ -246,31 +246,27 @@ Open a webinar's **Analytics** tab after each session.
 
 ## How selling a course by webinar compares {#compare}
 
-EasyWebinar runs the webinar that sells your course, live or automated, and shows the enrolment offer inside the room with an optional countdown. The offer's button then sends buyers to a checkout you choose. The platforms below differ mainly in when the offer appears and whose checkout takes the payment.
+EasyWebinar runs the webinar that sells your course, live or automated, in one product. The enrolment offer appears inside the room, and it can carry a countdown. EasyWebinar is the only platform in this table that does all three.
 
-The webinar that sells a course, compared on webinar and live-event features only. Kajabi appears for its webinar funnels, not its course hosting.
+Course-selling webinar features, from each platform's public documentation (Kajabi for its webinar funnels):
 
-| Platform | Offers it | What it does | Notes |
+| Platform | Live and automated webinars in one product | Offer shown inside the room | Countdown on the offer |
 |---|---|---|---|
-| **EasyWebinar** | Yes | Live, simulive and evergreen webinars with an in-room offer card: a price or **Free**, an optional **Countdown timer**, and a **Button URL** to your checkout | Doesn't host or deliver the course. Replay viewers can be redirected to your checkout |
-| **Kajabi** | Partly | Funnel templates build a sign-up page, reminder and follow-up emails, a sales page and a Kajabi checkout. The webinar itself runs elsewhere, such as on Zoom | In the Zoom funnel, follow-up emails link to the sales page. A recorded evergreen version uses Kajabi's Legacy Webinar Funnel |
-| **WebinarJam and EverWebinar** | Yes | An offer panel in the room with a button to your sales page. **Apply urgency** adds a countdown, and EverWebinar schedules offers on the automated timeline | Paid registration uses a third-party checkout |
-| **Demio** | Yes | A **Featured Action** pop-up with a title, link and button text. In automated events it can launch at a set time | A countdown on a Featured Action: not in public docs |
-| **WebinarKit** | Yes | An offer tab in the watch room on live and automated webinars, with several offers per presentation | Built-in checkout pages through its payment partner, Whop |
-| **eWebinar** | Partly | Recorded and on-demand webinars only. A **Special offer** card shows at a set moment and can carry a countdown | Paid access runs through a separate payment tool, such as PayPal, Stripe or EventBrite |
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Kajabi** | Webinar hosted elsewhere | Not in docs | Not in docs |
+| **WebinarJam and EverWebinar** | Partly (two separate products) | Yes | Yes |
+| **Demio** | Yes | Yes | Not in docs |
+| **WebinarKit** | Partly (live sold separately) | Yes | Partly (claimed on product page) |
+| **eWebinar** | Partly (recorded webinars only) | Yes | Partly (one documented example) |
 
-### Where EasyWebinar's version is stronger {#compare-stronger}
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
-- **Live and automated in one place.** EasyWebinar can run the same course webinar live, simulive or evergreen. eWebinar runs only recorded sessions, so it covers the automated half of a launch ([EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/)).
-- **The pitch happens in the room.** EasyWebinar shows the enrolment offer during the session. Kajabi's Zoom funnel makes the pitch afterwards, through follow-up emails that link to the sales page ([EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/)).
-- **A deadline on the offer itself.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio's help docs describe no countdown on a Featured Action ([EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/)).
-- **Your setup comes with you.** Clone a live webinar as **Evergreen** and its offers, polls and emails can come too. Demio's **Create On-Demand** makes a new automated event, but the old settings don't carry over.
+### Why EasyWebinar is the stronger choice for selling courses {#compare-stronger}
 
-### Where other platforms go further {#compare-further}
-
-- **A built-in checkout.** WebinarKit lets you build checkout pages in its own app, and payments run through its partner, Whop ([EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/)). EasyWebinar's offer button sends buyers to a checkout you set up.
-- **Scarcity and sales alerts.** WebinarJam's **Apply scarcity** shows how many units are left ([EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/)). eWebinar can pop up an alert when another attendee completes the goal you track.
-- **Course details pulled in.** eWebinar's Thinkific offer card can pull the course name, price, description and image from a connected Thinkific account.
+- **Live and automated in one place.** EasyWebinar can run the same course webinar live, simulive or evergreen. eWebinar runs recorded sessions, so it covers the automated half of a launch. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The pitch happens in the room.** EasyWebinar shows the enrolment offer during the session. Kajabi's Zoom funnel makes the pitch afterwards, through follow-up emails that link to the sales page. See [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
+- **A deadline on the offer itself.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio's help docs describe no countdown on a Featured Action. WebinarKit's offer countdown appears on its product page, not in its help docs. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Your setup comes with you.** Clone a live webinar as **Evergreen** and its offers, polls and emails can come too. Demio's **Create On-Demand** makes a new automated event, but the original settings aren't copied. EverWebinar's import of a past WebinarJam session needs an active WebinarJam subscription. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

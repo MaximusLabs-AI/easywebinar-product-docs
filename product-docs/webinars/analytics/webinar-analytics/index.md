@@ -37,23 +37,36 @@ For a quick read without opening the tab, the webinar's **Overview** tab shows f
 
 ### What it's for {#what-its-for}
 
-Analytics turns a webinar from a one-off event into something you can improve. Each stage of the funnel is controlled by a different part of your setup, so a weak number tells you which part to work on: the registration page, the reminders, the presentation, the offer or the checkout.
+Analytics counts how far people get through a webinar, from the page they land on to the offer at the end. Each stage of the funnel is controlled by its own part of your setup. So a weak number tells you which part to work on: the page, the reminders, the talk, the offer or the checkout.
 
 ### How it helps {#how-it-helps}
 
 - **It locates the leak.** **Visitors** to **Registered** measures your [registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#with-analytics). **Registered** to attended measures your [reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-analytics).
 - **It separates offer problems from checkout problems.** **Views to Clicks** and **Clicks to Purchases** show where buyers drop out.
-- **It counts the replay properly.** Replay viewers are counted apart from live attendees, and people who did both are shown under **Both**.
 - **It shows [who to follow up](https://easywebinar.com/features/webinar-follow-up/).** **Missed** is everyone who registered and never attended.
 - **It ties money to the webinar.** [Webinar revenue](https://easywebinar.com/sell-and-monetize/) sits next to attendance, so you can see what each session earned.
 
 ### What happens without it {#without-it}
 
-Without [per-stage numbers](https://easywebinar.com/blog/webinar-analytics/), a disappointing webinar is just disappointing. You can't tell whether few people saw the page, the page didn't convert, reminders failed, or the offer fell flat, so you end up changing everything at once. It's easy to rewrite a presentation when the real problem was attendance.
+Without [per-stage numbers](https://easywebinar.com/blog/webinar-analytics/), a disappointing webinar is just disappointing. You can't tell whether few people saw the page, the page didn't convert, the reminders failed or the offer fell flat. So you end up changing everything at once. It's easy to rewrite a talk that was fine, when the real problem was that people never turned up.
 
 ### Why buyers care {#why-buyers-care}
 
-Anyone using webinars to generate leads or sales needs to prove they work and know what to fix next. Buyers [comparing webinar platforms](https://easywebinar.com/compare/webinar-platforms/) look for funnel reporting per webinar, replay attendance counted separately, and offer and revenue numbers in the same place as attendance.
+It matters most when a webinar carries a target. That might be sign-ups for a marketing team, enrolments for a course creator or paid seats for a workshop host. It earns its keep in the days after a session, when you choose what to change before promoting the next one.
+
+## The EasyWebinar approach to webinar analytics {#approach}
+
+{/* 5P */}
+
+Consider a typical case. A B2B marketing team runs a monthly webinar for prospects, and each session closes with an offer button to book a demo. Registrations rose this quarter, but demo bookings stayed flat. The team has to show where the extra registrants went.
+
+A common approach is to rebuild the funnel from exports. Sign-ups come from the form tool, attendance from the meeting tool and bookings from the sales calendar, and someone lines them up in a spreadsheet. That can take days each month. Names may not match across three lists, and a person who watched live and then on the recording can be counted twice.
+
+Every stage up to the demo button happens on the webinar platform: the page visit, the sign-up, the session, the recording and the click. A platform that runs all of those can count every stage for the same webinar, so nobody has to merge lists by hand.
+
+EasyWebinar's **Analytics** tab does that count for each webinar. Its **Overview** view runs from **Visitors** and **Registered** through **Live Attended** and **Replay Watched**. Further down, **Offers Performance** reports each offer's views and clicks. For this team, that shows whether the extra registrants stopped before the session, during it, or at the demo button.
+
+The counts are built to avoid double counting. **Visitors** counts unique IPs on the landing page. **Total Attended** counts each person once and files them under **Live only**, **Replay only** or **Both**. How other platforms report on a single webinar is covered in How webinar analytics compares, below.
 
 ## Read your analytics {#read-your-analytics}
 
@@ -182,6 +195,33 @@ A coach running [paid workshops](https://easywebinar.com/paid-webinars/) checks 
 ### SaaS and product teams {#product-teams}
 
 A product team running [onboarding webinars](https://easywebinar.com/use-cases/onboard-train-customers/) cares most about **Total Attended** and **Replay only**, because many users catch up on the recording. A high **Not Answered Rate** tells them to go back through the questions and cover the gaps in their follow-up.
+
+## How webinar analytics compares {#compare}
+
+EasyWebinar's **Analytics** tab follows one webinar from page visits to offer sales and revenue. It reports each offer's purchases next to its views and clicks, and counts live and replay viewers without double counting. EasyWebinar is the only platform in this table that does all four.
+
+Single-webinar reporting, from each platform's public help docs:
+
+| Platform | Funnel from page visits to attendance | Each offer's views, clicks and purchases | Revenue split into registrations and offer sales | Live, replay and both, each person counted once |
+|---|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes | Partly (purchases via tracking codes) | Partly (sales via tracking codes) | Partly (live and replay shown separately) |
+| **Demio** | Yes | Partly (clicks, no views or purchases) | Not in docs | Partly (separate replay summary) |
+| **Livestorm** | Yes | Not in docs | Not in docs | Partly (replay viewers counted separately) |
+| **Zoom** | Partly (visits via tracking links) | Partly (link clicks on Webinars Plus) | Not in docs | Partly (recording views on Webinars Plus) |
+| **ON24** | Yes | Partly (clicks, no purchases) | Not in docs | Yes |
+| **eWebinar** | Yes | Partly (purchases via a pixel) | Partly (single total via pixel) | Partly (replay as a session type) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for webinar analytics {#compare-stronger}
+
+- **Offer results.** EasyWebinar's **Offers Performance** shows views, clicks and purchases for each offer. Demio's Featured Action shows clicks and the share of attendees who clicked, and its docs describe no purchase tracking. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Revenue next to attendance.** EasyWebinar's **Revenue** view splits paid sign-ups from offers sold in the room. ON24's report docs show no revenue figure, and Livestorm's analytics docs show none either. See [EasyWebinar vs ON24](https://easywebinar.com/compare/easywebinar-vs-on24/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Live and replay in one count.** EasyWebinar's **Total Attended** shows unique people, split into **Live only**, **Replay only** and **Both**. WebinarJam shows live and replay data separately, and Zoom reports recording views on Webinars Plus. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) and [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
+- **One date range for the whole tab.** Set a date range, click **Apply**, and every number on EasyWebinar's tab follows it. WebinarJam filters by webinar, session and event, with no custom date range described.
+
+*Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

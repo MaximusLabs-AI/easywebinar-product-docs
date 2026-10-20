@@ -254,29 +254,27 @@ A solo operator who can't present every day records a single webinar and runs it
 
 ## How evergreen webinars compare {#compare}
 
-In EasyWebinar, one evergreen webinar can offer just-in-time sessions, On Demand viewing and set daily or weekly times, all on one page. It can host the video itself, or reuse the recording of a webinar you ran live. Some tools go further on how often sessions repeat, and on running them at each viewer's local time.
+In EasyWebinar, one evergreen webinar can offer just-in-time sessions, On Demand viewing and set times, all on one page. It can host the video itself, and live webinars run in the same product. EasyWebinar is the only platform in this table that does all three.
 
-Evergreen scheduling in each platform's public documentation:
+Evergreen features, from each platform's public documentation:
 
-| Platform | Offers it | What it does | Notes |
+| Platform | Just-in-time, on-demand and set times in one webinar | Hosts the video itself | Live webinars in the same product |
 |---|---|---|---|
-| **EasyWebinar** | Yes | Just-in-time, On Demand and **Daily** or **Weekly** recurring sessions, in any combination | Hosts an uploaded video or imports one from YouTube, Vimeo, Wistia or an MP4 link; recurring sessions run in the webinar's timezone |
-| **EverWebinar** | Yes | Specific dates or a daily or weekly recurring schedule, with just-in-time sessions and instant watch replay | Help centre says an external video source is required; live webinars run in its sister product WebinarJam |
-| **eWebinar** | Yes | Recurring, one-time, specific-date and on-demand-only event types; just-in-time can be added to any | Scheduled sessions can show at the same local clock time for every visitor; recurrence includes every two weeks and monthly |
-| **StealthSeminar** | Yes | Just In Time, Daily Repeat Schedule and Watch Yesterday's Replay | Automated events run in each attendee's local time by default |
-| **Demio** | Yes | Automated Events with recurring times and On-Demand availability | Just-in-time sessions: not in public docs |
-| **Livestorm** | Partly | On-demand events that stay open for registration; recurring events with added sessions | On-demand can't be combined with recurring sessions; just-in-time: not in public docs |
+| **EasyWebinar** | Yes | Yes | Yes |
+| **EverWebinar** | Yes | External video required | Separate product (WebinarJam) |
+| **eWebinar** | Yes | Yes | Not in docs |
+| **StealthSeminar** | Partly (on-demand as yesterday's replay) | Yes | Via YouTube Live or Twitch |
+| **Demio** | Partly (just-in-time not in docs) | Yes | Yes |
+| **Livestorm** | Partly (on-demand can't be recurring) | Yes | Yes |
 
-### Where EasyWebinar's version is stronger {#compare-stronger}
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for evergreen webinars {#compare-stronger}
 
 - **All three ways to watch in one webinar.** EasyWebinar offers just-in-time, On Demand and set times together on one page. Livestorm says recurring events can't be set up on-demand, and Demio's public docs show no just-in-time option. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/) and [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 - **Video hosting in the same flow.** With **Local import**, EasyWebinar hosts the video itself, so you don't need a YouTube or Vimeo account. EverWebinar's help centre says an external video source is required. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
-- **From live to evergreen in one product.** EasyWebinar lists recordings of your past webinars under **Recordings** when you pick the video. EverWebinar can import a past WebinarJam session only if the same account has an active WebinarJam subscription.
-
-### Where other platforms go further {#compare-further}
-
-- **Local clock time for set sessions.** eWebinar can show a 10am session at 10am wherever the visitor is. StealthSeminar's automated events run in each user's local time by default. EasyWebinar's daily and weekly sessions run in the webinar's timezone; only just-in-time sessions follow local time. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) and [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **More ways to repeat.** eWebinar can repeat every two weeks or once a month. Demio's recurring times include every other day and monthly. EasyWebinar's schedule repeats daily or weekly.
+- **From live to evergreen in one product.** EasyWebinar lists recordings of your past webinars under **Recordings** when you pick the video. EverWebinar can import a past WebinarJam session if the same account has an active WebinarJam subscription. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Live webinars built in.** EasyWebinar runs live, simulive and evergreen webinars from one account. eWebinar's public docs show no live video broadcast, and StealthSeminar streams live video in from YouTube Live or Twitch. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) and [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

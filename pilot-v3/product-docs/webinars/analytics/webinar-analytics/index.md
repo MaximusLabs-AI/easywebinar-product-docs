@@ -198,30 +198,28 @@ A product team running [onboarding webinars](https://easywebinar.com/use-cases/o
 
 ## How webinar analytics compares {#compare}
 
-EasyWebinar's **Analytics** tab follows one webinar from page visits to offer sales and revenue, under one date range. Every platform below reports who signed up and who came. None of the others shows each offer's views, clicks and purchases in one report.
+EasyWebinar's **Analytics** tab follows one webinar from page visits to offer sales and revenue. It reports each offer's purchases next to its views and clicks, and counts live and replay viewers without double counting. EasyWebinar is the only platform in this table that does all four.
 
-How seven [webinar platforms](https://easywebinar.com/compare/webinar-platforms/) report on a single webinar, from each one's public help docs:
+Single-webinar reporting, from each platform's public help docs:
 
-| Platform | Offers it | What it does | Notes |
-|---|---|---|---|
-| **EasyWebinar** | Yes | A funnel from **Visitors** to **Missed**, **Offers Performance** with views, clicks and purchases, and a **Revenue** view | One date range covers the whole tab. Reports one webinar at a time |
-| **WebinarJam and EverWebinar** | Yes | Page visitors, sign-up rate, live and replay attendance, and show-up rate. A Monetization section shows sign-up fees and sales | Sales are counted by tracking codes you add to your product and confirmation pages |
-| **Demio** | Yes | Attended and missed, the sign-up rate and average time in the room. Replay views for live events | Featured Action click counts. Sales and revenue: not in public docs |
-| **Livestorm** | Yes | A graph of visits and sign-ups, a funnel from registered to attended, and counts of no-shows and replay viewers | Revenue and a date-range filter: not in its analytics docs |
-| **Zoom** | Partly | Reports on sign-ups, attendees, Q&A and polls. Tracking links count visits to the sign-up page | Turnout rate, recording views and link click rates need Zoom Webinars Plus |
-| **ON24** | Yes | Separate live and on-demand figures, sign-up rate by referral code, and each attendee counted once | Clicks on calls to action. Revenue: not in its report docs |
-| **eWebinar** | Yes | Visitors, sign-ups and attendees, with sign-up and attendance rates. Every figure follows the date range | Sales value comes from a pixel on your checkout's thank-you page |
+| Platform | Funnel from page visits to attendance | Each offer's views, clicks and purchases | Revenue split into registrations and offer sales | Live, replay and both, each person counted once |
+|---|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes | Partly (purchases via tracking codes) | Partly (sales via tracking codes) | Partly (live and replay shown separately) |
+| **Demio** | Yes | Partly (clicks, no views or purchases) | Not in docs | Partly (separate replay summary) |
+| **Livestorm** | Yes | Not in docs | Not in docs | Partly (replay viewers counted separately) |
+| **Zoom** | Partly (visits via tracking links) | Partly (link clicks on Webinars Plus) | Not in docs | Partly (recording views on Webinars Plus) |
+| **ON24** | Yes | Partly (clicks, no purchases) | Not in docs | Yes |
+| **eWebinar** | Yes | Partly (purchases via a pixel) | Partly (single total via pixel) | Partly (replay as a session type) |
 
-### Where EasyWebinar's version is stronger {#compare-stronger}
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
-- **Offer results.** EasyWebinar's **Offers Performance** shows views, clicks and purchases for each offer. Demio's Featured Action shows clicks and the share of attendees who clicked. Its docs describe no purchase tracking ([EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/)).
-- **Revenue next to attendance.** EasyWebinar's **Revenue** view splits paid sign-ups from offers sold in the room. ON24's report docs show no revenue figure ([EasyWebinar vs ON24](https://easywebinar.com/compare/easywebinar-vs-on24/)). Livestorm's analytics docs show none either.
-- **One date range.** Set a date range, click **Apply**, and every number on EasyWebinar's tab follows it. WebinarJam filters by webinar, session and event, with no custom date range described.
+### Why EasyWebinar is the stronger choice for webinar analytics {#compare-stronger}
 
-### Where other platforms go further {#compare-further}
-
-- **Live and replay sales.** WebinarJam splits sales from the live room and the replay room, with earnings per attendee. It can also compare two versions of a sign-up page ([EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/)).
-- **Reports across webinars.** eWebinar has a Universal Dashboard add-on that reports across all your eWebinars, or any set you pick ([EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/)). EasyWebinar's **Analytics** tab covers one webinar at a time.
+- **Offer results.** EasyWebinar's **Offers Performance** shows views, clicks and purchases for each offer. Demio's Featured Action shows clicks and the share of attendees who clicked, and its docs describe no purchase tracking. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Revenue next to attendance.** EasyWebinar's **Revenue** view splits paid sign-ups from offers sold in the room. ON24's report docs show no revenue figure, and Livestorm's analytics docs show none either. See [EasyWebinar vs ON24](https://easywebinar.com/compare/easywebinar-vs-on24/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Live and replay in one count.** EasyWebinar's **Total Attended** shows unique people, split into **Live only**, **Replay only** and **Both**. WebinarJam shows live and replay data separately, and Zoom reports recording views on Webinars Plus. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) and [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
+- **One date range for the whole tab.** Set a date range, click **Apply**, and every number on EasyWebinar's tab follows it. WebinarJam filters by webinar, session and event, with no custom date range described.
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

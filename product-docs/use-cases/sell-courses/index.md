@@ -26,9 +26,38 @@ Course creators use EasyWebinar to [sell a course through a webinar](https://eas
 
 ## Where EasyWebinar fits {#where-it-fits}
 
-A course business usually has three parts: something that brings people in (content, ads, an email list), something that turns interest into a purchase, and somewhere the course is delivered. EasyWebinar is the middle part. People register for your webinar, watch it, and click through to buy. Your course platform keeps doing what it does: hosting lessons and managing students.
+### What it's for {#fits-what-its-for}
 
-That's why the offer button in EasyWebinar takes a URL. Point it at the checkout page for your course, wherever it lives.
+Most course businesses have three parts: a way to attract people, a way to turn interest into a purchase, and a place to deliver lessons. EasyWebinar is the middle part. People register for your webinar, watch it and click through to buy, while your course platform keeps hosting lessons and managing students.
+
+### How it helps {#fits-how-it-helps}
+
+- **It drafts the webinar for you.** **Create with AI** turns one description into a script, pages, emails, polls and offers.
+- **It follows up by behaviour.** Emails and email-tool tags can follow who attended and who clicked your offer.
+- **It catches late viewers.** **After the replay ends** can redirect replay viewers to your course checkout.
+- **It shows what sold.** **Offers Performance** and **Revenue by Offer** report each offer's results for that webinar.
+
+### What happens without it {#fits-without-it}
+
+Without a webinar in the middle, people go straight from an email or an ad to a sales page. The page has to answer every doubt on its own, with no chance to teach or take questions. Visitors who aren't ready yet tend to leave.
+
+### Why course creators care {#fits-why}
+
+It matters most to creators selling a new course, and to educators and trainers who sell cohorts or workshops. It counts most with cold traffic: people who found you through an ad or a search and have never heard you teach.
+
+## The EasyWebinar approach to selling courses {#approach}
+
+{/* 5P */}
+
+Take a typical example. A course creator opens enrolment with a live webinar in launch week, presenting to an email list and answering questions in the chat. The launch closes, but new subscribers keep arriving. The creator wants that same pitch to enrol them without presenting it every week.
+
+A common route is to stitch the launch together from a meeting app, an email tool and a video host. For an automated version, the recording moves to the video host, and the sign-up page, reminders and offer are rebuilt around it. The live and automated versions then drift apart, and each keeps its own list of sign-ups.
+
+The recording of the live session already holds the pitch that worked. What needs to change is who presses play: each new registrant, at a time that suits them, rather than the creator.
+
+EasyWebinar handles both halves of that launch. The creator runs a **Live** webinar with recording on, then clones it as an **Evergreen** webinar. The copy plays the recording at a time each registrant picks. The live original is untouched, and the evergreen copy takes over for everyone who joins the list later.
+
+Two details shape this route. A webinar's type can't be changed after you create it, so there is no live-to-evergreen switch, only a clone. And a clone starts at zero: registrants and attendees remain on the live webinar, so the launch's figures stay where they were. How other platforms handle a course webinar is covered in How selling a course by webinar compares, below.
 
 ## Which webinar type to use {#which-webinar-type}
 
@@ -214,6 +243,32 @@ Open a webinar's **Analytics** tab after each session.
 5. **Follow up** with offer-clickers through **Attendee Action Follow-ups**, and tag them in your email tool with **Clicked offer**.
 6. **Review** **Offers Performance** and **Revenue by Offer**, and adjust the pitch.
 7. **Clone** the webinar as **Evergreen**, select the live recording, turn on just-in-time and **Chat Simulation**, and let it sell every day.
+
+## How selling a course by webinar compares {#compare}
+
+EasyWebinar runs the webinar that sells your course, live or automated, in one product. The enrolment offer appears inside the room, and it can carry a countdown. EasyWebinar is the only platform in this table that does all three.
+
+Course-selling webinar features, from each platform's public documentation (Kajabi for its webinar funnels):
+
+| Platform | Live and automated webinars in one product | Offer shown inside the room | Countdown on the offer |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Kajabi** | Webinar hosted elsewhere | Not in docs | Not in docs |
+| **WebinarJam and EverWebinar** | Partly (two separate products) | Yes | Yes |
+| **Demio** | Yes | Yes | Not in docs |
+| **WebinarKit** | Partly (live sold separately) | Yes | Partly (claimed on product page) |
+| **eWebinar** | Partly (recorded webinars only) | Yes | Partly (one documented example) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for selling courses {#compare-stronger}
+
+- **Live and automated in one place.** EasyWebinar can run the same course webinar live, simulive or evergreen. eWebinar runs recorded sessions, so it covers the automated half of a launch. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The pitch happens in the room.** EasyWebinar shows the enrolment offer during the session. Kajabi's Zoom funnel makes the pitch afterwards, through follow-up emails that link to the sales page. See [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
+- **A deadline on the offer itself.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio's help docs describe no countdown on a Featured Action. WebinarKit's offer countdown appears on its product page, not in its help docs. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Your setup comes with you.** Clone a live webinar as **Evergreen** and its offers, polls and emails can come too. Demio's **Create On-Demand** makes a new automated event, but the original settings aren't copied. EverWebinar's import of a past WebinarJam session needs an active WebinarJam subscription. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+
+*Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## What EasyWebinar doesn't do for course creators {#what-it-doesnt-do}
 

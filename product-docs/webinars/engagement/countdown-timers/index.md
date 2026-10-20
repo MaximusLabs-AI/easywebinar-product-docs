@@ -15,7 +15,7 @@ EasyWebinar has two countdowns. An **offer countdown** sits on an offer card in 
 |---|---|---|
 | **Where it appears** | On an offer card, in the webinar room | On the registration page, before people sign up |
 | **What it counts down to** | The end of the offer | The start of the session |
-| **How you turn it on** | **Countdown timer** switch in the offer editor | Countdown block in the page builder; present by default on a new registration page |
+| **How you turn it on** | **Countdown timer** switch in the offer editor | Countdown block in the page builder; already on the page when a new live webinar opens in the builder |
 | **Where you set it** | Webinar → **CTAs** → an offer | Webinar → **Content** → **Registration Page** |
 | **Webinar types** | Live, simulive and evergreen | Webinars with scheduled sessions |
 
@@ -32,22 +32,35 @@ The offer countdown lives inside the **offer** itself, so it travels wherever th
 
 ### What it's for {#what-its-for}
 
-A countdown turns a deadline you would otherwise have to keep repeating ("the bonus closes at the end of the session") into something every attendee can see for themselves. On a registration page, it makes the session feel like an event with a start time rather than a page someone can come back to later.
+A countdown turns a deadline you would otherwise keep repeating ("the bonus closes when the session ends") into something every attendee can see. On a registration page, it makes the session feel like an event with a start time, not a page to come back to later.
 
 ### How it helps {#how-it-helps}
 
-- **It makes a real deadline visible.** Attendees see exactly how long an offer stays open without relying on what they heard.
-- **It reduces "I'll decide later".** A [visible time limit](https://easywebinar.com/blog/scarcity-tactics-for-webinar-conversions/) gives people a reason to act during the webinar, when interest is highest.
-- **It works without you.** On [simulive and evergreen webinars](https://easywebinar.com/automated-webinars/) nobody is presenting live, so the timer carries the deadline on its own.
-- **It shows urgency on the registration page.** A countdown to the start time gives a visitor [a reason to register now](https://easywebinar.com/blog/improve-your-webinar-registration-page/) rather than bookmark the page.
+- **A real deadline becomes visible.** Attendees see how long an offer stays open without relying on what they heard.
+- **Deciding later stops being the easy choice.** A [visible time limit](https://easywebinar.com/blog/scarcity-tactics-for-webinar-conversions/) gives people a reason to act during the webinar.
+- **The start time counts down too.** A countdown on the registration page gives a visitor [a reason to register now](https://easywebinar.com/blog/improve-your-webinar-registration-page/) rather than bookmark the page.
 
 ### What happens without it {#without-it}
 
-Without a countdown, the only signal of a deadline is what the presenter says, and on a recorded webinar that line may have been recorded weeks ago. Attendees who joined late or stepped away miss it. People who wanted to buy are left unsure whether the offer is still open, and the usual reaction to uncertainty is to wait, which in webinar selling usually means not buying.
+With no countdown, an offer's end point is easy to miss or forget. People who meant to buy are left unsure whether it is still open. Many wait, and in webinar selling, waiting often means not buying. A registration page with no visible start time gives visitors little reason to sign up today.
 
 ### Why buyers care {#why-buyers-care}
 
-For anyone who sells through webinars (course creators, coaches, consultants, product teams running demos), the offer is the moment the webinar pays for itself. A countdown is one of the few tools that [changes behaviour at that moment](https://easywebinar.com/blog/webinar-copywriting-psychological-triggers/). It matters most for deadline-based offers: launch pricing, enrolment windows, limited places, a bonus for buying during the session.
+Countdowns matter most to course creators, coaches and consultants whose offers really do end. That includes launch pricing, a closing enrolment window or a bonus for buying during the session. Their pitch rests on [a clear reason to act](https://easywebinar.com/blog/webinar-copywriting-psychological-triggers/), so the timer earns its place when the offer appears.
+
+## The EasyWebinar approach to countdown timers {#approach}
+
+{/* 5P */}
+
+Take a typical case. A business coach runs an evergreen webinar that plays twice a day and ends on an offer for a twelve-week coaching programme. Anyone who enrols before their session ends gets a bonus strategy call. The coach is rarely watching, and every session has a new audience.
+
+A common approach is to record the deadline into the pitch, or to add a third-party timer to the sales page the offer links to. A recorded line such as "the bonus ends on Friday" is true for one week and wrong for every viewer after it. A timer set to one date can't follow sessions that start at different times. The coach ends up correcting timers, and some viewers are shown a deadline that has already passed.
+
+An [automated webinar](https://easywebinar.com/automated-webinars/) has no presenter to announce the deadline at the right moment. Since each session plays without the coach, its deadline has to keep time without the coach as well. The timer therefore belongs on the offer, which every session's audience sees.
+
+EasyWebinar builds the countdown into the offer card itself. On the **CTAs** tab, the coach opens the programme offer and switches on **Countdown timer**. The bonus goes in the **Headline**, so the card says what ends. Because the timer is part of the offer, it appears in every session that shows that offer. With the replay page set to **Webinar Replica**, the offer carries over to the replay too.
+
+In the numbered editor screenshot further down, **Countdown timer** is item 2, after **Offer Style** and before **Offer Price**. It is a switch on each offer, so a free workbook offer can run with no timer while the programme offer keeps one. For other platforms' countdowns, see How countdown timers compare, below.
 
 ## Set up an offer countdown {#set-up-offer-countdown}
 
@@ -85,7 +98,7 @@ The offer stays ready but does not appear until you switch it on.
 
 ## Set up the registration-page countdown {#set-up-registration-countdown}
 
-New registration pages carry a countdown to your session automatically. When you [create a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template), the builder opens with your schedule applied and the countdown already running.
+When you [create a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template), the registration page builder opens with your schedule applied and a countdown to the session already running. On other webinar types, open the page in the builder to check for the countdown block.
 
 ![The registration page builder showing the webinar date, a countdown timer and the registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
 
@@ -172,6 +185,31 @@ A countdown persuades because people trust it. Keep that trust:
 - **Say what ends.** Use the headline or sub headline to state what expires: the bonus, the price or the enrolment window.
 - **Keep deadlines consistent.** Match the offer countdown, the replay deadline and what your follow-up emails say.
 
+## How countdown timers compare {#compare}
+
+EasyWebinar puts a countdown on the offer and another on the registration page itself. The offer countdown works the same way on live, simulive and evergreen webinars. EasyWebinar is the only platform in this table that does all three.
+
+Countdown features, from each platform's public documentation:
+
+| Platform | Countdown on the offer | Countdown on the registration page itself | Offer countdown on live and automated webinars |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes | Separate holding page | Partly (two separate products) |
+| **Demio** | Not in docs | Yes | Not in docs |
+| **eWebinar** | Partly (one documented example) | Partly (widget on your own page) | Partly (recorded webinars only) |
+| **Livestorm** | Not in docs | Separate waiting page | Not in docs |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for countdown timers {#compare-stronger}
+
+- **A documented offer countdown.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio documents its Featured Actions, and Livestorm its in-room link promotion, without a countdown setting. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **The countdown is on the registration page.** EasyWebinar's countdown is a block on the page people sign up on. WebinarJam's help docs describe its countdown on a separate holding page for people who open the live link early. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No widget to install elsewhere.** eWebinar's countdown to the start comes from widgets you place on your own landing page. EasyWebinar's is a block in its own page builder. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **One product for live and automated offers.** An EasyWebinar offer, countdown included, runs on every webinar type you create. WebinarJam handles live sessions and EverWebinar the automated ones, as two separate products. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
+
+*Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
+
 ## Limits and things to know {#limits}
 
 - **The offer countdown is set per offer.** Each offer has its own **Countdown timer** switch.
@@ -195,7 +233,7 @@ No. The countdown setting is in the offer editor; the poll editor has question, 
 
 #### Is there a countdown on my registration page? {#faq-registration-page}
 
-Yes. New registration pages show a countdown to the session. You can restyle it, hide it on mobile with **Desktop Only**, or remove the block.
+On a new live webinar, yes: the registration page builder opens with a countdown to the session. On other types, check the page in the builder. You can restyle the block, hide it on mobile with **Desktop Only**, or remove it.
 
 #### Will my offers, and their countdowns, show on the replay? {#faq-replay}
 

@@ -187,30 +187,26 @@ A countdown persuades because people trust it. Keep that trust:
 
 ## How countdown timers compare {#compare}
 
-EasyWebinar builds in both countdowns: a **Countdown timer** switch on each offer, and a countdown block on the registration page itself. Several tools document only one of the two, or show the start time on a separate waiting page. Some go further in the room, with scarcity counters or timers on polls.
+EasyWebinar puts a countdown on the offer and another on the registration page itself. The offer countdown works the same way on live, simulive and evergreen webinars. EasyWebinar is the only platform in this table that does all three.
 
-Countdown features in each platform's public documentation:
+Countdown features, from each platform's public documentation:
 
-| Platform | Offers it | What it does | Notes |
+| Platform | Countdown on the offer | Countdown on the registration page itself | Offer countdown on live and automated webinars |
 |---|---|---|---|
-| **EasyWebinar** | Yes | **Countdown timer** switch on each offer; countdown block on the registration page | Offer countdown on live, simulive and evergreen webinars |
-| **WebinarJam** | Yes | **Apply urgency** on a product offer shows a countdown that starts when the offer is first displayed | Offers can also show scarcity; the start-time countdown is on a separate holding page |
-| **EverWebinar** | Yes | A product offer on the automated timeline has a start and end time, with an optional **Apply urgency** countdown | People who open the link early wait on a countdown page |
-| **Demio** | Partly | Countdown at the top of the registration form; waiting-room countdown to the session start | Offer countdown: not in public docs |
-| **eWebinar** | Partly | Its interactions guide shows an offer countdown in one example; polls can show a countdown | The start-time countdown comes from widgets on your own landing page |
-| **Livestorm** | Partly | Waiting page with a countdown to the start; an in-room Timer app | Offer countdown: not in public docs |
+| **EasyWebinar** | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes | Separate holding page | Partly (two separate products) |
+| **Demio** | Not in docs | Yes | Not in docs |
+| **eWebinar** | Partly (one documented example) | Partly (widget on your own page) | Partly (recorded webinars only) |
+| **Livestorm** | Not in docs | Separate waiting page | Not in docs |
 
-### Where EasyWebinar's version is stronger {#compare-stronger}
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for countdown timers {#compare-stronger}
 
 - **A documented offer countdown.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio documents its Featured Actions, and Livestorm its in-room link promotion, without a countdown setting. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 - **The countdown is on the registration page.** EasyWebinar's countdown is a block on the page people sign up on. WebinarJam's help docs describe its countdown on a separate holding page for people who open the live link early. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 - **No widget to install elsewhere.** eWebinar's countdown to the start comes from widgets you place on your own landing page. EasyWebinar's is a block in its own page builder. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-
-### Where other platforms go further {#compare-further}
-
-- **Scarcity alongside the timer.** A WebinarJam offer can also **Apply scarcity**, showing units remaining, and broadcast sales in real time. EasyWebinar's offer card carries a countdown only.
-- **Countdowns beyond offers.** eWebinar polls can show a countdown while they're open. Its **Display countdown clock** setting shows the time left in the session. EasyWebinar polls have no countdown setting.
-- **A general in-room timer.** Livestorm's Timer app can show a countdown to everyone in the room, not tied to an offer.
+- **One product for live and automated offers.** An EasyWebinar offer, countdown included, runs on every webinar type you create. WebinarJam handles live sessions and EverWebinar the automated ones, as two separate products. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
