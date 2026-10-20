@@ -4,12 +4,25 @@ Create a live webinar, set a one-time or recurring schedule, choose free or paid
 
 - Applies to: All plans · any team member
 - Status: Live
-- Verified: 2026-10-16
+- Verified: 2026-10-21
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/
 
 Create a live webinar, set the date, time and timezone your attendees register for, and get a registration page ready to publish. The builder has four steps and takes about two minutes.
 
 **Expected result:** a webinar with its schedule applied, open in the registration page builder, ready for you to publish.
+
+## At a glance {#at-a-glance}
+
+| | |
+|---|---|
+| **Where** | **My Webinars** → **Create a Webinar** → **Create Manually** |
+| **Builder steps** | Four: Build, Schedule, Pricing, Registration Template |
+| **Schedule options** | **Specific Date**, **Daily** or **Weekly**, with extra sessions through **Add Session** |
+| **Timezone** | Starts on your account timezone; every session runs at one fixed time in it |
+| **Pricing** | **Free** by default, or **Paid** through a connected Stripe account |
+| **Who can do it** | Any team member, not only the account owner |
+| **Goes public when** | You click **Publish** in the registration page builder |
+| **Changing the type later** | Not possible; clone the webinar and pick another type on the copy |
 
 ## Before you begin {#before-you-begin}
 
@@ -123,10 +136,10 @@ Click **Continue to Registration Template**.
 Selecting **Paid** shows:
 
 - **Pricing Title** and an optional **Description**, shown to attendees at checkout
-- **Live webinar price**, in US dollars
+- **Live webinar price**, the amount each registrant pays
 - **Live + Replay bundle**, to [sell access to the webinar and its recording together](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#live-replay-bundle)
 
-Payments run through **Stripe**. If no account is connected, a **Payments · Action required** panel offers **Connect with Stripe**. Payouts go directly to your own bank account; EasyWebinar never holds your funds. You can switch back to **Free** any time before creating the webinar.
+Attendees pay through a Stripe checkout, and the money goes straight to your Stripe account. If no account is connected, a **Payments · Action required** panel offers **Connect with Stripe**. You can switch back to **Free** any time before creating the webinar.
 
 ![The paid pricing step with price fields and the Stripe connection panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-03b-pricing-paid-stripe.png)
 
@@ -159,13 +172,124 @@ The webinar is created and opens in the **[registration page builder](https://ma
 > Creating the webinar does not publish it. Your registration page goes live only when you click **Publish**. Use **Preview** to check it and **Save** to keep a draft.
 
 
-## Limits and variations {#limits-and-variations}
+## What a live webinar is {#what-it-is}
 
-- **The type is fixed.** [Clone the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) and choose another type on the copy.
-- **A live webinar runs at one fixed time** in the timezone you set.
-- **A weekly webinar runs until you stop it.**
-- **Registrants see the next session only** unless you change the schedule preference.
+A live webinar is a session you present in real time. Attendees join at the scheduled moment, and chat and questions happen as they happen. Live is one of three webinar types; simulive and evergreen play a recording instead. The schedule you set here decides when registrants can attend, and the registration page is where they sign up for it.
+
+## Why scheduling a live webinar matters {#why-it-matters}
+
+### What it's for {#what-its-for}
+
+A live webinar suits sessions where your presence is the point: a launch, a workshop or a class with real questions. Creating it fixes the date, time and timezone that people sign up for.
+
+### How it helps {#how-it-helps}
+
+- **Many sittings, one page.** **Add Session**, **Daily** and **Weekly** keep repeat sessions under a single registration page.
+- **Holidays stay free.** **Blackout Dates** skip chosen days without ending a weekly run.
+- **Payment at sign-up.** With **Paid** selected, people complete a Stripe checkout before they are registered.
+- **No accidental launch.** The registration page stays private until you click **Publish**.
+
+### What happens without it {#without-it}
+
+Without a scheduled live session, your audience has no fixed moment to turn up. Promotion has no date to point at, so interest fades before anyone joins. You also lose the chance to answer questions while people are still deciding.
+
+### Why buyers care {#why-buyers-care}
+
+It matters most to trainers, educators and sales teams whose value comes from talking with people in real time. The key moment is the week before a session, when people decide whether to register and keep the date free.
+
+## The EasyWebinar approach to live webinar scheduling {#approach}
+
+{/* 5P */}
+
+Take a typical case. A real-estate training company with three instructors runs a live exam review for about 80 trainee agents. It meets on Tuesday and Thursday evenings for the eight weeks before each licensing exam, and it pauses on public holidays.
+
+A common approach is to set up a separate event for every evening, which can mean sixteen events per course. Each one may need its own sign-up link, so trainees often juggle a list of links. When a holiday moves a class, someone usually has to rebuild that night by hand.
+
+The review is the same course with the same instructors every evening. What changes is only the calendar. So one webinar with a repeating schedule fits the course far better than sixteen separate ones, as long as the gaps can be marked.
+
+EasyWebinar handles this as a single live webinar. The team picks **Weekly**, ticks Tuesday and Thursday, and sets the course dates as the **Start Date** and **End Date (Optional)**. Holidays go in as **Blackout Dates**, and every trainee signs up on the same registration page.
+
+The weekly controls are easy to spot. With **Weekly** selected, the schedule step shows **Days of week**, **Session Time** with **Add Time**, and **Blackout Dates**. How this scheduling stacks up against other live webinar tools is covered in How live webinars compare, below.
+
+## How live webinars work with other features {#works-with}
+
+### Registration page {#with-registration-page}
+
+The webinar opens straight into the registration page builder with your schedule applied. Edit the page, add form fields and publish it there. The [registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/) put the same form on your own site.
+
+### Reminder emails {#with-reminders}
+
+Reminder timing is relative to the webinar, not a fixed clock time, so it follows a recurring schedule. Set reminders on the **Notifications** tab; see [reminder emails for each session](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
+
+### The Overview tab {#with-overview}
+
+After the webinar exists, its **Overview** tab holds the schedule. The options menu on **Scheduling Options** changes the whole schedule, and the menu on a session row acts on one sitting. Click **Share** for the **Registration Page Link** you promote, or use the [sharing links guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/).
+
+### Cloning {#with-cloning}
+
+The type is fixed once the webinar exists. To reuse a live webinar as simulive or evergreen, [clone it and choose the new type](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) on the copy.
+
+### Engagement in the room {#with-engagement}
+
+[Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/), [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [questions from attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/) are set up on the webinar's tabs after you create it, ready for the session itself.
+
+## Who uses live webinars, and how {#who-uses-it}
+
+These are typical patterns, shown to illustrate how live scheduling fits different teams.
+
+### Training and education providers {#training-providers}
+
+A training provider runs the same class on set weekdays through a term. A **Weekly** schedule with an end date covers the term, and **Blackout Dates** cover the breaks.
+
+### B2B marketing teams {#b2b-marketing}
+
+A [marketing team](https://easywebinar.com/solutions/marketing-teams/) presents a quarterly product briefing at one fixed time. It offers a second sitting with **Add Session** for prospects in other regions.
+
+### Consultants selling a masterclass {#consultants}
+
+A consultant charges for a live masterclass by choosing **Paid** on the pricing step. Buyers complete a Stripe checkout before their registration goes through.
+
+### Coaches running open office hours {#coaches}
+
+A coach holds free weekly office hours with **No end date**. Registrants see only the next session unless the coach changes **Schedule Preferences**.
+
+## How live webinars compare {#compare}
+
+EasyWebinar builds live, simulive and evergreen webinars from one create dialog. A live webinar can repeat on a **Weekly** schedule and charge at sign-up through a Stripe checkout. EasyWebinar is the only platform in this table that does all three.
+
+Live webinar set-up, from each platform's public documentation:
+
+| Platform | Live and recorded webinars in one product | Weekly recurring live sessions | Paid registration with built-in checkout |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Yes | Yes | Via Zapier |
+| **Livestorm** | Yes | Partly (one session per click) | Via another app |
+| **WebinarJam** | Separate product (EverWebinar) | Yes | Third-party checkout |
+| **WebinarKit** | Partly (depends on plan) | Yes | Yes (through Whop) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for live webinar scheduling {#compare-stronger}
+
+- **Charging is part of the builder.** Choosing **Paid** in EasyWebinar sends registrants to a Stripe checkout. Demio's help centre says it has no native paid webinar feature and points to Zapier. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **A whole term in one schedule.** EasyWebinar's **Weekly** option sets days, an end date and blackout days at once. In Livestorm, each **Add session** click adds one session a week later. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Live and recorded in one account.** EasyWebinar offers **Live Webinar**, **Simulive Webinar** and **Evergreen Webinar** in the same dialog. WebinarJam runs recorded webinars in its sister product, EverWebinar. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No plan gate on the type.** Every EasyWebinar plan includes this builder. WebinarKit's help centre says live and automated creation depend on your plan. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
+
+## Limits and things to know {#limits}
+
+- **The type is fixed.** Clone the webinar and choose another type on the copy.
+- **Choose Paid when you create the webinar.** If you switch an existing free webinar to paid, its registration page keeps the free form.
+- **You can't schedule a session in the past.**
 - **Registrant numbers depend on your plan.** [Attendee and registration limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) differ between [EasyWebinar's plans](https://easywebinar.com/pricing/); the features on this page are available on all plans.
+
+### Schedule variations {#limits-and-variations}
+
+- **A live webinar runs at one fixed time** in the timezone you set.
+- **A weekly webinar runs until you stop it**, unless you set an end date.
+- **Registrants see the next session only** unless you change the schedule preference.
 
 ## Common questions {#common-questions}
 
@@ -187,16 +311,36 @@ No. It becomes public only when you click **Publish**.
 
 #### What's the difference between live, simulive and evergreen? {#faq-types}
 
-Live broadcasts in real time. [Simulive](https://easywebinar.com/simulive-webinars/) plays pre-recorded content at scheduled times, with attendees registering for specific dates. [Evergreen](https://easywebinar.com/evergreen-webinars/) makes pre-recorded content available 24/7, with viewers watching on their own schedule. For help choosing, the guide to [live, automated and evergreen webinars](https://easywebinar.com/blog/live-vs-automated-webinars/) sets out when each one suits.
+Live broadcasts in real time. [Simulive](https://easywebinar.com/simulive-webinars/) plays pre-recorded content at scheduled times, with attendees registering for specific dates. [Evergreen](https://easywebinar.com/evergreen-webinars/) makes pre-recorded content available 24/7, with viewers watching on their own schedule.
 
 #### How do I stop a recurring webinar from running on a holiday? {#faq-holiday}
 
 Use **Blackout Dates** on the schedule step to list the dates the webinar should skip.
 
-## Next steps {#next-steps}
+#### What timezone do my attendees see? {#faq-timezone}
+
+The one you set for the webinar. A live session runs at one fixed time for everyone, and the registration page shows that time with its timezone.
+
+#### Can I schedule a webinar in the past? {#faq-past}
+
+No. Past dates are disabled in the date picker.
+
+#### Do I have to pick a registration template now? {#faq-template}
+
+No. The button reads **Skip & Create Webinar** when nothing is selected, and you can choose a template later.
+
+#### How do I charge for a live webinar? {#faq-charge}
+
+Choose **Paid** on the pricing step and connect a Stripe account. You can also sell a **Live + Replay bundle** that includes the recording.
+
+## Related {#related}
+
+Pages for what comes after the webinar exists.
+
+### Next steps {#next-steps}
 
 - [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): what to do in the room when your scheduled session starts.
 - [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options): change the schedule for the whole webinar, or act on a single session, after it exists.
-- [Webinar reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/): bring registrants back for the date and time you set.
 - [Offers and the countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): put a call to action in front of the room while you present.
 - [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send registrants into your CRM as they sign up.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): see registrations, attendance and revenue once sessions have run.

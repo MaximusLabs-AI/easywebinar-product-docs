@@ -9,6 +9,18 @@ Find, add and manage the videos, webinar recordings, images and documents your w
 
 Use the **Library** to find and manage everything your webinars play or display: videos you uploaded or imported, recordings of sessions you have already run, images for your pages, and documents. When you're done, you'll know where each item lives, whether it is using your storage allowance, and how to put a video or recording to work in a [simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video) or [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#choose-video).
 
+## At a glance {#at-a-glance}
+
+| | |
+|---|---|
+| **Where it is** | **Library** in the main sidebar |
+| **Tabs** | **Videos**, **Recordings**, **Images** and **Files** |
+| **Adding media** | **Add Media**, with **Local import** or **Import from URL** |
+| **Where a video lives** | The badge on each card: **EasyWebinar**, or the platform's own logo |
+| **Storage** | Shown at the top of every tab. Only EasyWebinar-hosted files count |
+| **Recordings** | Live sessions land on **Recordings** automatically when recording is on |
+| **Reuse** | Pick any video or recording on the **Video Selection** step of a simulive or evergreen webinar |
+
 ## Before you begin {#before-you-begin}
 
 - **Find it in the sidebar.** The Library sits in the main sidebar, alongside **My Webinars**, **Create with AI** and **Integrations**. It isn't inside a single webinar, so anything you add can be reused across your webinars.
@@ -95,26 +107,51 @@ Changing the video doesn't affect the webinar's schedule, pages or registrations
 - **A new document** appears on the **Files** tab with its name, upload date and page count.
 - **A library video in use** shows in the **Webinar Video** panel on that webinar's **Content** tab.
 
+## What the Library is {#what-it-is}
+
+The Library is the account-wide store for everything you upload or record. Simulive and evergreen webinars get their content from it, finished live sessions end up in it, and your storage allowance is spent there.
+
+| Question | Library answer |
+|---|---|
+| Is it per webinar? | No. It sits in the sidebar, so anything in it can be reused on any webinar |
+| What does it hold? | Videos, recordings of past webinars, images and documents |
+| What uses storage? | Only files uploaded to EasyWebinar. Imported links use none |
+| How do recordings get there? | Automatically, after a live session with recording on |
+
 ## Why the Library matters {#why-it-matters}
 
 ### What it's for {#what-its-for}
 
-The Library is the shared store behind your webinars. It is where [simulive and evergreen webinars get their content](https://easywebinar.com/automated-webinars/), where finished live sessions end up, and where your storage allowance is spent. Keeping it in one place means a video added once can be used by any webinar that needs it.
+The Library is the shared store behind your webinars. It is where [simulive and evergreen webinars get their content](https://easywebinar.com/automated-webinars/), and where finished live sessions end up. A video added once can be used by any webinar that needs it.
 
 ### How it helps {#how-it-helps}
 
-- **One place for every recording.** Live sessions with recording on land in **Recordings** without any exporting or uploading.
-- **Live sessions become [reusable content](https://easywebinar.com/blog/repurposing-webinar-content-for-maximum-reach/).** A recording can be picked as the video for a simulive or evergreen webinar.
-- **Storage is visible.** The allowance at the top of each tab, and the badge on each video, show what is and isn't using it.
-- **Safer deletions.** The host badge tells you whether a video depends on another platform before you remove anything.
+- **One place for every recording.** Live sessions with recording on land in **Recordings**, with no exporting or uploading.
+- **Live sessions become [reusable content](https://easywebinar.com/blog/repurposing-webinar-content-for-maximum-reach/).** You can pick a recording as the video for a simulive or evergreen webinar.
+- **Storage is visible.** The figure at the top of each tab, and the badge on each video, show what uses your allowance.
+- **Safer deletions.** The badge tells you whether a video depends on another platform before you remove anything.
 
 ### What happens without it {#without-it}
 
-Without a shared library, every recorded webinar would need its video uploaded again, and recordings of live sessions would have to be downloaded and re-added before you could reuse them. It would also be harder to tell which videos sit on YouTube or another platform, which is how a webinar ends up playing a video someone has since deleted elsewhere.
+Without a shared library, each recorded webinar needs its video added again. Recordings of live sessions sit apart from the webinars that could reuse them. It also gets harder to see which videos depend on an outside platform.
 
 ### Why buyers care {#why-buyers-care}
 
-Teams that plan to [run recorded webinars](https://easywebinar.com/blog/pre-recorded-webinar-platforms-vs-live/) want to know where the video lives, whether they need a separate video host, and how storage is counted. In EasyWebinar the answers sit in one screen: EasyWebinar can host the file itself, imported links use no storage, and live recordings arrive in the same place ready to reuse.
+It matters most to teams that [run recorded webinars](https://easywebinar.com/blog/pre-recorded-webinar-platforms-vs-live/) and train or sell with the same content again and again. The question tends to come up once the first few sessions are recorded and someone asks where they all went.
+
+## The EasyWebinar approach to the Library {#approach}
+
+{/* 5P */}
+
+Take a typical case. The operations team at a franchise with 40 bakery outlets runs a live training session each month for new store managers. It covers opening checks, food safety and the till system. Managers who join later need the same training, usually in their first week.
+
+The usual workaround is to download the recording from a meeting tool, upload it to a shared drive and email the link around. That can work, but copies end up in several places and nobody is quite sure which one is current. A link held in one person's account may stop working when they leave.
+
+What changed is that the training became a standing library rather than a one-off event. New managers start every month, so the recordings have to be easy to find and reuse, not just stored somewhere.
+
+EasyWebinar keeps recordings, uploads and documents in one Library for the whole account. EasyWebinar saves each recorded live session to the **Recordings** tab, named after its webinar, with its duration and date. The team can then pick that recording as the video for an evergreen webinar, so each new manager registers and watches in their first week.
+
+One fact is easy to check. Start a simulive or evergreen webinar, and the **Video Selection** step lists your past live sessions under **Recordings**. That reuse is one of the capabilities covered in How the Library compares, below.
 
 ## How it works with other features {#works-with}
 
@@ -161,6 +198,31 @@ An agency managing webinars that play videos from a client's YouTube channel che
 ### Customer success teams {#customer-success}
 
 A customer success team keeps its product FAQ and onboarding guides on the **Files** tab as the AI Moderator's knowledge base (Beta), so questions on an unattended [evergreen onboarding webinar](https://easywebinar.com/use-cases/onboard-train-customers/) can be answered from the team's own documents.
+
+## How the Library compares {#compare}
+
+EasyWebinar records your live sessions into the same Library that holds your uploads and imported links. Any of those recordings can then become the video for a simulive or evergreen webinar.
+
+Library and recording features, from each platform's public documentation:
+
+| Platform | Live sessions recorded automatically | Recordings reused as an automated webinar's video | Uploads and imported links in one library |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Yes | Yes | Not in docs |
+| **WebinarKit** | Yes (live webinars) | Yes | Partly (uploads depend on plan) |
+| **eWebinar** | Not in docs | Partly (Zoom cloud recordings) | Yes |
+| **WebinarNinja** | Yes | Yes | Partly (only YouTube documented) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for the Library {#compare-stronger}
+
+- **Recordings sit next to your videos.** In EasyWebinar, **Recordings** is a Library tab beside **Videos**, and it appears in the video picker too. Demio's help centre sends you to the **Schedule** page, filtered to **All Past**, to reach recordings. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Your own live sessions, kept.** EasyWebinar saves recordings of your live webinars straight into the Library. eWebinar imports cloud recordings from a connected Zoom account, and notes that Zoom only surfaces recordings under a month old. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Larger uploads.** EasyWebinar takes video uploads up to **4 GB** per file. WebinarNinja's help centre lists a 2 GB limit for its video files. See [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
+- **Uploads and links side by side.** **Add Media** offers **Local import** and **Import from URL** on every tab. WebinarKit says direct uploads apply if your plan includes them. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

@@ -39,22 +39,36 @@ The links fall into three kinds. **Audience links** (registration, one-click reg
 
 ### What it's for {#what-its-for}
 
-A webinar has more than one audience: people you want to register, people already registered, people who missed it, and the people helping you run it. The Share dialog gives each of them the right door in, from one screen.
+A webinar has several audiences at once. Some people still need to register, some are already registered, and some missed the session. Others are helping you run it. The Share dialog gives each group its own way in, from one screen.
 
 ### How it helps {#how-it-helps}
 
-- **No hunting for links.** Every link for the webinar is in one dialog, a click from the Overview.
-- **Guests don't need accounts.** A co-presenter or moderator can join with a link, without an EasyWebinar login.
-- **Known contacts skip the form.** The **One-Click Registration Link** registers someone you already have details for without asking them to type them again.
-- **Shorter links when you need them.** **Shorten URL's** makes links easier to put in a post or a text.
+- **No hunting for links.** Every link for the webinar sits in one dialog, a click from the Overview.
+- **Guests don't need accounts.** A co-presenter or moderator joins with a link, without an EasyWebinar login.
+- **Known contacts skip the form.** The **One-Click Registration Link** registers someone whose details you already hold.
+- **Shorter links when you need them.** **Shorten URL's** makes links easier to fit in a post or a text.
 
 ### What happens without it {#without-it}
 
-Without role-specific links, the only way to bring a guest speaker into the room is to give them access to your account. And without a one-click link, every contact you invite from your own list has to retype details you already hold, which is a reason for some of them not to bother.
+Without role links, the only way to bring a guest speaker into the room is to give them access to your account. Without a one-click link, every contact you invite from your own list retypes details you already hold. Some of them won't bother, and those registrations are lost.
 
 ### Why buyers care {#why-buyers-care}
 
-Teams that run webinars with guest speakers, moderators and existing customer lists need to give each person the right access quickly and safely. Buyers check whether presenters can join without their own seat on the account, whether existing contacts can register without friction, and whether the replay can be shared as easily as the webinar.
+This matters most to teams that bring outside speakers onto their webinars and promote to lists they already own. It shows up in the week before a session, when links go out to speakers, moderators, customers and the wider audience at once.
+
+## The EasyWebinar approach to sharing links {#approach}
+
+{/* 5P */}
+
+Take a typical case. A podcast network with six shows hosts a monthly live webinar where a guest from one show gives a talk. The network's producer runs the session and a show host interviews the guest. Promotion goes out on every show's feed and newsletter, and the guest has never used the network's webinar account.
+
+A common workaround is to send the guest a shared login, or a link that drops them straight in front of the audience. That can mean passwords passed around and a guest testing their microphone in public. Long registration URLs in show notes are also awkward to read aloud or retype.
+
+The guest doesn't need an account; they need a way into the room for one evening. Listeners don't need a different page; they need a link short enough for show notes. Newsletter subscribers the network already knows shouldn't have to fill in a form again.
+
+EasyWebinar puts each of those links in the webinar's **Share** dialog. The producer sends the guest the **Co-presenter Join Link** and a colleague the **Moderator Join Link for Live room**. Both join without a login and wait backstage until they're brought on. The producer turns on **Shorten URL's** for the show notes and emails the **One-Click Registration Link** to subscribers.
+
+The screenshot under Open the Share dialog shows the co-presenter, moderator and one-click registration links in a single list. How other platforms handle presenter links, one-click registration and short links is covered in How sharing links compare, below.
 
 ## Open the Share dialog {#open-share-dialog}
 
@@ -160,6 +174,30 @@ A [customer success team](https://easywebinar.com/solutions/customer-success-tea
 ### Course creators {#course-creators}
 
 A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#the-replay) sends no-shows the [replay link](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/) in a **Webinar Follow-up** after the session, and maps the join link into their email tool so [reminders come from their own system](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-crm).
+
+## How sharing links compare {#compare}
+
+EasyWebinar puts one-click registration, join links for co-presenters and moderators, and a toggle for shorter links in the same Share dialog. EasyWebinar is the only platform in this table that does all three.
+
+Sharing link features, from each platform's public documentation:
+
+| Platform | One-click registration link | Join links for presenters and moderators | Shorter versions of your links |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Yes | Yes (no Demio account needed) | Not in docs |
+| **WebinarJam and EverWebinar** | Yes | Yes (two links each) | Not in docs |
+| **WebinarKit** | Yes | Not in docs | Partly (text message keyword) |
+| **eWebinar** | Yes (instant join links) | Not in docs | Not in docs |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for sharing links {#compare-stronger}
+
+- **Shorter links from the Share dialog.** EasyWebinar's **Shorten URL's** toggle gives you shorter versions of the webinar's links. WebinarJam's help centre doesn't document a link shortener, as the [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) comparison shows.
+- **Short links for any channel.** EasyWebinar's shorter links work in posts, emails and show notes alike. WebinarKit documents its short link as a keyword for its text messages, covered in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Guest speakers and moderators by link.** EasyWebinar's **Co-presenter Join Link** and **Moderator Join Link for Live room** let people join without an account. eWebinar's help centre doesn't document presenter or moderator join links, as [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) sets out.
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

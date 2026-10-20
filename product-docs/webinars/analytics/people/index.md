@@ -32,22 +32,36 @@ That changes what you can do after a session. Instead of knowing that a large sh
 
 ### What it's for {#what-its-for}
 
-People is the follow-up list. It turns webinar behaviour into [segments you can act on](https://easywebinar.com/blog/email-segmentation-for-webinar-follow-ups/): no-shows to send the replay to, engaged viewers to invite to a call, campaigns that brought attendees rather than just sign-ups.
+People is the follow-up list. It turns webinar behaviour into [segments you can act on](https://easywebinar.com/blog/email-segmentation-for-webinar-follow-ups/). Think of no-shows to send the replay to, or engaged viewers to invite to a call. It also shows which campaigns brought attendees rather than just sign-ups.
 
 ### How it helps {#how-it-helps}
 
 - **It shows behaviour, not just registration.** **Watch percentage**, **Replay watch percentage** and **Offer clicked** separate interested people from casual sign-ups.
 - **It ranks engagement for you.** **Lead score** rates how engaged each person was, which makes a long list quick to sort.
-- **It attributes campaigns to attendance.** With UTM capture on, **Source & UTM** shows which campaign produced people who actually watched.
+- **It ties campaigns to attendance.** With UTM capture on, **Source & UTM** shows which campaign produced people who actually watched.
 - **It exports segments, not everything.** **Export** downloads the filtered list, so the work the filters did comes with it.
 
 ### What happens without it {#without-it}
 
-Without a behaviour-level list, every registrant gets the [same follow-up](https://easywebinar.com/features/webinar-follow-up/). The person who watched to the end and clicked your offer receives the same "sorry we missed you" email as someone who never turned up, and the people closest to buying are treated like everyone else.
+Without a behaviour-level list, every registrant gets the [same follow-up](https://easywebinar.com/features/webinar-follow-up/). The person who watched to the end and clicked your offer gets the same email as someone who never turned up. The people closest to buying are treated like everyone else.
 
 ### Why buyers care {#why-buyers-care}
 
-Webinars are usually run to produce leads or sales, so what matters afterwards is who to contact and in what order. Buyers look for [per-person engagement data](https://easywebinar.com/blog/webinar-crm/), campaign attribution and a clean export, because that's what connects a webinar to a sales or marketing follow-up.
+The People view matters to whoever owns the follow-up after a webinar, whether that's sales, marketing or a solo host. It matters most in the first day or two after a session, when [per-person engagement data](https://easywebinar.com/blog/webinar-crm/) decides who gets a call first.
+
+## The EasyWebinar approach to the People view {#approach}
+
+{/* 5P */}
+
+Take a typical case. An independent insurance agency with a six-person sales team runs a fortnightly live webinar on choosing life cover for young families. About 180 people register through social ads and a partner newsletter. Each session ends with an offer to book a quote call.
+
+A common workaround is to download the full registrant list after each session and split it between agents alphabetically. Every name then gets the same call, in the same order. Warm prospects may wait behind people who never turned up, and nobody can say which channel produced the viewers.
+
+The session doesn't need to change. What changes is the order of the calls. Someone who watched most of the webinar and clicked the offer should hear from an agent first. The ad budget should follow the channel that brought them.
+
+EasyWebinar handles this in the **People** view. The team filters **Behavior** for high watch time and offer clicks, then adds **Source & UTM** to see which campaign each person came from. **Lead score** sorts the result, and **Export** hands the filtered list to the agents.
+
+The screenshot under Filter the list shows the six filter categories, from **Webinar** to **Device & Location**, with **Apply Filter** marked. How other platforms handle people lists, filters and exports is covered in How the People view compares, below.
 
 ## Use the People view {#use-it}
 
@@ -165,6 +179,31 @@ A [customer success team](https://easywebinar.com/solutions/customer-success-tea
 ### Agencies {#agencies}
 
 An [agency running webinars for a client](https://easywebinar.com/solutions/marketing-agencies/) filters by **Webinar**, exports the attendees with their **Lead score** and **Offer clicked** columns, and hands the file to the client's sales team, who don't use EasyWebinar.
+
+## How the People view compares {#compare}
+
+EasyWebinar puts everyone from every webinar in one table, filters it by what people did and which campaign brought them, and exports exactly the filtered list. EasyWebinar is the only platform in this table that does all four.
+
+People list features, from each platform's public documentation:
+
+| Platform | One list across every webinar | Filter by watch time and offer clicks | Campaign source (UTM) per person | Export the filtered list |
+|---|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **Demio** | Partly (inside each event's activity) | Partly (attended or no-show) | Yes (UTM data in registrant export) | Yes (CSV by email) |
+| **Livestorm** | Yes (People page export) | Partly (filter by session) | Partly (source, medium and campaign) | Yes (current view) |
+| **WebinarJam and EverWebinar** | Yes (registrants from all events) | Partly (attended, replay or purchase) | Partly (through an API call) | Yes |
+| **eWebinar** | Yes (with Universal Dashboard) | Not in docs | Yes (tracked per registrant) | Yes (filtered date range) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for the People view {#compare-stronger}
+
+- **Filters on how people watched.** EasyWebinar's **Behavior** filter covers attendance, watch time and offer clicks. WebinarJam's registrant filter covers who attended, watched the replay or made a purchase. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **One table for every webinar.** **People** sits in the sidebar and spans all your webinars. Demio's People section sits under each event's activity. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Every UTM value you capture.** **Source & UTM** filters the table by the campaign that brought each person. Livestorm's registrant export says utm_term and utm_content are not exported. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Watch time as a filter.** EasyWebinar filters people by watch time and offer clicks. eWebinar's help centre doesn't describe filtering people by watch time. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

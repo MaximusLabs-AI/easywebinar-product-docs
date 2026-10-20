@@ -41,7 +41,7 @@ You can also restyle the form's submit button from the same place.
 
 ### What it's for {#what-its-for}
 
-Custom fields let the registration form collect what your [follow-up actually needs](https://easywebinar.com/features/webinar-follow-up/). A phone number for [text reminders](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#sms-whatsapp), a question that tells you who is in the audience, a record of consent for marketing, and the campaign each person came from.
+Custom fields let the registration form collect what your [follow-up actually needs](https://easywebinar.com/features/webinar-follow-up/). That might be a phone number for [text reminders](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#sms-whatsapp) or a question about who is attending. It might also be consent, or the campaign each person came from.
 
 ### How it helps {#how-it-helps}
 
@@ -53,11 +53,25 @@ Custom fields let the registration form collect what your [follow-up actually ne
 
 ### What happens without it {#without-it}
 
-With only name and email, you know how many people registered but very little else. You can't text anyone, and you can't tell which ad, email or post sent them. UTM capture is the option people most often miss: without it, the registration count goes up and the reason why is lost.
+With only name and email, you know how many people registered but little else. You can't text anyone, and you can't tell which ad, email or post sent them. The registration count goes up, and the reason why is lost.
 
 ### Why buyers care {#why-buyers-care}
 
-For teams that run webinars to [generate leads](https://easywebinar.com/use-cases/generate-leads/) or sell, the registration form is where first-party data starts. Buyers check whether they can add their own questions, collect phone numbers for reminders, ask for consent on the form itself, and attribute each registrant to a campaign without a separate tool.
+For teams that run webinars to [generate leads](https://easywebinar.com/use-cases/generate-leads/) or sell, the registration form is where first-party data starts. It matters most to whoever follows up, in the first days after a session. That's when a role, a phone number or a campaign tag decides who hears from you first.
+
+## The EasyWebinar approach to custom fields {#approach}
+
+{/* 5P */}
+
+Take a typical case. A five-person cybersecurity consultancy runs a quarterly live briefing on ransomware readiness for IT managers at mid-sized firms. It wants each registrant's role and company size, so its two consultants follow up with the right people. It also needs consent before any marketing email goes out.
+
+A common route is to collect the extra details in a separate form tool, then match those answers to the webinar's registrant list by hand. That can work for a small list. But the matching probably eats an afternoon each quarter, and consent records can end up split across two systems.
+
+The person signing up is the person answering the questions. So it makes sense to ask everything in one form, at the moment they register. Then the answers, the consent and the campaign all stay on the same record.
+
+EasyWebinar puts those options on the registration form block itself. EasyWebinar lets you add custom fields and a **Phone** field, turn on **GDPR Compliance** with your own wording, and turn on **UTM Params**. What people enter then shows up in the **People** view, ready to filter and export.
+
+Select the form block in the page builder and look at the settings panel. **GDPR Compliance** and **UTM Params** sit there alongside the fields themselves. How that setup sits against other platforms is covered in How custom fields compare, below.
 
 ## Set up the registration form {#set-up-the-form}
 
@@ -174,6 +188,32 @@ A coach adds the **Phone** field so the final reminder can go by text (Beta), an
 ### Agencies {#agencies}
 
 An agency [running webinars for clients](https://easywebinar.com/solutions/marketing-agencies/) sets the consent wording to each client's own policy and exports the filtered registrant list for the client after each session.
+
+## How custom fields compare {#compare}
+
+EasyWebinar keeps your own questions, a consent checkbox and campaign capture together on one form block. Its **Phone** field also feeds SMS reminders (Beta), sent from an EasyWebinar number. EasyWebinar is the only platform in this table that does all four.
+
+Registration form features, from each platform's public documentation:
+
+| Platform | Your own questions on the form | Consent checkbox on the form | Campaign (UTM) capture per registrant | SMS reminders to the form's phone number (Beta) |
+|---|---|---|---|---|
+| EasyWebinar | Yes | Yes | Yes | Yes |
+| Demio | Yes | Partly (account setting adds a default) | Yes | Partly (through a Zapier workaround) |
+| WebinarJam | Yes | Yes (terms agreement checkbox) | Yes | Partly (needs your own Twilio account) |
+| eWebinar | Yes | Yes | Partly (captured through widgets) | Partly (through a Twilio integration) |
+| Livestorm | Yes | Yes (custom consents) | Yes | Not in docs |
+| StealthSeminar | Yes | Partly (one setting for all forms) | Yes | Yes |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for custom fields {#compare-stronger}
+
+- **Consent is set on the form you're editing.** EasyWebinar's **GDPR Compliance** switch sits on the form block, with your own wording. Demio adds a default GDPR checkbox through an account setting. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Consent can differ from one webinar to the next.** StealthSeminar's GDPR option shows one consent checkbox on all its registration forms. Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Campaign capture is a switch on the hosted form.** EasyWebinar's **UTM Params** records the campaign behind each registration, while eWebinar describes UTM capture as a job for its widgets. More in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Text reminders need no SMS account of your own.** EasyWebinar's SMS reminders (Beta) come from an EasyWebinar number, while WebinarJam asks you to connect your own Twilio account. Read [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

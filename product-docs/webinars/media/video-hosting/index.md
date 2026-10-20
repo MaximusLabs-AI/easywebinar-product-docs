@@ -37,23 +37,37 @@ Live webinars don't need either. You supply their content by presenting, and rec
 
 ### What it's for {#what-its-for}
 
-Hosting is what lets a recorded webinar run. Simulive webinars play the video at times you set, and evergreen webinars play it whenever a registrant's session comes round. Neither works until the video is in the library.
+Hosting is what lets a recorded webinar run. Simulive webinars play the video at times you set. Evergreen webinars play it whenever a registrant's session comes round, and neither works until the video is in the library.
 
 ### How it helps {#how-it-helps}
 
-- **No separate video host to set up.** **Local import** means a recorded webinar can run with nothing outside EasyWebinar.
-- **Private videos stay private.** A webinar recording you don't want public can be hosted on EasyWebinar instead of a public platform.
+- **No extra video host.** With **Local import**, a recorded webinar runs with nothing outside EasyWebinar.
+- **Private videos stay private.** A recording you don't want public can live on EasyWebinar, not on a public site.
 - **Existing videos work as they are.** If the video is already on YouTube, Vimeo or Wistia, you import the link and use no storage.
-- **One library, many webinars.** A video added once can be reused across webinars.
-- **Easy to swap.** The **Webinar Video** panel changes a webinar's video without touching its schedule, pages or registrations.
+- **One library, many webinars.** You add a video once and reuse it on other webinars.
+- **Easy to swap.** The **Webinar Video** panel changes the video without touching the schedule, pages or registrations.
 
 ### What happens without it {#without-it}
 
-Without built-in hosting, every recorded webinar would depend on another platform: an account to manage, privacy settings to get right, and a video that anyone with access to that channel could remove. A YouTube video is still a YouTube video, discoverable unless you've unlisted it. Hosting on EasyWebinar keeps the recording and the webinar in one place.
+Without a video in place, a simulive or evergreen webinar has nothing to play. Registrants turn up at their session and there is no class to watch. Every webinar you meant to run on its own waits on a file.
 
 ### Why buyers care {#why-buyers-care}
 
-[Teams moving to automated webinars](https://easywebinar.com/blog/live-vs-automated-webinars/) want to know whether they need a video host as well as a webinar platform. In EasyWebinar they don't: uploads are hosted directly, and importing from YouTube, Vimeo or Wistia is an option rather than a requirement. Buyers also check file formats and size limits before recording, and how storage is counted when a library grows.
+It matters most to people who teach or sell through [automated webinars](https://easywebinar.com/blog/live-vs-automated-webinars/), such as trainers and course creators. The question comes up early, usually before the first recording is made, because it decides where the file will live.
+
+## The EasyWebinar approach to video hosting {#approach}
+
+{/* 5P */}
+
+Take a typical case. A cooking instructor films a 45-minute sourdough class in her home kitchen. She wants it to run as an evergreen webinar for the 2,000 people on her newsletter, ending with a link to her paid six-week course. The class is part of what she sells, so she doesn't want it sitting free on a public channel.
+
+The usual workaround is to upload the class to a public video site as an unlisted video, then paste the link into a webinar tool. That can work, but unlisted links may be shared onwards, and the class now depends on a second account. If the video is removed there, the webinar may stop playing.
+
+What changed is the role of the recording. Once the class is the thing you sell, where the file sits matters as much as the webinar around it. Keeping the two together removes one account to manage and one place for things to break.
+
+EasyWebinar hosts the video itself. EasyWebinar lets her upload the file with **Local import**, then stores and serves it the way Vimeo or Wistia would. EasyWebinar reads the length from the file, so she has no duration to type, and the class sits in her Library ready for any webinar.
+
+One fact is easy to check. On the **Videos** tab of the Library, each card carries a badge, and **EasyWebinar** means the file is stored here. That built-in hosting is one of the capabilities covered in How video hosting compares, below.
 
 ## Host a video on EasyWebinar {#host-on-easywebinar}
 
@@ -177,6 +191,31 @@ An agency builds automated webinars from videos its clients keep on Vimeo or Wis
 ### Small businesses and solo operators {#small-businesses}
 
 A solo consultant without a video platform account [records a training](https://easywebinar.com/blog/record-a-webinar-technical-setup-guide/), uploads it with **Local import**, and runs it as a simulive webinar. Nothing outside EasyWebinar is needed.
+
+## How video hosting compares {#compare}
+
+EasyWebinar hosts your uploads itself, imports links from YouTube, Vimeo and Wistia, and keeps recordings of your live webinars ready to reuse. EasyWebinar is the only platform in this table that does all three.
+
+Video sources for recorded webinars, from each platform's public documentation:
+
+| Platform | Upload and host the video itself | Import from YouTube, Vimeo or Wistia | Reuse recordings of past live webinars |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **EverWebinar** | External video required | Partly (YouTube, Vimeo, MP4 links) | Yes (past WebinarJam sessions) |
+| **eWebinar** | Yes (re-hosted through Vimeo) | Yes | Partly (Zoom cloud recordings) |
+| **WebinarKit** | Partly (on Pro plans) | Partly (YouTube and direct Vimeo links) | Yes |
+| **Demio** | Yes (up to 5 GB) | Partly (registration page video only) | Yes |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for video hosting {#compare-stronger}
+
+- **Hosting comes with the webinar.** **Local import** uploads the file and EasyWebinar serves it. EverWebinar's help centre lists an external video as required for its primary video source. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
+- **Wistia links work as well.** EasyWebinar imports from **YouTube**, **Vimeo**, **Wistia** or a direct **MP4 link**. WebinarKit's help asks for direct Vimeo file links rather than regular Vimeo links, and its built-in hosting is a Pro feature. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Your own live sessions, ready to reuse.** Recordings of your live webinars land in **Library → Recordings** and appear in the video picker. eWebinar's import route lists recent cloud recordings from a connected Zoom account. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The webinar video itself, from a link.** In EasyWebinar, an imported link becomes the video your sessions play. Demio's docs describe YouTube, Vimeo and Wistia URLs for the registration page video. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

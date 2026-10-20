@@ -43,23 +43,36 @@ An offer is not the same as [charging for the webinar itself](https://easywebina
 
 ### What it's for {#what-its-for}
 
-Most selling webinars build towards one moment: the pitch. An offer is what attendees can [act on at that moment](https://easywebinar.com/blog/how-to-motivate-your-audience-to-take-action/), a single button on screen pointing at exactly the next step, instead of a URL read out loud.
+An offer turns your pitch into something attendees can act on. It puts one button on screen at the moment you ask, pointing at the exact next step. Nobody has to remember a web address or hunt for it later.
 
 ### How it helps {#how-it-helps}
 
-- **Action is one click away.** Attendees click the button while interest is high, without leaving to search for a link.
-- **The same offer [sells after the session](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/).** With a **Webinar Replica** replay, the offer appears on the recording too.
-- **It works when you're not there.** On simulive and evergreen webinars the offer card carries the pitch, and a countdown can carry the deadline.
-- **You can see where it loses people.** Separate numbers for views, clicks and purchases show whether the problem is the offer or the checkout.
-- **Clicks become follow-up.** People who clicked can get [their own emails](https://easywebinar.com/features/webinar-follow-up/) and their own CRM tag.
+- **Action is one click away.** Attendees click while their interest is high, without leaving the room to look for a link.
+- **The pitch keeps working on the replay.** With a **Webinar Replica** replay, the same offer appears on the recording.
+- **Recorded sessions still sell.** On simulive and evergreen webinars the card carries the pitch, and a countdown can carry the deadline.
+- **You can see where it loses people.** Separate counts for views, clicks and purchases show whether to fix the offer or the checkout.
 
 ### What happens without it {#without-it}
 
-Without an offer card, the call to action is whatever the presenter says and whatever link gets pasted into chat. Late arrivals miss it, chat scrolls it away, and on a recorded webinar nobody is there to repeat it. After the session there is no record of who was interested enough to click, so [everyone gets the same follow-up](https://easywebinar.com/blog/email-segmentation-for-webinar-follow-ups/).
+Without an offer card, the call to action is only what the presenter says. People who arrive late miss it, and anyone watching a recording hears it once and moves on. Interest goes unrecorded, so you can't tell who came close to buying.
 
 ### Why buyers care {#why-buyers-care}
 
-For course creators, coaches, consultants and product teams, the offer is where a webinar earns its keep. Buyers check how quickly an offer can be built, whether it can carry a deadline, whether it survives onto the replay, and whether clicks and revenue are reported against each webinar.
+Offers matter most to teams whose webinars have to pay for themselves, such as course creators, coaches, training companies and product teams. They matter most in launch weeks and on automated webinars, where the card does the selling while nobody is presenting.
+
+## The EasyWebinar approach to offers {#approach}
+
+{/* 5P */}
+
+Take a typical case. A software-training company with four instructors runs a monthly live webinar on passing a cloud architect exam. About 250 IT professionals attend. The session ends by selling a certification bundle of three practice courses and an exam voucher.
+
+A common approach is for the instructor to read out a checkout link near the end and paste it into chat. In practice, that link tends to scroll away within a minute, and people who joined late may never see it. The company may also struggle to tell whether weak sales came from the bundle or from the checkout.
+
+The buying decision hasn't changed, but the moment it happens matters more. Attendees decide while the instructor is still talking, so the next step needs to sit on screen right then. It also helps to count each step between seeing the bundle and paying for it.
+
+EasyWebinar handles this with an offer card built on the webinar's **CTAs** tab. The company writes a headline for the bundle, sets its **Offer Price** and switches on **Countdown timer**. The instructor pushes the card from the room's **Offers** panel during the pitch. Afterwards, **Offers Performance** shows the bundle's views, clicks and purchases.
+
+The offer editor screenshot under Create an offer shows **Countdown timer**, **Offer Price** and the **Button** settings side by side. How other platforms handle offer countdowns and offer reporting is covered in How offers compare, below.
 
 ## Find your offers {#find-your-offers}
 
@@ -242,6 +255,31 @@ A recorded demo carries an offer for a trial, with the button pointing at the si
 ### Agencies {#agencies}
 
 An [agency building a client's webinar](https://easywebinar.com/solutions/marketing-agencies/) uses **Create with AI** with **Balanced Approach** to draft offers, edits them into the client's voice, and maps **Clicked offer** to a tag in the client's CRM.
+
+## How offers compare {#compare}
+
+EasyWebinar puts a countdown on the offer card itself and reports views, clicks and purchases for every offer. The same offers run on live, simulive and evergreen webinars in one product. EasyWebinar is the only platform in this table that does all three.
+
+Offer features, from each platform's public documentation:
+
+| Platform | Countdown on the offer card | Views, clicks and purchases per offer | Same offers on live and automated webinars |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes (Apply urgency) | Partly (purchases via tracking codes) | Partly (two separate products) |
+| **Demio** | Not in docs | Partly (click counts only) | Yes |
+| **eWebinar** | Partly (shown in one example) | Partly (one conversion event per webinar) | Partly (recorded webinars only) |
+| **Kajabi** | Not in docs | Not in docs | Partly (webinar runs on another host) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for offers {#compare-stronger}
+
+- **A deadline on the card itself.** EasyWebinar's **Countdown timer** is one toggle on each offer. Demio's help centre documents no countdown setting for its Featured Action call to action. More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Clicks and purchases in one report.** **Offers Performance** lists views, clicks and purchases for each offer. WebinarJam records sales through two tracking codes that you place on your own pages. More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Every offer measured.** EasyWebinar reports each offer separately under **Revenue by Offer**. eWebinar's help centre says only one conversion event can be tracked per eWebinar. More detail in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The offer inside the webinar room.** EasyWebinar pushes the card to attendees from the room's **Offers** panel. Kajabi's webinar funnel can run on any webinar host, such as Zoom, linked into the funnel. More detail in [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

@@ -4,7 +4,7 @@ Use a webinar's Overview tab in EasyWebinar to read its live stats, change its s
 
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
-- Verified: 2026-10-16
+- Verified: 2026-10-21
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/
 
 Every EasyWebinar webinar opens on its **Overview** tab. From this one screen you can see how the webinar is doing, check and change when it runs, act on a single session, switch between free and paid registration, add the people who present or moderate, and get to the share links and the room. This page walks through each panel in the order you'll usually need it. When you're done, you'll know where every webinar-level control on the Overview lives and what each number means.
@@ -23,7 +23,7 @@ Every EasyWebinar webinar opens on its **Overview** tab. From this one screen yo
 
 ## Before you begin {#before-you-begin}
 
-- **Create the webinar first.** The Overview tab belongs to a webinar that already exists. See [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/), [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) or [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
+- **Create the webinar first.** The Overview tab belongs to a webinar that already exists. Start from [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/), [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) or [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
 - **Expect zeros on a new webinar.** The four stats stay at zero until registrations start.
 - **To charge for registration, have Stripe ready.** Converting a webinar to paid needs a connected Stripe account. Read the warning about converting in Step 4 below before you use it.
 - **To go live, have a camera and microphone.** **Enter Room** checks both before letting you in.
@@ -102,7 +102,7 @@ To act on one sitting without touching the rest, use the options menu on that se
 
 **Registration Pricing** shows whether the webinar is **Free** or **Paid**.
 
-- **On a free webinar** the panel reads "This webinar is free — attendees register without payment," with a **Convert to paid** button.
+- **On a free webinar** the panel reads **This webinar is free — attendees register without payment**, with a **Convert to paid** button.
 - **On a paid webinar** the panel shows your pricing title and price, and the pencil edits them. A **Payment Gateway** panel shows the connected Stripe account, and **Manage** opens your payment settings.
 
 ![The Overview tab of a paid webinar showing registrants, revenue, the registration pricing panel and the payment gateway](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-05-overview.png)
@@ -157,11 +157,17 @@ A recorded webinar has no live room to enter. On an evergreen webinar, wait for 
 - **The team is in place.** **Team & Moderators** lists your presenters and moderators instead of "No presenters or moderators added yet."
 - **Registrations are counting.** After a test registration, **Registrants** moves off zero and the session row's registration count goes up.
 
+## What the Overview tab is {#what-it-is}
+
+The Overview tab is the first of nine tabs on every webinar, and the one each webinar opens on. It summarises the webinar rather than configuring its content: numbers at the top, then schedule, sessions, pricing and team.
+
+Pages, emails, polls, offers and replays are set up on the other eight tabs. The Overview is where you check that those pieces add up to a webinar ready to run.
+
 ## Why the Overview tab matters {#why-it-matters}
 
 ### What it's for {#what-its-for}
 
-The Overview tab is the home screen for one webinar. It answers the questions you ask most often (is anyone registering, when does it run, what does it cost, who is presenting, which link do I send) without opening any of the other eight tabs.
+The Overview tab is the home screen for one webinar. It answers everyday questions without opening any of the other eight tabs. Is anyone registering, when does it run, what does it cost, who is presenting, and which link do you send?
 
 ### How it helps {#how-it-helps}
 
@@ -172,11 +178,25 @@ The Overview tab is the home screen for one webinar. It answers the questions yo
 
 ### What happens without it {#without-it}
 
-Without a single summary screen, the basics of a webinar get scattered. You check the schedule in one place, pricing in another and the presenter list somewhere else, and it's easy to promote a webinar with the wrong date or forget to add a co-presenter until they message you asking for a link.
+Without a single summary screen, the basics of a webinar get scattered. The schedule lives in one place, pricing in another and the presenter list somewhere else. It becomes easy to promote the wrong date. A co-presenter may only get their link after messaging you to ask for it.
 
 ### Why buyers care {#why-buyers-care}
 
-Anyone running more than one webinar a month needs to see each one's state quickly and hand the right links to the right people. Buyers [comparing platforms](https://easywebinar.com/compare/webinar-platforms/) look at how much it takes to manage a webinar after it's created: changing a date, acting on one sitting, adding a guest speaker, checking revenue.
+The Overview matters most to teams running more than one webinar a month. Each webinar needs a quick status check and the right links for the right people. That need grows when guest speakers change from one session to the next.
+
+## The EasyWebinar approach to the Overview tab {#approach}
+
+{/* 5P */}
+
+Take a typical case. A regional wildlife charity has a fundraising team of three and around 900 monthly donors. Each month it runs a live 40-minute briefing for donors, with a guest speaker from its field team. The goal is to keep monthly givers engaged, so fewer cancel their gift.
+
+A common way to manage this is a shared spreadsheet and a long email thread. The date sits in one place, the speaker's link in another and sign-up numbers in a third. It tends to work until a busy month. Then a guest may get the wrong link, or a called-off date may still be promoted.
+
+The briefing itself rarely goes wrong. The risk sits in the handovers between people and tools before it starts. Fewer places to look means fewer chances to miss a detail.
+
+EasyWebinar keeps those details on the webinar's **Overview** tab. **Scheduling Options** and **Sessions** show each month's sitting, and a sitting that is called off moves to **Cancelled**. The team copies the **Co-presenter Join Link** from **Share** for the guest, who joins without an EasyWebinar account. **Registrants** shows sign-ups on the same screen.
+
+The screenshot under Open the Overview tab numbers seven areas, from the nine tabs to **Team & Moderators**. How other platforms handle guest links, registration links and session history is covered in How the Overview tab compares, below.
 
 ## How the Overview tab works with other features {#works-with}
 
@@ -219,6 +239,30 @@ A [marketing team](https://easywebinar.com/solutions/marketing-teams/) runs a we
 ### Course creators {#course-creators}
 
 A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/) runs an evergreen webinar every day. The Overview shows the generated run of upcoming sessions, and the **Live** tab lets them enter a session while it is running.
+
+## How the Overview tab compares {#compare}
+
+EasyWebinar's Overview gives each webinar private join links for guest presenters, a one-click registration link for known contacts and a **Revenue** figure. Sessions that are called off stay on their own **Cancelled** tab. EasyWebinar is the only platform in this table that does all four.
+
+Webinar management features, from each platform's public documentation:
+
+| Platform | Join links for guest presenters | One-click registration link | Revenue shown for the webinar | Cancelled sessions kept on their own list |
+|---|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes | Yes | Yes | Not in docs |
+| **WebinarKit** | Yes | Yes | Yes | Not in docs |
+| **Demio** | Yes (guest presenters and moderators) | Yes | Not in docs | Not in docs |
+| **Livestorm** | Yes (unique speaker links) | Not in docs | Not in docs | Not in docs |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for the Overview tab {#compare-stronger}
+
+- **Known contacts register in one click.** EasyWebinar's **One-Click Registration Link** carries a contact's name and email in the URL. Livestorm's help centre documents sharing the registration page, with no one-click registration link. Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Revenue beside registrations.** EasyWebinar's Overview shows **Revenue** next to **Registrants** and attendance. Demio's help centre doesn't document a revenue figure for a webinar. Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **A record of called-off sessions.** EasyWebinar keeps cancelled sittings on a **Cancelled** tab so the webinar's history stays intact. WebinarJam's help centre doesn't document a list of cancelled sessions. Compare [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 
@@ -270,7 +314,7 @@ A new webinar shows zeros across the board until registrations start.
 
 #### Why can't I get into the room? {#faq-cant-enter-room}
 
-**Continue to Green Room** stays greyed out until the room can see a working camera and microphone. If you see "You can only have one event live at a time.", another webinar is already live. See [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/).
+**Continue to Green Room** stays greyed out until the room can see a working camera and microphone. If you see "You can only have one event live at a time.", another webinar is already live. The [camera not detected guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/) covers device problems.
 
 #### Where is Enter Room on my evergreen webinar? {#faq-evergreen-enter}
 

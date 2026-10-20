@@ -140,11 +140,24 @@ Attendees then go to the URL you set in **End of Session**, if you set one.
 - **Session history:** on the webinar's **Overview**, the session moves to the **Past** tab of the **Sessions** panel.
 - **Attendance:** the webinar's **Analytics** tab shows **Live Attended** for people who joined the broadcast. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
 
+## What the live room is {#what-it-is}
+
+The live room is where you present a live webinar. You arrive in a green room where nothing is broadcast, then go live when you're set. The same room holds backstage, chat, polls, offers, questions and the recording controls.
+
+| Question | Live room answer |
+|---|---|
+| Is anything broadcast before you start? | No. The header reads **Not Live** until you confirm **Go Live** |
+| Where do co-hosts wait? | **Backstage**, out of sight until you move them on stage |
+| Where does the recording go? | **Library → Recordings** |
+| Which webinar types use it? | Live webinars. Simulive and evergreen webinars play a recording instead |
+
+To run a recording at set times without presenting, see [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/).
+
 ## Why running the room well matters {#why-it-matters}
 
 ### What it's for {#what-its-for}
 
-The live room is where a live webinar actually happens. Everything you set up beforehand (the registration page, reminders, polls, offers) leads to this hour. The room gives you a private place to prepare, a clear moment to start, the tools to engage and sell while you present, and a definite end.
+The live room is where a live webinar actually happens. Everything you set up beforehand leads to this hour. The room gives you a private place to prepare, a clear start, the tools to engage and sell, and a definite end.
 
 ### How it helps {#how-it-helps}
 
@@ -160,7 +173,21 @@ Without a staging area, presenters test their microphones in front of the audien
 
 ### Why buyers care {#why-buyers-care}
 
-Teams choosing a [live webinar platform](https://easywebinar.com/live-webinars/) want to know that a live session will look composed, that they can sell during it, and that they'll have a recording afterwards. The live room covers all three in one place, and the recording feeds the replay and the evergreen version of the same webinar.
+It matters most to teams whose live session is a public moment: a launch, a recruitment event or a sales presentation. Those teams are choosing a [live webinar platform](https://easywebinar.com/live-webinars/), and the test comes in the first five minutes of the first session.
+
+## The EasyWebinar approach to the live room {#approach}
+
+{/* 5P */}
+
+Take a typical case. A university admissions office runs a live open evening each term for prospective postgraduate students. Two admissions officers present, a current student joins for the last twenty minutes, and around 200 applicants from several countries register.
+
+The usual workaround is a general video meeting tool, set up by whoever is free that week. It may work, but the student often joins straight into the broadcast and tests their microphone in front of everyone. Questions can get lost in a busy chat, and the recording may end up in one person's account.
+
+What changed is the stakes. An open evening is a recruitment event, so it has to look composed from the first minute. Applicants who can't attend live still need to see it, so the recording matters as much as the session.
+
+EasyWebinar handles this inside the live room. EasyWebinar puts co-hosts and moderators backstage when they join, so the student can sort out their audio unseen and come on stage when called. EasyWebinar keeps questions in their own **Question** panel, split into **Active** and **Answered**, and with recording on the session lands in **Library → Recordings**.
+
+One fact is easy to check before you start. In the green room the header reads **Not Live**, and nothing reaches attendees until you confirm **Go Live**. That private room is one of the capabilities covered in How the live room compares, below.
 
 ## How the live room works with other features {#works-with}
 
@@ -203,6 +230,30 @@ A marketing team runs a panel webinar with branded frame overlays and streams it
 ### Course creators {#course-creators}
 
 A creator runs a training live a few times with recording on, then clones the strongest session as an [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) using the recording from the Library. The [course creator's guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#live-then-automate) follows that route end to end.
+
+## How the live room compares {#compare}
+
+EasyWebinar's live room gives you a private green room, a backstage for co-hosts, and streaming out to YouTube and LinkedIn from the same screen you present from. EasyWebinar is the only platform in this table that does all three.
+
+Live room features, from each platform's public documentation:
+
+| Platform | Private room before going live | Co-hosts wait backstage | Stream out to YouTube and LinkedIn |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Yes (room opens 24 hours before) | Not in docs | Yes |
+| **WebinarJam** | Yes (off air up to 60 minutes) | Not in docs | Partly (YouTube and Facebook only) |
+| **Livestorm** | Yes (green room) | Not in docs | Yes |
+| **Zoom** | Yes (practice session) | Yes | Partly (Facebook, YouTube, Twitch, custom) |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for the live room {#compare-stronger}
+
+- **Co-hosts arrive out of sight.** In EasyWebinar, co-hosts and moderators land backstage and stay unseen until you move them on stage. Demio describes presenters choosing **Go On Stage** to appear immediately, and Livestorm's public docs describe no backstage. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **LinkedIn company pages built in.** EasyCast lists **LinkedIn** and **LinkedIn Organisation** next to **YouTube** and **Custom RTMP**. Zoom's livestreaming setting names Facebook, YouTube, Twitch and a custom service. See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
+- **Destinations connected once.** An EasyCast destination is connected once for the account and switched on in the room. WebinarJam has you choose the streaming service for each webinar in its configuration wizard, from YouTube Live and Facebook Live. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

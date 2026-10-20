@@ -35,22 +35,36 @@ Reminders sit between two other email groups. The **Registration Confirmation** 
 
 ### What it's for {#what-its-for}
 
-Getting people to register is the easy part; [getting them to turn up](https://easywebinar.com/blog/how-to-drive-webinar-attendance/) is what notifications are for. Reminders carry the date, the time and the way in back to the registrant at the points where they would otherwise drift away: the day before, when they can still plan around it, and the minutes before, when they need a prompt to click.
+Getting people to register is the easy part; [getting them to turn up](https://easywebinar.com/blog/how-to-drive-webinar-attendance/) is what notifications are for. Reminders bring the date, the time and the way in back to each registrant. They land the day before, when people can still plan, and in the final minutes, when they need a nudge to click.
 
 ### How it helps {#how-it-helps}
 
-- **It brings the session back into view.** A registration made days ago is easy to forget; a reminder an hour before puts it in front of the person again.
-- **The last reminder does most of the work.** In EasyWebinar's guidance, the reminder fifteen minutes before is the one that matters most for attendance.
-- **It runs on every session automatically.** Because timing is relative, there is nothing to reschedule when a recurring or evergreen webinar adds new sessions.
-- **It is measurable.** **Registered** to attended in Analytics tells you whether the reminders are doing their job.
+- **It brings the session back into view.** A sign-up from days ago is easy to forget. A reminder an hour before puts it in front of the person again.
+- **The last reminder does most of the work.** In EasyWebinar's guidance, the one fifteen minutes before matters most.
+- **It runs on every session by itself.** Timing is relative, so nothing needs rescheduling when new sessions appear.
+- **It is measurable.** **Registered** to attended in Analytics shows whether the reminders are working.
 
 ### What happens without it {#without-it}
 
-Without reminders, attendance depends on people remembering a session they signed up for days or weeks earlier, and finding their confirmation email at the right moment. Analytics makes the cost visible: a large **Missed** count, people who registered and never showed up, with a registration page that was doing its job. EasyWebinar's own reading of a low registered-to-attended rate is that it's a notification problem, not a content one.
+Without reminders, attendance depends on people remembering a session they booked days or weeks ago. Analytics shows the cost as a large **Missed** count: people who registered and never came. EasyWebinar reads a low registered-to-attended rate as a notification problem, not a content one.
 
 ### Why buyers care {#why-buyers-care}
 
-Every webinar result that matters to the business, offer clicks, purchases, booked calls, depends on people actually watching. A platform's reminders decide how many registrants make it into that group. Buyers look for reminders that need no manual scheduling, work on [automated webinars](https://easywebinar.com/automated-webinars/), and can be added and timed freely.
+Every result that matters to the business, from offer clicks to booked calls, depends on people actually watching. That makes reminders matter most to teams that sell or book calls at the end of a session. It matters even more on [automated webinars](https://easywebinar.com/automated-webinars/), where sessions run without anyone checking the emails.
+
+## The EasyWebinar approach to reminder emails {#approach}
+
+{/* 5P */}
+
+Take a typical case. A yoga teacher-training school runs a free evergreen info session for people thinking about its 200-hour course. The session plays several times a week, and people register from the school's Instagram. Most sign up on their phones, often days before the session they pick.
+
+A common approach is to schedule reminder emails by hand for each session date. That may work for one session a month, but it gets hard with several a week. Gaps creep in, and some people may hear nothing between signing up and the start.
+
+The reminders themselves don't change from one session to the next. What changes is the start time each one counts back from. A reminder set against the session, rather than the calendar, fits every session the schedule creates.
+
+EasyWebinar sets each reminder as time before the webinar, on the **Notifications** tab. The school keeps three: a day, an hour and fifteen minutes before. Each one follows every session on the evergreen schedule. For the final nudge, the school adds a **Reminder SMS**, in Beta, because its audience reads texts quickly.
+
+The screenshot under Find your reminders shows the **Webinar Reminders** group with reminders timed 15 minutes, 1 hour and 24 hours before the webinar. How other platforms set reminder timing and channels is covered in How reminder emails compare, below.
 
 ## Set it up {#set-it-up}
 
@@ -158,6 +172,30 @@ A customer success team runs [onboarding webinars for new customers](https://eas
 ### B2B marketing teams {#b2b-marketing}
 
 A marketing team already runs its nurture emails from its own system, so it maps the **Webinar Join Link** into a CRM field and sends one of the reminders from there, keeping EasyWebinar's reminders for the final hour.
+
+## How reminder emails compare {#compare}
+
+EasyWebinar lets you time each reminder in hours, minutes and seconds before the session. You can also add a reminder by text or by WhatsApp, both in Beta. EasyWebinar is the only platform in this table that does all three.
+
+Reminder features, from each platform's public documentation:
+
+| Platform | Reminder timing you choose | SMS reminder (Beta) | WhatsApp reminder (Beta) |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **WebinarJam and EverWebinar** | Yes | Yes | Not in docs |
+| **WebinarKit** | Partly (1 day and 30 minutes by default) | Yes | Not in docs |
+| **Livestorm** | Partly (1 hour and 24 hours by default) | Not in docs | Not in docs |
+| **Zoom** | Partly (1 hour, 1 day or 1 week) | Not in docs | Not in docs |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for reminder emails {#compare-stronger}
+
+- **Timing to the minute.** EasyWebinar takes timings such as *0h 15m 0s before webinar*. Zoom's reminder email offers 1 hour, 1 day or 1 week before the start, as [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/) shows.
+- **As many reminders as your schedule needs.** EasyWebinar adds another reminder with **Create New**. Livestorm documents two reminders by default, one hour and 24 hours before, covered in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **WhatsApp for the final nudge.** EasyWebinar's Beta **Reminder Message** on the **Whatsapp** tab sends before the webinar starts. WebinarJam's reminders run by email, SMS or voice call, as [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) sets out.
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 

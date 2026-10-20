@@ -4,10 +4,10 @@ How Just-in-time Registration works on EasyWebinar's evergreen webinars, which i
 
 - Applies to: Evergreen webinars
 - Status: Live
-- Verified: 2026-10-16
+- Verified: 2026-10-21
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/
 
-**Just-in-time Registration** is an evergreen schedule option that offers each visitor a session starting a few minutes after they register, rather than at a fixed future time. You choose how often these sessions come round, from every 2 minutes to every hour, and each just-in-time session runs in the attendee's own local time. It is the setting that lets someone who finds your registration page be watching your webinar shortly afterwards.
+**Just-in-time Registration** is an evergreen schedule option that offers each visitor a session starting a few minutes after they register, rather than at a fixed future time. You choose how often these sessions come round, from every 2 minutes to every hour. Each just-in-time session runs in the attendee's own local time, so someone who finds your registration page can be watching shortly afterwards.
 
 ## At a glance {#at-a-glance}
 
@@ -42,22 +42,36 @@ You can run all three together, and the registration page offers each as a choic
 
 ### What it's for {#what-its-for}
 
-Just-in-time is for [evergreen webinars that sit in a funnel](https://easywebinar.com/automated-webinars/): a [demo behind a website button](https://easywebinar.com/use-cases/product-demos/), a teaching session in front of an [offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), an [onboarding session](https://easywebinar.com/use-cases/onboard-train-customers/) new customers reach from an email. In each case the visitor is interested now, and the webinar should be available now.
+Just-in-time is for [evergreen webinars](https://easywebinar.com/automated-webinars/) that sit inside a funnel. A visitor reaches your registration page from an ad, an email or a [demo button on your website](https://easywebinar.com/use-cases/product-demos/). They are interested now, so the next session should be minutes away.
 
 ### How it helps {#how-it-helps}
 
-- **It removes the wait.** A session is always a few minutes away, so a visitor doesn't have to plan to come back.
-- **It catches interest at its peak.** The person registering has just decided they want to watch; a short interval lets them do so while that's still true.
-- **It suits a spread-out audience.** Because sessions follow each attendee's local time, you don't have to pick slots region by region.
-- **It keeps a scheduled feel.** Unlike On Demand, there is still a start time, so attendees turn up for a session that begins at a set moment.
+- **No long wait.** A session is always a few minutes away, so nobody has to plan a return visit.
+- **Interest is still fresh.** The person has just chosen to watch, and a short **Interval** lets them do it while that holds.
+- **Each attendee's own clock.** Sessions follow the attendee's local time, so you don't have to pick slots region by region.
+- **A real start time.** Unlike **On Demand**, there is still a session to turn up for, which keeps an event feel.
 
 ### What happens without it {#without-it}
 
-With only recurring times, a visitor who arrives just after a session has started faces a wait until the next slot, which may be hours or a day away. The [gap between interest and watching](https://easywebinar.com/blog/improve-webinar-attendance/) is where people disappear: they close the tab meaning to return, and many don't.
+With only set daily or weekly times, someone who arrives just after a session starts must wait for the next slot. That slot can be hours or a day away. The [gap between interest and watching](https://easywebinar.com/blog/improve-webinar-attendance/) is where people disappear. Many who close the tab meaning to return never do.
 
 ### Why buyers care {#why-buyers-care}
 
-For teams who [measure an evergreen webinar by how many registrants actually watch](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel), the time between registering and the session starting matters. Just-in-time shrinks it to minutes, using the same recording and the same funnel.
+Just-in-time matters most to teams whose visitors arrive all day, from paid ads or a busy website. It matters when you [judge an evergreen webinar by how many registrants watch](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel), not only by how many sign up.
+
+## The EasyWebinar approach to just-in-time {#approach}
+
+{/* 5P */}
+
+Take a typical case. A small skincare brand sells online with a team of four, and most new visitors arrive from social ads. It has made a 20-minute recorded webinar that walks through a morning and evening routine. The goal is to turn ad clicks into first orders.
+
+A common setup is one fixed showing each evening, so the team can promote a single time. That probably suits people who plan ahead. Shoppers who click an ad at lunchtime, though, may face a wait of several hours. Many are likely to forget, and the ad spend that brought them is partly wasted.
+
+The routine itself is not the problem. What matters is the time between the click and the first minute of the video. Ad traffic arrives all day and from more than one country, so any single fixed time is wrong for most visitors.
+
+EasyWebinar handles this on the schedule step of an evergreen webinar. The brand switches on **Just-in-time Registration** and picks a 15-minute **Interval**, so a session is never far away. **Exclude specific time** keeps chosen hours clear, and each session runs in the shopper's own local time. **On Demand** can sit alongside it for anyone who wants to start straight away.
+
+The screenshot under Set it up shows the **Just-in-time Registration** switch at the top of the schedule step, above **On Demand** and **Recurring Schedule**. How other platforms schedule sessions that start soon after registration is covered in How just-in-time compares, below.
 
 ## Set it up {#set-it-up}
 
@@ -75,7 +89,7 @@ For teams who [measure an evergreen webinar by how many registrants actually wat
 
 *1 Just-in-time Registration · 2 On Demand · 3 Recurring Schedule · 4 Availability · 5 Schedule Preferences.*
 
-The full creation walkthrough, including pricing, video selection and templates, is in [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
+The full walkthrough, including pricing, video selection and templates, is in [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
 
 ### On an existing evergreen webinar {#set-up-existing}
 
@@ -92,9 +106,9 @@ Open the webinar's **Overview** tab and use the options menu on the **Scheduling
 
 ### Choosing an interval {#choosing-an-interval}
 
-Shorter intervals mean less waiting. The interval is the longest a new registrant waits for the next just-in-time session, so 2 minutes keeps the wait to a couple of minutes and 60 minutes can mean close to an hour.
+Shorter intervals mean less waiting. The interval sets how often a new just-in-time session comes round, so it also sets the longest a new registrant waits.
 
-Two minutes is also the setting to use when you want to check the webinar yourself, because a session starts almost as soon as you register. See Test a just-in-time session, below.
+Two minutes is also the setting to use when you want to check the webinar yourself, because a session starts almost as soon as you register. The steps are in Test a just-in-time session, below.
 
 ## Timezones: who sees which time {#timezones}
 
@@ -132,7 +146,7 @@ Set the interval back to your chosen value once you're done.
 
 ### On Demand {#with-on-demand}
 
-**On Demand** lets registrants watch immediately, with no session at all. Pair it with just-in-time and registrants choose between "now" and "in a few minutes". See [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/).
+**On Demand** lets registrants watch immediately, with no session at all. Pair it with just-in-time and registrants choose between "now" and "in a few minutes". The [On Demand (instant replay) option](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/) has its own page.
 
 ### Recurring Schedule {#with-recurring}
 
@@ -140,11 +154,11 @@ A daily or weekly **Recurring Schedule** can run alongside just-in-time, for reg
 
 ### Sessions on the Overview tab {#with-sessions}
 
-Evergreen webinars have a **Live** tab in the Sessions panel, alongside **Upcoming**, **Past** and **Cancelled**, showing sessions currently on air. See [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/).
+Evergreen webinars have a **Live** tab in the Sessions panel, alongside **Upcoming**, **Past** and **Cancelled**, showing sessions currently on air. The [webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/) explains the rest of that screen.
 
 ### Chat Simulation {#with-chat-simulation}
 
-Just-in-time attendees arrive at different moments, so there's no shared conversation to join. **Chat Simulation** on the **Engagement** tab fills the chat with an AI-generated or CSV-scripted conversation timed against the video. See [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/).
+Just-in-time attendees arrive at different moments, so there's no shared conversation to join. **Chat Simulation** on the **Engagement** tab fills the chat with an AI-generated or CSV-scripted conversation timed against the video. [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) covers both methods.
 
 ### AI Moderator (Beta) {#with-ai-moderator}
 
@@ -152,11 +166,11 @@ The **AI Moderator**, in Beta, answers attendee questions from documents you upl
 
 ### Emails and reminders {#with-notifications}
 
-Reminders on the **Notifications** tab are timed relative to the webinar, not to a fixed clock time, so they work with evergreen schedules. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) and [Confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/).
+Reminders on the **Notifications** tab are timed relative to the webinar, not to a fixed clock time, so they work with evergreen schedules. Set them up in [reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) and [confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/).
 
 ### Analytics and People {#with-analytics}
 
-Polls, offers and analytics behave as on any webinar. In **People**, filter by **Webinar → Evergreen** to compare your automated funnel with your live sessions. See [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/).
+Polls, offers and analytics behave as on any webinar. In **People**, filter by **Webinar → Evergreen** to compare your automated funnel with your live sessions. The [People view](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/) lists every registrant.
 
 ### Plan usage {#with-plan-usage}
 
@@ -172,7 +186,7 @@ A product team links its "watch the demo" button to an evergreen registration pa
 
 ### Course creators {#course-creators}
 
-A creator's teaching webinar runs on just-in-time alongside a daily recurring time. New visitors from ads take the next just-in-time session; people who'd rather plan ahead book the daily slot. See [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator's teaching webinar runs on just-in-time alongside a daily recurring time. New visitors from ads take the next just-in-time session; people who'd rather plan ahead book the daily slot. This pattern is part of [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Small businesses and solo operators {#small-business}
 
@@ -180,7 +194,34 @@ A solo consultant can't keep a calendar of live sessions. A just-in-time evergre
 
 ### Customer success teams {#customer-success}
 
-A customer success team sends new customers to an onboarding webinar with just-in-time sessions, so each customer starts onboarding in their own timezone shortly after signing up.
+A customer success team sends new customers to an [onboarding webinar](https://easywebinar.com/use-cases/onboard-train-customers/) with just-in-time sessions, so each customer starts onboarding in their own timezone shortly after signing up.
+
+## How just-in-time compares {#compare}
+
+EasyWebinar puts just-in-time sessions, instant viewing and set daily or weekly times on one evergreen webinar. It also keeps chosen hours free of just-in-time sessions with **Exclude specific time**, and runs live webinars in the same product. EasyWebinar is the only platform in this table that does all four.
+
+Just-in-time scheduling, from each platform's public documentation:
+
+| Platform | Just-in-time sessions | Just-in-time, instant viewing and set times together | Hours kept free of just-in-time sessions | Live webinars in the same product |
+|---|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **eWebinar** | Yes | Yes | Yes (hours of operation) | Pre-recorded only |
+| **WebinarJam and EverWebinar** | Yes | Yes | Yes (hides night-time sessions) | Partly (separate WebinarJam product) |
+| **StealthSeminar** | Yes | Partly (replay is yesterday's session) | Yes (allowed time window) | Partly (streamed from YouTube or Twitch) |
+| **WebinarKit** | Yes | Yes | Not in docs | Yes |
+| **Demio** | Not in docs | Not in docs | Not in docs | Yes |
+| **Livestorm** | Not in docs | Not in docs | Not in docs | Yes |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for just-in-time {#compare-stronger}
+
+- **A session minutes away.** EasyWebinar's **Just-in-time Registration** offers a session starting shortly after someone registers. Demio's help centre and product pages don't document a just-in-time option. Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Watch now, soon or at a set time.** EasyWebinar's **On Demand** starts the recording straight away, beside just-in-time and set times. StealthSeminar's instant choice, Watch Yesterday's Replay, plays the previous session. Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Quiet hours you choose.** **Exclude specific time** keeps chosen hours free of just-in-time sessions. WebinarKit's help centre covers just-in-time labels and spacing, with no hour exclusion documented. Compare [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Evergreen sessions that start soon.** EasyWebinar adds just-in-time to the evergreen schedule step. Livestorm's on-demand and automation pages don't document just-in-time sessions. Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 
@@ -188,7 +229,7 @@ A customer success team sends new customers to an onboarding webinar with just-i
 - **Fixed interval choices.** 2, 15, 30, 45 or 60 minutes.
 - **Local time applies to just-in-time sessions only.** Other sessions on the same webinar use the webinar's timezone.
 - **The schedule step's timezone message is broader than the behaviour.** Rely on the table above, not the in-app message.
-- **The type is fixed.** To use just-in-time with a webinar that is currently live or simulive, clone it as **Evergreen**. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+- **The type is fixed.** To use just-in-time with a webinar that is currently live or simulive, [clone it as Evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
 
 ## Common questions {#common-questions}
 

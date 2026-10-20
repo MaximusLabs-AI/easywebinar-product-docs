@@ -4,7 +4,7 @@ Copy an existing EasyWebinar webinar into a new one, choose its type and which p
 
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
-- Verified: 2026-10-16
+- Verified: 2026-10-21
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/
 
 Cloning makes a new webinar from one you've already built, so you don't set everything up again. In the **Clone Webinar** dialog you choose the type of the copy, give it a name, and tick what should come across: registration pages, schedule, replay settings, embed widgets, polls, offers, email notifications and integration settings. Because a [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) is fixed once it exists, cloning is also the only way to end up with the same webinar as a different type.
@@ -122,11 +122,25 @@ Cloning has three everyday uses:
 
 ### What happens without it {#without-it}
 
-Without cloning, changing a webinar's format would mean building the second version by hand: recreating the registration page, rewriting the emails, re-entering polls and offers, and reconnecting integrations. Each one is a chance to introduce a difference you didn't intend.
+Without cloning, a new format means building the second version by hand. You recreate the registration page, rewrite the emails, re-enter polls and offers and reconnect integrations. Each step is a chance to introduce a difference you didn't intend.
 
 ### Why buyers care {#why-buyers-care}
 
-Teams that run webinars as a programme reuse what works. Being able to duplicate a proven webinar, or [move it from a live format to an automated one](https://easywebinar.com/blog/turn-live-webinars-into-automated-funnels/), without rebuilding it, is what makes that practical.
+Teams that run webinars as a programme reuse what works. Copying a proven webinar, or [moving it from live to automated](https://easywebinar.com/blog/turn-live-webinars-into-automated-funnels/), without a rebuild is what makes that practical.
+
+## The EasyWebinar approach to cloning {#approach}
+
+{/* 5P */}
+
+Take a typical case. A fitness coach who works alone runs a free live kick-off for her 30-day kettlebell challenge each month. About 120 people register, and each kick-off ends with an offer to join her paid coaching group.
+
+A common approach is to rebuild the webinar every month, or to keep reusing one webinar and clear it out. Rebuilding can eat an evening of copying pages, emails and the offer by hand. Reusing one webinar tends to mix last month's sign-ups into this month's numbers.
+
+The kick-off is the same each month apart from the date. She also wants a version that runs without her, for people who find her between challenges. Both needs call for copying the setup rather than redoing it.
+
+EasyWebinar handles both with **Clone Webinar**. For each monthly kick-off, the coach clones the webinar as **Live Webinar** and leaves **Registration pages**, **Offers** and **Email notifications** ticked. For the in-between version, she clones it as **Evergreen Webinar** and picks her strongest kick-off recording on the copy's **Content** tab.
+
+Each copy starts with no registrants, so every month's figures belong to that month, and the original stays untouched. The full list of items sits under **What would you like to copy?** in the dialog. How this compares with other platforms is covered in How cloning compares, below.
 
 ## How cloning works with other features {#works-with}
 
@@ -177,6 +191,32 @@ An [agency](https://easywebinar.com/solutions/marketing-agencies/) keeps a webin
 ### Customer success teams {#customer-success}
 
 A customer success team that presents onboarding live clones the webinar as **Simulive** and chooses the live recording, so the session can run on a schedule while the team [covers the chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#simulive-chat).
+
+## How cloning compares {#compare}
+
+EasyWebinar lets you choose, item by item, what comes across to the copy. The webinar schedule can come with it, and so can the integration settings. EasyWebinar is the only platform in this table that does all three.
+
+Cloning features, from each platform's public documentation:
+
+| Platform | Choose items to copy | Schedule comes with the copy | Integration settings copied |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Copies all Customize settings | Sessions not copied | Not in docs |
+| **StealthSeminar** | Full copy only | Yes (full copy) | Yes (plugin setup) |
+| **eWebinar** | Copies everything | Yes (everything copied) | Yes |
+| **Livestorm** | Keeps event settings | Not in docs | Not in docs |
+| **WebinarNinja** | Not in docs | Yes (then edit the dates) | Not in docs |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for cloning {#compare-stronger}
+
+- **You pick what comes across.** EasyWebinar lists eight items under **What would you like to copy?**, each one optional. StealthSeminar's help centre says its duplicate is a full copy of the original event. See [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **The schedule can travel with it.** Ticking **Webinar schedule** in EasyWebinar brings the sessions to the copy. Demio says none of the sessions are copied, which leaves a blank schedule. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Integrations come along on request.** EasyWebinar has an **Integration settings** item in the clone dialog. Livestorm's public docs show no copying of integrations. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Less to redo after cloning.** EasyWebinar can copy pages, polls, offers and emails in one pass. WebinarNinja's guide has you clone, then update the title, date and time. See [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 
