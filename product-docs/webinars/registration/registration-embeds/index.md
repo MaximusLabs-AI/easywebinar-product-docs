@@ -163,13 +163,13 @@ Registration embed features, from each platform's public documentation:
 
 | Platform | Registration form you embed on your site | Change the widget's look in the app | One-click registration link | Widget copied when you clone the webinar |
 |---|---|---|---|---|
-| EasyWebinar | Yes | Yes | Yes | Yes |
-| Demio | Yes | Partly (Styled or Unstyled versions) | Partly (through CRM integrations) | Not in docs |
-| WebinarJam | Yes (four embed formats) | Partly (style parameters in the code) | Partly (generated through the API) | Not in docs |
-| eWebinar | Yes | Yes | Yes (into on-demand sessions) | Not in docs |
-| Livestorm | Yes (form or whole page) | Partly (inherits the page's branding) | Not in docs | Not in docs |
-| StealthSeminar | Yes | Partly (your own CSS) | Not in docs | Partly (contact support before duplicating) |
-| WebinarKit | Yes | Yes (drag and drop embed builder) | Yes | Not in docs |
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **Demio** | Yes | Partly (Styled or Unstyled versions) | Partly (through CRM integrations) | Not in docs |
+| **WebinarJam** | Yes (four embed formats) | Partly (style parameters in the code) | Partly (generated through the API) | Not in docs |
+| **eWebinar** | Yes | Yes | Yes (into on-demand sessions) | Not in docs |
+| **Livestorm** | Yes (form or whole page) | Partly (inherits the page's branding) | Not in docs | Not in docs |
+| **StealthSeminar** | Yes | Partly (your own CSS) | Not in docs | Partly (contact support before duplicating) |
+| **WebinarKit** | Yes | Yes (drag and drop embed builder) | Yes | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 

@@ -238,13 +238,13 @@ Registration page features, from each platform's public documentation:
 
 | Platform | Ready-made page templates | AI writes the page copy | Countdown on the registration page |
 |---|---|---|---|
-| EasyWebinar | Yes | Yes | Yes |
-| Demio | Yes (Accent, Gradient, Background Image) | Not in docs | Yes (top of the form) |
-| WebinarJam | Yes | Not in docs | Partly (on a separate countdown page) |
-| eWebinar | Yes | Yes | Partly (widgets on your own page) |
-| Livestorm | Partly (Detailed and Light layouts) | Not in docs | Partly (waiting page, before the event) |
-| StealthSeminar | Yes | Not in docs | Partly (as an embeddable widget) |
-| WebinarKit | Yes | Yes | Partly (thank-you page embeds) |
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Yes (Accent, Gradient, Background Image) | Not in docs | Yes (top of the form) |
+| **WebinarJam** | Yes | Not in docs | Partly (on a separate countdown page) |
+| **eWebinar** | Yes | Yes | Partly (widgets on your own page) |
+| **Livestorm** | Partly (Detailed and Light layouts) | Not in docs | Partly (waiting page, before the event) |
+| **StealthSeminar** | Yes | Not in docs | Partly (as an embeddable widget) |
+| **WebinarKit** | Yes | Yes | Partly (thank-you page embeds) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 

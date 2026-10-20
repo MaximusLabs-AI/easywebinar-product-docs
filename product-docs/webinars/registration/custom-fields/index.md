@@ -197,12 +197,12 @@ Registration form features, from each platform's public documentation:
 
 | Platform | Your own questions on the form | Consent checkbox on the form | Campaign (UTM) capture per registrant | SMS reminders to the form's phone number (Beta) |
 |---|---|---|---|---|
-| EasyWebinar | Yes | Yes | Yes | Yes |
-| Demio | Yes | Partly (account setting adds a default) | Yes | Partly (through a Zapier workaround) |
-| WebinarJam | Yes | Yes (terms agreement checkbox) | Yes | Partly (needs your own Twilio account) |
-| eWebinar | Yes | Yes | Partly (captured through widgets) | Partly (through a Twilio integration) |
-| Livestorm | Yes | Yes (custom consents) | Yes | Not in docs |
-| StealthSeminar | Yes | Partly (one setting for all forms) | Yes | Yes |
+| **EasyWebinar** | Yes | Yes | Yes | Yes |
+| **Demio** | Yes | Partly (account setting adds a default) | Yes | Partly (through a Zapier workaround) |
+| **WebinarJam** | Yes | Yes (terms agreement checkbox) | Yes | Partly (needs your own Twilio account) |
+| **eWebinar** | Yes | Yes | Partly (captured through widgets) | Partly (through a Twilio integration) |
+| **Livestorm** | Yes | Yes (custom consents) | Yes | Not in docs |
+| **StealthSeminar** | Yes | Partly (one setting for all forms) | Yes | Yes |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
