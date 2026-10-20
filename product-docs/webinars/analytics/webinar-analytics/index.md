@@ -74,7 +74,7 @@ The counts are built to avoid double counting. **Visitors** counts unique IPs on
 
 Open your webinar and click **Analytics**. It opens on **Overview**.
 
-![The Analytics Overview with the view switcher, the date range and Apply, and the funnel metrics marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/analytics/step-01-overview.png)
+![The Analytics Overview with the view switcher, the date range and Apply, and the funnel metrics marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/analytics/step-01-overview.png)
 
 *1 Overview, People and Revenue · 2 Date range and Apply · 3 Funnel metrics.*
 
@@ -129,7 +129,7 @@ Switch to **People** to see who registered and who attended. For a full list acr
 
 Switch to **Revenue**.
 
-![The Revenue view with the Revenue switch, Total Revenue and Paid Registrations, Revenue by Source and the Paid Webinar switch marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/analytics/step-06-revenue.png)
+![The Revenue view with the Revenue switch, Total Revenue and Paid Registrations, Revenue by Source and the Paid Webinar switch marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/analytics/step-06-revenue.png)
 
 | | Area | What it shows |
 |---|---|---|

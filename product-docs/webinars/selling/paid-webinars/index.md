@@ -84,7 +84,7 @@ In the Revenue screenshot below, the **Paid Webinar** view splits registration p
 
 Create a webinar as usual: **My Webinars → Create a Webinar → Create Manually**, name it and choose a type. On **Step 3 of 4: Pricing**, choose **Paid**.
 
-![Step 3 of Create Webinar with Paid selected](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-01-set-a-price.png)
+![Step 3 of Create Webinar with Paid selected](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-01-set-a-price.png)
 
 | | Setting | What to do |
 |---|---|---|
@@ -114,7 +114,7 @@ If you sell replay access, [set how long the replay stays open](https://maximusl
 
 The registration page shows the price above the form.
 
-![A paid registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-02-registration-page.png)
+![A paid registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-02-registration-page.png)
 
 | | Area | What it does |
 |---|---|---|
@@ -131,7 +131,7 @@ Attendees outside the US may be offered the price in their own currency alongsid
 
 Once payment goes through, the attendee is registered and sent to your thank-you page.
 
-![The thank-you page after a successful payment](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-04-thank-you.png)
+![The thank-you page after a successful payment](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-04-thank-you.png)
 
 | | Area | What it shows |
 |---|---|---|
@@ -144,7 +144,7 @@ They also receive your [**Registration Confirmation** email](https://maximuslabs
 
 ### On the Overview tab {#earned-on-overview-tab}
 
-![The Overview tab of a paid webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-05-overview.png)
+![The Overview tab of a paid webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-05-overview.png)
 
 | | Area | What it shows |
 |---|---|---|
@@ -157,7 +157,7 @@ They also receive your [**Registration Confirmation** email](https://maximuslabs
 
 Open the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#revenue-view), then **Revenue**.
 
-![Analytics, Revenue view](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-06-revenue.png)
+![Analytics, Revenue view](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-06-revenue.png)
 
 | | Area | What it shows |
 |---|---|---|

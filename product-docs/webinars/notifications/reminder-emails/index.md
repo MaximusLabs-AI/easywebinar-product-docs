@@ -73,7 +73,7 @@ The screenshot under Find your reminders shows the **Webinar Reminders** group w
 1. Open your webinar and click the **Notifications** tab.
 2. Stay on the **Emails** channel and find the **Webinar Reminders** group.
 
-![The Notifications tab showing the Webinar Reminders group with three reminders timed 15 minutes, 1 hour and 24 hours before the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/notifications/step-01-emails.png)
+![The Notifications tab showing the Webinar Reminders group with three reminders timed 15 minutes, 1 hour and 24 hours before the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/notifications/step-01-emails.png)
 
 *1 Channel tabs · 2 Email Settings · 3 An email group · 4 Create New.*
 

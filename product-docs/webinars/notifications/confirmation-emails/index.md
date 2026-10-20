@@ -80,7 +80,7 @@ The screenshot under Choose who your emails come from shows the **Sender name**,
 
 Open your webinar and click the **Notifications** tab. The **Emails** channel opens first.
 
-![The Notifications tab with the Emails, SMS and Whatsapp channels, the Email Settings button and the Registration Confirmation and Webinar Reminders groups](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/notifications/step-01-emails.png)
+![The Notifications tab with the Emails, SMS and Whatsapp channels, the Email Settings button and the Registration Confirmation and Webinar Reminders groups](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/notifications/step-01-emails.png)
 
 *1 Channel tabs · 2 Email Settings · 3 An email group · 4 Create New.*
 
@@ -108,7 +108,7 @@ A webinar built with **Create with AI** arrives with its emails already written,
 4. Turn on **Notify admin** if you want a copy of each registration sent to an admin address, and give it that address.
 5. Save your changes.
 
-![The Email settings dialog with the Sender name, Reply-to email and Notify admin settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/notifications/step-02-email-settings.png)
+![The Email settings dialog with the Sender name, Reply-to email and Notify admin settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/notifications/step-02-email-settings.png)
 
 | Setting | What it does | What to put in it |
 |---|---|---|

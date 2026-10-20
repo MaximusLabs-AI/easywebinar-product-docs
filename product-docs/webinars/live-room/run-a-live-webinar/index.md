@@ -53,7 +53,7 @@ If another of your webinars is already live, **Enter Room** shows **"You can onl
 
 The green room is the room as it will look, with nothing broadcast. Check your framing, test **Share**, and get your co-hosts in place.
 
-![The green room before going live, with the status badges, top-bar controls, Go Live, the Backstage panel, the side rail and Layout marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-01-green-room.png)
+![The green room before going live, with the status badges, top-bar controls, Go Live, the Backstage panel, the side rail and Layout marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/live-room/step-01-green-room.png)
 
 *The green room: 1 Status · 2 Settings, Reactions, EasyCast and Full Screen · 3 Camera, Mic and Share · 4 Go Live and Exit · 5 Backstage · 6 Side rail · 7 Layout.*
 
@@ -63,7 +63,7 @@ Anyone who joins as a co-host or moderator lands in **Backstage**, not on stage.
 
 Look at the badge in the header. **Auto Recording Enabled** means the session will be recorded. To change it, click **Settings** in the top bar, then **Recording Settings**.
 
-![The room Settings dialog with Device settings, Recording Settings and Preferences marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-03-settings.png)
+![The room Settings dialog with Device settings, Recording Settings and Preferences marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/live-room/step-03-settings.png)
 
 | | Section | What it covers |
 |---|---|---|
@@ -77,7 +77,7 @@ Keep recording on unless you have a specific reason to switch it off. The replay
 
 Click **Design** on the right-hand rail. Do this now: design changes apply immediately, so anything you change once you're live happens in front of your audience.
 
-![The Design panel with Stage and Frame tabs, background presets, Blur Intensity, colours, Frame Overlays, Layout and Theme marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-01-design.png)
+![The Design panel with Stage and Frame tabs, background presets, Blur Intensity, colours, Frame Overlays, Layout and Theme marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/live-room/step-01-design.png)
 
 | | Control | What to do with it |
 |---|---|---|
@@ -101,7 +101,7 @@ EasyCast is set up per account, so a destination connected once is available on 
 
 Click **Go Live**. A confirmation asks you to check two things: people in the waiting area will be moved into the webinar automatically, and your offers and polls should already be created. Click **Go Live** in the dialog to start.
 
-![The room broadcasting, with the LIVE timer and Recording badge, a streaming platform icon and End Session marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-07-live.png)
+![The room broadcasting, with the LIVE timer and Recording badge, a streaming platform icon and End Session marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/live-room/step-07-live.png)
 
 *Live: 1 LIVE with a timer, and Recording · 2 One icon per EasyCast destination · 3 End Session.*
 

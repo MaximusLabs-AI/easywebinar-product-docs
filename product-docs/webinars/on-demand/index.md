@@ -92,7 +92,7 @@ The screenshot under Set it up shows the **Instant replay text** field, which re
 5. Set any other options you want alongside it: **Just-in-time Registration**, **Recurring Schedule**, **Availability** and **Schedule Preferences**.
 6. Click **Continue to Pricing** and complete the remaining steps.
 
-![The evergreen schedule step with On Demand switched on and the Instant replay text field showing Watch instant replay, beside Just-in-time Registration, Recurring Schedule, Availability and Schedule Preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-01-schedule.png)
+![The evergreen schedule step with On Demand switched on and the Instant replay text field showing Watch instant replay, beside Just-in-time Registration, Recurring Schedule, Availability and Schedule Preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/evergreen/step-01-schedule.png)
 
 *1 Just-in-time Registration · 2 On Demand · 3 Recurring Schedule · 4 Availability · 5 Schedule Preferences.*
 

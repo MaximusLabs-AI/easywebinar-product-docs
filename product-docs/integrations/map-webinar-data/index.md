@@ -52,7 +52,7 @@ It moves up to **Connected apps**, marked **Ready to use**.
 
 Click your connected integration to open its settings. The first tab is **Event mappings**: "Map webinar events to CRM tags, lists, and custom fields."
 
-![The Event mappings tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/integrations/step-01-event-mappings.png)
+![The Event mappings tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/integrations/step-01-event-mappings.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -91,7 +91,7 @@ A mapping is three choices: **When** (the event) → **Then** (the action) → *
 
 The **Custom fields** tab sends webinar details into your CRM's own fields: "Choose which of your CRM's custom fields should receive each piece of webinar data."
 
-![The Custom fields tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/integrations/step-02-custom-fields.png)
+![The Custom fields tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/integrations/step-02-custom-fields.png)
 
 | Webinar data | What it's for |
 |---|---|

@@ -45,7 +45,7 @@ Click **Library** in the sidebar. It has four tabs, and your storage is shown at
 
 Open the **Videos** tab. Each card shows the video's duration and when it was added, with a menu for renaming, previewing or removing it.
 
-![The Library Videos tab with the four tabs, the storage meter and host badges on each video card](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/library/step-01-videos.png)
+![The Library Videos tab with the four tabs, the storage meter and host badges on each video card](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/library/step-01-videos.png)
 
 *1 The four tabs · 2 Your storage allowance · 3 A YouTube badge · 4 An EasyWebinar badge. Account details and some thumbnails are blurred.*
 
@@ -62,7 +62,7 @@ Check the badge before you delete anything on another platform. Removing a YouTu
 
 Open the **Recordings** tab. Each recording is named after its webinar, with the duration and the date it was recorded.
 
-![The Library Recordings tab listing recordings of past sessions with their durations and dates](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/library/step-02-recordings.png)
+![The Library Recordings tab listing recordings of past sessions with their durations and dates](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/library/step-02-recordings.png)
 
 *Recordings of sessions already run, each named after its webinar. Account details are blurred.*
 

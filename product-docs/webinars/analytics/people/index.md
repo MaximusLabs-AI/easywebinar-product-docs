@@ -95,7 +95,7 @@ Use **Columns** to choose which of these appear. **Watch percentage** and **Offe
 
 Click **Add Filter**.
 
-![The Filters panel with the six categories on the left, the Webinar refinements on the right, and Apply Filter marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/people/step-01-filters.png)
+![The Filters panel with the six categories on the left, the Webinar refinements on the right, and Apply Filter marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/people/step-01-filters.png)
 
 *1 Categories · 2 Refinements · 3 Apply Filter.*
 

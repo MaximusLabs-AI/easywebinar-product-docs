@@ -78,7 +78,7 @@ The offer editor screenshot under Create an offer shows **Countdown timer**, **O
 
 Open your webinar and click **CTAs**.
 
-![The CTAs tab with All, Polls and Offers filters, a search box, and a list of offers and polls each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-01-cta-list.png)
+![The CTAs tab with All, Polls and Offers filters, a search box, and a list of offers and polls each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/ctas/step-01-cta-list.png)
 
 *1 All · Polls · Offers · 2 Search · 3 The list · 4 Row actions.*
 
@@ -104,7 +104,7 @@ A webinar with no polls or offers yet shows **"No CTAs found"**.
 9. Check the preview in the centre of the editor, which shows the offer as attendees will see it and updates as you type.
 10. Set **Published**, then save.
 
-![The offer editor with Offer Style, Countdown timer, Offer Price, the title and headlines, the button settings and colours, and a live preview of the card](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-03-offer-editor.png)
+![The offer editor with Offer Style, Countdown timer, Offer Price, the title and headlines, the button settings and colours, and a live preview of the card](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/ctas/step-03-offer-editor.png)
 
 *1 Offer Style · 2 Countdown timer · 3 Offer Price · 4 Title, Headline, Sub Headline · 5 Button · 6 Colours.*
 
@@ -152,7 +152,7 @@ Nothing is deleted. Switch it back on when you want it live.
 
 At the offers step, start with positioning.
 
-![The offer generation step with Soft Pitch, Balanced Approach and Direct Pitch, a box for the offers to present and a box for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-04-offer-positioning.png)
+![The offer generation step with Soft Pitch, Balanced Approach and Direct Pitch, a box for the offers to present and a box for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-with-ai/step-04-offer-positioning.png)
 
 | Approach | What it does |
 |---|---|
@@ -207,7 +207,7 @@ The two ratios point at different fixes:
 
 The **Revenue** view splits earnings under **Revenue by Source**, separating paid registrations from offers sold in the room. Offer sales show under **Paid Offer**.
 
-![The Analytics Revenue view with Total Revenue, Paid Registrations and the Revenue by Source split](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-06-revenue.png)
+![The Analytics Revenue view with Total Revenue, Paid Registrations and the Revenue by Source split](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-06-revenue.png)
 
 The date range at the top of Analytics applies to everything on the page, so widen it if an offer looks emptier than expected.
 

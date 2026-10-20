@@ -86,7 +86,7 @@ The screenshot under Set up Manual Simulation shows the CSV upload beside **Prev
 6. Check the counts for attendees, chat messages and questions.
 7. Click **Save Changes**.
 
-![AI Simulation on a simulive webinar, showing the simulation selector, the Active state, counts for attendees, chat and questions, and a table of simulated attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/chat-simulation/step-01-ai-simulation.png)
+![AI Simulation on a simulive webinar, showing the simulation selector, the Active state, counts for attendees, chat and questions, and a table of simulated attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/chat-simulation/step-01-ai-simulation.png)
 
 *1 Simulation selector · 2 Active toggle · 3 Attendees · Chat · Questions · 4 The attendee list.*
 
@@ -124,7 +124,7 @@ A useful check: look down the attendee list as a newcomer would meet that room. 
 7. Read through **Preview Simulated Chat**.
 8. Click **Save Changes**.
 
-![Manual Simulation with a CSV uploaded, the Download sample CSV link, the simulated chat preview and the attendee list settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/chat-simulation/step-02-manual-csv.png)
+![Manual Simulation with a CSV uploaded, the Download sample CSV link, the simulated chat preview and the attendee list settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/chat-simulation/step-02-manual-csv.png)
 
 | Area | What it does |
 |---|---|

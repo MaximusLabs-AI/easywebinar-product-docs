@@ -11,7 +11,7 @@ The three webinar types, what every webinar is made of, and how registration, th
 
 You choose a type when you [create a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#choose-type). **The type can't be changed afterwards**, so it is worth deciding first.
 
-![The webinar type cards: Live, Simulive and Evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/webinar-types/step-01-choose-type.png)
+![The webinar type cards: Live, Simulive and Evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/webinar-types/step-01-choose-type.png)
 
 ### Live {#live}
 

@@ -76,7 +76,7 @@ The Q&A screenshot under Set up Q&A shows the three options side by side: **Publ
 3. Choose one of the three options.
 4. Save your changes.
 
-![The Q&A section of the Engagement tab with Public Q&A selected and Private Q&A and Disable alongside](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/engagement/step-02-qna.png)
+![The Q&A section of the Engagement tab with Public Q&A selected and Private Q&A and Disable alongside](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/engagement/step-02-qna.png)
 
 | Option | What happens |
 |---|---|

@@ -70,7 +70,7 @@ Open the template step of the create flow. Next to **Education**, **Coach** and 
 
 You pick the registration page's look on **Step 4 of 4 — Registration Template** when you [create a webinar manually](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template).
 
-![Step 4 of 4 of the create flow showing the template category filters and a grid of registration page templates](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-04-registration-template.png)
+![Step 4 of 4 of the create flow showing the template category filters and a grid of registration page templates](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-live/step-04-registration-template.png)
 
 *1 Category filters · 2 Template cards · 3 The create button.*
 
@@ -93,13 +93,13 @@ When you create a webinar, it opens straight into the registration page builder 
 1. Open your webinar and click the **Content** tab.
 2. Click **Edit** on the **Registration Page** card.
 
-![The Content tab with cards for the registration, thank-you, waiting area, webinar and replay pages, and the registration widget below](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/content/step-01-content-tab.png)
+![The Content tab with cards for the registration, thank-you, waiting area, webinar and replay pages, and the registration widget below](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/content/step-01-content-tab.png)
 
 *1 Registration Page · 2 Thank you Page · 3 Waiting Area · 4 Webinar Page · 5 Replay Page.*
 
 ## The builder controls {#builder-controls}
 
-![The page builder with the page switcher, templates, device toggle, settings and preview, save and publish, the block toolbar and the settings panel numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/content/step-02-page-builder.png)
+![The page builder with the page switcher, templates, device toggle, settings and preview, save and publish, the block toolbar and the settings panel numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/content/step-02-page-builder.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -122,7 +122,7 @@ When you create a webinar, it opens straight into the registration page builder 
 
 New registration pages show the date, time and timezone with a [countdown to the session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown). Selecting that block gives you its visibility (including a **Desktop Only** option), its margins and width, and the fonts, sizes and alignment for the date, time and timezone.
 
-![The registration page builder right after creating a webinar, with the date, countdown and registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder right after creating a webinar, with the date, countdown and registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-live/step-05-registration-page-builder.png)
 
 ### The form block {#form-block}
 
@@ -170,7 +170,7 @@ The AI then [writes your registration page](https://easywebinar.com/ai-webinar-r
 
 When you choose **Paid** at creation, the registration page shows the price above the form. The price option (pricing title, description and price) is selected by default, and **Register Now** takes the attendee to checkout instead of registering them straight away.
 
-![A paid registration page showing the price option above the form and the Register Now button](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-02-registration-page.png)
+![A paid registration page showing the price option above the form and the Register Now button](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-02-registration-page.png)
 
 *1 Price option · 2 Register Now.*
 

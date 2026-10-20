@@ -82,7 +82,7 @@ The screenshot under Set up a replay page shows **Availability** beside **Redire
 5. Under **Experience**, choose **Webinar Replica** or **Custom Build**.
 6. Copy the **Replay Page Link** with **Copy**, or check the page with **Open**.
 
-![The Replay tab with Replay Settings, the Replay Page Link, Availability options, the After the replay ends redirect and the Experience section](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/replay/step-01-replay-settings.png)
+![The Replay tab with Replay Settings, the Replay Page Link, Availability options, the After the replay ends redirect and the Experience section](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/replay/step-01-replay-settings.png)
 
 *1 Replay Settings · 2 Replay Page Link · 3 Availability · 4 Redirects · 5 Experience. The replay link is blurred because it contains the account's own subdomain.*
 

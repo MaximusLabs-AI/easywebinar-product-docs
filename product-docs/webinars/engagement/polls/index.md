@@ -74,7 +74,7 @@ The polls step lists seven goals, shown in the screenshot under Let AI write you
 
 Open your webinar and click the **CTAs** tab.
 
-![The CTAs tab with filters, search and a list of polls and offers, each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-01-cta-list.png)
+![The CTAs tab with filters, search and a list of polls and offers, each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/ctas/step-01-cta-list.png)
 
 *1 All · Polls · Offers filters · 2 Search · 3 The list of CTAs · 4 Row actions.*
 
@@ -96,7 +96,7 @@ Until you add a first poll or offer, the tab reads **"No CTAs found"**.
 5. Watch the preview in the middle of the screen. It shows the poll exactly as attendees will see it and changes as you type.
 6. Set **Published** to on if the poll should be live, then click **Save**.
 
-![The poll editor showing the list of polls, the plus button, the question, the response options and the Published switch with Save](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-02-poll-editor.png)
+![The poll editor showing the list of polls, the plus button, the question, the response options and the Published switch with Save](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/ctas/step-02-poll-editor.png)
 
 *1 Poll list · 2 + · 3 Question · 4 Response Options · 5 Published · Save.*
 
@@ -141,7 +141,7 @@ On a live webinar, polls don't appear on their own: you launch each one manually
 
 At the polls step, you aren't asked what questions to write. You are asked what the polls are for.
 
-![The poll generation step asking what the polls should help accomplish, with seven goals to select and a Generate polls button](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-03-poll-goals.png)
+![The poll generation step asking what the polls should help accomplish, with seven goals to select and a Generate polls button](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-with-ai/step-03-poll-goals.png)
 
 Pick any combination of these goals:
 

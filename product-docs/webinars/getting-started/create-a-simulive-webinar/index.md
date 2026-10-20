@@ -77,7 +77,7 @@ Choosing **Weekly** adds **Days of week**, a **Start Date** and **End Date (Opti
 
 This is the step that makes the webinar simulive. Whatever you pick here is what plays in every session.
 
-![The Video Selection step showing the All, Videos and Recordings filters, a search box, Add Video, the drag-and-drop upload area and the video library](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/simulive/step-01-video-selection.png)
+![The Video Selection step showing the All, Videos and Recordings filters, a search box, Add Video, the drag-and-drop upload area and the video library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/simulive/step-01-video-selection.png)
 
 *1 All · Videos · Recordings · 2 Search and sort · 3 Add Video · 4 Drag and drop · 5 Your library.*
 
@@ -101,7 +101,7 @@ The **Recordings** filter is where earlier webinars show up. If you ran a sessio
 - **Local import** uploads a file from your computer, and EasyWebinar stores and serves it. No YouTube or Vimeo account is involved.
 - **Import from URL** plays a video already on **YouTube**, **Vimeo**, **Wistia** or a direct **MP4** link. You enter the link and the video's length.
 
-![The Import from URL form with Platform, Video title, Video URL and Video duration in hours, minutes and seconds](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/add-video/step-02-import-from-url.png)
+![The Import from URL form with Platform, Video title, Video URL and Video duration in hours, minutes and seconds](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/add-video/step-02-import-from-url.png)
 
 *1 Platform · 2 Video title · 3 Video URL · 4 Video duration.*
 
@@ -135,7 +135,7 @@ Your registration page can then be edited in the drag-and-drop builder. It doesn
 - **On the Content tab**, a **Webinar Video** panel shows the recording you chose. Live webinars don't have this panel.
 - **On the registration page**, check the session times and publish the page before you share the link.
 
-![The Content tab of a simulive webinar, with the five webinar pages and the Webinar Video panel marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/simulive/step-02-webinar-video.png)
+![The Content tab of a simulive webinar, with the five webinar pages and the Webinar Video panel marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/simulive/step-02-webinar-video.png)
 
 *1 Webinar Video, the panel only recorded webinars have.*
 

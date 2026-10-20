@@ -79,7 +79,7 @@ The screenshot under Describe your webinar shows the prompt box, **Type**, the f
 
 Click **Create with AI** in the sidebar.
 
-![The Create with AI screen with the prompt box, the Type selector, the output chips, Generate and the credit balance marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-01-prompt.png)
+![The Create with AI screen with the prompt box, the Type selector, the output chips, Generate and the credit balance marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-with-ai/step-01-prompt.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -141,7 +141,7 @@ Merge tags are already in place, so dates, times and join links fill in automati
 
 ### 5. Generate the polls {#generate-polls}
 
-![Poll generation asking what the polls should help you accomplish, with seven goals and Generate polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-03-poll-goals.png)
+![Poll generation asking what the polls should help you accomplish, with seven goals and Generate polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-with-ai/step-03-poll-goals.png)
 
 Instead of asking what questions you want, this step asks what the polls are for. Choose any combination of goals:
 
@@ -157,7 +157,7 @@ Click **Generate polls**. You get [five polls](https://maximuslabs-ai.github.io/
 
 ### 6. Generate the offers {#generate-offers}
 
-![Offer generation with the three positioning options, a description box for the offer and a field for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-04-offer-positioning.png)
+![Offer generation with the three positioning options, a description box for the offer and a field for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-with-ai/step-04-offer-positioning.png)
 
 First choose how you want to position the offer:
 
@@ -173,7 +173,7 @@ You get [complete offers](https://maximuslabs-ai.github.io/easywebinar-product-d
 
 ### 7. Land on your finished webinar {#finished-webinar}
 
-![The finished webinar's Overview tab, with the AI badge beside the title and the nine tabs marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-05-finished.png)
+![The finished webinar's Overview tab, with the AI badge beside the title and the nine tabs marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-with-ai/step-05-finished.png)
 
 *1 The webinar title, with its AI badge · 2 The nine tabs.*
 

@@ -71,7 +71,7 @@ In the numbered editor screenshot further down, **Countdown timer** is item 2, a
 5. Check the preview in the centre of the editor. It shows the offer exactly as attendees will see it and updates as you type.
 6. Save.
 
-![The offer editor showing style, countdown timer, price, copy and button settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-03-offer-editor.png)
+![The offer editor showing style, countdown timer, price, copy and button settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/ctas/step-03-offer-editor.png)
 
 *The offer editor: 1 Offer Style · 2 Countdown timer · 3 Offer Price · 4 Title, Headline and Sub Headline · 5 Button · 6 Colours.*
 
@@ -100,7 +100,7 @@ The offer stays ready but does not appear until you switch it on.
 
 When you [create a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template), the registration page builder opens with your schedule applied and a countdown to the session already running. On other webinar types, open the page in the builder to check for the countdown block.
 
-![The registration page builder showing the webinar date, a countdown timer and the registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder showing the webinar date, a countdown timer and the registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-live/step-05-registration-page-builder.png)
 
 To change it:
 

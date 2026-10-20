@@ -85,7 +85,7 @@ The screenshot under Set it up shows the **Just-in-time Registration** switch at
 6. Set up any other options you want alongside it: **On Demand**, **Recurring Schedule**, **Availability** and **Schedule Preferences**.
 7. Click **Continue to Pricing** and finish the remaining steps.
 
-![The evergreen schedule step with Just-in-time Registration switched on and its Interval and Exclude specific time settings, next to On Demand, Recurring Schedule, Availability and Schedule Preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-01-schedule.png)
+![The evergreen schedule step with Just-in-time Registration switched on and its Interval and Exclude specific time settings, next to On Demand, Recurring Schedule, Availability and Schedule Preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/evergreen/step-01-schedule.png)
 
 *1 Just-in-time Registration · 2 On Demand · 3 Recurring Schedule · 4 Availability · 5 Schedule Preferences.*
 
@@ -123,7 +123,7 @@ Just-in-time is the only kind of session in EasyWebinar that follows each attend
 
 When just-in-time is on, the **Scheduling Options** panel on the Overview tab shows the timezone as **Attendee's local timezone**.
 
-![An evergreen webinar's Overview with Scheduling Options showing Attendee's local timezone and Display Just-in-time & Instant-replay, above the generated Sessions list](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-02-overview.png)
+![An evergreen webinar's Overview with Scheduling Options showing Attendee's local timezone and Display Just-in-time & Instant-replay, above the generated Sessions list](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/evergreen/step-02-overview.png)
 
 *1 Scheduling Options · 2 Sessions.*
 

@@ -90,7 +90,7 @@ The button stays greyed out until the room can see a camera and a microphone. If
 
 ### 3. Read the room {#read-the-room}
 
-![The green room with its status badges, top-bar controls, Go Live and Exit, the Backstage panel, the side rail and the Layout control marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-01-green-room.png)
+![The green room with its status badges, top-bar controls, Go Live and Exit, the Backstage panel, the side rail and the Layout control marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/live-room/step-01-green-room.png)
 
 *1 Status · 2 Settings, Reactions, EasyCast and Full Screen · 3 Camera, Mic and Share · 4 Go Live and Exit · 5 Backstage · 6 Side rail · 7 Layout.*
 
@@ -108,7 +108,7 @@ The button stays greyed out until the room can see a camera and a microphone. If
 
 As co-hosts and moderators join, they appear backstage. Expand the **Backstage** panel on the left edge of the room to see who's waiting. To see everyone at once, open **People** on the side rail.
 
-![The People panel with Invite People, the Presenters list with the Host marked, and the Attendees list](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-02-people.png)
+![The People panel with Invite People, the Presenters list with the Host marked, and the Attendees list](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/live-room/step-02-people.png)
 
 | | Area | What it shows |
 |---|---|---|

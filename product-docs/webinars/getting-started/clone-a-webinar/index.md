@@ -40,7 +40,7 @@ Cloning makes a new webinar from one you've already built, so you don't set ever
 
 The top of the dialog sets out what you're copying from and what you're creating.
 
-![The Clone Webinar dialog with the source webinar on the left, the Clone into type on the right, and the Live, Simulive and Evergreen type cards below](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/clone/step-01-clone-dialog.png)
+![The Clone Webinar dialog with the source webinar on the left, the Clone into type on the right, and the Live, Simulive and Evergreen type cards below](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/clone/step-01-clone-dialog.png)
 
 *1 Cloning from · 2 Clone into · 3 Choose Webinar Type.*
 
@@ -68,7 +68,7 @@ Choosing a different type from the original is allowed and is the main reason pe
 
 Under **What would you like to copy?**, tick **Select everything** to bring the lot, or choose item by item.
 
-![The What would you like to copy list grouped into Webinar assets, Engagement and Integrations, with a summary of the new webinar's name and type at the bottom](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/clone/step-02-what-to-copy.png)
+![The What would you like to copy list grouped into Webinar assets, Engagement and Integrations, with a summary of the new webinar's name and type at the bottom](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/clone/step-02-what-to-copy.png)
 
 | Group | Items you can copy |
 |---|---|

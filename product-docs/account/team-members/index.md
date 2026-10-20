@@ -31,7 +31,7 @@ Give each colleague who [builds webinars](https://maximuslabs-ai.github.io/easyw
 
 Click **Settings** in the sidebar, then **Team**.
 
-![The Team screen listing members and their roles](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/team/step-01-team-list.png)
+![The Team screen listing members and their roles](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/team/step-01-team-list.png)
 
 | | Area | What it shows |
 |---|---|---|
@@ -47,7 +47,7 @@ Click **Settings** in the sidebar, then **Team**.
 4. Choose a **Role**: **Admin** or **User**.
 5. Click **Add user**.
 
-![The Add user dialog with name, email, password and role](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/team/step-02-add-user.png)
+![The Add user dialog with name, email, password and role](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/team/step-02-add-user.png)
 
 > **No invitation email is sent**
 > You set their password and nothing is emailed to them. There is no invitation to accept, so pass the login details on yourself and ask them to change the password once they are in.

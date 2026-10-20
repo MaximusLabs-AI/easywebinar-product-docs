@@ -78,7 +78,7 @@ The screenshot under Set up chat shows both **Who can see messages** options, **
 4. Choose **Who can see messages**.
 5. Save your changes.
 
-![The Engagement tab's Chat section with Easywebinar Chat and No Chat, the Who can see messages options and the AI Moderation switch](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/engagement/step-01-chat.png)
+![The Engagement tab's Chat section with Easywebinar Chat and No Chat, the Who can see messages options and the AI Moderation switch](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/engagement/step-01-chat.png)
 
 ### Choose the chat mode {#chat-mode}
 
@@ -141,7 +141,7 @@ On an evergreen webinar, a real shared chat isn't possible because attendees arr
 
 On simulive and evergreen webinars you can replace the built-in panel with a chat tool you already use, such as Chatroll, Intercom or anything that gives you an embed snippet.
 
-![The Chat section on an evergreen webinar with Third party selected, a box title and Chatroll widget code pasted in](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/third-party-chat/step-01-third-party.png)
+![The Chat section on an evergreen webinar with Third party selected, a box title and Chatroll widget code pasted in](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/third-party-chat/step-01-third-party.png)
 
 1. On **Engagement** → **Chat**, choose **Third party**.
 2. Give the box a **Box title**. Attendees see it above the widget, so a plain label such as "Live Chat" or "Ask the team" works better than the tool's name.
@@ -153,7 +153,7 @@ Messages then go to your chat tool, not to EasyWebinar, and you read and answer 
 
 To check it, [join a running session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-recorded-session) as an attendee, not as an admin. The widget sits under **Contact** in the right-hand rail, on its **Chat** tab. In the admin view the side panel shows your own host tools instead.
 
-![The webinar room seen as an attendee, with the Contact panel open on its Chat tab showing the embedded widget](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/third-party-chat/step-03-widget-in-room.png)
+![The webinar room seen as an attendee, with the Contact panel open on its Chat tab showing the embedded widget](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/third-party-chat/step-03-widget-in-room.png)
 
 > **Third party replaces the built-in chat**
 > AI Moderation and simulated chat only work with **Easywebinar Chat**. If you want either of them, don't choose **Third party**.

@@ -85,7 +85,7 @@ Select the form block in the page builder and look at the settings panel. **GDPR
 8. Restyle the submit button if it needs to match your page.
 9. Use the device toggle to check the form on mobile, then **Preview**, **Save** and **Publish**.
 
-![The registration page builder with the date, countdown and the default form showing Full name and Email](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder with the date, countdown and the default form showing Full name and Email](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/create-live/step-05-registration-page-builder.png)
 
 *The default form, with **Full name** and **Email**, as it appears when a new webinar opens in the builder.*
 
@@ -101,7 +101,7 @@ Select the form block in the page builder and look at the settings panel. **GDPR
 2. Tag the [links you share](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#registration-page-link) as you normally would, in ads, emails and posts.
 3. Open [**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list) in the sidebar, click **Add Filter**, and choose **Source & UTM** to see which campaign each registrant came from.
 
-![The People view filters panel with categories including Source & UTM](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/people/step-01-filters.png)
+![The People view filters panel with categories including Source & UTM](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/people/step-01-filters.png)
 
 *1 Categories · 2 Refinements · 3 Apply Filter.*
 
@@ -143,7 +143,7 @@ A connected CRM or email tool has a [**Custom fields** tab](https://maximuslabs-
 | **Webinar Replay Short Link** | A shortened version |
 | **Phone Number** | Their phone, if collected |
 
-![The integration Custom fields tab mapping webinar data to CRM fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/integrations/step-02-custom-fields.png)
+![The integration Custom fields tab mapping webinar data to CRM fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/integrations/step-02-custom-fields.png)
 
 Pick the matching CRM field beside each item. The field must already exist in your CRM; after creating one there, click **Refresh**. Integrations are set per webinar.
 

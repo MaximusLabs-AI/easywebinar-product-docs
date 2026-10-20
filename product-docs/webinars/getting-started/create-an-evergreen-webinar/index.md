@@ -50,7 +50,7 @@ An evergreen webinar plays a recording on a schedule that keeps running, instead
 
 The schedule step is where an evergreen webinar differs from every other type. It offers three ways for people to watch, plus controls for when the schedule runs.
 
-![The evergreen schedule step with Just-in-time Registration and On Demand switched on, a daily recurring schedule, availability dates and schedule preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-01-schedule.png)
+![The evergreen schedule step with Just-in-time Registration and On Demand switched on, a daily recurring schedule, availability dates and schedule preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/evergreen/step-01-schedule.png)
 
 *1 Just-in-time Registration · 2 On Demand · 3 Recurring Schedule · 4 Availability · 5 Schedule Preferences.*
 
@@ -105,7 +105,7 @@ If you choose **Paid**, you'll need a connected Stripe account. See [Paid webina
 
 The video you pick here is the recording every session plays, whichever way a registrant chooses to watch.
 
-![The Video Selection step for an evergreen webinar, with filters, search, Add Video, the upload area and the library](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-02-video-selection.png)
+![The Video Selection step for an evergreen webinar, with filters, search, Add Video, the upload area and the library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/evergreen/step-02-video-selection.png)
 
 *1 All · Videos · Recordings · 2 Search and sort · 3 Add Video · 4 Drag and drop · 5 Your library.*
 
@@ -131,7 +131,7 @@ Pick a registration template, or click **Skip & Create Webinar** and choose one 
 
 Open the webinar's **Overview** tab.
 
-![An evergreen webinar's Overview tab, with Scheduling Options showing a daily frequency, start date, the attendee's local timezone and the chosen preference, and a Sessions panel listing generated sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-02-overview.png)
+![An evergreen webinar's Overview tab, with Scheduling Options showing a daily frequency, start date, the attendee's local timezone and the chosen preference, and a Sessions panel listing generated sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/evergreen/step-02-overview.png)
 
 *1 Scheduling Options · 2 Sessions.*
 

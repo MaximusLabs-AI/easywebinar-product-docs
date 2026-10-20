@@ -77,7 +77,7 @@ The screenshot under Open the Share dialog shows the co-presenter, moderator and
 3. Turn on **Shorten URL's** if you want shorter versions.
 4. Copy the link you need.
 
-![The Share dialog with Registration Widget and Share on social media on the left and the sharable links on the right, including registration page, co-presenter, moderator, thank-you, one-click registration, attendee join and attendee replay links](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/overview-tab/step-02-share-links.png)
+![The Share dialog with Registration Widget and Share on social media on the left and the sharable links on the right, including registration page, co-presenter, moderator, thank-you, one-click registration, attendee join and attendee replay links](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/overview-tab/step-02-share-links.png)
 
 *1 Registration Widget · 2 Share on social media · 3 One-Click Registration Link.*
 
@@ -99,7 +99,7 @@ For registered attendees, to enter the live session. Registrants also receive a 
 
 For people watching the recording afterwards. It's the same link as the **Replay Page Link** on the webinar's **Replay** tab, where you also [turn the replay page on](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#set-it-up) with **Enable replay page**.
 
-![The Replay tab with replay settings, the replay page link, availability, redirects and experience options](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/replay/step-01-replay-settings.png)
+![The Replay tab with replay settings, the replay page link, availability, redirects and experience options](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/replay/step-01-replay-settings.png)
 
 *1 Replay Settings · 2 Replay Page Link · 3 Availability · 4 Redirects · 5 Experience.*
 

@@ -77,7 +77,7 @@ One fact is easy to check. On the **Videos** tab of the Library, each card carri
 4. Drop your file onto the box, or click it to browse.
 5. Click **Upload**.
 
-![The Upload media dialog with Local import selected, a video title field and the file drop area](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/video-hosting/step-01-local-import.png)
+![The Upload media dialog with Local import selected, a video title field and the file drop area](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/video-hosting/step-01-local-import.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -97,7 +97,7 @@ EasyWebinar hosts the file from then on. Upload **MP4** files up to **4 GB**, an
 5. Enter the **Video duration** in hours, minutes and seconds.
 6. Click **Upload**.
 
-![The Import from URL form with the Platform, Video title, Video URL and Video duration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/video-hosting/step-02-import-from-url.png)
+![The Import from URL form with the Platform, Video title, Video URL and Video duration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/video-hosting/step-02-import-from-url.png)
 
 | | Field | What to enter |
 |---|---|---|
@@ -106,7 +106,7 @@ EasyWebinar hosts the file from then on. Upload **MP4** files up to **4 GB**, an
 | 3 | **Video URL** | The link to the video |
 | 4 | **Video duration** | The length, in hours, minutes and seconds |
 
-![The Platform list open, showing YouTube, Vimeo, Wistia and MP4 link](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/video-hosting/step-03-platforms.png)
+![The Platform list open, showing YouTube, Vimeo, Wistia and MP4 link](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/video-hosting/step-03-platforms.png)
 
 *The four places a video can come from: EasyWebinar itself, or YouTube, Vimeo, Wistia or a direct MP4 link.*
 

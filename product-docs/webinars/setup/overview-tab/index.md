@@ -35,7 +35,7 @@ Every EasyWebinar webinar opens on its **Overview** tab. From this one screen yo
 
 If you [built the webinar with **Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#finished-webinar), the flow ends here too: it drops you on the finished webinar's Overview, and the webinar carries an **AI** badge in My Webinars. From then on it behaves like one you built by hand.
 
-![The Overview tab of a live webinar with its tabs, top actions, stats, scheduling, sessions, pricing and team panels numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/overview-tab/step-01-overview-tab.png)
+![The Overview tab of a live webinar with its tabs, top actions, stats, scheduling, sessions, pricing and team panels numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/overview-tab/step-01-overview-tab.png)
 
 *1 The nine tabs · 2 Top actions · 3 Live stats · 4 Scheduling Options · 5 Sessions · 6 Registration Pricing · 7 Team & Moderators.*
 
@@ -79,7 +79,7 @@ To change the date, time or recurrence, open the options menu on the **Schedulin
 
 On an [evergreen webinar](https://easywebinar.com/evergreen-webinars/) with just-in-time switched on, the timezone line reads **Attendee's local timezone**. That's because a [just-in-time session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#timezones) starts shortly after each person registers, in their own local time.
 
-![An evergreen webinar's Overview with a daily schedule, attendee's local timezone and a generated list of sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/overview-tab/step-02-overview.png)
+![An evergreen webinar's Overview with a daily schedule, attendee's local timezone and a generated list of sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/overview-tab/step-02-overview.png)
 
 *1 Scheduling Options · 2 Sessions, generated from the schedule.*
 
@@ -105,7 +105,7 @@ To act on one sitting without touching the rest, use the options menu on that se
 - **On a free webinar** the panel reads **This webinar is free — attendees register without payment**, with a **Convert to paid** button.
 - **On a paid webinar** the panel shows your pricing title and price, and the pencil edits them. A **Payment Gateway** panel shows the connected Stripe account, and **Manage** opens your payment settings.
 
-![The Overview tab of a paid webinar showing registrants, revenue, the registration pricing panel and the payment gateway](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-05-overview.png)
+![The Overview tab of a paid webinar showing registrants, revenue, the registration pricing panel and the payment gateway](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/paid-registration/step-05-overview.png)
 
 *1 Registrants · 2 Revenue · 3 Registration Pricing · 4 Payment Gateway.*
 
@@ -146,7 +146,7 @@ If another webinar is already on air, you'll see "You can only have one event li
 
 A recorded webinar has no live room to enter. On an evergreen webinar, wait for a session to be running: the **Sessions** panel's **Live** tab shows it, marked *Live now*, with **Enter room**.
 
-![The Sessions panel of an evergreen webinar with the Live tab selected and Enter room on a running session](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/overview-tab/step-02-live-session.png)
+![The Sessions panel of an evergreen webinar with the Live tab selected and Enter room on a running session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/overview-tab/step-02-live-session.png)
 
 *1 The Live tab, showing sessions currently on air · 2 Enter room, which opens the session.*
 

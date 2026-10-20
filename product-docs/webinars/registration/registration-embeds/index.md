@@ -78,7 +78,7 @@ Open the **Content** tab and scroll below the five page cards. The **Registratio
 3. If you want to change how the form looks, click **View & Customize** first.
 4. Copy the **Embed Code**.
 
-![The Content tab with the five webinar page cards and the Registration Widget section and its embed code below them](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/content/step-01-content-tab.png)
+![The Content tab with the five webinar page cards and the Registration Widget section and its embed code below them](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/content/step-01-content-tab.png)
 
 ### From the Share dialog {#from-share-dialog}
 
@@ -86,7 +86,7 @@ Open the **Content** tab and scroll below the five page cards. The **Registratio
 2. Choose **Registration Widget** in the dialog.
 3. Copy the snippet.
 
-![The Share dialog with Registration Widget, Share on social media and the list of sharable links](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/overview-tab/step-02-share-links.png)
+![The Share dialog with Registration Widget, Share on social media and the list of sharable links](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/overview-tab/step-02-share-links.png)
 
 *1 Registration Widget · 2 Share on social media · 3 One-Click Registration Link.*
 
