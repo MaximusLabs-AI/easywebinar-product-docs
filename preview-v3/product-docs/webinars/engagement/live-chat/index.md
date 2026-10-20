@@ -50,11 +50,25 @@ Chat lets attendees [respond as you present](https://easywebinar.com/blog/webina
 
 ### What happens without it {#without-it}
 
-Without chat, attendees have no way to speak during the session, and the presenter has no way to tell whether the message is landing. Questions go unasked or arrive by email after the moment has passed. For a selling webinar, that is where [doubts that could have been answered](https://easywebinar.com/blog/webinar-qa-strategy-closing-opportunities/) in a sentence turn into "not now".
+Without chat, attendees have no way to speak during the session, and the presenter has no way to tell whether the message is landing. Questions go unasked while the moment passes. For a selling webinar, that is where [doubts that could have been answered](https://easywebinar.com/blog/webinar-qa-strategy-closing-opportunities/) in a sentence turn into "not now".
 
 ### Why buyers care {#why-buyers-care}
 
 Buyers want control over the room: open for community-style sessions, private for sales conversations, off for tightly run presentations. They also want chat to work on recorded webinars, either by answering live during a simulive broadcast or by connecting the tool they already use.
+
+## The EasyWebinar approach to live chat {#approach}
+
+{/* 5P */}
+
+Take a typical case. A financial planning firm runs a monthly live webinar for people within a few years of retirement. Around 120 people attend, and many want to ask about their own pension or savings. One planner presents, and a colleague supports the session.
+
+A common approach is to leave a public chat open and hope people keep personal details out of it. In practice, attendees tend to hold back on money questions when strangers can read them. The chat fills with greetings while the real questions stay unasked, and interest may cool before anyone follows up.
+
+The topic doesn't have to change for people to speak up. What changes is who can read the message. When a question goes only to the firm, an attendee can ask it in plain words. The colleague can reply while the planner keeps presenting.
+
+EasyWebinar sets this on the webinar's **Engagement** tab before the session. The firm keeps **Easywebinar Chat** and sets **Who can see messages** to **Hosts only**. Each attendee then talks privately to the team, and nobody sees anyone else. The colleague joins with the **Moderator Join Link for Live room** and answers from the **Chat** panel in the room.
+
+The screenshot under Set up chat shows both **Who can see messages** options, **Everyone** and **Hosts only**, beside the chat mode. How other platforms handle who sees attendee messages is covered in How live chat compares, below.
 
 ## Set up chat {#set-up-chat}
 
@@ -195,6 +209,31 @@ An [onboarding session](https://easywebinar.com/use-cases/onboard-train-customer
 ### Agencies {#agencies}
 
 An [agency](https://easywebinar.com/solutions/marketing-agencies/) that already handles conversations in an external chat tool runs a client's evergreen webinar with **Third party** chat, so messages land in the tool its team watches every day.
+
+## How live chat compares {#compare}
+
+EasyWebinar lets you choose whether attendees see each other's messages, embed your own chat tool on recorded webinars, and keep a contact form open with chat switched off. EasyWebinar is the only platform in this table that does all three.
+
+Chat features, from each platform's public documentation:
+
+| Platform | Everyone or hosts-only chat | Embed your own chat tool | Contact form with chat off |
+|---|---|---|---|
+| **EasyWebinar** | Yes | Yes | Yes |
+| **Demio** | Yes (Public or Private) | Not in docs | Not in docs |
+| **Livestorm** | Partly (public chat only) | Not in docs | Not in docs |
+| **eWebinar** | Partly (private chat only) | Yes | Yes (Email form option) |
+| **WebinarJam and EverWebinar** | Yes (public, private or both) | Not in docs | Not in docs |
+
+*Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
+
+### Why EasyWebinar is the stronger choice for live chat {#compare-stronger}
+
+- **A shared room or private conversations.** EasyWebinar's **Who can see messages** offers **Everyone** or **Hosts only**. Livestorm's help centre says an enabled chat is public, so everyone in the room sees the messages. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **A chat that can be open to the room.** With **Everyone**, attendees see and reply to each other. eWebinar's help centre describes its chat as private, not public. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Your own chat tool in the room.** EasyWebinar's **Third party** option takes your provider's embed snippet on simulive and evergreen webinars. Demio's help centre doesn't document embedding a third-party chat tool. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Reachable with chat off.** EasyWebinar's **EW Contact Box** works with **No Chat** and sends questions to an email address you choose. WebinarJam's control panel article covers chat visibility, with no contact form documented. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+
+*Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
 ## Limits and things to know {#limits}
 
