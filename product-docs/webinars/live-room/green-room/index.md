@@ -32,7 +32,7 @@ The two together are what EasyWebinar's glossary calls the green room: a present
 
 ### What it's for {#what-its-for}
 
-The green room separates getting ready from being seen. Presenting live involves a handful of things that can go wrong in the first minute: a muted microphone, the wrong camera, a screen share showing the wrong window, a guest who can't hear. The green room gives you time to find those problems while nobody is watching.
+The green room separates getting ready from being seen. Presenting live involves a handful of [things that can go wrong](https://easywebinar.com/blog/common-mistakes-while-hosting-webinars/) in the first minute: a muted microphone, the wrong camera, a screen share showing the wrong window, a guest who can't hear. The green room gives you time to find those problems while nobody is watching.
 
 ### How it helps {#how-it-helps}
 
@@ -43,11 +43,11 @@ The green room separates getting ready from being seen. Presenting live involves
 
 ### What happens without it {#without-it}
 
-Without a staging area, the first few minutes of a webinar become the rehearsal. Attendees who arrived on time watch presenters ask each other whether they can be heard, and the recording that will later become your replay starts with the same fumbling. Guest speakers who join late interrupt the session in progress.
+Without a staging area, the first few minutes of a webinar become the rehearsal. Attendees who arrived on time watch presenters ask each other whether they can be heard, and the recording that will later become your [replay page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#with-recording) starts with the same fumbling. Guest speakers who join late interrupt the session in progress.
 
 ### Why buyers care {#why-buyers-care}
 
-Teams that run webinars with more than one speaker (panels, interviews, product walkthroughs with a moderator) need guests to join without disrupting the session. A green room with a backstage area is what makes a multi-presenter webinar look composed, and buyers comparing tools for live events look at how guests join and whether they can wait off stage.
+Teams that run webinars with more than one speaker (panels, interviews, product walkthroughs with a moderator) need guests to join without disrupting the session. A green room with a backstage area is what makes a multi-presenter webinar look composed, and buyers comparing tools for [live webinars](https://easywebinar.com/live-webinars/) look at how guests join and whether they can wait off stage.
 
 ## Set it up and use it {#set-it-up}
 
@@ -55,14 +55,14 @@ Teams that run webinars with more than one speaker (panels, interviews, product 
 
 Before the session, decide who will present and who will moderate. You have two routes.
 
-**From the Overview tab.** The **Team & Moderators** panel lists the presenters and moderators who can run this webinar. A new webinar shows "No presenters or moderators added yet." Use **Add presenter** for someone who appears on camera and presents, or **Invite** to send an invitation to join the webinar team.
+**From the Overview tab.** The [**Team & Moderators** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#team-and-moderators) lists the presenters and moderators who can run this webinar. A new webinar shows "No presenters or moderators added yet." Use **Add presenter** for someone who appears on camera and presents, or **Invite** to send an invitation to join the webinar team.
 
 **With a join link.** Click **Share** on the webinar and copy the link for the role:
 
 | Link | Who it's for |
 |---|---|
-| **Co-presenter Join Link** | A presenter, so they can join the room |
-| **Moderator Join Link for Live room** | A moderator, to handle chat and questions |
+| [**Co-presenter Join Link**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#co-presenter-join-link) | A presenter, so they can join the room |
+| **Moderator Join Link for Live room** | A moderator, to handle [chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#moderators) and [questions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#moderators) |
 
 A presenter or moderator joining by link doesn't need an EasyWebinar account. Treat both links as private: anyone holding one can join your room in that role. The registration, attendee and replay links are the ones meant for your audience.
 
@@ -112,14 +112,14 @@ If a guest hasn't received their link, **Invite People** gives you the presenter
 Use the time before going live to:
 
 - **Test Share** with the window or screen you'll actually present.
-- **Confirm recording.** **Auto Recording Enabled** in the header means the session will be recorded; **Settings → Recording Settings** changes it.
+- **[Confirm recording](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording).** **Auto Recording Enabled** in the header means the session will be recorded; **Settings → Recording Settings** changes it.
 - **Set the look.** Backgrounds, blur, frame overlays and layout are on **Design**. Changes apply immediately, so set them here rather than mid-broadcast.
-- **Switch on any EasyCast destinations.** Click **EasyCast** in the top bar and turn **Stream** on for each channel this session should reach.
+- **Switch on any [EasyCast destinations](https://easywebinar.com/easycast/).** Click **EasyCast** in the top bar and turn **Stream** on for each channel this session should reach.
 - **Decide on camera and mic.** You can switch **Camera** and **Mic** off in the green room and still go live, for a session built on slides or video.
 
 ### 6. Leave the green room {#leave-the-green-room}
 
-Click **Go Live** when everyone is ready. The confirmation reminds you that anyone in the waiting area will be moved in automatically, and that offers and polls should already exist. Confirm, and the header changes from **Not Live** to **LIVE** with a timer.
+Click **Go Live** when everyone is ready. The confirmation reminds you that anyone in the waiting area will be moved in automatically, and that [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer) and [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#create-a-poll) should already exist. Confirm, and the header changes from **Not Live** to **LIVE** with a timer.
 
 To leave without broadcasting, click **Exit**. For what happens once you're live, see [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/).
 
@@ -127,7 +127,7 @@ To leave without broadcasting, click **Exit**. For what happens once you're live
 
 ### Team members and roles {#with-team-members}
 
-A team member is someone with their own EasyWebinar login, created under **Settings → Team** as an **Admin** or **User**. A presenter or moderator is someone running a specific webinar. Add a person to your team when they work in EasyWebinar regularly; send a join link when they're a guest on one session. Sharing one login between hosts means only one of you can be in the live room as a host. See [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/).
+A team member is someone with their own EasyWebinar login, created under **Settings → Team** as an [**Admin** or **User**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/#roles). A presenter or moderator is someone running a specific webinar. Add a person to your team when they work in EasyWebinar regularly; send a join link when they're a guest on one session. Sharing one login between hosts means only one of you can be in the live room as a host. See [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/).
 
 ### Share links {#with-share-links}
 
@@ -147,19 +147,19 @@ These are typical patterns, shown to illustrate how the green room and backstage
 
 ### B2B marketing teams {#b2b-marketing}
 
-A marketing team runs a panel with two guest speakers from partner companies. Each guest gets the **Co-presenter Join Link**, joins fifteen minutes early, and checks their audio backstage. The host introduces the topic alone, then moves each guest onto the stage in turn.
+A [marketing team](https://easywebinar.com/solutions/marketing-teams/) runs a panel with two guest speakers from partner companies. Each guest gets the **Co-presenter Join Link**, joins fifteen minutes early, and checks their audio backstage. The host introduces the topic alone, then moves each guest onto the stage in turn.
 
 ### Customer success teams {#customer-success}
 
-A customer success manager presents a training session while a colleague joins with the **Moderator Join Link for Live room** to handle questions. The moderator never needs to appear on stage, so they stay off it for the whole session.
+A customer success manager presents a [customer training session](https://easywebinar.com/solutions/customer-success-teams/) while a colleague joins with the **Moderator Join Link for Live room** to handle questions. The moderator never needs to appear on stage, so they stay off it for the whole session.
 
 ### Coaches and consultants {#coaches}
 
-A coach runs an interview-style masterclass with a guest expert who has no EasyWebinar account. The guest joins by link, waits backstage during the coach's opening, and comes on stage for the interview segment.
+A coach runs an [interview-style masterclass](https://easywebinar.com/webinar-platform-for-coaches-course-creators/) with a guest expert who has no EasyWebinar account. The guest joins by link, waits backstage during the coach's opening, and comes on stage for the interview segment.
 
 ### SaaS and product teams {#product-teams}
 
-A product team rehearses a launch webinar in the green room: they test the screen share of the product, pick a layout that gives the demo most of the stage, and switch on a LinkedIn Organisation destination in EasyCast before going live.
+A product team rehearses a [product launch demo](https://easywebinar.com/use-cases/product-demos/) in the green room: they test the screen share of the product, pick a layout that gives the demo most of the stage, and switch on a LinkedIn Organisation destination in EasyCast before going live.
 
 ## Limits and things to know {#limits}
 
@@ -169,7 +169,7 @@ A product team rehearses a launch webinar in the green room: they test the scree
 - **Presenter and moderator links grant that role** to whoever holds them. Keep them private.
 - **Joining by link needs no account,** but a person with a team login can also join as a presenter.
 - **Design changes apply as you make them.** Anything you change after going live is visible.
-- **Only one event can be live at a time.** If another webinar is live, **Enter Room** shows "You can only have one event live at a time."
+- **[Only one event can be live](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/#one-event-live) at a time.** If another webinar is live, **Enter Room** shows "You can only have one event live at a time."
 
 ## Common questions {#common-questions}
 
@@ -215,9 +215,7 @@ No. The green room is for you and your presenters. The waiting area is where att
 
 ## Related {#related}
 
-- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/)
-- [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/)
-- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/)
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/)
-- [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/)
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/)
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): the session has to exist and be scheduled before you can enter its green room.
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room): where **Enter Room** opens the green room for a session.
+- [Live chat settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#chat-mode): decide how chat behaves before your moderator joins backstage.
+- [Set up Q&A](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#set-up-qa): set up the question queue a moderator will work through.

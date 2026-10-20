@@ -9,13 +9,13 @@ Build an evergreen webinar in EasyWebinar that plays a recording on a continuous
 
 An evergreen webinar plays a recording on a schedule that keeps running, instead of on one fixed date. A visitor to the registration page picks a session that suits them, and the recording plays for them at that time. You set up the schedule once, with any combination of just-in-time sessions, On Demand viewing and recurring daily or weekly times, and EasyWebinar generates the sessions from it.
 
-**Expected result:** an evergreen webinar with its schedule, pricing and recording set, a list of upcoming sessions generated on its **Overview** tab, and a registration page ready to publish.
+**Expected result:** an evergreen webinar with its schedule, pricing and recording set, a list of [upcoming sessions generated on its **Overview** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#evergreen-scheduling), and a registration page ready to publish.
 
 ## At a glance {#at-a-glance}
 
 | | |
 |---|---|
-| **What it is** | A recorded webinar that runs continuously, with timing personalised to each registrant |
+| **What it is** | A [recorded webinar that runs continuously](https://easywebinar.com/evergreen-webinars/), with timing personalised to each registrant |
 | **Ways to watch** | **Just-in-time Registration**, **On Demand** and **Recurring Schedule**, in any combination |
 | **Just-in-time interval** | Every 2, 15, 30, 45 or 60 minutes |
 | **Recurring frequency** | **Daily** or **Weekly**, with **Add Time** for more than one slot a day |
@@ -23,7 +23,7 @@ An evergreen webinar plays a recording on a schedule that keeps running, instead
 | **Timezone** | Just-in-time sessions follow each attendee's local time; recurring sessions use the webinar's timezone |
 | **Video** | Uploaded and hosted by EasyWebinar, or imported from YouTube, Vimeo, Wistia or a direct MP4 link |
 | **Changing the video later** | **Webinar Video** panel on the **Content** tab, without disturbing schedule or registrations |
-| **Also called** | Automated webinar |
+| **Also called** | [Automated webinar](https://easywebinar.com/automated-webinars/) |
 
 ## Before you begin {#before-you-begin}
 
@@ -167,7 +167,7 @@ For the scheduled-broadcast version, see [Create a simulive webinar](https://max
 
 ### What it's for {#what-its-for}
 
-Evergreen suits a webinar that belongs to a funnel and should work whether or not you're available: a product demo, an onboarding session, an offer that runs all year.
+Evergreen suits a webinar that [belongs to a funnel](https://easywebinar.com/blog/evergreen-sales-funnel/) and should work whether or not you're available: a product demo, an onboarding session, an offer that runs all year.
 
 ### How it helps {#how-it-helps}
 
@@ -188,7 +188,7 @@ Teams using webinars as a standing acquisition or onboarding channel need sessio
 
 ### Just-in-time and On Demand {#with-jit-and-on-demand}
 
-These two schedule options have their own pages: [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) and [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/). Both can run alongside a recurring schedule.
+Just-in-time and On Demand are both switched on in Step 3 above. Both can run alongside a recurring schedule, and the registration page shows each one you enable as a choice.
 
 ### Chat Simulation {#with-chat-simulation}
 
@@ -196,7 +196,7 @@ On an automated webinar, people arrive at different times, so a shared live conv
 
 ### Chat choices for recorded webinars {#with-chat-options}
 
-Evergreen webinars can use **Easywebinar Chat**, embed an external chat tool with **Third party**, or turn chat off with **No Chat** while keeping the **EW Contact Box** for questions sent by email.
+Evergreen webinars can use **Easywebinar Chat**, [embed an external chat tool](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#third-party-chat) with **Third party**, or turn chat off with **No Chat** while keeping the **EW Contact Box** for questions sent by email.
 
 ### AI Moderator (Beta) {#with-ai-moderator}
 
@@ -224,15 +224,15 @@ These are typical patterns, shown to illustrate how the type is used.
 
 ### Course creators {#course-creators}
 
-A creator runs a teaching webinar that ends with an enrolment offer, on a daily schedule with just-in-time sessions. The webinar sells the course while the course itself stays on the creator's own platform. See [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator runs a teaching webinar that ends with an [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), on a daily schedule with just-in-time sessions. The webinar sells the course while the course itself stays on the creator's own platform. See [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### SaaS and product teams {#saas-teams}
 
-A product team puts a recorded demo behind its "see it in action" link. With just-in-time on, a visitor who registers can be watching within minutes, while the details are still fresh in their mind.
+A product team puts a [recorded demo](https://easywebinar.com/use-cases/product-demos/) behind its "see it in action" link. With just-in-time on, a visitor who registers can be watching within minutes, while the details are still fresh in their mind.
 
 ### Customer success teams {#customer-success}
 
-A customer success team turns its onboarding walkthrough into an evergreen webinar with On Demand switched on, so new customers can watch the moment they sign up instead of waiting for a scheduled session.
+A customer success team turns its [onboarding walkthrough](https://easywebinar.com/use-cases/onboard-train-customers/) into an evergreen webinar with On Demand switched on, so new customers can watch the moment they sign up instead of waiting for a scheduled session.
 
 ### Small businesses and solo operators {#small-business}
 
@@ -260,11 +260,11 @@ Yes. Enable all three and the registration page presents each as a choice.
 
 #### What does a just-in-time session do? {#faq-jit}
 
-It starts a few minutes after someone registers rather than at a fixed future time. See [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/).
+It starts a few minutes after someone registers rather than at a fixed future time.
 
 #### Is On Demand the same as the replay page? {#faq-on-demand-vs-replay}
 
-No. On Demand lets a registrant watch straight away. The replay page shows the recording of a session that has already happened. See [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/).
+No. On Demand lets a registrant watch straight away. The replay page shows the recording of a session that has already happened.
 
 #### Do my attendees see times in their own timezone? {#faq-timezone}
 
@@ -292,9 +292,8 @@ No. Clone the live webinar, choose **Evergreen** for the copy, and select the li
 
 ## Related {#related}
 
-- [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/)
-- [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/)
-- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/)
-- [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/)
+- [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/): choosing an interval and testing a session that starts minutes after registering.
+- [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/): wording the instant replay button and how it differs from the replay page.
+- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): the other recorded type, with everyone watching at set times.
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): keeping the chat active when registrants watch at different times.
+- [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/): uploading or importing the recording every session plays.

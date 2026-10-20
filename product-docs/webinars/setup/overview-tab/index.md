@@ -25,7 +25,7 @@ Every EasyWebinar webinar opens on its **Overview** tab. From this one screen yo
 
 - **Create the webinar first.** The Overview tab belongs to a webinar that already exists. See [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/), [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) or [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
 - **Expect zeros on a new webinar.** The four stats stay at zero until registrations start.
-- **To charge for registration, have Stripe ready.** Converting a webinar to paid needs a connected Stripe account. Read [the warning about converting](#registration-pricing) before you use it.
+- **To charge for registration, have Stripe ready.** Converting a webinar to paid needs a connected Stripe account. Read the warning about converting in Step 4 below before you use it.
 - **To go live, have a camera and microphone.** **Enter Room** checks both before letting you in.
 
 ## Open the Overview tab {#open-overview}
@@ -33,7 +33,7 @@ Every EasyWebinar webinar opens on its **Overview** tab. From this one screen yo
 1. Click **My Webinars** in the sidebar.
 2. Click the webinar you want. It opens on **Overview**.
 
-If you built the webinar with **Create with AI**, the flow ends here too: it drops you on the finished webinar's Overview, and the webinar carries an **AI** badge in My Webinars. From then on it behaves like one you built by hand. See [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/).
+If you [built the webinar with **Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#finished-webinar), the flow ends here too: it drops you on the finished webinar's Overview, and the webinar carries an **AI** badge in My Webinars. From then on it behaves like one you built by hand.
 
 ![The Overview tab of a live webinar with its tabs, top actions, stats, scheduling, sessions, pricing and team panels numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/overview-tab/step-01-overview-tab.png)
 
@@ -51,7 +51,7 @@ If you built the webinar with **Create with AI**, the flow ends here too: it dro
 
 ## Step 1: Read the four stats {#read-the-stats}
 
-The stat cards across the top tell you, at a glance, whether people are signing up and turning up.
+The stat cards across the top tell you, at a glance, whether people are signing up and [turning up](https://easywebinar.com/blog/how-to-drive-webinar-attendance/).
 
 | Stat | What it counts |
 |---|---|
@@ -60,7 +60,7 @@ The stat cards across the top tell you, at a glance, whether people are signing 
 | **Total Attended** | Live attendees plus replay viewers, so it is always the larger of the two attendance numbers |
 | **Revenue** | Money taken through this webinar |
 
-These are headline numbers. For the full picture, open the **Analytics** tab: it adds **Visitors**, **Replay Watched** and **Missed**, and splits **Total Attended** into **Live only**, **Replay only** and **Both**. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
+These are headline numbers. For the full picture, open the [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel): it adds **Visitors**, **Replay Watched** and **Missed**, and splits **Total Attended** into **Live only**, **Replay only** and **Both**.
 
 ## Step 2: Check or change the schedule {#scheduling-options}
 
@@ -77,7 +77,7 @@ To change the date, time or recurrence, open the options menu on the **Schedulin
 
 ### What changes on an evergreen webinar {#evergreen-scheduling}
 
-On an evergreen webinar with just-in-time switched on, the timezone line reads **Attendee's local timezone**. That's because a just-in-time session starts shortly after each person registers, in their own local time. See [Just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/).
+On an [evergreen webinar](https://easywebinar.com/evergreen-webinars/) with just-in-time switched on, the timezone line reads **Attendee's local timezone**. That's because a [just-in-time session](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#timezones) starts shortly after each person registers, in their own local time.
 
 ![An evergreen webinar's Overview with a daily schedule, attendee's local timezone and a generated list of sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/overview-tab/step-02-overview.png)
 
@@ -110,7 +110,7 @@ To act on one sitting without touching the rest, use the options menu on that se
 *1 Registrants · 2 Revenue · 3 Registration Pricing · 4 Payment Gateway.*
 
 > **Choose Paid when you create the webinar**
-> Converting needs a connected Stripe account. But when a free webinar is converted to paid after creation, its registration page keeps the free form, so people can still register without paying. If you want to charge, create a new webinar and choose **Paid** on the pricing step. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/).
+> Converting needs a connected Stripe account. But when a free webinar is converted to paid after creation, its registration page keeps the free form, so people can still register without paying. If you want to charge, create a new webinar and [choose **Paid** on the pricing step](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#choose-paid-at-creation).
 
 
 ## Step 5: Add presenters and moderators {#team-and-moderators}
@@ -124,23 +124,23 @@ You don't have to add everyone here. The **Share** dialog has a **Co-presenter J
 
 ### Team members are a different thing {#team-members-vs-presenters}
 
-A team member is someone with their own login to your EasyWebinar account, added under **Settings → Team** as an **Admin** or a **User**. A presenter or moderator is someone running a specific webinar, added on that webinar's Overview tab. Add someone to the team when they work in EasyWebinar regularly; send a join link when they're a guest on one session. See [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/).
+A [team member](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/#presenters-and-moderators) is someone with their own login to your EasyWebinar account, added under **Settings → Team** as an **Admin** or a **User**. A presenter or moderator is someone running a specific webinar, added on that webinar's Overview tab. Add someone to the team when they work in EasyWebinar regularly; send a join link when they're a guest on one session.
 
 ## Step 6: Share the webinar {#share}
 
-Click **Share** to see the seven links the webinar generates, grouped under **Share Links**, **Registration Widget** and **Share on social media**, with a **Shorten URL's** toggle. The one to promote is the **Registration Page Link**. The co-presenter and moderator links let someone into the room in that role, so keep them private. Each link, and who it's for, is covered in [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/).
+Click **Share** to see the [seven links the webinar generates](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#the-seven-links), grouped under **Share Links**, **Registration Widget** and **Share on social media**, with a **Shorten URL's** toggle. The one to promote is the **Registration Page Link**. The co-presenter and moderator links let someone into the room in that role, so keep them private.
 
 **Registration Page**, beside **Share**, opens the live registration page so you can see what visitors see.
 
 ## Step 7: Enter the room {#enter-room}
 
-On a live webinar, **Enter Room** takes you into the webinar room.
+On a [live webinar](https://easywebinar.com/live-webinars/), **Enter Room** takes you into the [webinar room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#open-the-room).
 
 1. Click **Enter Room**.
 2. Check your **camera, microphone and speakers** and pick your devices.
 3. Click **Continue to Green Room**. The button stays greyed out until the room can see a working camera and microphone.
 
-If another webinar is already on air, you'll see "You can only have one event live at a time." Join that one, or go live with the new one. See [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/) and [The green room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/).
+If another webinar is already on air, you'll see "You can only have one event live at a time." Join that one, or go live with the new one.
 
 ### Entering a running session on a recorded webinar {#enter-recorded-session}
 
@@ -176,29 +176,29 @@ Without a single summary screen, the basics of a webinar get scattered. You chec
 
 ### Why buyers care {#why-buyers-care}
 
-Anyone running more than one webinar a month needs to see each one's state quickly and hand the right links to the right people. Buyers comparing platforms look at how much it takes to manage a webinar after it's created: changing a date, acting on one sitting, adding a guest speaker, checking revenue.
+Anyone running more than one webinar a month needs to see each one's state quickly and hand the right links to the right people. Buyers [comparing platforms](https://easywebinar.com/compare/webinar-platforms/) look at how much it takes to manage a webinar after it's created: changing a date, acting on one sitting, adding a guest speaker, checking revenue.
 
 ## How the Overview tab works with other features {#works-with}
 
 ### Registration page {#with-registration-page}
 
-The registration page is built on the **Content** tab and opened from the **Registration Page** button here. The **Registrants** stat counts people who complete its form. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+The registration page is [built on the **Content** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#open-the-builder) and opened from the **Registration Page** button here. The **Registrants** stat counts people who complete its form.
 
 ### Paid registration {#with-paid-registration}
 
-On a paid webinar, **Registrants** counts everyone who has registered and paid, and **Revenue** is the total taken. Every transaction is listed under **Analytics → Revenue → Paid Webinar**. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/).
+On a [paid webinar](https://easywebinar.com/paid-webinars/), **Registrants** counts everyone who has registered and paid, and **Revenue** is the total taken. Every transaction is listed under **Analytics → Revenue → Paid Webinar**.
 
 ### Analytics {#with-analytics}
 
-The four stats are a summary of what the **Analytics** tab shows in detail. A brand-new webinar shows zeros on both until registrations start. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
+The four stats are a summary of what the **Analytics** tab shows in detail. A brand-new webinar shows zeros on both until registrations start.
 
 ### Replays {#with-replays}
 
-**Total Attended** includes replay viewers, and the **Attendee Replay link** sits in the Share dialog. Replay availability and design are set on the **Replay** tab. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/).
+**Total Attended** includes replay viewers, and the **Attendee Replay link** sits in the Share dialog. [Replay availability](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) and design are set on the **Replay** tab.
 
 ### Cloning {#with-cloning}
 
-The type of a webinar can't be changed after it's created. To run the same webinar as a different type, clone it from its card on **My Webinars**. The copy starts with no registrations. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+The type of a webinar can't be changed after it's created. To run the same webinar as a different type, [clone it](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) from its card on **My Webinars**. The copy starts with no registrations.
 
 ## Who uses the Overview tab, and how {#who-uses-it}
 
@@ -206,19 +206,19 @@ These are typical patterns, shown to illustrate how the tab fits different teams
 
 ### Coaches and consultants {#coaches}
 
-A coach runs a weekly live session. Before each one they open the Overview, check the **Upcoming** tab for the right date, glance at **Registrants**, and use **Enter Room** to get into the green room early.
+A coach runs a weekly live session. Before each one they open the Overview, check the **Upcoming** tab for the right date, glance at **Registrants**, and use **Enter Room** to get into the [green room early](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#enter-the-green-room).
 
 ### Agencies {#agencies}
 
-An agency runs webinars for clients, with the client's own speaker presenting. The account manager sends the speaker the **Co-presenter Join Link** from **Share**, so the speaker doesn't need an EasyWebinar login, and adds a colleague as moderator under **Team & Moderators**.
+An agency [runs webinars for clients](https://easywebinar.com/solutions/marketing-agencies/), with the client's own speaker presenting. The account manager sends the speaker the **Co-presenter Join Link** from **Share**, so the speaker doesn't need an EasyWebinar login, and adds a colleague as moderator under **Team & Moderators**.
 
 ### B2B marketing teams {#b2b-marketing}
 
-A marketing team runs a webinar for a product launch. The Overview gives them the **Registration Page Link** to promote, and the gap between **Registrants** and **Live Attended** tells them, after the session, whether reminders did their job.
+A [marketing team](https://easywebinar.com/solutions/marketing-teams/) runs a webinar for a product launch. The Overview gives them the **Registration Page Link** to promote, and the gap between **Registrants** and **Live Attended** tells them, after the session, whether [reminders did their job](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-analytics).
 
 ### Course creators {#course-creators}
 
-A creator runs an evergreen webinar every day. The Overview shows the generated run of upcoming sessions, and the **Live** tab lets them enter a session while it is running. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/) runs an evergreen webinar every day. The Overview shows the generated run of upcoming sessions, and the **Live** tab lets them enter a session while it is running.
 
 ## Limits and things to know {#limits}
 
@@ -278,10 +278,9 @@ A recorded webinar has no live room to enter. When a session is running, it appe
 
 ## Related {#related}
 
-- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/)
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/)
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)
-- [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/)
-- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/)
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
+- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/): who gets each link behind **Share**, and which to keep private.
+- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): edit and publish the page the **Registration Page** button opens.
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): set a price at creation, since a converted webinar keeps the free form.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): the full funnel behind the four headline stats.
+- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): what happens after **Enter Room** and the device check.
+- [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/): when to give someone a login instead of a join link.

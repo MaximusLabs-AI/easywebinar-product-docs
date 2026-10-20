@@ -28,9 +28,9 @@ To run a live webinar in EasyWebinar, you open the webinar room from the webinar
 - **Be signed in as a team member.** Any team member signed in to EasyWebinar can open the room. To bring in a co-presenter or moderator, see [The green room and backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/).
 - **Check your camera and microphone.** The room won't let you past the device check without both.
 - **Set chat, Q&A and the attendee list in advance.** Who can see chat messages and how Q&A works are chosen on the webinar's **Engagement** tab. Whether attendees can see each other is **Show Attendees** on the **Settings** tab. These belong to the webinar's setup, not the live room, so decide them before the session.
-- **Build your polls and offers.** Create them on the **CTAs** tab. You can keep an offer switched off in the list until you want it.
+- **Build your polls and offers.** Create [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#create-a-poll) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer) on the **CTAs** tab. You can keep an offer switched off in the list until you want it.
 - **Fill in End of Session.** On the **Settings** tab, **End of Session** is where attendees go when the stream ends. It's empty by default, which leaves attendees on a finished webinar.
-- **Connect any streaming destinations.** If you plan to stream to YouTube or LinkedIn as well, connect them once under **Integrations → EasyCast** in the sidebar.
+- **Connect any streaming destinations.** If you plan to [stream to YouTube or LinkedIn](https://easywebinar.com/easycast/) as well, connect them once under **Integrations → EasyCast** in the sidebar.
 
 ## Run the session {#run-the-session}
 
@@ -89,13 +89,13 @@ Click **Design** on the right-hand rail. Do this now: design changes apply immed
 | 6 | **Layout** | Open **Choose Layout** at the bottom of the stage to arrange presenters |
 | 7 | **Theme** | **Light**, **Dark** or **System**, for your own view only |
 
-Blur is the quickest fix for an untidy room. A frame overlay is where your branding goes, and it carries through to the recording and anything EasyCast streams out. Upload overlays with a transparent background, otherwise they cover the video instead of framing it. Layout matters most with several presenters or a screen share, because it decides whether your slides or your faces take the space.
+Blur is the quickest fix for an untidy room. A frame overlay is where [your branding goes](https://easywebinar.com/blog/customizing-webinar-software-for-brand-consistency/), and it carries through to the recording and anything EasyCast streams out. Upload overlays with a transparent background, otherwise they cover the video instead of framing it. Layout matters most with several presenters or a screen share, because it decides whether your slides or your faces take the space.
 
 ### 6. Switch on streaming destinations (optional) {#switch-on-easycast}
 
 If you connected destinations in **Integrations → EasyCast**, click **EasyCast** in the top bar of the room. Switch **Stream** on for each destination you want this session to reach. The pencil beside a destination sets the title and description shown on that platform, so your public stream doesn't carry your internal webinar name. **Connect More Channels** takes you to the Integrations page to add another.
 
-EasyCast is set up per account, so a destination connected once is available on every webinar. It covers **YouTube**, **LinkedIn**, **LinkedIn Organisation** and **Custom RTMP**.
+EasyCast is set up per account, so a destination connected once is available on every webinar. It covers [**YouTube**](https://easywebinar.com/blog/how-to-stream-webinars-on-youtube-with-easycast/), **LinkedIn**, **LinkedIn Organisation** and **Custom RTMP**.
 
 ### 7. Go live {#go-live}
 
@@ -125,7 +125,7 @@ Everything you use while presenting sits on the right-hand rail:
 
 In the top bar, **Share** shares your screen, **Full Screen** expands the stage, and **Reactions** enables emoji reactions from the room.
 
-Polls don't fire on their own in a live session, so plan when each one goes out. Offers reach the room when you push them from the **Offers** panel. The **Question** panel keeps **Active** and **Answered** apart, so you can see at a glance what's still waiting.
+Polls don't fire on their own in a live session, so [plan when each poll goes out](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#launch-a-poll-live). Offers reach the room when you [push them from the **Offers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room). The [**Question** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#answer-in-the-room) keeps **Active** and **Answered** apart, so you can see at a glance what's still waiting.
 
 ### 9. End the session {#end-the-session}
 
@@ -156,11 +156,11 @@ The live room is where a live webinar actually happens. Everything you set up be
 
 ### What happens without it {#without-it}
 
-Without a staging area, presenters test their microphones in front of the audience, and a co-host's first words are an apology about echo. Without a confirmation step, a webinar can start before the offers exist. Without automatic recording, the replay you planned to send to no-shows may not exist at all.
+Without a staging area, presenters test their microphones in front of the audience, and a co-host's first words are an apology about echo. Without a confirmation step, a webinar can start before the offers exist. Without automatic recording, the [replay you planned to send to no-shows](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/) may not exist at all.
 
 ### Why buyers care {#why-buyers-care}
 
-Teams choosing a webinar platform want to know that a live session will look composed, that they can sell during it, and that they'll have a recording afterwards. The live room covers all three in one place, and the recording feeds the replay and the evergreen version of the same webinar.
+Teams choosing a [live webinar platform](https://easywebinar.com/live-webinars/) want to know that a live session will look composed, that they can sell during it, and that they'll have a recording afterwards. The live room covers all three in one place, and the recording feeds the replay and the evergreen version of the same webinar.
 
 ## How the live room works with other features {#works-with}
 
@@ -170,7 +170,7 @@ How chat and questions behave in the room is set on the webinar's **Engagement**
 
 ### Polls and offers {#with-polls-and-offers}
 
-Polls and offers are created on the **CTAs** tab and shown from the room. A row's toggle in the CTAs list keeps an offer ready without showing it. See [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/), [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/) and [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/).
+Polls and offers are created on the **CTAs** tab and shown from the room. A row's toggle in the CTAs list keeps an offer ready without showing it. Switch on **Countdown timer** in the offer editor to put a [countdown on an offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-offer-countdown).
 
 ### Replays and the Library {#with-replays-and-library}
 
@@ -182,7 +182,7 @@ A webinar's type can't be changed, so the way to automate a successful live sess
 
 ### EasyCast {#with-easycast}
 
-EasyCast streams the live session to YouTube, LinkedIn, LinkedIn Organisation pages and custom RTMP destinations, connected once under **Integrations → EasyCast** and switched on per session in the room. Facebook isn't offered as a destination; its RTMP details may work under **Custom RTMP**.
+[EasyCast multistreaming](https://easywebinar.com/easycast/) sends the live session to YouTube, LinkedIn, LinkedIn Organisation pages and custom RTMP destinations, connected once under **Integrations → EasyCast** and switched on per session in the room. Facebook isn't offered as a destination; its RTMP details may work under **Custom RTMP**.
 
 ## Who runs live webinars, and how {#who-uses-it}
 
@@ -190,11 +190,11 @@ These are typical patterns, shown to illustrate how the live room fits different
 
 ### Coaches and consultants {#coaches}
 
-A coach runs a live masterclass alone. They blur the background in the green room, keep recording on, launch a poll about the audience's situation halfway through, and push a booking offer near the end. **End of Session** sends everyone to the booking page.
+A coach runs a [live masterclass](https://easywebinar.com/webinar-platform-for-coaches-course-creators/) alone. They blur the background in the green room, keep recording on, launch a poll about the audience's situation halfway through, and push a booking offer near the end. **End of Session** sends everyone to the booking page.
 
 ### SaaS and product teams {#product-teams}
 
-A product manager presents a release walkthrough while a colleague moderates. The colleague waits backstage, handles the **Question** queue during the demo, and comes on stage for the last ten minutes to answer the top questions. **Share** carries the product demo, and the layout favours the screen.
+A product manager presents a [release walkthrough or product demo](https://easywebinar.com/use-cases/product-demos/) while a colleague moderates. The colleague waits backstage, handles the **Question** queue during the demo, and comes on stage for the last ten minutes to answer the top questions. **Share** carries the product demo, and the layout favours the screen.
 
 ### B2B marketing teams {#b2b-marketing}
 
@@ -202,7 +202,7 @@ A marketing team runs a panel webinar with branded frame overlays and streams it
 
 ### Course creators {#course-creators}
 
-A creator runs a training live a few times with recording on, then clones the strongest session as an evergreen webinar using the recording from the Library. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator runs a training live a few times with recording on, then clones the strongest session as an [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) using the recording from the Library. The [course creator's guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#live-then-automate) follows that route end to end.
 
 ## Limits and things to know {#limits}
 
@@ -263,12 +263,7 @@ Another of your events is live. EasyWebinar allows one live event at a time.
 
 ## Related {#related}
 
-- [The green room and backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/)
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/)
-- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/)
-- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/)
-- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/)
-- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/)
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/)
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/)
-- [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/)
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): set the session time and registration before you open the room.
+- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room): where **Enter Room** sits, and where past sessions are listed.
+- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#co-presenter-join-link): the co-presenter and moderator links that bring people backstage.
+- [Webinar analytics and live attendance](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel): how many registrants turned up to this session.

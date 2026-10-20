@@ -36,13 +36,13 @@ The **Replay** tab holds everything about the page people use to catch up on a p
 | 4 | **Redirects** | Where viewers go when the recording finishes |
 | 5 | **Experience** | What the replay page looks like |
 
-The replay page is also the fifth of the five webinar pages on the **Content** tab, after the registration page, thank-you page, waiting area and webinar page. The Replay tab decides how the page behaves; the Content tab is where you can style it in the page builder.
+The replay page is also the fifth of the five webinar pages on the **Content** tab, after the registration page, thank-you page, waiting area and webinar page. The Replay tab decides how the page behaves; the Content tab is where you can [style it in the page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#open-the-builder).
 
 ## Why replay pages matter {#why-it-matters}
 
 ### What it's for {#what-its-for}
 
-A replay gives everyone who registered a second chance at the session. It serves the people who couldn't make the live time, the people who left early, and the people who want to watch again. For a webinar that ends in an offer, it also extends the window in which someone can act on it.
+A replay gives everyone who registered a second chance at the session. It serves the people who couldn't make the live time, the people who left early, and the people who want to watch again. For a webinar that ends in an offer, it also [extends the window to act on the offer](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/).
 
 ### How it helps {#how-it-helps}
 
@@ -54,11 +54,11 @@ A replay gives everyone who registered a second chance at the session. It serves
 
 ### What happens without it {#without-it}
 
-Without a replay page, the session is over for everyone who wasn't there at the time. No-shows receive a follow-up with nothing to watch, a viewer who reaches the end of the recording has nowhere to go, and an offer made live has no second audience. EasyWebinar's guidance is to leave live recording on for this reason: the replay is usually watched by more people than the live session.
+Without a replay page, the session is over for everyone who wasn't there at the time. No-shows receive a follow-up with nothing to watch, a viewer who reaches the end of the recording has nowhere to go, and an offer made live has no second audience. EasyWebinar's guidance is to [leave live recording on](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording) for this reason: the replay is usually watched by more people than the live session.
 
 ### Why buyers care {#why-buyers-care}
 
-For anyone running webinars to generate leads or sales, the replay decides how much value a single session produces. Buyers check whether replays can expire, whether offers carry over, whether the replay can redirect to a sales page, and whether replay viewing is reported separately from live attendance. EasyWebinar covers each of these on one tab per webinar.
+For anyone [running webinars to generate leads](https://easywebinar.com/use-cases/generate-leads/) or sales, the replay decides how much value a single session produces. Buyers check whether replays can expire, whether offers carry over, whether the replay can redirect to a sales page, and whether replay viewing is reported separately from live attendance. EasyWebinar covers each of these on one tab per webinar.
 
 ## Set up a replay page {#set-it-up}
 
@@ -85,7 +85,7 @@ For anyone running webinars to generate leads or sales, the replay decides how m
 | **Expire after days** | The replay closes a set number of days after the session | A rolling deadline, for example a few days after each session |
 | **Specific date** | The replay closes at a date and time you choose | A fixed deadline, such as the end of a launch |
 
-A deadline creates urgency, which is why most offers sit behind one. If your offers or follow-up emails mention when the replay closes, make sure they match the option you chose here.
+[A deadline creates urgency](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#with-replays), which is why most offers sit behind one. If your offers or follow-up emails mention when the replay closes, make sure they match the option you chose here.
 
 ### Send viewers somewhere when it ends {#redirects}
 
@@ -132,7 +132,7 @@ On a live webinar, the room header shows **Auto Recording Enabled** when recordi
 
 ### Follow-up emails {#with-follow-ups}
 
-Replay emails are set up on the **Notifications** tab, not on the Replay tab. Add a **Webinar Follow-up** after the session, set its audience (everyone who registered, only attendees, or only no-shows) and include the replay link. No-shows are usually the biggest group, and the replay link is what they want. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) for the rest of the email sequence.
+Replay emails are set up on the **Notifications** tab, not on the Replay tab. Add a [**Webinar Follow-up**](https://easywebinar.com/features/webinar-follow-up/) after the session, set its audience (everyone who registered, only attendees, or only no-shows) and include the replay link. No-shows are usually the biggest group, and the replay link is what they want. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) for the rest of the email sequence.
 
 ### Sharing {#with-sharing}
 
@@ -159,7 +159,7 @@ A connected CRM can act on replay behaviour with the **Watched replay** and **Di
 
 ### Tracking code {#with-tracking}
 
-On the webinar's **Settings** tab, the **Tracking Code** sub-tab lets you add scripts to each of the five pages, including the **Replay Page**, so your analytics or ad platform can count people who watched afterwards.
+On the webinar's **Settings** tab, the [**Tracking Code** sub-tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#with-tracking) lets you add scripts to each of the five pages, including the **Replay Page**, so your analytics or ad platform can count people who watched afterwards.
 
 ### Cloning {#with-cloning}
 
@@ -171,7 +171,7 @@ These are typical patterns, shown to illustrate how the replay page fits differe
 
 ### Course creators {#course-creators}
 
-After a live launch webinar, a creator sets the replay to **Expire after days**, keeps **Webinar Replica** so the enrolment offer stays on the page, and points **After the replay ends** at the course checkout. A follow-up to no-shows carries the replay link. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+After a [live launch webinar](https://easywebinar.com/use-cases/launch-courses-programs/), a creator sets the replay to **Expire after days**, keeps **Webinar Replica** so the enrolment offer stays on the page, and points **After the replay ends** at the course checkout. A follow-up to no-shows carries the replay link. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### B2B marketing teams {#b2b-marketing}
 
@@ -179,7 +179,7 @@ A marketing team runs a live panel, then uses **Custom Build** to give the repla
 
 ### Customer success teams {#customer-success}
 
-A customer success team records an onboarding session and leaves the replay on **Always Available**, so new customers can watch it whenever they join. The **Replay Page Link** goes into the team's welcome material.
+A customer success team [records an onboarding session](https://easywebinar.com/use-cases/onboard-train-customers/) and leaves the replay on **Always Available**, so new customers can watch it whenever they join. The **Replay Page Link** goes into the team's welcome material.
 
 ### Coaches and consultants {#coaches}
 
@@ -238,10 +238,10 @@ Add a **Webinar Follow-up** on the **Notifications** tab, set its audience to no
 
 ## Related {#related}
 
-- [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/)
-- [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/)
-- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/)
-- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/)
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/)
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
+- [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/): instant replay on evergreen webinars, which is often confused with the replay page.
+- [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/): where the recordings your replay pages play are kept.
+- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/): the rest of the email sequence around your replay follow-up.
+- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): the offers that carry onto a Webinar Replica replay.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): Replay Watched and the Live only, Replay only and Both split.
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): sell replay access with a Live + Replay bundle.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): bring your replay settings to a new webinar.

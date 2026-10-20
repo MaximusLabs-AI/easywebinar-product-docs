@@ -71,33 +71,33 @@ Teams that run webinars with guest speakers, moderators and existing customer li
 
 ### Registration Page Link {#registration-page-link}
 
-The public link to your registration page, and the one you promote in ads, emails and posts. It only works once the registration page has been published in the page builder; saving alone isn't enough. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+The public link to your registration page, and the one you [promote in ads, emails and posts](https://easywebinar.com/blog/how-to-promote-and-market-webinars/). It only works once the registration page has been published in the [page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#publish); saving alone isn't enough.
 
 ### One-Click Registration Link {#one-click-registration-link}
 
-A link for an existing list. It carries the person's name and email in the URL, so a known contact registers without filling in the form. Because it depends on details you already hold, it only works for contacts you already have. Use it in emails to your own list, where you know who each recipient is.
+A link for an existing list. It carries the person's name and email in the URL, so a known contact [registers without filling in the form](https://easywebinar.com/blog/one-click-webinar-registration-solution/). Because it depends on details you already hold, it only works for contacts you already have. Use it in emails to your own list, where you know who each recipient is.
 
 ### Attendee Join Link {#attendee-join-link}
 
-For registered attendees, to enter the live session. Registrants also receive a join link in the **Registration Confirmation** email, which is sent the moment someone registers. That's why it's the one email you shouldn't turn off. See [Confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/).
+For registered attendees, to enter the live session. Registrants also receive a join link in the [**Registration Confirmation** email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#review-confirmation), which is sent the moment someone registers. That's why it's the one email you shouldn't turn off.
 
 ### Attendee Replay link {#attendee-replay-link}
 
-For people watching the recording afterwards. It's the same link as the **Replay Page Link** on the webinar's **Replay** tab, where you also turn the replay page on with **Enable replay page**.
+For people watching the recording afterwards. It's the same link as the **Replay Page Link** on the webinar's **Replay** tab, where you also [turn the replay page on](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#set-it-up) with **Enable replay page**.
 
 ![The Replay tab with replay settings, the replay page link, availability, redirects and experience options](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/replay/step-01-replay-settings.png)
 
 *1 Replay Settings · 2 Replay Page Link · 3 Availability · 4 Redirects · 5 Experience.*
 
-Once the page is enabled it reads *Replay page is live, anyone with the link can watch*, so treat the replay link as public. Replay emails aren't set up here: add a **Webinar Follow-up** on the **Notifications** tab and include the replay link. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/).
+Once the page is enabled it reads *Replay page is live, anyone with the link can watch*, so treat the replay link as public. Replay emails aren't set up here: add a **Webinar Follow-up** on the **Notifications** tab and include the replay link.
 
 ### Co-presenter Join Link {#co-presenter-join-link}
 
-For a presenter, so they can join the room. They don't need an EasyWebinar account to use it. When a co-host or moderator joins a live session, they land backstage, not on stage, and your audience doesn't see or hear them until you move them to the stage. See [The green room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/).
+For a presenter, so they can join the room. They don't need an EasyWebinar account to use it. When a co-host or moderator joins a live session, they [land backstage, not on stage](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#manage-backstage), and your audience doesn't see or hear them until you move them to the stage.
 
 ### Moderator Join Link for Live room {#moderator-join-link}
 
-For a moderator, to handle chat and questions. Like the co-presenter link, it works without an account. It's also a handy way to check your own webinar from the inside: on a recorded webinar with an embedded third-party chat, joining with the **Moderator Join Link** lets you look at the side panel.
+For a moderator, to handle chat and [questions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#moderators). Like the co-presenter link, it works without an account. It's also a handy way to check your own webinar from the inside: on a recorded webinar with an [embedded third-party chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#third-party-chat), joining with the **Moderator Join Link** lets you look at the side panel.
 
 > **Treat presenter and moderator links as private**
 > Anyone holding the **Co-presenter Join Link** or the **Moderator Join Link for Live room** can join your room in that role. Send them only to the people who should have them. The registration, attendee and replay links are the ones meant for your audience.
@@ -109,13 +109,13 @@ Where registrants land after signing up. You'll rarely send it to anyone, but it
 
 ## Shorten the links {#shorten-links}
 
-Turn on **Shorten URL's** in the Share dialog to get shorter versions of the links. If you send join and replay links from a connected CRM, the integration's **Custom fields** tab offers short versions there too: **Webinar Join Short Link** and **Webinar Replay Short Link**, alongside the full **Webinar Join Link** and **Webinar Replay Link**.
+Turn on **Shorten URL's** in the Share dialog to get shorter versions of the links. If you send join and replay links from a [connected CRM](https://easywebinar.com/integrations/), the integration's **Custom fields** tab offers short versions there too: **Webinar Join Short Link** and **Webinar Replay Short Link**, alongside the full **Webinar Join Link** and **Webinar Replay Link**.
 
 ## How sharing links work with other features {#works-with}
 
 ### Team & Moderators {#with-team-and-moderators}
 
-The **Team & Moderators** panel on the Overview is the other way to bring people into a webinar: **Add presenter** adds someone who appears on camera and presents, and **Invite** sends an invitation to join the webinar team. A join link suits a guest on one session; adding someone to your account team suits people who work in EasyWebinar regularly. See [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/) and [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/).
+The [**Team & Moderators** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#team-and-moderators) on the Overview is the other way to bring people into a webinar: **Add presenter** adds someone who appears on camera and presents, and **Invite** sends an invitation to join the webinar team. A join link suits a guest on one session; adding someone to your [account team](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/#add-a-team-member) suits people who work in EasyWebinar regularly.
 
 ### The live room {#with-live-room}
 
@@ -123,11 +123,11 @@ Inside the room, the **People** panel's **Invite People** shares join links for 
 
 ### Registration Widget {#with-registration-widget}
 
-The Share dialog's **Registration Widget** holds the same embed snippet as the **Content** tab. Use it to put the form on your own site instead of sharing a link. See [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/).
+The Share dialog's **Registration Widget** holds the same embed snippet as the **Content** tab. Use it to [put the form on your own site](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/#add-to-your-site) instead of sharing a link.
 
 ### Your CRM {#with-crm}
 
-A connected CRM can receive each attendee's personal join link and replay link through the **Custom fields** tab. Mapping the join link is what lets you send reminders from your CRM instead of EasyWebinar, with each contact getting their own working link. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
+A connected CRM can receive each attendee's personal join link and replay link through the **Custom fields** tab. Mapping the join link is what lets you [send reminders from your CRM](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#reminders-from-crm) instead of EasyWebinar, with each contact getting their own working link.
 
 ### How the links look when shared {#with-social-sharing}
 
@@ -135,7 +135,7 @@ A connected CRM can receive each attendee's personal join link and replay link t
 
 ### Your domain {#with-domain}
 
-Every public link includes your subdomain, ending in `.easywebinar.live`, including the links in your emails. The **C-Name** add-on lets links use your own domain instead. Changing your subdomain changes your existing links, so anything already shared will break; set it before you promote.
+Every public link includes your subdomain, ending in `.easywebinar.live`, including the links in your emails. The [**C-Name** add-on](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons) lets links use your own domain instead. Changing your subdomain changes your existing links, so anything already shared will break; set it before you promote.
 
 ### Expired links {#with-expired-session}
 
@@ -147,19 +147,19 @@ These are typical patterns, shown to illustrate how each link fits a different j
 
 ### Agencies {#agencies}
 
-An agency runs a webinar for a client whose founder is the speaker. The agency sends the founder the **Co-presenter Join Link** and its own team member the **Moderator Join Link for Live room**. Neither needs a login to the agency's account, and the founder waits backstage until the host brings them on.
+An [agency runs a webinar for a client](https://easywebinar.com/solutions/marketing-agencies/) whose founder is the speaker. The agency sends the founder the **Co-presenter Join Link** and its own team member the **Moderator Join Link for Live room**. Neither needs a login to the agency's account, and the founder [waits backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#read-the-room) until the host brings them on.
 
 ### B2B marketing teams {#b2b-marketing}
 
-A marketing team promotes the **Registration Page Link** in ads and social posts with **Shorten URL's** on. For an email to existing customers, it uses the **One-Click Registration Link**, so customers register without retyping details the team already holds.
+A [marketing team](https://easywebinar.com/solutions/marketing-teams/) promotes the **Registration Page Link** in ads and social posts with **Shorten URL's** on. For an email to existing customers, it uses the **One-Click Registration Link**, so customers register without retyping details the team already holds.
 
 ### Customer success teams {#customer-success}
 
-A customer success team runs a training webinar for existing customers. It emails the **One-Click Registration Link** to the customer list, then sends the **Attendee Replay link** in a follow-up to everyone who couldn't attend live.
+A [customer success team](https://easywebinar.com/solutions/customer-success-teams/) runs a training webinar for existing customers. It emails the **One-Click Registration Link** to the customer list, then sends the **Attendee Replay link** in a follow-up to everyone who couldn't attend live.
 
 ### Course creators {#course-creators}
 
-A creator sends no-shows the replay link in a **Webinar Follow-up** after the session, and maps the join link into their email tool so reminders come from their own system. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#the-replay) sends no-shows the [replay link](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/) in a **Webinar Follow-up** after the session, and maps the join link into their email tool so [reminders come from their own system](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-crm).
 
 ## Limits and things to know {#limits}
 
@@ -218,9 +218,9 @@ Yes, with the **C-Name** add-on and a CNAME record at your DNS provider.
 
 ## Related {#related}
 
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/)
-- [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/)
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/)
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/)
-- [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/)
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/)
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where the **Share** button sits, next to **Registration Page**.
+- [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/): when the Registration Widget suits better than a link.
+- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): publish the page so the registration link works.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): how long the Attendee Replay link stays watchable.
+- [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/): logins for colleagues, as opposed to join links for guests.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send each attendee's join and replay links to your CRM.

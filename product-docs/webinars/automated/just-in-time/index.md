@@ -36,13 +36,13 @@ Just-in-time is one of three ways an evergreen webinar can be watched:
 | **On Demand** | Immediately, with no session | Not tied to a session time |
 | **Recurring Schedule** | At set daily or weekly times | The webinar's timezone |
 
-You can run all three together, and the registration page offers each as a choice. [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/) has its own page.
+You can run all three together, and the registration page offers each as a choice.
 
 ## Why just-in-time matters {#why-it-matters}
 
 ### What it's for {#what-its-for}
 
-Just-in-time is for evergreen webinars that sit in a funnel: a demo behind a website button, a teaching session in front of an offer, an onboarding session new customers reach from an email. In each case the visitor is interested now, and the webinar should be available now.
+Just-in-time is for [evergreen webinars that sit in a funnel](https://easywebinar.com/automated-webinars/): a [demo behind a website button](https://easywebinar.com/use-cases/product-demos/), a teaching session in front of an [offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), an [onboarding session](https://easywebinar.com/use-cases/onboard-train-customers/) new customers reach from an email. In each case the visitor is interested now, and the webinar should be available now.
 
 ### How it helps {#how-it-helps}
 
@@ -53,11 +53,11 @@ Just-in-time is for evergreen webinars that sit in a funnel: a demo behind a web
 
 ### What happens without it {#without-it}
 
-With only recurring times, a visitor who arrives just after a session has started faces a wait until the next slot, which may be hours or a day away. The gap between interest and watching is where people disappear: they close the tab meaning to return, and many don't.
+With only recurring times, a visitor who arrives just after a session has started faces a wait until the next slot, which may be hours or a day away. The [gap between interest and watching](https://easywebinar.com/blog/improve-webinar-attendance/) is where people disappear: they close the tab meaning to return, and many don't.
 
 ### Why buyers care {#why-buyers-care}
 
-For teams who measure an evergreen webinar by how many registrants actually watch, the time between registering and the session starting matters. Just-in-time shrinks it to minutes, using the same recording and the same funnel.
+For teams who [measure an evergreen webinar by how many registrants actually watch](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel), the time between registering and the session starting matters. Just-in-time shrinks it to minutes, using the same recording and the same funnel.
 
 ## Set it up {#set-it-up}
 
@@ -94,7 +94,7 @@ Open the webinar's **Overview** tab and use the options menu on the **Scheduling
 
 Shorter intervals mean less waiting. The interval is the longest a new registrant waits for the next just-in-time session, so 2 minutes keeps the wait to a couple of minutes and 60 minutes can mean close to an hour.
 
-Two minutes is also the setting to use when you want to check the webinar yourself, because a session starts almost as soon as you register. See [Test a just-in-time session](#test-it).
+Two minutes is also the setting to use when you want to check the webinar yourself, because a session starts almost as soon as you register. See Test a just-in-time session, below.
 
 ## Timezones: who sees which time {#timezones}
 
@@ -104,8 +104,8 @@ Just-in-time is the only kind of session in EasyWebinar that follows each attend
 |---|---|
 | Just-in-time sessions on evergreen webinars | The attendee's local time |
 | Recurring daily or weekly evergreen sessions | The webinar's timezone |
-| Simulive sessions | The webinar's timezone |
-| Live sessions | The webinar's timezone |
+| [Simulive sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#set-schedule) | The webinar's timezone |
+| [Live sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#timezone) | The webinar's timezone |
 
 When just-in-time is on, the **Scheduling Options** panel on the Overview tab shows the timezone as **Attendee's local timezone**.
 
@@ -122,7 +122,7 @@ When just-in-time is on, the **Scheduling Options** panel on the Overview tab sh
 A recorded webinar has no live room for you to enter, so you check it by joining a running session. The quickest way to get one is to register yourself.
 
 1. Set the **Interval** to 2 minutes, the shortest option.
-2. Open your registration page and register as an attendee.
+2. Open your [registration page link](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#registration-page-link) and register as an attendee.
 3. On the webinar's **Overview**, open the **Live** tab in the **Sessions** panel. A session on air appears there marked *Live now*, with **Enter room**.
 4. Join as an attendee to see what your audience sees.
 
@@ -160,7 +160,7 @@ Polls, offers and analytics behave as on any webinar. In **People**, filter by *
 
 ### Plan usage {#with-plan-usage}
 
-People watching evergreen sessions, including just-in-time ones, count towards the **Automated attendees** meter on the **Plan** tab.
+People watching evergreen sessions, including just-in-time ones, count towards the [**Automated attendees** meter](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) on the **Plan** tab.
 
 ## Who uses just-in-time, and how {#who-uses-it}
 
@@ -234,9 +234,9 @@ Yes. JIT is the common short name for **Just-in-time Registration**.
 
 ## Related {#related}
 
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/)
-- [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/)
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/)
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/)
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the full setup that just-in-time is one step of.
+- [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/): the option for registrants who want to watch now rather than in a few minutes.
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): a chat for attendees who each arrive at a different moment.
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where the Live tab shows a just-in-time session on air.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): how a live or simulive webinar gets just-in-time sessions.
+- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/): the interval options and other evergreen settings in one place.

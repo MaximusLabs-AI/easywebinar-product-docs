@@ -41,19 +41,19 @@ Analytics turns a webinar from a one-off event into something you can improve. E
 
 ### How it helps {#how-it-helps}
 
-- **It locates the leak.** **Visitors** to **Registered** measures your registration page. **Registered** to attended measures your reminders.
+- **It locates the leak.** **Visitors** to **Registered** measures your [registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#with-analytics). **Registered** to attended measures your [reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-analytics).
 - **It separates offer problems from checkout problems.** **Views to Clicks** and **Clicks to Purchases** show where buyers drop out.
 - **It counts the replay properly.** Replay viewers are counted apart from live attendees, and people who did both are shown under **Both**.
-- **It shows who to follow up.** **Missed** is everyone who registered and never attended.
-- **It ties money to the webinar.** Revenue sits next to attendance, so you can see what each session earned.
+- **It shows [who to follow up](https://easywebinar.com/features/webinar-follow-up/).** **Missed** is everyone who registered and never attended.
+- **It ties money to the webinar.** [Webinar revenue](https://easywebinar.com/sell-and-monetize/) sits next to attendance, so you can see what each session earned.
 
 ### What happens without it {#without-it}
 
-Without per-stage numbers, a disappointing webinar is just disappointing. You can't tell whether few people saw the page, the page didn't convert, reminders failed, or the offer fell flat, so you end up changing everything at once. It's easy to rewrite a presentation when the real problem was attendance.
+Without [per-stage numbers](https://easywebinar.com/blog/webinar-analytics/), a disappointing webinar is just disappointing. You can't tell whether few people saw the page, the page didn't convert, reminders failed, or the offer fell flat, so you end up changing everything at once. It's easy to rewrite a presentation when the real problem was attendance.
 
 ### Why buyers care {#why-buyers-care}
 
-Anyone using webinars to generate leads or sales needs to prove they work and know what to fix next. Buyers comparing webinar platforms look for funnel reporting per webinar, replay attendance counted separately, and offer and revenue numbers in the same place as attendance.
+Anyone using webinars to generate leads or sales needs to prove they work and know what to fix next. Buyers [comparing webinar platforms](https://easywebinar.com/compare/webinar-platforms/) look for funnel reporting per webinar, replay attendance counted separately, and offer and revenue numbers in the same place as attendance.
 
 ## Read your analytics {#read-your-analytics}
 
@@ -87,9 +87,9 @@ Two gaps tell you most of what you need:
 | Gap | What it measures | If it's low, look at |
 |---|---|---|
 | **Visitors** to **Registered** | Your registration page | The headline, the form and the promise on the page |
-| **Registered** to attended | Your reminders | Confirmation and reminder emails, not the content |
+| **Registered** to attended | Your reminders | [Confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/) and reminders, not the content |
 
-**Missed** is the group most worth contacting after a session. Send them the replay.
+**Missed** is the group most worth contacting after a session. Send them the [replay](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#with-follow-ups).
 
 ### 4. Check engagement and offers {#engagement-and-offers}
 
@@ -97,16 +97,16 @@ Further down the **Overview**:
 
 | Panel | What it shows |
 |---|---|
-| **Offers Performance** | Each offer's views, clicks and purchases, with a click rate |
+| [**Offers Performance**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#measure-offers) | Each offer's views, clicks and purchases, with a click rate |
 | **Views to Clicks** and **Clicks to Purchases** | Where your offer loses people |
 | **Revenue by Offer** | Total revenue and payment count, with a details link |
 | **Chat** | Total messages, which you can filter by session |
 | **Questions & Answers** | How many questions were asked and how many you answered |
 | **Registrations by country** | Where your audience is |
 
-Read **Views to Clicks** and **Clicks to Purchases** together. A low views-to-clicks rate means the offer itself isn't landing. A low clicks-to-purchases rate means people want the offer but your checkout or price is stopping them.
+Read **Views to Clicks** and **Clicks to Purchases** together. A low views-to-clicks rate means the offer itself isn't landing. A low clicks-to-purchases rate means people want the offer but your [checkout](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#checkout) or price is stopping them.
 
-After a busy session, the **Not Answered Rate** on Q&A tells you how many questions you left behind. Those are worth answering in your follow-up email.
+After a busy session, the **Not Answered Rate** on [Q&A](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#with-analytics) tells you how many questions you left behind. Those are worth answering in your follow-up email.
 
 ### 5. See the people behind the numbers {#people-view}
 
@@ -137,7 +137,7 @@ Transactions show one of these statuses: **Pending**, **Processing**, **Success*
 | Low **Visitors** to **Registered** | The page isn't persuading | [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/) |
 | Low **Registered** to attended | People forget or lose the link | [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) |
 | High **Missed** | A large audience still to reach | A follow-up to no-shows with the replay link |
-| Low **Views to Clicks** | The offer isn't landing | The offer's headline, button and timing. See [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/) |
+| Low **Views to Clicks** | The offer isn't landing | The [offer's headline, button and timing](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#write-the-card) |
 | Low **Clicks to Purchases** | Interest without purchase | Your checkout page or price |
 | High **Not Answered Rate** | Questions left behind | Answer them in your follow-up |
 
@@ -145,7 +145,7 @@ Transactions show one of these statuses: **Pending**, **Processing**, **Success*
 
 ### Follow-up emails {#with-follow-ups}
 
-**Webinar Follow-ups** on the **Notifications** tab can go to everyone who registered, only attendees, or only no-shows, which matches the **Missed** number directly. **Attendee Action Follow-ups** send based on engagement and whether someone clicked an offer.
+**Webinar Follow-ups** on the **Notifications** tab can go to everyone who registered, only attendees, or [only no-shows](https://easywebinar.com/blog/email-segmentation-for-webinar-follow-ups/), which matches the **Missed** number directly. **Attendee Action Follow-ups** send based on engagement and whether someone clicked an offer.
 
 ### CRM and email tools {#with-crm}
 
@@ -169,7 +169,7 @@ These are typical patterns, shown to illustrate how different teams read the sam
 
 ### B2B marketing teams {#b2b-marketing}
 
-A demand generation team runs a monthly webinar and tracks **Visitors** to **Registered** after every promotion change. When the rate drops, they test a new registration page headline before changing anything else.
+A [demand generation](https://easywebinar.com/use-cases/generate-leads/) team runs a monthly webinar and tracks **Visitors** to **Registered** after every promotion change. When the rate drops, they test a new registration page headline before changing anything else.
 
 ### Course creators {#course-creators}
 
@@ -177,11 +177,11 @@ A creator selling a course through an evergreen webinar watches **Offers Perform
 
 ### Coaches and consultants {#coaches}
 
-A coach running paid workshops checks the **Revenue** view after each session, compares **Paid Registrations** with offer sales under **Revenue by Source**, and keeps an eye on **Checkout abandoned**.
+A coach running [paid workshops](https://easywebinar.com/paid-webinars/) checks the **Revenue** view after each session, compares **Paid Registrations** with offer sales under **Revenue by Source**, and keeps an eye on **Checkout abandoned**.
 
 ### SaaS and product teams {#product-teams}
 
-A product team running onboarding webinars cares most about **Total Attended** and **Replay only**, because many users catch up on the recording. A high **Not Answered Rate** tells them to go back through the questions and cover the gaps in their follow-up.
+A product team running [onboarding webinars](https://easywebinar.com/use-cases/onboard-train-customers/) cares most about **Total Attended** and **Replay only**, because many users catch up on the recording. A high **Not Answered Rate** tells them to go back through the questions and cover the gaps in their follow-up.
 
 ## Limits and things to know {#limits}
 
@@ -237,9 +237,7 @@ It counts towards **Total Attended**. **Live Attended** counts the broadcast onl
 
 ## Related {#related}
 
-- [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/)
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/)
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)
-- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/)
-- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/)
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/)
+- [The Overview tab's live stats](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#read-the-stats): four of these numbers at a glance, updating while the webinar runs.
+- [Map webinar events to CRM tags](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-events-to-tags): act on **Missed**, **Attended** and **Clicked offer** outside EasyWebinar.
+- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): the setting behind the **Questions & Answers** panel and its **Not Answered Rate**.
+- [Selling online courses](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#measure-it): how a course creator reads these numbers across a launch.

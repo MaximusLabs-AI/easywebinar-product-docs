@@ -53,7 +53,7 @@ Without an embed, every visitor on your own site has to follow a link to the Eas
 
 ### Why buyers care {#why-buyers-care}
 
-Teams that already run websites and blogs want webinar registration to sit inside the content that brings in traffic. Buyers check whether the platform lets them embed a form, whether they can adjust its look, and whether it's a simple copy-and-paste.
+Teams that already run websites and blogs want webinar registration to sit inside the [content that brings in traffic](https://easywebinar.com/blog/free-traffic-sources-for-webinars/). Buyers check whether the platform lets them embed a form, whether they can adjust its look, and whether it's a simple copy-and-paste.
 
 ## Get the embed code {#get-the-embed-code}
 
@@ -84,7 +84,7 @@ It's the same snippet in both places, so use whichever screen you're on.
 2. Paste the embed code wherever the form should appear.
 3. Publish the page on your site.
 4. Register once yourself through the embedded form.
-5. Check the webinar's **Overview**: the **Registrants** stat counts people who completed the registration form, so your test registration should show there.
+5. Check the webinar's [**Overview**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#read-the-stats): the **Registrants** stat counts people who completed the registration form, so your test registration should show there.
 
 ## Widget or link: which to use {#widget-or-link}
 
@@ -103,23 +103,23 @@ You don't have to choose one. You can use the widget on your own site and the li
 
 ### The registration page {#with-registration-page}
 
-The registration page is still where your webinar's full pitch lives: the design, the countdown, the copy. Build and publish it in the page builder even if most registrations come through the widget, because the link and the page are what you'll use in email and on social. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+The registration page is still where your webinar's full pitch lives: the design, the [countdown](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown), the copy. Build and publish it in the [page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#publish) even if most registrations come through the widget, because the link and the page are what you'll use in email and on social.
 
 ### Share links {#with-share-links}
 
-The Share dialog groups every way to share a webinar: **Share Links**, **Registration Widget** and **Share on social media**. See [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/).
+The Share dialog groups [every way to share a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#the-seven-links): **Share Links**, **Registration Widget** and **Share on social media**.
 
 ### Confirmation emails {#with-confirmation-emails}
 
-**Registration Confirmation** is sent immediately after someone registers, and it carries their join link. See [Confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/).
+[**Registration Confirmation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#review-confirmation) is sent immediately after someone registers, and it carries their join link.
 
 ### The People view {#with-people-view}
 
-**People** in the sidebar lists every registrant across your webinars. After your test registration, find yourself there to confirm the details came through. See [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/).
+[**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#read-the-table) in the sidebar lists every registrant across your webinars. After your test registration, find yourself there to confirm the [details came through](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#where-the-data-goes).
 
 ### Cloning {#with-cloning}
 
-The **Clone Webinar** dialog lists **Embed widgets** under **Webinar assets**, alongside registration pages, the webinar schedule and replay settings. Leave it ticked to copy the widget into the new webinar. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+The **Clone Webinar** dialog lists **Embed widgets** under **Webinar assets**, alongside registration pages, the webinar schedule and replay settings. Leave it ticked to [copy the widget into the new webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration).
 
 ## Who uses registration embeds, and how {#who-uses-it}
 
@@ -127,19 +127,19 @@ These are typical patterns, shown to illustrate how the widget fits different ki
 
 ### B2B marketing teams {#b2b-marketing}
 
-A marketing team writes a blog post on the webinar's topic and embeds the registration form at the end, so readers who reach the bottom can sign up on the spot. The **Registration Page Link** goes into the newsletter and paid social.
+A [marketing team](https://easywebinar.com/solutions/marketing-teams/) writes a [blog post on the webinar's topic](https://easywebinar.com/blog/how-to-promote-and-market-webinars/) and embeds the registration form at the end, so readers who reach the bottom can sign up on the spot. The **Registration Page Link** goes into the newsletter and paid social.
 
 ### SaaS and product teams {#saas-teams}
 
-A product team runs a monthly product webinar and keeps the widget in the sidebar of its help centre or product blog, so customers looking for help can register for the next session without leaving.
+A product team runs a monthly product webinar and keeps the widget in the sidebar of its help centre or product blog, so [customers looking for help](https://easywebinar.com/use-cases/onboard-train-customers/) can register for the next session without leaving.
 
 ### Coaches and consultants {#coaches}
 
-A coach's website has a "Free masterclass" page. The registration widget sits on that page, under the coach's own story, so the page they already designed does the persuading.
+A [coach's website](https://easywebinar.com/webinar-platform-for-coaches-course-creators/) has a "Free masterclass" page. The registration widget sits on that page, under the coach's own story, so the page they already designed does the persuading.
 
 ### Agencies {#agencies}
 
-An agency builds a client's landing page in the client's site builder and pastes the widget in, so the page stays on the client's domain and in the client's design.
+An [agency](https://easywebinar.com/solutions/marketing-agencies/) builds a client's [landing page](https://easywebinar.com/blog/webinar-landing-page-examples-that-convert/) in the client's site builder and pastes the widget in, so the page stays on the client's domain and in the client's design.
 
 ## Limits and things to know {#limits}
 
@@ -172,7 +172,7 @@ Use the widget when you want people to register without leaving your site. Use t
 
 #### How do I check the widget is working? {#faq-check-working}
 
-Register once through it, then look at **Registrants** on the webinar's Overview and find yourself in **People**.
+Register once through it, then look at **Registrants** on the webinar's Overview and [find yourself in **People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list).
 
 #### Does cloning a webinar copy its widget? {#faq-clone}
 
@@ -184,8 +184,8 @@ Yes, for anywhere you share a link, such as email and social posts. The **Regist
 
 ## Related {#related}
 
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/)
-- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/)
-- [Custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/)
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
+- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): the page your link still needs for email and social.
+- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/): the Registration Page Link and One-Click Registration Link that sit beside the widget.
+- [Custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/): the fields and consent checkbox the form asks for.
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where **Registrants** confirms your test registration.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): carry **Embed widgets** into a copy of this webinar.

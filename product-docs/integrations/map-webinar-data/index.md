@@ -7,9 +7,15 @@ Connect one of EasyWebinar's 14 CRM and email integrations, tag contacts by what
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/
 
-Connecting a CRM does more than copy email addresses across. You can tag people by **what they actually did** (attended, missed, watched the replay, left early, clicked your offer) and push details like each person's join link into your CRM's fields.
+Connecting a CRM does more than copy email addresses across. You can tag people by **what they actually did** (attended, missed, [watched the replay](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/), left early, [clicked your offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/)) and push details like each person's [join link](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#attendee-join-link) into your CRM's fields.
 
 **Expected result:** a connected integration on your webinar, with event mappings that tag contacts and custom fields that receive webinar data.
+
+## Why it matters {#why-it-matters}
+
+Connecting a webinar to your CRM or email platform means registrants and attendees arrive in the system you already work in, without exporting anything. Tagging by behaviour is what turns a webinar into something your [sales follow-up](https://easywebinar.com/features/webinar-follow-up/) can act on. A no-show can start a replay sequence, while someone who clicked your offer goes to the top of the sales list.
+
+Registrants and attendees are different events, so you can treat someone who attended apart from someone who only registered. Without that split, everyone on the list gets the same follow-up, whether they watched to the end or never turned up. That gap is what [tracking webinar leads in your CRM](https://easywebinar.com/blog/tracking-webinar-leads-with-crm-integration/) is meant to close.
 
 ## Before you begin {#before-you-begin}
 
@@ -23,11 +29,11 @@ Connecting a CRM does more than copy email addresses across. You can tag people 
 |---|---|---|
 | GoHighLevel | Mailchimp | Constant Contact |
 | Keap | Ontraport | iContact |
-| AWeber | HubSpot | InfluencerSoft |
-| Kit (ConvertKit) | ActiveCampaign | EasyCRM |
+| AWeber | [HubSpot](https://easywebinar.com/integrations/hubspot-integration/) | InfluencerSoft |
+| Kit (ConvertKit) | [ActiveCampaign](https://easywebinar.com/integrations/activecampaign-integration/) | EasyCRM |
 | GetResponse | Drip | |
 
-**EasyCRM** is EasyWebinar's own CRM and connects the same way.
+**[EasyCRM](https://easywebinar.com/easycrm/)** is EasyWebinar's own CRM and connects the same way. The full list, with what each connection is for, is on the [integrations overview](https://easywebinar.com/integrations/).
 
 ## Connect an integration {#connect}
 
@@ -86,16 +92,38 @@ The **Custom fields** tab sends webinar details into your CRM's own fields: "Cho
 |---|---|
 | **Webinar Title** | Which webinar this contact came from |
 | **Webinar Join Link** | The attendee's personal join link |
-| **Webinar Join Short Link** | A shortened version |
-| **Webinar Replay Link** | Their replay link |
+| **Webinar Join Short Link** | A [shortened version](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#shorten-links) |
+| **Webinar Replay Link** | Their [replay page link](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#with-crm) |
 | **Webinar Replay Short Link** | A shortened version |
-| **Phone Number** | Their phone, if collected |
+| **Phone Number** | Their phone, if your [registration form collects it](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form) |
 
 Pick the matching CRM field beside each one. **Refresh** pulls in fields you have just created in the CRM.
 
 ### Send reminders from your CRM {#reminders-from-crm}
 
-Mapping the **join link** lets you send reminders from your CRM instead of EasyWebinar, because each contact gets their own working link.
+Mapping the **join link** lets you send reminders from your CRM instead of [EasyWebinar's own reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-crm), because each contact gets their own working link.
+
+## How it works with other features {#works-with}
+
+### Registration fields {#with-registration-fields}
+
+The **Phone Number** field only has something to send if your registration form collected it. Select the form block in the page builder and add the **Phone** field; [custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#in-your-crm) covers the other fields you can add.
+
+### The People view {#with-people-view}
+
+[People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#with-crm) is every registrant and attendee across all your webinars in one table, and you can filter it by behaviour and source and export the list. It is a quick way to check who should have received a tag, or to follow up with people outside your CRM rules.
+
+### Cloning {#with-cloning}
+
+When you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-integrations), **Integration settings** is one of the groups you can copy. Tick it to bring this webinar's integration settings across to the copy.
+
+### EasyCRM {#with-easycrm}
+
+You don't need EasyCRM to run webinars. It's for managing the people your webinars produce. Registrants reach it by connecting EasyCRM as an integration on a webinar, as on this page, or with **Import from EasyWebinar** on its Leads screen.
+
+### Streaming {#with-easycast}
+
+The **Social media** category on the Integrations tab is separate from CRMs. To broadcast a webinar to YouTube or LinkedIn while it runs, use [EasyCast](https://easywebinar.com/easycast/), under **Integrations** in the sidebar.
 
 ## Verify the result {#verify-the-result}
 
@@ -106,6 +134,13 @@ Mapping the **join link** lets you send reminders from your CRM instead of EasyW
 ## Change or disconnect {#change-or-disconnect}
 
 **Change integration** swaps the connected tool. **Disconnect** removes it from the webinar.
+
+## Limits and things to know {#limits}
+
+- **Integrations are per webinar.** Connecting one doesn't connect the rest, and different webinars can feed different lists.
+- **Connecting needs an account with that service**, and you sign in to it during setup.
+- **Tags and custom fields must exist in your CRM first.** Use **Refresh** after adding a field.
+- **There are 14 integrations**, including EasyWebinar's own EasyCRM.
 
 ## Common questions {#common-questions}
 
@@ -121,7 +156,25 @@ Create it in your CRM, then click **Refresh**.
 
 Check whether it accepts data from one of the listed platforms, or use EasyCRM.
 
+#### Do I have to connect every webinar separately? {#faq-every-webinar}
+
+Yes, integrations are set per webinar. Cloning a webinar with **Integration settings** ticked brings those settings across to the copy.
+
+#### Will it sync people who registered but didn't attend? {#faq-registrants}
+
+Yes. Registrants and attendees sync as separate events, so you can treat no-shows differently.
+
+#### Can I send the join link to my CRM? {#faq-join-link}
+
+Yes. Map **Webinar Join Link** to one of your custom fields on the Custom fields tab.
+
+#### Can I stream my webinar to YouTube or LinkedIn from here? {#faq-streaming}
+
+Not from this tab. Use **EasyCast**, a separate item under **Integrations** in the sidebar.
+
 ## Next steps {#next-steps}
 
-- [Offers and the countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/)
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#team-and-account)
+- [Offers and the countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#with-crm): the offers behind the **Clicked offer** event.
+- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#team-and-account): the per-webinar integration rule alongside other account limits.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#with-crm): compare attendance and offer clicks with what reached your CRM.
+- [Automate follow-ups with CRM tools](https://easywebinar.com/blog/how-to-automate-webinar-follow-ups-with-crm-tools/): ideas for the sequences your tags can trigger.

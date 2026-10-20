@@ -7,22 +7,22 @@ How course creators use EasyWebinar to sell a course through a webinar, live or 
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/
 
-Course creators use EasyWebinar to sell a course through a webinar. The webinar teaches something valuable, builds trust, and ends with an offer to enrol. EasyWebinar handles everything around that moment: the registration page, reminders, the room, the offer, the replay, the follow-up emails and the sales numbers. The course itself stays on your course platform. EasyWebinar is the layer that sells it.
+Course creators use EasyWebinar to [sell a course through a webinar](https://easywebinar.com/solutions/course-creator/). The webinar teaches something valuable, builds trust, and ends with an offer to enrol. EasyWebinar handles everything around that moment: the registration page, reminders, the room, the offer, the replay, the follow-up emails and the sales numbers. The course itself stays on your course platform. EasyWebinar is the layer that sells it.
 
 ## At a glance {#at-a-glance}
 
 | What a course creator needs | How EasyWebinar does it | Where to read more |
 |---|---|---|
-| A webinar that sells while you're away | Evergreen webinars play a recording on a schedule your registrants choose | [Webinar types](#which-webinar-type) |
-| No waiting for the next session | Just-in-time sessions start shortly after someone registers; On Demand lets them watch straight away | [Automated selling](#automate-it) |
-| Run it live first, then automate the version that works | Clone the live webinar as Evergreen and use the recording | [Live first, then automate](#live-then-automate) |
-| A script, pages and emails written for you | **Create with AI** builds them in about ten minutes | [Build it](#build-it) |
-| An enrolment offer with a deadline | Offers with an optional price and **countdown timer** | [Sell during the webinar](#sell-during-the-webinar) |
-| Paid workshops and masterclasses | Paid registration through Stripe, with a live-plus-replay bundle | [Paid workshops](#paid-workshops) |
-| A replay with a deadline | Replay pages that expire after a number of days or on a date | [The replay](#the-replay) |
-| Follow-up for no-shows and offer-clickers | Follow-up emails by audience, and emails based on what attendees did | [Follow up](#follow-up) |
-| Your email tool kept in sync | Integrations including Kit (ConvertKit), ActiveCampaign and Mailchimp, with tags by behaviour | [Your email list](#your-email-list) |
-| Sales and revenue per webinar | Offers Performance, Revenue by Offer and every transaction | [Measure it](#measure-it) |
+| A webinar that sells while you're away | Evergreen webinars play a recording on a schedule your registrants choose | [Evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) |
+| No waiting for the next session | Just-in-time sessions start shortly after someone registers; On Demand lets them watch straight away | [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) |
+| Run it live first, then automate the version that works | Clone the live webinar as Evergreen and use the recording | [Clone a live webinar as Evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) |
+| A script, pages and emails written for you | **Create with AI** builds them in about ten minutes | [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/) |
+| An enrolment offer with a deadline | Offers with an optional price and **countdown timer** | [Create an offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer) |
+| Paid workshops and masterclasses | Paid registration through Stripe, with a live-plus-replay bundle | [Paid registration](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/) |
+| A replay with a deadline | Replay pages that expire after a number of days or on a date | [Replay deadlines](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) |
+| Follow-up for no-shows and offer-clickers | Follow-up emails by audience, and emails based on what attendees did | [Follow-up by behaviour](https://easywebinar.com/features/webinar-follow-up/) |
+| Your email tool kept in sync | Integrations including Kit (ConvertKit), ActiveCampaign and Mailchimp, with tags by behaviour | [Supported email tools](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#supported-integrations) |
+| Sales and revenue per webinar | Offers Performance, Revenue by Offer and every transaction | [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/) |
 
 ## Where EasyWebinar fits {#where-it-fits}
 
@@ -36,11 +36,11 @@ You choose the type when you create the webinar, and it can't be changed afterwa
 
 | Type | How it runs | When course creators use it |
 |---|---|---|
-| **Live** | You present in real time at a set date and time | Launches, new courses, cohorts, and sessions where answering questions live is part of the pitch |
+| **Live** | You present in real time at a set date and time | [Launches, new courses, cohorts](https://easywebinar.com/use-cases/launch-courses-programs/), and sessions where answering questions live is part of the pitch |
 | **Simulive** | A recording plays at times you set, and you can answer in the chat while it plays | A tested presentation delivered on a schedule, with the feel of a live event |
 | **Evergreen** | A recording runs continuously and each registrant picks a time | The always-on funnel that sells your course every day without you |
 
-Many creators run the same webinar live a few times to sharpen it, then turn the best version into an evergreen funnel.
+Many creators run the same webinar live a few times to sharpen it, then [turn the best version into an evergreen funnel](https://easywebinar.com/blog/turn-live-webinars-into-automated-funnels/).
 
 ## Build it {#build-it}
 
@@ -66,11 +66,11 @@ Choose **Create Manually** and the builder walks you through four steps: name an
 
 ## Your registration page {#registration-page}
 
-The registration page is the link you promote, so it carries most of your signups. It opens in a drag-and-drop builder with your date, time and timezone already in place.
+The registration page is the link you promote, so it carries most of your signups. It opens in a [drag-and-drop builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/) with your date, time and timezone already in place.
 
 - **Collect what you need.** The form starts with name and email. Add a **Phone** field, or your own custom fields such as the student's current level.
 - **Ask for consent.** Turn on **GDPR Compliance** to add a consent checkbox you word yourself.
-- **Know which campaign worked.** Turn on **UTM Params** so each registration records the ad, email or post that brought it in.
+- **Know which campaign worked.** Turn on [**UTM Params**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#utm-capture) so each registration records the ad, email or post that brought it in.
 - **Check it on a phone.** Use the device toggle; most registrations come from phones.
 - **Publish it.** The link only works once the page is published.
 
@@ -92,7 +92,7 @@ You'll need a recording. Upload it and EasyWebinar hosts it (MP4, up to 4 GB), o
 
 ### A room that doesn't feel empty {#chat-simulation}
 
-On a recorded webinar, attendees arrive at different times, so there's no shared conversation, and an empty chat panel makes the room look abandoned. **Chat Simulation** (Beta) fills it, on simulive and evergreen webinars:
+On a recorded webinar, attendees arrive at different times, so there's no shared conversation, and an empty chat panel makes the room look abandoned. [**Chat Simulation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) (Beta) fills it, on simulive and evergreen webinars:
 
 - **AI Simulation** builds a cast of simulated attendees, each with their own engagement level, knowledge level, language and behaviour.
 - **Manual Simulation** plays a chat you script yourself in a CSV, timed against your video.
@@ -124,7 +124,7 @@ The enrolment offer is a card with a headline and a button, shown in the room wh
 | **Button** text and URL | "Enrol now" pointing at your course checkout |
 | **Offer Style** | **Text Offer**, or **Image Offer** to show the course itself |
 
-You can build offers before the webinar and keep them hidden until the moment comes. On a live webinar you push the offer from the **Offers** panel in the room.
+You can build offers before the webinar and [keep them hidden until the moment comes](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#hold-an-offer). On a live webinar you push the offer from the **Offers** panel in the room.
 
 **Polls** help too. A question about the audience, such as where they are now or what they want to achieve, keeps people engaged and tells you who is ready to buy. **Create with AI** can write five polls for you, each with a purpose, such as gauging interest in your offer or qualifying leads.
 
@@ -138,15 +138,15 @@ Paid registration needs the **Paid Webinars** add-on and a connected Stripe acco
 
 Registrations only turn into sales if people attend. The **Notifications** tab handles this:
 
-- **Registration Confirmation**, sent the moment someone registers, carries their join link.
-- **Webinar Reminders**, timed relative to the session, so they work on evergreen schedules too. A sensible default is a day before, an hour before and fifteen minutes before.
+- [**Registration Confirmation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/), sent the moment someone registers, carries their join link.
+- [**Webinar Reminders**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#sensible-schedule), timed relative to the session, so they work on evergreen schedules too. A sensible default is a day before, an hour before and fifteen minutes before.
 - **SMS** and **WhatsApp** reminders (both in Beta) suit the final reminder before a session, when an email may sit unread.
 
 Set the sender name to something your students recognise, and the reply-to address to one someone reads.
 
 ## The replay {#the-replay}
 
-Most people who register don't make the live session, so the replay often reaches more people than the webinar.
+Most people who register don't make the live session, so the [replay often reaches more people](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/) than the webinar.
 
 | Replay setting | Options | What course creators usually choose |
 |---|---|---|
@@ -166,9 +166,9 @@ Anyone who buys from an offer receives the **Paid Offer — Transaction Success*
 
 ## Your email list {#your-email-list}
 
-If your list lives in an email tool, connect it per webinar from the **Integrations** tab. Supported tools include **Kit (ConvertKit)**, **ActiveCampaign**, **Mailchimp**, **Drip**, **AWeber**, **Keap**, **Ontraport**, **GetResponse**, **Constant Contact** and **GoHighLevel**, alongside EasyWebinar's own **EasyCRM**.
+If your list lives in an email tool, connect it per webinar from the **Integrations** tab. Supported tools include **Kit (ConvertKit)**, **ActiveCampaign**, **Mailchimp**, **Drip**, **AWeber**, **Keap**, **Ontraport**, **GetResponse**, **Constant Contact** and **GoHighLevel**, alongside EasyWebinar's own [**EasyCRM**](https://easywebinar.com/easycrm/).
 
-Map webinar events to tags so your email tool knows what each person did:
+[Map webinar events to tags](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-events-to-tags) so your email tool knows what each person did:
 
 | Event | Example tag | What it lets you do |
 |---|---|---|
@@ -181,7 +181,7 @@ You can also send each person's join link and replay link into your email tool's
 
 ## Stream to your existing audience {#stream-to-your-audience}
 
-If your audience already watches you on YouTube or LinkedIn, **EasyCast** streams a live webinar to **YouTube**, **LinkedIn** and **LinkedIn Organisation** pages at the same time, and to any other platform that accepts a **custom RTMP** stream.
+If your audience already watches you on YouTube or LinkedIn, [**EasyCast**](https://easywebinar.com/easycast/) streams a live webinar to **YouTube**, **LinkedIn** and **LinkedIn Organisation** pages at the same time, and to any other platform that accepts a **custom RTMP** stream.
 
 ## Your brand {#your-brand}
 
@@ -203,7 +203,7 @@ Open a webinar's **Analytics** tab after each session.
 | **Views to Clicks** and **Clicks to Purchases** | Whether the offer or the checkout is losing people |
 | **Revenue by Offer** | What each offer earned |
 
-**People** in the sidebar shows the individuals behind the numbers across all your webinars, with each person's **watch percentage**, **replay watch percentage**, whether they **clicked your offer**, and a **lead score** for engagement. Filter by behaviour, for example high watch time plus an offer click, and **Export** the list.
+[**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/) in the sidebar shows the individuals behind the numbers across all your webinars, with each person's **watch percentage**, **replay watch percentage**, whether they **clicked your offer**, and a **lead score** for engagement. Filter by behaviour, for example high watch time plus an offer click, and **Export** the list.
 
 ## A course launch, end to end {#end-to-end}
 
@@ -263,9 +263,7 @@ Compare **Visitors → Registered** for your page, **Registered → Attended** f
 
 ## Related {#related}
 
-- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/)
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)
-- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/)
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/)
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/)
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/)
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template): the manual build, including the registration template step where the **Education** category sits.
+- [The Library's recordings](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/#recordings): where your live session's recording lands before you clone it as Evergreen.
+- [Style the live room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#style-the-room): backgrounds, overlays and layout so the room matches your course brand.
+- [Add-ons](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): the **Paid Webinars**, **C-Name** and **White Label** add-ons mentioned on this page.

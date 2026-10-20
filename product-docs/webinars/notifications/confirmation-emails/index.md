@@ -7,7 +7,7 @@ The email EasyWebinar sends the moment someone registers, carrying their join li
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/
 
-The **Registration Confirmation** email is the first message a new registrant gets from your webinar. EasyWebinar sends it immediately after someone registers, and it carries their join link, which makes it the email that actually gets people into the session. It sits on the webinar's **Notifications** tab, and the **Email Settings** button on the same screen decides whose name your emails show, where replies go, and whether an admin address receives a copy of each registration.
+The **Registration Confirmation** email is the first message a new registrant gets from your webinar. EasyWebinar sends it immediately after someone registers, and it carries their [attendee join link](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#attendee-join-link), which makes it the email that actually gets people into the session. It sits on the webinar's **Notifications** tab, and the **Email Settings** button on the same screen decides whose name your emails show, where replies go, and whether an admin address receives a copy of each registration.
 
 ## At a glance {#at-a-glance}
 
@@ -35,7 +35,7 @@ Every webinar's **Notifications** tab has three channels: **Emails**, **SMS** an
 | **Attendee Action Follow-ups** | Based on what someone did, such as engagement and offer clicks |
 | **Paid Offer — Transaction Success** | After a successful purchase |
 
-The confirmation is the only one of the five tied to the moment of sign-up. Reminders count down to the session, follow-ups react to what happened in it, and the transaction email answers a purchase. The confirmation answers a registration.
+The confirmation is the only one of the five tied to the moment of sign-up. Reminders count down to the session, [follow-ups react to what happened](https://easywebinar.com/features/webinar-follow-up/) in it, and the transaction email answers a purchase. The confirmation answers a registration.
 
 It is a different thing from the **Thank you Page**. The thank-you page is what the browser shows straight after registering, with confirmation and what happens next. The email is what stays in the registrant's inbox after they have closed that tab, and it is where they go looking for the link on the day.
 
@@ -58,7 +58,7 @@ A registrant without a confirmation has only what they saw on the thank-you page
 
 ### Why buyers care {#why-buyers-care}
 
-Registrations only turn into attendance, and attendance into revenue, if people can find their way into the session. Teams comparing webinar platforms look at whether the confirmation is automatic, whether the sender can be set to their own name, and whether replies reach a real inbox. In EasyWebinar all three are settings on one tab of each webinar.
+[Registrations only turn into attendance](https://easywebinar.com/blog/how-to-drive-webinar-attendance/), and attendance into revenue, if people can find their way into the session. Teams comparing webinar platforms look at whether the confirmation is automatic, whether the sender can be set to their own name, and whether replies reach a real inbox. In EasyWebinar all three are settings on one tab of each webinar.
 
 ## Set it up {#set-it-up}
 
@@ -110,7 +110,7 @@ A confirmation only goes out when someone registers, and your registration link 
 
 ### Reminder emails {#with-reminders}
 
-The confirmation starts the sequence and **Webinar Reminders** carry it to the session. Reminders share the same **Email Settings**, so the sender a registrant learns from the confirmation is the one they see again before the webinar. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
+The confirmation [starts the email sequence](https://easywebinar.com/blog/webinar-email-automation-sequence-streamline-your-webinar-funnel/) and **Webinar Reminders** carry it to the session. Reminders share the same **Email Settings**, so the sender a registrant learns from the confirmation is the one they see again before the webinar. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
 
 ### The thank-you page {#with-thank-you-page}
 
@@ -118,19 +118,19 @@ The **Thank you Page** is one of the five pages on the **Content** tab and appea
 
 ### SMS and WhatsApp welcome messages (Beta) {#with-sms-whatsapp}
 
-Both Beta channels have their own message for the moment of registration: **Welcome SMS** on the **SMS** tab and **Welcome Message** on the **Whatsapp** tab, each sent immediately after someone registers. They need a phone number, so the **Phone** field has to be on your registration form, and they come from an EasyWebinar number rather than your own. Both work alongside email rather than replacing it.
+Both Beta channels have their own message for the moment of registration: **Welcome SMS** on the **SMS** tab and **Welcome Message** on the **Whatsapp** tab, each sent immediately after someone registers. They need a phone number, so the **Phone** field has to be on your [registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form), and they come from an EasyWebinar number rather than your own. Both work alongside email rather than replacing it.
 
 ### Create with AI {#with-create-with-ai}
 
-The emails step of **Create with AI** drafts a full sequence, beginning with a welcome email on registration and followed by reminders and follow-ups. After the build, the emails sit on the **Notifications** tab like any others. See [Create a webinar with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/).
+The emails step of **Create with AI** [drafts a full email sequence](https://easywebinar.com/ai-webinar-email-generator/), beginning with a welcome email on registration and followed by reminders and follow-ups. After the build, the emails sit on the **Notifications** tab like any others. See [Create a webinar with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/).
 
 ### Paid registration {#with-paid-registration}
 
-On a paid webinar, the attendee is registered once payment goes through and is then sent to your thank-you page. Purchases of an offer inside the webinar have their own email, **Paid Offer — Transaction Success**, the receipt-style confirmation for anyone who bought. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/).
+On a paid webinar, the attendee is registered once payment goes through and is then sent to your thank-you page. Purchases of [an offer inside the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/) have their own email, **Paid Offer — Transaction Success**, the receipt-style confirmation for anyone who bought. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/).
 
 ### CRM and email tools {#with-crm}
 
-A connected CRM or email tool can act on the same moment through the **Registered** event, for example tagging every new registrant. On the **Custom fields** side, the **Webinar Join Link** can be mapped into a CRM field so each contact holds their own working link. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
+A [connected CRM or email tool](https://easywebinar.com/integrations/) can act on the same moment through the **Registered** event, for example tagging every new registrant. On the **Custom fields** side, the **Webinar Join Link** can be mapped into a CRM field so each contact holds their own working link. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
 
 ### Cloning {#with-cloning}
 
@@ -154,11 +154,11 @@ A marketing team running a webinar for pipeline turns on **Notify admin** and po
 
 ### Agencies {#agencies}
 
-An agency running webinars for several clients sets each webinar's **Sender name** to the client's company and the **Reply-to email** to the client's own address. Because the settings are held per webinar, each client's registrants hear from the client, not the agency.
+An [agency running webinars for several clients](https://easywebinar.com/solutions/marketing-agencies/) sets each webinar's **Sender name** to the client's company and the **Reply-to email** to the client's own address. Because the settings are held per webinar, each client's registrants hear from the client, not the agency.
 
 ### Course creators {#course-creators}
 
-A course creator uses **Create with AI** to draft the sequence, then rewrites the welcome email in their own voice and sets the sender to a name their students already know. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A course creator uses **Create with AI** to draft the sequence, then rewrites the welcome email in their own voice and sets the sender to a name their students already know. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ## Limits and things to know {#limits}
 
@@ -213,10 +213,10 @@ No. The **Thank you Page** shows in the browser straight after registering. The 
 
 ## Related {#related}
 
-- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/)
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/)
-- [Create a webinar with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/)
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/)
-- [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/)
+- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/): the emails that follow the confirmation, using the same Email Settings.
+- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): publish the page, or no confirmations go out.
+- [Create a webinar with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/): drafts the welcome email with its merge tags in place.
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): registration happens only after payment, so that is when the confirmation sends.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): carry the confirmation and sender settings to a new webinar.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): act on the Registered event and store each join link.
+- [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/): check who registered and when.

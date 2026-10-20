@@ -24,15 +24,15 @@ The People view in EasyWebinar lists every registrant and attendee across all yo
 
 ## What the People view is {#what-it-is}
 
-A webinar's own **Analytics** tab gives you counts: how many registered, how many attended, how many missed. **People** gives you the names behind those counts, for every webinar in your account at once.
+A webinar's own [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) gives you counts: how many registered, how many attended, how many missed. **People** gives you the names behind those counts, for every webinar in your account at once.
 
-That changes what you can do after a session. Instead of knowing that a large share of registrants missed the webinar, you can see who they are, narrow the list to one webinar, and export it for a replay email. Instead of knowing that some people clicked your offer, you can find the ones who watched most of the session, clicked, and still haven't bought.
+That changes what you can do after a session. Instead of knowing that a large share of registrants missed the webinar, you can see who they are, narrow the list to one webinar, and export it for a [replay email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#with-follow-ups). Instead of knowing that some people clicked your offer, you can find the ones who watched most of the session, clicked, and still haven't bought.
 
 ## Why the People view matters {#why-it-matters}
 
 ### What it's for {#what-its-for}
 
-People is the follow-up list. It turns webinar behaviour into segments you can act on: no-shows to send the replay to, engaged viewers to invite to a call, campaigns that brought attendees rather than just sign-ups.
+People is the follow-up list. It turns webinar behaviour into [segments you can act on](https://easywebinar.com/blog/email-segmentation-for-webinar-follow-ups/): no-shows to send the replay to, engaged viewers to invite to a call, campaigns that brought attendees rather than just sign-ups.
 
 ### How it helps {#how-it-helps}
 
@@ -43,11 +43,11 @@ People is the follow-up list. It turns webinar behaviour into segments you can a
 
 ### What happens without it {#without-it}
 
-Without a behaviour-level list, every registrant gets the same follow-up. The person who watched to the end and clicked your offer receives the same "sorry we missed you" email as someone who never turned up, and the people closest to buying are treated like everyone else.
+Without a behaviour-level list, every registrant gets the [same follow-up](https://easywebinar.com/features/webinar-follow-up/). The person who watched to the end and clicked your offer receives the same "sorry we missed you" email as someone who never turned up, and the people closest to buying are treated like everyone else.
 
 ### Why buyers care {#why-buyers-care}
 
-Webinars are usually run to produce leads or sales, so what matters afterwards is who to contact and in what order. Buyers look for per-person engagement data, campaign attribution and a clean export, because that's what connects a webinar to a sales or marketing follow-up.
+Webinars are usually run to produce leads or sales, so what matters afterwards is who to contact and in what order. Buyers look for [per-person engagement data](https://easywebinar.com/blog/webinar-crm/), campaign attribution and a clean export, because that's what connects a webinar to a sales or marketing follow-up.
 
 ## Use the People view {#use-it}
 
@@ -65,15 +65,15 @@ Each row is one person on one webinar, with columns including:
 | **Phone** | Their phone number, if you collected it |
 | **Status** | Attendance status, such as Attended or No Show |
 | **Lead score** | How engaged they were, for example Hot |
-| **Webinar** and **Type** | Which webinar, and whether it was live, simulive or evergreen |
+| **Webinar** and **Type** | Which webinar, and whether it was [live, simulive or evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) |
 | **Session date & time** | The session they registered for |
 | **Attendee timezone** | Where they are |
 | **Registered on** | When they signed up |
 | **Watch percentage** | How much of the live session they watched |
 | **Replay watch percentage** | How much of the replay they watched |
 | **Country** | Their country |
-| **Polls** | How many polls they answered |
-| **Offer clicked** | Whether they clicked your offer |
+| **Polls** | How many [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#with-people-view) they answered |
+| **Offer clicked** | Whether they clicked your [offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#with-people-view) |
 
 Use **Columns** to choose which of these appear. **Watch percentage** and **Offer clicked** are the two most worth sorting by: someone who watched most of the session and clicked your offer is a very different prospect from someone who left in the first few minutes.
 
@@ -105,11 +105,11 @@ Pick a category on the left, refine it on the right, then click **Apply Filter**
 | Everyone to send the replay to, for one webinar | **Behavior** → no-show, plus **Webinar** |
 | Interested people who didn't buy | **Behavior** → high watch time and offer clicked |
 | Which campaign produced attendees, not only registrations | **Source & UTM** |
-| How your automated funnel compares with your live sessions | **Webinar** → Evergreen |
+| How your [automated funnel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-analytics) compares with your live sessions | **Webinar** → Evergreen |
 
 ### 5. Export the result {#export}
 
-Click **Export** to download the filtered list. Use it to take a segment into another tool or to hand a list to someone who doesn't work in EasyWebinar.
+Click **Export** to download the filtered list. Use it to take a segment into [another tool](https://easywebinar.com/integrations/) or to hand a list to someone who doesn't work in EasyWebinar.
 
 Filter first, then export. Exporting everything and cutting it down in a spreadsheet repeats work the filters already do, and **Export** respects whatever filters are applied.
 
@@ -117,8 +117,8 @@ Filter first, then export. Exporting everything and cutting it down in a spreads
 
 **Source & UTM** only has something to filter if your registration form records it. To set that up:
 
-1. Open the webinar's **Content** tab and edit the **Registration Page**.
-2. Select the form block and turn on **UTM Params**, so each registration records the campaign that brought it in.
+1. Open the webinar's **Content** tab and edit the [**Registration Page**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#form-block).
+2. Select the form block and turn on [**UTM Params**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#utm-capture), so each registration records the campaign that brought it in.
 3. Tag the links in your ads, emails and posts as you normally would.
 4. Filter **People** by **Source & UTM** to see which campaign each registrant came from.
 
@@ -136,7 +136,7 @@ The **Analytics** tab on a single webinar shows the funnel and offer numbers; Pe
 
 ### Follow-up emails {#with-follow-ups}
 
-If you only need to email no-shows or attendees of one webinar, **Webinar Follow-ups** on the **Notifications** tab can target those audiences directly, and **Attendee Action Follow-ups** send based on engagement and offer clicks. People is for when you want to see the list, combine conditions, or take it elsewhere.
+If you only need to email no-shows or attendees of one webinar, [**Webinar Follow-ups**](https://easywebinar.com/features/webinar-follow-up/) on the **Notifications** tab can target those audiences directly, and **Attendee Action Follow-ups** send based on engagement and offer clicks. People is for when you want to see the list, combine conditions, or take it elsewhere.
 
 ### CRM and email tools {#with-crm}
 
@@ -152,7 +152,7 @@ These are typical patterns, shown to illustrate how different teams use the same
 
 ### B2B marketing teams {#b2b-marketing}
 
-A marketing team running paid campaigns turns on **UTM Params** for every webinar, then filters People by **Source & UTM** each month to compare which channels produce attendees with high **Watch percentage**, not just sign-ups.
+A [marketing team](https://easywebinar.com/solutions/marketing-teams/) running paid campaigns turns on **UTM Params** for every webinar, then filters People by **Source & UTM** each month to compare which channels produce attendees with high **Watch percentage**, not just sign-ups.
 
 ### Course creators {#course-creators}
 
@@ -160,11 +160,11 @@ A creator filters for high watch time plus **Offer clicked** after each evergree
 
 ### Customer success teams {#customer-success}
 
-A customer success team runs recurring onboarding webinars and filters **Behavior** for no-shows on the latest session, then sends that group the replay so new customers don't fall behind.
+A [customer success team](https://easywebinar.com/solutions/customer-success-teams/) runs recurring onboarding webinars and filters **Behavior** for no-shows on the latest session, then sends that group the replay so new customers don't fall behind.
 
 ### Agencies {#agencies}
 
-An agency running webinars for a client filters by **Webinar**, exports the attendees with their **Lead score** and **Offer clicked** columns, and hands the file to the client's sales team, who don't use EasyWebinar.
+An [agency running webinars for a client](https://easywebinar.com/solutions/marketing-agencies/) filters by **Webinar**, exports the attendees with their **Lead score** and **Offer clicked** columns, and hands the file to the client's sales team, who don't use EasyWebinar.
 
 ## Limits and things to know {#limits}
 
@@ -219,9 +219,7 @@ The result count is shown below the table.
 
 ## Related {#related}
 
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/)
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/)
-- [Custom fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/)
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/)
-- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/)
-- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/)
+- [Map webinar behaviour to CRM tags](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-events-to-tags): send the same behaviour People shows into your CRM automatically.
+- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/): fewer no-shows means a shorter replay list to export.
+- [Write polls people will answer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#write-good-polls): the **Polls** column only tells you something if people answer them.
+- [Follow up after a course webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#follow-up): how a course creator acts on the people who clicked but didn't enrol.

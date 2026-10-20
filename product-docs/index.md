@@ -9,7 +9,7 @@ How EasyWebinar works, from creating your first webinar to selling, following up
 
 ## What EasyWebinar is {#what-easywebinar-is}
 
-EasyWebinar is a webinar platform for running live and recorded webinars that collect leads and sell. You build a webinar with a registration page, emails, polls and offers, run it live or from a recording, and follow up through analytics, integrations and the built-in EasyCRM.
+EasyWebinar is a webinar platform for running live and recorded webinars that collect leads and sell. You build a webinar with a [registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/), [emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/), [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), run it live or from a recording, and follow up through [analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/), integrations and the built-in [EasyCRM](https://easywebinar.com/easycrm/).
 
 ## Start here {#start-here}
 
@@ -36,18 +36,18 @@ EasyWebinar is a webinar platform for running live and recorded webinars that co
 
 | Area | What it does |
 |---|---|
-| **My Webinars** | Lists, filters, clones and archives your webinars |
-| **Create with AI** | Generates a webinar script, pages, emails, polls and offers |
-| **Webinar tabs** | Overview, Content, CTAs, Engagement, Notifications, Integrations, Analytics, Replay and Settings for each webinar |
-| **Live room** | Green room, backstage, presenting, screen sharing and recording |
-| **EasyCast** | Streams a live webinar to YouTube, LinkedIn or a custom RTMP destination |
-| **Library** | Your hosted videos, recordings, images and files |
+| **My Webinars** | Lists, filters, [clones](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/) and archives your webinars |
+| **[Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/)** | Generates a webinar script, pages, emails, polls and offers |
+| **Webinar tabs** | [Overview](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/), Content, CTAs, Engagement, Notifications, Integrations, Analytics, Replay and Settings for each webinar |
+| **Live room** | [Green room, backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/), [presenting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/), screen sharing and recording |
+| **[EasyCast](https://easywebinar.com/easycast/)** | Streams a live webinar to YouTube, LinkedIn or a custom RTMP destination |
+| **[Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/)** | Your hosted videos, recordings, images and files |
 | **EasyCRM** | Leads, lists, clients, deals, tasks, broadcasts and workflows (add-on) |
 | **Settings** | Profile, team members, plan and billing, client workspaces |
 
 ## How the parts connect {#how-it-connects}
 
-A webinar's registration page collects registrants and can take payment through your own Stripe account. Registrants get emails from the Notifications tab, and SMS or WhatsApp messages, both currently in Beta. They join the room live, or a recording plays at a scheduled time (simulive) or on demand (evergreen). Attendance, offer clicks and revenue flow into the webinar's Analytics and the People view, and out to connected CRMs and email tools, or into EasyCRM.
+A webinar's registration page collects registrants and can take payment through your own Stripe account. Registrants get [reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) from the Notifications tab, and SMS or WhatsApp messages, both currently in Beta. They join the room live, or a recording plays at a scheduled time ([simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/)) or on demand ([evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/)). Attendance, offer clicks and revenue flow into the webinar's Analytics and the [People view](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/), and out to [connected CRMs and email tools](https://easywebinar.com/integrations/), or into EasyCRM.
 
 ## About this documentation {#about}
 
