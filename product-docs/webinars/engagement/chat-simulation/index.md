@@ -5,7 +5,7 @@ Fill the chat on a simulive or evergreen webinar with a conversation generated b
 - Applies to: Simulive and evergreen webinars
 - Status: Beta
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/
 
 Chat simulation plays a conversation in the chat of a recorded webinar, so a session doesn't open to an empty room. In EasyWebinar you set it up on a simulive or evergreen webinar's **Engagement** tab, under **Chat Simulation**, in one of two ways. **AI Simulation** builds a cast of simulated attendees and generates their chat and questions. **Manual Simulation** plays a script you write in a CSV, with each message timed against your video. The Chat Simulation section carries a **Beta** label in the app.
 
@@ -26,7 +26,7 @@ Chat simulation plays a conversation in the chat of a recorded webinar, so a ses
 
 ## What chat simulation is {#what-it-is}
 
-A [live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#live) has a shared room: everyone is there at the same time, so the chat fills itself. An evergreen webinar doesn't. Each registrant picks their own session, attendees arrive at different times, and a genuinely shared chat isn't possible. Without anything in it, the chat panel looks abandoned.
+A [live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#live) has a shared room: everyone is there at the same time, so the chat fills itself. An evergreen webinar doesn't. Each registrant picks their own session, attendees arrive at different times, and a genuinely shared chat isn't possible. Without anything in it, the chat panel looks abandoned.
 
 Chat simulation solves that by playing messages into the chat at set points in the video. You choose how those messages are made:
 
@@ -73,7 +73,7 @@ The screenshot under Set up Manual Simulation shows the CSV upload beside **Prev
 ## Before you begin {#before-you-begin}
 
 - **Use a simulive or evergreen webinar.** Chat simulation isn't available on live webinars.
-- **Select Easywebinar Chat** on [**Engagement** → **Chat**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#chat-mode). Simulated chat works with EasyWebinar's own chat panel; **Third party** replaces it.
+- **Select Easywebinar Chat** on [**Engagement** → **Chat**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#chat-mode). Simulated chat works with EasyWebinar's own chat panel; **Third party** replaces it.
 - **Know your video.** For a manual script, you'll time messages against the recording, so have it to hand.
 
 ## Set up AI Simulation {#set-up-ai-simulation}
@@ -86,7 +86,7 @@ The screenshot under Set up Manual Simulation shows the CSV upload beside **Prev
 6. Check the counts for attendees, chat messages and questions.
 7. Click **Save Changes**.
 
-![AI Simulation on a simulive webinar, showing the simulation selector, the Active state, counts for attendees, chat and questions, and a table of simulated attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/chat-simulation/step-01-ai-simulation.png)
+![AI Simulation on a simulive webinar, showing the simulation selector, the Active state, counts for attendees, chat and questions, and a table of simulated attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/chat-simulation/step-01-ai-simulation.png)
 
 *1 Simulation selector · 2 Active toggle · 3 Attendees · Chat · Questions · 4 The attendee list.*
 
@@ -124,7 +124,7 @@ A useful check: look down the attendee list as a newcomer would meet that room. 
 7. Read through **Preview Simulated Chat**.
 8. Click **Save Changes**.
 
-![Manual Simulation with a CSV uploaded, the Download sample CSV link, the simulated chat preview and the attendee list settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/chat-simulation/step-02-manual-csv.png)
+![Manual Simulation with a CSV uploaded, the Download sample CSV link, the simulated chat preview and the attendee list settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/chat-simulation/step-02-manual-csv.png)
 
 | Area | What it does |
 |---|---|
@@ -188,15 +188,15 @@ Simulated attendees can show in the attendee list too, with **Show attendee list
 
 ### Q&A {#with-qa}
 
-For an automated webinar that should still feel busy, pair **Everyone** chat and Chat Simulation with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat), so real questions reach your team in a queue.
+For an automated webinar that should still feel busy, pair **Everyone** chat and Chat Simulation with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat), so real questions reach your team in a queue.
 
 ### Evergreen schedules {#with-evergreen}
 
-Chat simulation suits [evergreen webinars running](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-chat-simulation) [just-in-time](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) or [on demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/) sessions, where attendees arrive in ones and twos at all hours.
+Chat simulation suits [evergreen webinars running](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-chat-simulation) [just-in-time](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) or [on demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/on-demand/) sessions, where attendees arrive in ones and twos at all hours.
 
 ### Simulive webinars {#with-simulive}
 
-On a [simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#what-it-is), everyone in a session watches the same moment, so real chat works and you can answer live while the recording plays. Chat Simulation is available on simulive webinars as well as evergreen ones.
+On a [simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#what-it-is), everyone in a session watches the same moment, so real chat works and you can answer live while the recording plays. Chat Simulation is available on simulive webinars as well as evergreen ones.
 
 ## Who uses chat simulation, and how {#who-uses-it}
 
@@ -204,7 +204,7 @@ These are typical patterns, to show how the two modes fit different automated we
 
 ### Course creators {#course-creators}
 
-A creator [turns their best live session into an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) and [writes a manual script](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#chat-simulation) from the questions people really asked live, with `Admin` replies that match the answers they gave. Every session plays the same tested conversation.
+A creator [turns their best live session into an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) and [writes a manual script](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#chat-simulation) from the questions people really asked live, with `Admin` replies that match the answers they gave. Every session plays the same tested conversation.
 
 ### Small businesses and solo operators {#solo-operators}
 
@@ -302,9 +302,9 @@ No. Simulated chat works with **Easywebinar Chat** only.
 
 ## Related {#related}
 
-- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the **Easywebinar Chat** setting that simulation depends on.
-- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): give real questions a private queue beside the simulated chat.
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the format where attendees arrive at different times.
-- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): the other recorded format that offers Chat Simulation.
-- [Just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/): the evergreen schedule where attendees arrive in ones and twos.
-- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/): a scripted room on an automated course webinar.
+- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the **Easywebinar Chat** setting that simulation depends on.
+- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): give real questions a private queue beside the simulated chat.
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the format where attendees arrive at different times.
+- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): the other recorded format that offers Chat Simulation.
+- [Just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/): the evergreen schedule where attendees arrive in ones and twos.
+- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/): a scripted room on an automated course webinar.

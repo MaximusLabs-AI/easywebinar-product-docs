@@ -5,7 +5,7 @@ Create a live webinar, set a one-time or recurring schedule, choose free or paid
 - Applies to: All plans · any team member
 - Status: Live
 - Verified: 2026-10-21
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/
 
 Create a live webinar, set the date, time and timezone your attendees register for, and get a registration page ready to publish. The builder has four steps and takes about two minutes.
 
@@ -26,9 +26,9 @@ Create a live webinar, set the date, time and timezone your attendees register f
 
 ## Before you begin {#before-you-begin}
 
-- Sign in to EasyWebinar. **[Any team member can create a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/account/team-members/#roles)**; you don't need to be the account owner.
+- Sign in to EasyWebinar. **[Any team member can create a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/#roles)**; you don't need to be the account owner.
 - Decide the [date, time and timezone you will broadcast in](https://easywebinar.com/blog/best-day-and-time-to-host-a-webinar/).
-- If you will charge for the webinar, [connect a **Stripe** account](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#before-you-begin). You can complete everything without one by leaving pricing on **Free**.
+- If you will charge for the webinar, [connect a **Stripe** account](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#before-you-begin). You can complete everything without one by leaving pricing on **Free**.
 - Decide the webinar type first. **The type can't be changed after the webinar is created.**
 
 ### Live, simulive or evergreen? {#choose-type}
@@ -36,12 +36,12 @@ Create a live webinar, set the date, time and timezone your attendees register f
 | You want | Choose |
 |---|---|
 | To [broadcast live, in real time](https://easywebinar.com/live-webinars/) | **Live Webinar** |
-| Pre-recorded content that plays at scheduled times, with attendees registering for specific dates | [**Simulive Webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) |
-| Pre-recorded content available around the clock, watched on each viewer's schedule | [**Evergreen Webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) |
+| Pre-recorded content that plays at scheduled times, with attendees registering for specific dates | [**Simulive Webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) |
+| Pre-recorded content available around the clock, watched on each viewer's schedule | [**Evergreen Webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) |
 
-The [three webinar types](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) use the same pages, emails, polls, offers and analytics. Only the delivery differs.
+The [three webinar types](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) use the same pages, emails, polls, offers and analytics. Only the delivery differs.
 
-If you would rather have EasyWebinar write the script, pages, emails, offers and polls for you, choose **[Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/)** instead of **Create Manually** in step 1.
+If you would rather have EasyWebinar write the script, pages, emails, offers and polls for you, choose **[Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/)** instead of **Create Manually** in step 1.
 
 ## Step 1: Open the create dialog {#open-create-dialog}
 
@@ -49,7 +49,7 @@ If you would rather have EasyWebinar write the script, pages, emails, offers and
 2. Click **Create a Webinar** at the top right.
 3. Choose **Create Manually**.
 
-![The Create a Webinar dialog showing Create with AI and Create Manually side by side](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-02-choose-creation-method.png)
+![The Create a Webinar dialog showing Create with AI and Create Manually side by side](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-02-choose-creation-method.png)
 
 *Two ways to create a webinar. Create with AI generates your pages, emails, offers and polls; Create Manually opens the four-step builder.*
 
@@ -62,7 +62,7 @@ The builder opens on **Step 1 of 4: Build**.
 3. Optionally add **Tags**: type one and press Enter, or click a suggested tag (**Business**, **Education**, **Webinar**, **Sales**, **Coaching**).
 4. Click **Continue to Schedule**.
 
-![Step 1 of 4 with the webinar name field, the three type cards and the tags field](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-01-build-name-and-type.png)
+![Step 1 of 4 with the webinar name field, the three type cards and the tags field](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-01-build-name-and-type.png)
 
 *1 Webinar Name · 2 Webinar Type, Live selected by default · 3 Tags · 4 Continue.*
 
@@ -81,7 +81,7 @@ On **Step 2 of 4: Schedule**:
 5. Under **Schedule Preferences**, choose how many upcoming sessions a registrant can pick from.
 6. Click **Continue to Pricing**.
 
-![Step 2 of 4 showing frequency, timezone, session date and time, Add Session and schedule preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-02-schedule-specific-date.png)
+![Step 2 of 4 showing frequency, timezone, session date and time, Add Session and schedule preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-02-schedule-specific-date.png)
 
 *1 Frequency · 2 Timezone · 3 Session date and time · 4 Add Session · 5 Schedule Preferences · 6 Continue.*
 
@@ -90,14 +90,14 @@ On **Step 2 of 4: Schedule**:
 A live webinar runs at one fixed time for everyone, in the timezone you set. Your registration page shows that time with its timezone. Choose the timezone you will broadcast in.
 
 > **Local times**
-> Only [just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#timezones) on evergreen webinars follow each attendee's own local time. Live and scheduled sessions always run in the webinar's timezone.
+> Only [just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#timezones) on evergreen webinars follow each attendee's own local time. Live and scheduled sessions always run in the webinar's timezone.
 
 
 ### Past dates {#past-dates}
 
 You can't schedule a session in the past. Earlier dates are greyed out in the picker.
 
-![The date picker with past dates greyed out](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-02b-date-picker-past-dates-disabled.png)
+![The date picker with past dates greyed out](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-02b-date-picker-past-dates-disabled.png)
 
 ### Run the same webinar every week {#recurring-schedules}
 
@@ -110,7 +110,7 @@ Choosing **Weekly** turns the single session into a recurring schedule and adds 
 | **Session Time** and **Add Time** | Run it more than once on the same day |
 | **Blackout Dates** | Stop the webinar running on specific dates, such as holidays or time off |
 
-![Step 2 with Weekly selected, showing days of week, start and end date, session times and blackout dates](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-02c-schedule-weekly-recurring.png)
+![Step 2 with Weekly selected, showing days of week, start and end date, session times and blackout dates](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-02c-schedule-weekly-recurring.png)
 
 #### Blackout dates {#blackout-dates}
 
@@ -129,7 +129,7 @@ On **Step 3 of 4: Pricing**, choose one:
 
 Click **Continue to Registration Template**.
 
-![Step 3 of 4 with Free selected and Paid beside it](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-03-pricing-free.png)
+![Step 3 of 4 with Free selected and Paid beside it](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-03-pricing-free.png)
 
 ### Charging for the webinar {#charging}
 
@@ -137,13 +137,13 @@ Selecting **Paid** shows:
 
 - **Pricing Title** and an optional **Description**, shown to attendees at checkout
 - **Live webinar price**, the amount each registrant pays
-- **Live + Replay bundle**, to [sell access to the webinar and its recording together](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#live-replay-bundle)
+- **Live + Replay bundle**, to [sell access to the webinar and its recording together](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#live-replay-bundle)
 
 Attendees pay through a Stripe checkout, and the money goes straight to your Stripe account. If no account is connected, a **Payments · Action required** panel offers **Connect with Stripe**. You can switch back to **Free** any time before creating the webinar.
 
-![The paid pricing step with price fields and the Stripe connection panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-03b-pricing-paid-stripe.png)
+![The paid pricing step with price fields and the Stripe connection panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-03b-pricing-paid-stripe.png)
 
-Once people pay, the webinar's **Analytics** tab shows [what you've earned under **Revenue**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#revenue-view), with a list of every transaction and its status.
+Once people pay, the webinar's **Analytics** tab shows [what you've earned under **Revenue**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#revenue-view), with a list of every transaction and its status.
 
 ## Step 5: Choose a registration template {#registration-template}
 
@@ -153,19 +153,19 @@ On **Step 4 of 4: Registration Template**:
 2. Click a template. **Default Register Page** is the simplest one-column option; **Build Your Own** starts from a blank page.
 3. Click **Create Webinar**.
 
-![Step 4 of 4 with the template category filters and the template grid](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-04-registration-template.png)
+![Step 4 of 4 with the template category filters and the template grid](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-04-registration-template.png)
 
 *1 Category filters · 2 Template cards · 3 Create button.*
 
-You can skip this step. The button reads **Skip & Create Webinar** until you select a template, and you can [choose one later](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#change-template).
+You can skip this step. The button reads **Skip & Create Webinar** until you select a template, and you can [choose one later](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#change-template).
 
 ## Verify the result {#verify-the-result}
 
-The webinar is created and opens in the **[registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#open-the-builder)**, with your schedule applied and a [live countdown to the session](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown).
+The webinar is created and opens in the **[registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#open-the-builder)**, with your schedule applied and a [live countdown to the session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown).
 
-![The registration page builder with the webinar date, countdown and registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder with the webinar date, countdown and registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
 
-- The default form collects **Full name** and **Email**, both required. Use **Add Custom Field** to [collect more on the form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form).
+- The default form collects **Full name** and **Email**, both required. Use **Add Custom Field** to [collect more on the form](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form).
 - Use the desktop and mobile toggle to check both layouts.
 
 > **Not public yet**
@@ -215,23 +215,23 @@ The weekly controls are easy to spot. With **Weekly** selected, the schedule ste
 
 ### Registration page {#with-registration-page}
 
-The webinar opens straight into the registration page builder with your schedule applied. Edit the page, add form fields and publish it there. The [registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/) put the same form on your own site.
+The webinar opens straight into the registration page builder with your schedule applied. Edit the page, add form fields and publish it there. The [registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/) put the same form on your own site.
 
 ### Reminder emails {#with-reminders}
 
-Reminder timing is relative to the webinar, not a fixed clock time, so it follows a recurring schedule. Set reminders on the **Notifications** tab; see [reminder emails for each session](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
+Reminder timing is relative to the webinar, not a fixed clock time, so it follows a recurring schedule. Set reminders on the **Notifications** tab; see [reminder emails for each session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
 
 ### The Overview tab {#with-overview}
 
-After the webinar exists, its **Overview** tab holds the schedule. The options menu on **Scheduling Options** changes the whole schedule, and the menu on a session row acts on one sitting. Click **Share** for the **Registration Page Link** you promote, or use the [sharing links guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/).
+After the webinar exists, its **Overview** tab holds the schedule. The options menu on **Scheduling Options** changes the whole schedule, and the menu on a session row acts on one sitting. Click **Share** for the **Registration Page Link** you promote, or use the [sharing links guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/).
 
 ### Cloning {#with-cloning}
 
-The type is fixed once the webinar exists. To reuse a live webinar as simulive or evergreen, [clone it and choose the new type](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) on the copy.
+The type is fixed once the webinar exists. To reuse a live webinar as simulive or evergreen, [clone it and choose the new type](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-type) on the copy.
 
 ### Engagement in the room {#with-engagement}
 
-[Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/), [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [questions from attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/) are set up on the webinar's tabs after you create it, ready for the session itself.
+[Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/), [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [questions from attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/) are set up on the webinar's tabs after you create it, ready for the session itself.
 
 ## Who uses live webinars, and how {#who-uses-it}
 
@@ -283,7 +283,7 @@ Live webinar set-up, from each platform's public documentation:
 - **The type is fixed.** Clone the webinar and choose another type on the copy.
 - **Choose Paid when you create the webinar.** If you switch an existing free webinar to paid, its registration page keeps the free form.
 - **You can't schedule a session in the past.**
-- **Registrant numbers depend on your plan.** [Attendee and registration limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) differ between [EasyWebinar's plans](https://easywebinar.com/pricing/); the features on this page are available on all plans.
+- **Registrant numbers depend on your plan.** [Attendee and registration limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) differ between [EasyWebinar's plans](https://easywebinar.com/pricing/); the features on this page are available on all plans.
 
 ### Schedule variations {#limits-and-variations}
 
@@ -339,8 +339,8 @@ Pages for what comes after the webinar exists.
 
 ### Next steps {#next-steps}
 
-- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): what to do in the room when your scheduled session starts.
-- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options): change the schedule for the whole webinar, or act on a single session, after it exists.
-- [Offers and the countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): put a call to action in front of the room while you present.
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send registrants into your CRM as they sign up.
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): see registrations, attendance and revenue once sessions have run.
+- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): what to do in the room when your scheduled session starts.
+- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options): change the schedule for the whole webinar, or act on a single session, after it exists.
+- [Offers and the countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): put a call to action in front of the room while you present.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send registrants into your CRM as they sign up.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): see registrations, attendance and revenue once sessions have run.

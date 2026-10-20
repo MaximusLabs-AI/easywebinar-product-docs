@@ -5,7 +5,7 @@ How EasyWebinar's Create with AI builds a webinar from a description, writing th
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/
 
 **Create with AI** builds a complete EasyWebinar webinar from a written description. In five steps it writes a [slide-by-slide presentation script](https://easywebinar.com/ai-webinar-script-generator/), fills your [registration, thank-you and waiting-area pages](https://easywebinar.com/ai-webinar-registration-page-builder/), drafts the [email sequence](https://easywebinar.com/ai-webinar-email-generator/), and creates polls and offers. A full build takes about ten minutes and uses around 23 credits, and everything it produces opens in the normal editors so you can change it.
 
@@ -13,7 +13,7 @@ How EasyWebinar's Create with AI builds a webinar from a description, writing th
 
 | | |
 |---|---|
-| **Where to start** | **Create with AI** in the sidebar, or **Create with AI** instead of **Create Manually** in the [**Create a Webinar** dialog](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#open-create-dialog) |
+| **Where to start** | **Create with AI** in the sidebar, or **Create with AI** instead of **Create Manually** in the [**Create a Webinar** dialog](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#open-create-dialog) |
 | **What it builds** | **Script**, **Landing pages**, **Emails**, **Polls** and **Offers** |
 | **Selected by default** | Script, Landing pages and Emails. Polls and Offers are added with a click |
 | **Webinar types** | **Live**, **Simulive** or **Evergreen**, chosen with **Type** before you generate |
@@ -69,9 +69,9 @@ The screenshot under Describe your webinar shows the prompt box, **Type**, the f
 
 ## Before you begin {#before-you-begin}
 
-- **Check your credits.** [AI generation uses credits](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits), and your balance is shown at the top right of every step. A full build costs around 23.
+- **Check your credits.** [AI generation uses credits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits), and your balance is shown at the top right of every step. A full build costs around 23.
 - **Know your audience and offer.** The prompt drives everything. Have a specific audience, three or four teaching points, a length, a tone, and what you'll sell at the end ready before you start.
-- **Decide the webinar type.** Choose **Live**, **Simulive** or **Evergreen** before generating. A [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#which-to-choose) can't be changed after it's created.
+- **Decide the webinar type.** Choose **Live**, **Simulive** or **Evergreen** before generating. A [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#which-to-choose) can't be changed after it's created.
 
 ## Build a webinar with AI {#build-it}
 
@@ -79,7 +79,7 @@ The screenshot under Describe your webinar shows the prompt box, **Type**, the f
 
 Click **Create with AI** in the sidebar.
 
-![The Create with AI screen with the prompt box, the Type selector, the output chips, Generate and the credit balance marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-with-ai/step-01-prompt.png)
+![The Create with AI screen with the prompt box, the Type selector, the output chips, Generate and the credit balance marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-01-prompt.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -141,7 +141,7 @@ Merge tags are already in place, so dates, times and join links fill in automati
 
 ### 5. Generate the polls {#generate-polls}
 
-![Poll generation asking what the polls should help you accomplish, with seven goals and Generate polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-with-ai/step-03-poll-goals.png)
+![Poll generation asking what the polls should help you accomplish, with seven goals and Generate polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-03-poll-goals.png)
 
 Instead of asking what questions you want, this step asks what the polls are for. Choose any combination of goals:
 
@@ -153,11 +153,11 @@ Instead of asking what questions you want, this step asks what the polls are for
 - getting feedback on delivery
 - segmenting for follow-up
 
-Click **Generate polls**. You get [five polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#polls-with-ai), each with its question, its options, and a short note on why it's there and where it fits in the run of show. Click **Continue**.
+Click **Generate polls**. You get [five polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#polls-with-ai), each with its question, its options, and a short note on why it's there and where it fits in the run of show. Click **Continue**.
 
 ### 6. Generate the offers {#generate-offers}
 
-![Offer generation with the three positioning options, a description box for the offer and a field for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-with-ai/step-04-offer-positioning.png)
+![Offer generation with the three positioning options, a description box for the offer and a field for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-04-offer-positioning.png)
 
 First choose how you want to position the offer:
 
@@ -169,11 +169,11 @@ First choose how you want to position the offer:
 
 Then describe what you're selling and where the button should send people, and pick an offer category: online course, coaching programme, membership, digital product or service package. Click **Generate Offers**.
 
-You get [complete offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#offers-with-ai) with a title, headline, sub-headline, button text and link. Select the ones you want and click **Save and continue**.
+You get [complete offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#offers-with-ai) with a title, headline, sub-headline, button text and link. Select the ones you want and click **Save and continue**.
 
 ### 7. Land on your finished webinar {#finished-webinar}
 
-![The finished webinar's Overview tab, with the AI badge beside the title and the nine tabs marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-with-ai/step-05-finished.png)
+![The finished webinar's Overview tab, with the AI badge beside the title and the nine tabs marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-05-finished.png)
 
 *1 The webinar title, with its AI badge · 2 The nine tabs.*
 
@@ -196,33 +196,33 @@ The script and pages are the expensive steps, which is another reason to get the
 
 Create with AI drafts the content. A few things are still yours to do:
 
-- **Set the schedule.** The build doesn't schedule sessions for you; [set them on the Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options).
-- **[Choose a video](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#change-video)** for simulive and evergreen webinars, which play a recording.
+- **Set the schedule.** The build doesn't schedule sessions for you; [set them on the Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options).
+- **[Choose a video](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#change-video)** for simulive and evergreen webinars, which play a recording.
 - **Read every page and email** before publishing, especially anything about price and what's included.
-- **[Publish the pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#publish).** A registration link doesn't work until its page is published.
-- **Tune the offers.** Add a [countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/) to an offer with a real deadline, or adjust the button URL.
+- **[Publish the pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#publish).** A registration link doesn't work until its page is published.
+- **Tune the offers.** Add a [countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/) to an offer with a real deadline, or adjust the button URL.
 
 ## How Create with AI works with other features {#works-with}
 
 ### Pages {#with-pages}
 
-Generated pages open in the same drag-and-drop builder as any other, on the webinar's **Content** tab. Change templates, edit blocks, add **UTM Params** to the form, then publish. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+Generated pages open in the same drag-and-drop builder as any other, on the webinar's **Content** tab. Change templates, edit blocks, add **UTM Params** to the form, then publish. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
 
 ### Emails {#with-emails}
 
-The generated sequence lives on the **Notifications** tab with every other email, where you can change subjects, content and timing. See [Confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/) and [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
+The generated sequence lives on the **Notifications** tab with every other email, where you can change subjects, content and timing. See [Confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/) and [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
 
 ### Polls and offers {#with-polls-and-offers}
 
-Generated polls and offers appear on the **CTAs** tab, already written and editable like any other. See [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/).
+Generated polls and offers appear on the **CTAs** tab, already written and editable like any other. See [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/).
 
 ### Paid webinars {#with-paid-webinars}
 
-A webinar built with AI has the same pricing options as one built by hand. If you're charging for registration, read the generated pages and emails carefully so they describe the price and what's included correctly. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/).
+A webinar built with AI has the same pricing options as one built by hand. If you're charging for registration, read the generated pages and emails carefully so they describe the price and what's included correctly. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/).
 
 ### Other AI features {#other-ai-features}
 
-Create with AI is one of several [AI features in EasyWebinar](https://easywebinar.com/ai/). **Chat Simulation** can use AI to populate the chat on a recorded webinar; see [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/). The **AI Moderator**, which answers attendee questions in the room, is in Beta.
+Create with AI is one of several [AI features in EasyWebinar](https://easywebinar.com/ai/). **Chat Simulation** can use AI to populate the chat on a recorded webinar; see [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/). The **AI Moderator**, which answers attendee questions in the room, is in Beta.
 
 ## Who uses Create with AI, and how {#who-uses-it}
 
@@ -230,7 +230,7 @@ These are typical patterns, shown to illustrate how the feature fits different u
 
 ### Course creators {#course-creators}
 
-A creator describes a training webinar that teaches the core idea of a course, chooses the online course category and **Balanced Approach** for the offer, and edits the script before generating pages. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator describes a training webinar that teaches the core idea of a course, chooses the online course category and **Balanced Approach** for the offer, and edits the script before generating pages. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Coaches and consultants {#coaches}
 
@@ -323,7 +323,7 @@ You choose: **Soft Pitch**, **Balanced Approach** or **Direct Pitch**.
 
 ## Related {#related}
 
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): the manual route, and where to set the schedule the AI build leaves to you.
-- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video): choose the recording a simulive build still needs.
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#build-schedule): build the always-on schedule for an evergreen build.
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/): AI credits alongside every other allowance and default.
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): the manual route, and where to set the schedule the AI build leaves to you.
+- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video): choose the recording a simulive build still needs.
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#build-schedule): build the always-on schedule for an evergreen build.
+- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/): AI credits alongside every other allowance and default.

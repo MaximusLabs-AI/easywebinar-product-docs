@@ -5,9 +5,9 @@ Copy an existing EasyWebinar webinar into a new one, choose its type and which p
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-21
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/
 
-Cloning makes a new webinar from one you've already built, so you don't set everything up again. In the **Clone Webinar** dialog you choose the type of the copy, give it a name, and tick what should come across: registration pages, schedule, replay settings, embed widgets, polls, offers, email notifications and integration settings. Because a [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) is fixed once it exists, cloning is also the only way to end up with the same webinar as a different type.
+Cloning makes a new webinar from one you've already built, so you don't set everything up again. In the **Clone Webinar** dialog you choose the type of the copy, give it a name, and tick what should come across: registration pages, schedule, replay settings, embed widgets, polls, offers, email notifications and integration settings. Because a [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) is fixed once it exists, cloning is also the only way to end up with the same webinar as a different type.
 
 **Expected result:** a new, independent webinar of the type you picked, carrying the settings and assets you selected, with no registrants, and the original webinar exactly as it was.
 
@@ -40,7 +40,7 @@ Cloning makes a new webinar from one you've already built, so you don't set ever
 
 The top of the dialog sets out what you're copying from and what you're creating.
 
-![The Clone Webinar dialog with the source webinar on the left, the Clone into type on the right, and the Live, Simulive and Evergreen type cards below](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/clone/step-01-clone-dialog.png)
+![The Clone Webinar dialog with the source webinar on the left, the Clone into type on the right, and the Live, Simulive and Evergreen type cards below](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/clone/step-01-clone-dialog.png)
 
 *1 Cloning from · 2 Clone into · 3 Choose Webinar Type.*
 
@@ -54,7 +54,7 @@ Pick the type for the copy:
 
 | Choose | The copy becomes |
 |---|---|
-| [**Live Webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/) | A webinar you present in real time |
+| [**Live Webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/) | A webinar you present in real time |
 | **Simulive Webinar** | A [recording broadcast at the times you schedule](https://easywebinar.com/simulive-webinars/) |
 | **Evergreen Webinar** | A [recording on a continuous schedule](https://easywebinar.com/evergreen-webinars/) that registrants pick from |
 
@@ -68,7 +68,7 @@ Choosing a different type from the original is allowed and is the main reason pe
 
 Under **What would you like to copy?**, tick **Select everything** to bring the lot, or choose item by item.
 
-![The What would you like to copy list grouped into Webinar assets, Engagement and Integrations, with a summary of the new webinar's name and type at the bottom](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/clone/step-02-what-to-copy.png)
+![The What would you like to copy list grouped into Webinar assets, Engagement and Integrations, with a summary of the new webinar's name and type at the bottom](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/clone/step-02-what-to-copy.png)
 
 | Group | Items you can copy |
 |---|---|
@@ -88,9 +88,9 @@ A copy that keeps the original's type is ready to edit straight away. A copy tha
 
 1. Open the new webinar and go to its **Content** tab.
 2. In the **Webinar Video** panel, choose the video. The recording of the original live session is in your library under **Recordings**, named after its webinar, with its duration and recording date.
-3. Open the **Overview** tab and check **[Scheduling Options](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options)**. The options menu on that panel changes the schedule for the whole webinar. For what an evergreen schedule offers, see [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/); for simulive, see [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/).
+3. Open the **Overview** tab and check **[Scheduling Options](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#scheduling-options)**. The options menu on that panel changes the schedule for the whole webinar. For what an evergreen schedule offers, see [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/); for simulive, see [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/).
 
-Live recordings reach the Library when **Auto Recording** is on in the [live room's recording settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording). If it was off for the original session, there will be no recording of it to use.
+Live recordings reach the Library when **Auto Recording** is on in the [live room's recording settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording). If it was off for the original session, there will be no recording of it to use.
 
 ## Verify the result {#verify}
 
@@ -150,23 +150,23 @@ Each type delivers content differently, but pages, emails, polls, offers and ana
 
 ### The Library and recordings {#with-library}
 
-Simulive and evergreen copies play a video from the Library. Recordings of webinars you've already run appear under **Recordings** automatically when auto recording was on, ready to pick on the copy's **Content** tab. See [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/).
+Simulive and evergreen copies play a video from the Library. Recordings of webinars you've already run appear under **Recordings** automatically when auto recording was on, ready to pick on the copy's **Content** tab. See [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/).
 
 ### Registration pages and embeds {#with-registration}
 
-Ticking **Registration pages** and **Embed widgets** brings the original's pages and embed widgets across to the copy. Review them on the copy before promoting it, since the copy may now be a different type with a different schedule. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/) and [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/).
+Ticking **Registration pages** and **Embed widgets** brings the original's pages and embed widgets across to the copy. Review them on the copy before promoting it, since the copy may now be a different type with a different schedule. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/) and [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/).
 
 ### Polls, offers and emails {#with-ctas-and-emails}
 
-**Polls** and [**Offers**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#with-cloning) copy to the new webinar's **CTAs** tab, and **Email notifications** copy to its **Notifications** tab, if you leave them ticked. See [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
+**Polls** and [**Offers**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#with-cloning) copy to the new webinar's **CTAs** tab, and **Email notifications** copy to its **Notifications** tab, if you leave them ticked. See [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
 
 ### Integrations {#with-integrations}
 
-**Integration settings** carries the original's integration setup to the copy. Check the connections on the copy's **Integrations** tab before it goes live. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
+**Integration settings** carries the original's integration setup to the copy. Check the connections on the copy's **Integrations** tab before it goes live. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
 
 ### Replays {#with-replays}
 
-**Replay settings** brings the replay configuration from the original's **Replay** tab. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/).
+**Replay settings** brings the replay configuration from the original's **Replay** tab. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/).
 
 ### Archiving {#with-archiving}
 
@@ -178,11 +178,11 @@ These are typical patterns, shown to illustrate how cloning is used.
 
 ### Course creators {#course-creators}
 
-A creator runs a teaching webinar live a few times with recording on, then clones it as **Evergreen**, selects the recording of the strongest session on the copy, and sets an evergreen schedule. The live original stays as it was. See [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator runs a teaching webinar live a few times with recording on, then clones it as **Evergreen**, selects the recording of the strongest session on the copy, and sets an evergreen schedule. The live original stays as it was. See [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### B2B marketing teams {#b2b-marketing}
 
-A marketing team clones last quarter's webinar for a new topic. The registration page layout, [reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-cloning) and integration settings come across, and the team rewrites the content rather than rebuilding the structure.
+A marketing team clones last quarter's webinar for a new topic. The registration page layout, [reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-cloning) and integration settings come across, and the team rewrites the content rather than rebuilding the structure.
 
 ### Agencies {#agencies}
 
@@ -190,7 +190,7 @@ An [agency](https://easywebinar.com/solutions/marketing-agencies/) keeps a webin
 
 ### Customer success teams {#customer-success}
 
-A customer success team that presents onboarding live clones the webinar as **Simulive** and chooses the live recording, so the session can run on a schedule while the team [covers the chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#simulive-chat).
+A customer success team that presents onboarding live clones the webinar as **Simulive** and chooses the live recording, so the session can run on a schedule while the team [covers the chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#simulive-chat).
 
 ## How cloning compares {#compare}
 
@@ -223,7 +223,7 @@ Cloning features, from each platform's public documentation:
 - **There is no in-place conversion.** The type of an existing webinar can't be changed; only a copy can have a different type.
 - **Registrants and attendees stay with the original.** A copy starts with no registrations.
 - **The copy's type is fixed once created.** Check the summary at the bottom of the dialog before you click **Clone Webinar**.
-- **A recorded copy needs a video.** Simulive and evergreen webinars play a recording, [chosen on the **Content** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#change-video).
+- **A recorded copy needs a video.** Simulive and evergreen webinars play a recording, [chosen on the **Content** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#change-video).
 - **Recordings exist only if auto recording was on.** A live session run with recording off leaves nothing in **Library → Recordings**.
 - **Copies are archived, not deleted.**
 
@@ -271,9 +271,9 @@ Yes. Make your changes on a copy so the webinar that's already working stays unt
 
 ## Related {#related}
 
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the schedule options to set on a copy cloned as evergreen.
-- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): what a copy cloned as simulive needs before its first session.
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): building a webinar from scratch when there is nothing to copy.
-- [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/): where the recording of a live original waits to be picked.
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): checking the copy's schedule and its empty registrant count.
-- [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/): the live-then-automate pattern that cloning makes possible.
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the schedule options to set on a copy cloned as evergreen.
+- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): what a copy cloned as simulive needs before its first session.
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): building a webinar from scratch when there is nothing to copy.
+- [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/): where the recording of a live original waits to be picked.
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): checking the copy's schedule and its empty registrant count.
+- [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/): the live-then-automate pattern that cloning makes possible.

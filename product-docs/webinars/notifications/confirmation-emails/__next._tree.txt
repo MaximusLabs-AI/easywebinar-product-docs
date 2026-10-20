@@ -2,4 +2,4 @@
 :HC["/",""]
 :HL["/easywebinar-product-docs/easywebinar-logo-black.svg","image"]
 :HL["/easywebinar-product-docs/easywebinar-logo-white.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"product-docs","param":null,"prefetchHints":4128,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"webinars/notifications/confirmation-emails","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"zcxTdDRxPqbrUWzEAuniG"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"product-docs","param":null,"prefetchHints":4128,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"webinars/notifications/confirmation-emails","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"mL1SpP9GX9TLDBuUK59-d"}

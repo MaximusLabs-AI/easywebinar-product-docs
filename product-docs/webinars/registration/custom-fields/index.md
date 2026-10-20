@@ -5,7 +5,7 @@ Add a phone field, your own custom questions, a GDPR consent checkbox and UTM ca
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/
 
 An EasyWebinar registration form starts with two required fields, **Full name** and **Email**. Select the form block in the page builder and you can add a **Phone** field, add your own custom fields, turn on a **GDPR Compliance** consent checkbox, and turn on **UTM Params** so each registration records the campaign that brought it in. What you collect then shows up in the **People** view and can be mapped into a [connected CRM](https://easywebinar.com/integrations/).
 
@@ -41,7 +41,7 @@ You can also restyle the form's submit button from the same place.
 
 ### What it's for {#what-its-for}
 
-Custom fields let the registration form collect what your [follow-up actually needs](https://easywebinar.com/features/webinar-follow-up/). That might be a phone number for [text reminders](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#sms-whatsapp) or a question about who is attending. It might also be consent, or the campaign each person came from.
+Custom fields let the registration form collect what your [follow-up actually needs](https://easywebinar.com/features/webinar-follow-up/). That might be a phone number for [text reminders](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#sms-whatsapp) or a question about who is attending. It might also be consent, or the campaign each person came from.
 
 ### How it helps {#how-it-helps}
 
@@ -85,7 +85,7 @@ Select the form block in the page builder and look at the settings panel. **GDPR
 8. Restyle the submit button if it needs to match your page.
 9. Use the device toggle to check the form on mobile, then **Preview**, **Save** and **Publish**.
 
-![The registration page builder with the date, countdown and the default form showing Full name and Email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder with the date, countdown and the default form showing Full name and Email](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
 
 *The default form, with **Full name** and **Email**, as it appears when a new webinar opens in the builder.*
 
@@ -98,10 +98,10 @@ Select the form block in the page builder and look at the settings panel. **GDPR
 **UTM Params** is a switch on the form block. Once it's on, each registration records the campaign that brought it in.
 
 1. Turn on **UTM Params** on the form block and publish the page.
-2. Tag the [links you share](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#registration-page-link) as you normally would, in ads, emails and posts.
-3. Open [**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list) in the sidebar, click **Add Filter**, and choose **Source & UTM** to see which campaign each registrant came from.
+2. Tag the [links you share](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#registration-page-link) as you normally would, in ads, emails and posts.
+3. Open [**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list) in the sidebar, click **Add Filter**, and choose **Source & UTM** to see which campaign each registrant came from.
 
-![The People view filters panel with categories including Source & UTM](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/people/step-01-filters.png)
+![The People view filters panel with categories including Source & UTM](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/people/step-01-filters.png)
 
 *1 Categories · 2 Refinements · 3 Apply Filter.*
 
@@ -128,11 +128,11 @@ The checkbox is a form option. What it asks for, and how you use the data afterw
 | Registrants for one webinar | **Add Filter** → **Webinar** |
 | A list to work with elsewhere | Filter first, then **Export** |
 
-[**Export**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#export) downloads the filtered list.
+[**Export**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#export) downloads the filtered list.
 
 ### Your CRM {#in-your-crm}
 
-A connected CRM or email tool has a [**Custom fields** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-custom-fields) that sends webinar details into your CRM's own fields. The data it lists is:
+A connected CRM or email tool has a [**Custom fields** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-custom-fields) that sends webinar details into your CRM's own fields. The data it lists is:
 
 | Webinar data | What it's for |
 |---|---|
@@ -143,19 +143,19 @@ A connected CRM or email tool has a [**Custom fields** tab](https://maximuslabs-
 | **Webinar Replay Short Link** | A shortened version |
 | **Phone Number** | Their phone, if collected |
 
-![The integration Custom fields tab mapping webinar data to CRM fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/integrations/step-02-custom-fields.png)
+![The integration Custom fields tab mapping webinar data to CRM fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/integrations/step-02-custom-fields.png)
 
 Pick the matching CRM field beside each item. The field must already exist in your CRM; after creating one there, click **Refresh**. Integrations are set per webinar.
 
 ### Text reminders (Beta) {#in-text-reminders}
 
-[SMS and WhatsApp notifications](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#with-sms-whatsapp), both in Beta, are set on the **Notifications** tab and go to the phone number from your registration form. Without the **Phone** field on the form, there's nobody to message. [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#find-reminders) cover the email side.
+[SMS and WhatsApp notifications](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#with-sms-whatsapp), both in Beta, are set on the **Notifications** tab and go to the phone number from your registration form. Without the **Phone** field on the form, there's nobody to message. [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#find-reminders) cover the email side.
 
 ## How custom fields work with other features {#works-with}
 
 ### The page builder {#with-page-builder}
 
-The form is one block on the registration page. Everything else on the page, from the template to the countdown and page-wide settings, is covered in [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+The form is one block on the registration page. Everything else on the page, from the template to the countdown and page-wide settings, is covered in [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
 
 ### Tracking pixels {#with-tracking}
 
@@ -163,11 +163,11 @@ UTM capture and ad pixels answer different questions. Pixels go in **Tracking Co
 
 ### Analytics {#with-analytics}
 
-The webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) counts visitors and registrations. The People view's **Source & UTM** filter shows which campaign produced attendees, not just registrations.
+The webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) counts visitors and registrations. The People view's **Source & UTM** filter shows which campaign produced attendees, not just registrations.
 
 ### Cloning {#with-cloning}
 
-[Cloning a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration) can copy its registration pages, so a form you've set up once can carry into the copy.
+[Cloning a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration) can copy its registration pages, so a form you've set up once can carry into the copy.
 
 ## Who uses custom fields, and how {#who-uses-it}
 
@@ -175,7 +175,7 @@ These are typical patterns, shown to illustrate how the form options fit differe
 
 ### Course creators {#course-creators}
 
-A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#registration-page) adds a custom field asking for the student's current level, so the pitch at the end can speak to beginners and advanced students differently. **UTM Params** shows which posts and emails filled the session.
+A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#registration-page) adds a custom field asking for the student's current level, so the pitch at the end can speak to beginners and advanced students differently. **UTM Params** shows which posts and emails filled the session.
 
 ### B2B marketing teams {#b2b-marketing}
 
@@ -267,7 +267,7 @@ Yes. **Save** keeps a draft; the change reaches visitors once you click **Publis
 
 ## Related {#related}
 
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): the rest of the page around the form block, and how to publish it.
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send the phone number and join links into your CRM's own fields.
-- [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/): put this same form on your own site.
-- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/): where the registration form fits in a full course launch.
+- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): the rest of the page around the form block, and how to publish it.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send the phone number and join links into your CRM's own fields.
+- [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/): put this same form on your own site.
+- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/): where the registration form fits in a full course launch.

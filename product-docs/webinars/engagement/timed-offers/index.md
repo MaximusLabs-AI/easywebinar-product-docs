@@ -5,7 +5,7 @@ Build offer cards on a webinar's CTAs tab with a headline, a button, an optional
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/
 
 An offer in EasyWebinar is a card with a headline and a button that you show to attendees during a webinar. The button sends people wherever the next step is: a checkout, a booking page or a sales page. You build offers on the webinar's **CTAs** tab, with an optional price and an optional countdown, then push them to the room when you make your pitch. Afterwards, Analytics shows how many people saw, clicked and bought each offer, and what it earned.
 
@@ -27,7 +27,7 @@ An offer in EasyWebinar is a card with a headline and a button that you show to 
 
 ## What an offer is {#what-it-is}
 
-The **CTAs** tab holds two kinds of call to action. A [poll asks your audience something](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#what-it-is). An offer asks them to do something: buy, book, enrol, download.
+The **CTAs** tab holds two kinds of call to action. A [poll asks your audience something](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#what-it-is). An offer asks them to do something: buy, book, enrol, download.
 
 Each offer has:
 
@@ -78,7 +78,7 @@ The offer editor screenshot under Create an offer shows **Countdown timer**, **O
 
 Open your webinar and click **CTAs**.
 
-![The CTAs tab with All, Polls and Offers filters, a search box, and a list of offers and polls each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/ctas/step-01-cta-list.png)
+![The CTAs tab with All, Polls and Offers filters, a search box, and a list of offers and polls each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-01-cta-list.png)
 
 *1 All · Polls · Offers · 2 Search · 3 The list · 4 Row actions.*
 
@@ -104,7 +104,7 @@ A webinar with no polls or offers yet shows **"No CTAs found"**.
 9. Check the preview in the centre of the editor, which shows the offer as attendees will see it and updates as you type.
 10. Set **Published**, then save.
 
-![The offer editor with Offer Style, Countdown timer, Offer Price, the title and headlines, the button settings and colours, and a live preview of the card](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/ctas/step-03-offer-editor.png)
+![The offer editor with Offer Style, Countdown timer, Offer Price, the title and headlines, the button settings and colours, and a live preview of the card](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-03-offer-editor.png)
 
 *1 Offer Style · 2 Countdown timer · 3 Offer Price · 4 Title, Headline, Sub Headline · 5 Button · 6 Colours.*
 
@@ -135,7 +135,7 @@ The headline and sub headline do the selling, so give each a job:
 
 ### Add a deadline {#add-a-countdown}
 
-Switch on **Countdown timer** to [put a countdown on the offer card](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-offer-countdown). It's a single toggle, set on each offer separately. Use it [when the offer really does close](https://easywebinar.com/blog/scarcity-tactics-for-webinar-conversions/) or change at a set time, and say in the sub headline what ends.
+Switch on **Countdown timer** to [put a countdown on the offer card](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-offer-countdown). It's a single toggle, set on each offer separately. Use it [when the offer really does close](https://easywebinar.com/blog/scarcity-tactics-for-webinar-conversions/) or change at a set time, and say in the sub headline what ends.
 
 ### Keep an offer ready but hidden {#hold-an-offer}
 
@@ -148,11 +148,11 @@ Nothing is deleted. Switch it back on when you want it live.
 
 ## Let AI write your offers {#offers-with-ai}
 
-**Create with AI** [builds a webinar from a description](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-offers), and offers are one of its five outputs. Script, Landing pages and Emails are selected by default; click the **Offers** chip to include offers.
+**Create with AI** [builds a webinar from a description](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-offers), and offers are one of its five outputs. Script, Landing pages and Emails are selected by default; click the **Offers** chip to include offers.
 
 At the offers step, start with positioning.
 
-![The offer generation step with Soft Pitch, Balanced Approach and Direct Pitch, a box for the offers to present and a box for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-with-ai/step-04-offer-positioning.png)
+![The offer generation step with Soft Pitch, Balanced Approach and Direct Pitch, a box for the offers to present and a box for the button destination](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-04-offer-positioning.png)
 
 | Approach | What it does |
 |---|---|
@@ -160,15 +160,15 @@ At the offers step, start with positioning.
 | **Balanced Approach** | Value plus a clear offer throughout, strong close |
 | **Direct Pitch** | Offer-focused, repeated CTAs, strong urgency |
 
-Then describe what you're selling and where the button should send people. Pick a category (online course, coaching programme, membership, digital product or service package) and click **Generate Offers**. You get complete offers, each with a title, headline, sub-headline, button text and link. Tick the offers you want to keep, then click **Save and continue**. The offers step costs [1 credit](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits).
+Then describe what you're selling and where the button should send people. Pick a category (online course, coaching programme, membership, digital product or service package) and click **Generate Offers**. You get complete offers, each with a title, headline, sub-headline, button text and link. Tick the offers you want to keep, then click **Save and continue**. The offers step costs [1 credit](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits).
 
 Generated offers appear on the CTAs tab and are edited like any other. Read the copy before you publish, particularly anything about price and what's included.
 
 ## Show an offer during the webinar {#show-in-room}
 
-In the live room, the side rail has an **Offers** panel. Open it and push the offer to the room when you reach your pitch. When you click [**Go Live**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live), the confirmation reminds you that offers and polls should be ready, so check them in the [green room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#final-checks) before you start.
+In the live room, the side rail has an **Offers** panel. Open it and push the offer to the room when you reach your pitch. When you click [**Go Live**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live), the confirmation reminds you that offers and polls should be ready, so check them in the [green room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#final-checks) before you start.
 
-[Live, simulive and evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) all use the same offers; only the delivery differs.
+[Live, simulive and evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) all use the same offers; only the delivery differs.
 
 ### Send people to the offer when the session ends {#end-of-session-redirect}
 
@@ -176,7 +176,7 @@ The webinar's **Settings** tab has an **End of Session** URL, which is empty by 
 
 ## Offers on the replay {#offers-on-the-replay}
 
-The [replay page has two looks](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience), set on the **Replay** tab:
+The [replay page has two looks](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience), set on the **Replay** tab:
 
 | Option | What happens to your offers |
 |---|---|
@@ -190,7 +190,7 @@ Two more replay settings support an offer:
 
 ## Measure your offers {#measure-offers}
 
-Open the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers). Further down the **Overview**:
+Open the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers). Further down the **Overview**:
 
 | Panel | What it shows |
 |---|---|
@@ -207,7 +207,7 @@ The two ratios point at different fixes:
 
 The **Revenue** view splits earnings under **Revenue by Source**, separating paid registrations from offers sold in the room. Offer sales show under **Paid Offer**.
 
-![The Analytics Revenue view with Total Revenue, Paid Registrations and the Revenue by Source split](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-06-revenue.png)
+![The Analytics Revenue view with Total Revenue, Paid Registrations and the Revenue by Source split](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-06-revenue.png)
 
 The date range at the top of Analytics applies to everything on the page, so widen it if an offer looks emptier than expected.
 
@@ -222,19 +222,19 @@ Two email groups on the **Notifications** tab relate to offers:
 
 ### CRM and email tools {#with-crm}
 
-A connected CRM can act on the [**Clicked offer** event](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#events), which fires when someone clicks your offer. A sensible mapping is a `webinar-hot` tag plus a notification to sales.
+A connected CRM can act on the [**Clicked offer** event](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#events), which fires when someone clicks your offer. A sensible mapping is a `webinar-hot` tag plus a notification to sales.
 
 ### The People view {#with-people-view}
 
-[**People** has an **Offer clicked** column](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#useful-combinations), and the **Behavior** filter can combine high watch time with offer clicks to find people who were interested and didn't buy. **Export** the filtered list to work with it elsewhere.
+[**People** has an **Offer clicked** column](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#useful-combinations), and the **Behavior** filter can combine high watch time with offer clicks to find people who were interested and didn't buy. **Export** the filtered list to work with it elsewhere.
 
 ### Paid webinars {#with-paid-webinars}
 
-A webinar can [charge for registration and still sell offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#with-offers) inside. Registration payments are reported under **Paid Webinar** and offer sales under **Paid Offer**.
+A webinar can [charge for registration and still sell offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#with-offers) inside. Registration payments are reported under **Paid Webinar** and offer sales under **Paid Offer**.
 
 ### Cloning {#with-cloning}
 
-When you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-ctas-and-emails), offers are in the **Engagement** group of the copy dialog, with polls and email notifications. To try a new offer on a webinar that's already running, clone it and change the copy.
+When you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-ctas-and-emails), offers are in the **Engagement** group of the copy dialog, with polls and email notifications. To try a new offer on a webinar that's already running, clone it and change the copy.
 
 ## Who uses offers, and how {#who-uses-it}
 
@@ -242,7 +242,7 @@ These are typical patterns, showing how offers fit different selling webinars.
 
 ### Course creators {#course-creators}
 
-An evergreen webinar teaches one core idea and closes with an [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#sell-during-the-webinar) pointing at the course checkout on the creator's course platform. A countdown marks a bonus window, and a **Webinar Replica** replay keeps the offer working for people who watch later.
+An evergreen webinar teaches one core idea and closes with an [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#sell-during-the-webinar) pointing at the course checkout on the creator's course platform. A countdown marks a bonus window, and a **Webinar Replica** replay keeps the offer working for people who watch later.
 
 ### Coaches and consultants {#coaches}
 
@@ -343,10 +343,10 @@ Yes. In **Create with AI**, include the **Offers** chip, choose a positioning an
 
 ## Related {#related}
 
-- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): the deadline you can put on any offer card.
-- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/): the other kind of CTA, often asked just before the pitch.
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): charging for registration, reported apart from offer sales.
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): keep offers selling on the recording with **Webinar Replica**.
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): views, clicks, purchases and revenue for each offer.
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag the people who clicked an offer.
-- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/): an enrolment offer from build to follow-up.
+- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): the deadline you can put on any offer card.
+- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/): the other kind of CTA, often asked just before the pitch.
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): charging for registration, reported apart from offer sales.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): keep offers selling on the recording with **Webinar Replica**.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): views, clicks, purchases and revenue for each offer.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag the people who clicked an offer.
+- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/): an enrolment offer from build to follow-up.

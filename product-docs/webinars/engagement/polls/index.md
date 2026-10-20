@@ -5,7 +5,7 @@ Build polls on a webinar's CTAs tab, launch them to the room, have Create with A
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/
 
 A poll in EasyWebinar is a question with a set of answers that you put in front of your audience during a webinar. You build polls on the webinar's **CTAs** tab, next to your offers, and show them in the room when you choose. During a live session, each poll goes out when you launch it from the room's **Polls** panel. Create with AI can also [write a set of polls for you](https://easywebinar.com/ai/), built around what you want the polls to achieve.
 
@@ -74,7 +74,7 @@ The polls step lists seven goals, shown in the screenshot under Let AI write you
 
 Open your webinar and click the **CTAs** tab.
 
-![The CTAs tab with filters, search and a list of polls and offers, each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/ctas/step-01-cta-list.png)
+![The CTAs tab with filters, search and a list of polls and offers, each with a toggle, edit and delete control](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-01-cta-list.png)
 
 *1 All · Polls · Offers filters · 2 Search · 3 The list of CTAs · 4 Row actions.*
 
@@ -96,7 +96,7 @@ Until you add a first poll or offer, the tab reads **"No CTAs found"**.
 5. Watch the preview in the middle of the screen. It shows the poll exactly as attendees will see it and changes as you type.
 6. Set **Published** to on if the poll should be live, then click **Save**.
 
-![The poll editor showing the list of polls, the plus button, the question, the response options and the Published switch with Save](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/ctas/step-02-poll-editor.png)
+![The poll editor showing the list of polls, the plus button, the question, the response options and the Published switch with Save](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-02-poll-editor.png)
 
 *1 Poll list · 2 + · 3 Question · 4 Response Options · 5 Published · Save.*
 
@@ -129,19 +129,19 @@ The poll stays on the webinar, ready to switch on, and nothing is deleted.
 
 ## Launch a poll during a live webinar {#launch-a-poll-live}
 
-1. Enter the room from the webinar's **Overview** with [**Enter Room**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room).
+1. Enter the room from the webinar's **Overview** with [**Enter Room**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room).
 2. Open **Polls** on the side rail.
 3. Launch the poll you want at the moment it fits the presentation.
 
-On a live webinar, polls don't appear on their own: you launch each one manually. When you click [**Go Live**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live), the confirmation reminds you that offers and polls should be ready, so check your poll list in the [green room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#final-checks) first.
+On a live webinar, polls don't appear on their own: you launch each one manually. When you click [**Go Live**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live), the confirmation reminds you that offers and polls should be ready, so check your poll list in the [green room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/green-room/#final-checks) first.
 
 ## Let AI write your polls {#polls-with-ai}
 
-**Create with AI** [builds a webinar from a description](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-polls), and polls are one of its five outputs. Script, Landing pages and Emails are selected by default; click the **Polls** chip to include polls in the build.
+**Create with AI** [builds a webinar from a description](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-polls), and polls are one of its five outputs. Script, Landing pages and Emails are selected by default; click the **Polls** chip to include polls in the build.
 
 At the polls step, you aren't asked what questions to write. You are asked what the polls are for.
 
-![The poll generation step asking what the polls should help accomplish, with seven goals to select and a Generate polls button](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-with-ai/step-03-poll-goals.png)
+![The poll generation step asking what the polls should help accomplish, with seven goals to select and a Generate polls button](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-with-ai/step-03-poll-goals.png)
 
 Pick any combination of these goals:
 
@@ -155,7 +155,7 @@ Pick any combination of these goals:
 | Getting feedback on delivery | Whether your teaching is landing |
 | Segmenting for follow-up | How to tailor what you send afterwards |
 
-Click **Generate polls**. You get five polls, each with its question, its options, and a short explanation of why it's there and where it fits in the run of show. The polls step costs [1 credit](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits).
+Click **Generate polls**. You get five polls, each with its question, its options, and a short explanation of why it's there and where it fits in the run of show. The polls step costs [1 credit](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits).
 
 Generated polls land on the CTAs tab and are edited like any poll you wrote yourself. Read them against your script before the webinar.
 
@@ -163,23 +163,23 @@ Generated polls land on the CTAs tab and are edited like any poll you wrote your
 
 ### Offers {#with-offers}
 
-Polls and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#what-it-is) share the CTAs tab, the same list controls and the same **Published** switch. A poll asked just before an offer can show you how ready the room is.
+Polls and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#what-it-is) share the CTAs tab, the same list controls and the same **Published** switch. A poll asked just before an offer can show you how ready the room is.
 
 ### Replays {#with-replays}
 
-When the [replay page uses **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience), the replay shows the same video, offers, polls and chat replay as the session. A **Custom Build** replay page is designed separately.
+When the [replay page uses **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience), the replay shows the same video, offers, polls and chat replay as the session. A **Custom Build** replay page is designed separately.
 
 ### The People view {#with-people-view}
 
-[**People** in the sidebar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#read-the-table) has a **Polls** column showing how many polls each person answered, next to **Watch percentage** and **Offer clicked**. Use it to see who took part, not only who turned up.
+[**People** in the sidebar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#read-the-table) has a **Polls** column showing how many polls each person answered, next to **Watch percentage** and **Offer clicked**. Use it to see who took part, not only who turned up.
 
 ### Cloning {#with-cloning}
 
-When you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-what-to-copy), polls are part of the **Engagement** group in the copy dialog, with offers and email notifications. Leave them ticked and they come across to the new webinar.
+When you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-what-to-copy), polls are part of the **Engagement** group in the copy dialog, with offers and email notifications. Leave them ticked and they come across to the new webinar.
 
 ### Simulive and evergreen webinars {#with-recorded-webinars}
 
-[Live, simulive and evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) all use the same pages, emails, polls, offers and analytics; only the delivery differs. You build polls for a recorded webinar on the same CTAs tab.
+[Live, simulive and evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) all use the same pages, emails, polls, offers and analytics; only the delivery differs. You build polls for a recorded webinar on the same CTAs tab.
 
 ## Who uses polls, and how {#who-uses-it}
 
@@ -187,7 +187,7 @@ These are typical patterns, to show where polls fit in different kinds of webina
 
 ### Course creators {#course-creators}
 
-A [creator opens with a poll](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#sell-during-the-webinar) about the audience's experience level, then asks about their biggest obstacle halfway through. Just before the enrolment offer, a poll about timing shows how many people are ready to start now.
+A [creator opens with a poll](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#sell-during-the-webinar) about the audience's experience level, then asks about their biggest obstacle halfway through. Just before the enrolment offer, a poll about timing shows how many people are ready to start now.
 
 ### Coaches and consultants {#coaches}
 
@@ -285,10 +285,10 @@ One about the attendee rather than a test of knowledge. It's easier to answer, a
 
 ## Related {#related}
 
-- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): the other kind of CTA, built in the same list as your polls.
-- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the open conversation that runs alongside your polls.
-- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): the attendees' own questions, in a queue.
-- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): the **Polls** panel among the room's other controls.
-- [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/): the full build that writes polls alongside the script, pages, emails and offers.
-- [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/): who answered your polls, next to watch time and offer clicks.
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): keep polls on the recording with **Webinar Replica**.
+- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): the other kind of CTA, built in the same list as your polls.
+- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the open conversation that runs alongside your polls.
+- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): the attendees' own questions, in a queue.
+- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): the **Polls** panel among the room's other controls.
+- [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/): the full build that writes polls alongside the script, pages, emails and offers.
+- [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/): who answered your polls, next to watch time and offer clicks.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): keep polls on the recording with **Webinar Replica**.

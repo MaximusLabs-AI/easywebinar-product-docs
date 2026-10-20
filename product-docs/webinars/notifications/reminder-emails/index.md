@@ -5,9 +5,9 @@ How EasyWebinar's Webinar Reminders work, how to time them relative to the sessi
 - Applies to: Every webinar, including recurring and evergreen schedules · set per webinar on the Notifications tab
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/
 
-**Webinar Reminders** are the emails EasyWebinar sends to registrants before the session starts. Each reminder has its own timing, set as a length of time before the webinar, so the same reminders work for a one-off session, a [recurring schedule](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#recurring-schedules) or an evergreen webinar. You can add as many as you need from the **Notifications** tab, and Analytics shows whether they are working: the gap between people who registered and people who attended is the reminders' job.
+**Webinar Reminders** are the emails EasyWebinar sends to registrants before the session starts. Each reminder has its own timing, set as a length of time before the webinar, so the same reminders work for a one-off session, a [recurring schedule](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#recurring-schedules) or an evergreen webinar. You can add as many as you need from the **Notifications** tab, and Analytics shows whether they are working: the gap between people who registered and people who attended is the reminders' job.
 
 ## At a glance {#at-a-glance}
 
@@ -73,7 +73,7 @@ The screenshot under Find your reminders shows the **Webinar Reminders** group w
 1. Open your webinar and click the **Notifications** tab.
 2. Stay on the **Emails** channel and find the **Webinar Reminders** group.
 
-![The Notifications tab showing the Webinar Reminders group with three reminders timed 15 minutes, 1 hour and 24 hours before the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/notifications/step-01-emails.png)
+![The Notifications tab showing the Webinar Reminders group with three reminders timed 15 minutes, 1 hour and 24 hours before the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/notifications/step-01-emails.png)
 
 *1 Channel tabs · 2 Email Settings · 3 An email group · 4 Create New.*
 
@@ -100,11 +100,11 @@ Each entry shows its **trigger**, the audience it goes **to**, and its **subject
 | An hour before | *1h 0m 0s before webinar* | Brings the session back to mind while there's still time to prepare |
 | Fifteen minutes before | *0h 15m 0s before webinar* | The prompt to join now; the one that does most of the work |
 
-Three is a sensible default. Webinars built with [**Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-emails) arrive with exactly this pattern already drafted: **Reminder — 1d**, **Reminder — 1h** and **Reminder — 15m**, with merge tags already in place so dates, times and join links fill themselves in.
+Three is a sensible default. Webinars built with [**Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-emails) arrive with exactly this pattern already drafted: **Reminder — 1d**, **Reminder — 1h** and **Reminder — 15m**, with merge tags already in place so dates, times and join links fill themselves in.
 
 ### Check who the reminders come from {#check-sender}
 
-Reminders use the webinar's [**Email Settings**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#email-settings): the **Sender name** registrants see and the **Reply-to email** where replies go. Set the sender to a name registrants will recognise from their confirmation.
+Reminders use the webinar's [**Email Settings**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#email-settings): the **Sender name** registrants see and the **Reply-to email** where replies go. Set the sender to a name registrants will recognise from their confirmation.
 
 ## Text and WhatsApp reminders (Beta) {#sms-whatsapp}
 
@@ -112,7 +112,7 @@ Both Beta channels have a reminder of their own on the **Notifications** tab: **
 
 In short:
 
-- **They need a phone number.** Add the **Phone** field to your [registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form), or there is nobody to message.
+- **They need a phone number.** Add the **Phone** field to your [registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form), or there is nobody to message.
 - **They come from an EasyWebinar number**, not your own.
 - **You build them from templates** grouped by tone, then edit the words.
 - **You can test first.** **Send Test SMS** and **Send Test Message** send the selected template to your own number. Pick your country from the flag dropdown rather than typing a dialling code.
@@ -128,11 +128,11 @@ The confirmation starts the sequence and carries the join link; reminders bring 
 
 ### Evergreen and just-in-time sessions {#with-evergreen}
 
-An [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) generates a long run of sessions from one schedule, and can add [just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) that start shortly after someone registers. Reminders are timed relative to the webinar rather than to a clock, which is why they work for recurring and evergreen schedules without being set session by session.
+An [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) generates a long run of sessions from one schedule, and can add [just-in-time sessions](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) that start shortly after someone registers. Reminders are timed relative to the webinar rather than to a clock, which is why they work for recurring and evergreen schedules without being set session by session.
 
 ### Analytics {#with-analytics}
 
-The webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) shows the funnel from **Visitors** to **Registered**, **Live Attended**, **Total Attended** and **Missed**. Two gaps tell you different things:
+The webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) shows the funnel from **Visitors** to **Registered**, **Live Attended**, **Total Attended** and **Missed**. Two gaps tell you different things:
 
 | Gap | What a low number means |
 |---|---|
@@ -143,15 +143,15 @@ Change your reminders, run the next session, and compare.
 
 ### Follow-ups for people the reminders didn't reach {#with-follow-ups}
 
-**Missed** counts people who registered and never showed up. Add a **Webinar Follow-up** with its audience set to no-shows and include the [replay link](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#set-it-up). In [**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list), filter by **Behavior** for no-shows to see exactly who they are, then **Export** the list if you need it elsewhere.
+**Missed** counts people who registered and never showed up. Add a **Webinar Follow-up** with its audience set to no-shows and include the [replay link](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#set-it-up). In [**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list), filter by **Behavior** for no-shows to see exactly who they are, then **Export** the list if you need it elsewhere.
 
 ### Reminders from your own CRM {#with-crm}
 
-If you would rather send reminders from your [CRM or email tool](https://easywebinar.com/integrations/), [map the **Webinar Join Link**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-custom-fields) into one of its custom fields. Each contact then holds their own working link, which is what lets your system send the reminder instead of EasyWebinar.
+If you would rather send reminders from your [CRM or email tool](https://easywebinar.com/integrations/), [map the **Webinar Join Link**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-custom-fields) into one of its custom fields. Each contact then holds their own working link, which is what lets your system send the reminder instead of EasyWebinar.
 
 ### Cloning {#with-cloning}
 
-**Email notifications** can come across when you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-what-to-copy), so a reminder schedule you have tuned carries into the copy.
+**Email notifications** can come across when you [clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#choose-what-to-copy), so a reminder schedule you have tuned carries into the copy.
 
 ## Who uses it, and how {#who-uses-it}
 
@@ -163,7 +163,7 @@ A product team runs a [weekly live demo](https://easywebinar.com/use-cases/produ
 
 ### Course creators {#course-creators}
 
-A creator's evergreen webinar runs daily. Because reminder timing is relative to the webinar, the same three emails serve the whole schedule. The creator adds a Beta **Reminder SMS** as the final nudge for an audience that reads texts faster than email. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator's evergreen webinar runs daily. Because reminder timing is relative to the webinar, the same three emails serve the whole schedule. The creator adds a Beta **Reminder SMS** as the final nudge for an audience that reads texts faster than email. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Customer success teams {#customer-success}
 
@@ -254,9 +254,9 @@ Yes. Map the **Webinar Join Link** into a custom field in your CRM so each conta
 
 ## Related {#related}
 
-- [Registration confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/): the first email in the sequence, carrying the join link your reminders point back to.
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): read Registered against attended to judge your reminders.
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): the page to send no-shows the reminders didn't reach.
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the schedule where relative timing saves the most work.
-- [Create a webinar with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/): starts you with the three-reminder pattern already drafted.
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send reminders from your own system instead.
+- [Registration confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/): the first email in the sequence, carrying the join link your reminders point back to.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): read Registered against attended to judge your reminders.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): the page to send no-shows the reminders didn't reach.
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the schedule where relative timing saves the most work.
+- [Create a webinar with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/): starts you with the three-reminder pattern already drafted.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send reminders from your own system instead.

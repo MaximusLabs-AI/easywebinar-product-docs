@@ -5,9 +5,9 @@ Find, add and manage the videos, webinar recordings, images and documents your w
 - Applies to: Your whole account · recordings come from live sessions with Auto Recording on
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/
 
-Use the **Library** to find and manage everything your webinars play or display: videos you uploaded or imported, recordings of sessions you have already run, images for your pages, and documents. When you're done, you'll know where each item lives, whether it is using your storage allowance, and how to put a video or recording to work in a [simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video) or [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#choose-video).
+Use the **Library** to find and manage everything your webinars play or display: videos you uploaded or imported, recordings of sessions you have already run, images for your pages, and documents. When you're done, you'll know where each item lives, whether it is using your storage allowance, and how to put a video or recording to work in a [simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video) or [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#choose-video).
 
 ## At a glance {#at-a-glance}
 
@@ -25,8 +25,8 @@ Use the **Library** to find and manage everything your webinars play or display:
 
 - **Find it in the sidebar.** The Library sits in the main sidebar, alongside **My Webinars**, **Create with AI** and **Integrations**. It isn't inside a single webinar, so anything you add can be reused across your webinars.
 - **Know what uses storage.** Only files uploaded to EasyWebinar count towards your storage. Videos imported from a URL use none.
-- **Keep live recording on** if you want your sessions to land here. Recording is on by default in the [live room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording), where the header reads **Auto Recording Enabled**.
-- **Know your upload limit.** Upload video as **MP4**, up to **4 GB** per file. See [video and storage limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#video-and-media).
+- **Keep live recording on** if you want your sessions to land here. Recording is on by default in the [live room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording), where the header reads **Auto Recording Enabled**.
+- **Know your upload limit.** Upload video as **MP4**, up to **4 GB** per file. See [video and storage limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#video-and-media).
 
 ## Manage your media {#steps}
 
@@ -45,7 +45,7 @@ Click **Library** in the sidebar. It has four tabs, and your storage is shown at
 
 Open the **Videos** tab. Each card shows the video's duration and when it was added, with a menu for renaming, previewing or removing it.
 
-![The Library Videos tab with the four tabs, the storage meter and host badges on each video card](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/library/step-01-videos.png)
+![The Library Videos tab with the four tabs, the storage meter and host badges on each video card](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/library/step-01-videos.png)
 
 *1 The four tabs · 2 Your storage allowance · 3 A YouTube badge · 4 An EasyWebinar badge. Account details and some thumbnails are blurred.*
 
@@ -62,7 +62,7 @@ Check the badge before you delete anything on another platform. Removing a YouTu
 
 Open the **Recordings** tab. Each recording is named after its webinar, with the duration and the date it was recorded.
 
-![The Library Recordings tab listing recordings of past sessions with their durations and dates](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/library/step-02-recordings.png)
+![The Library Recordings tab listing recordings of past sessions with their durations and dates](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/library/step-02-recordings.png)
 
 *Recordings of sessions already run, each named after its webinar. Account details are blurred.*
 
@@ -70,7 +70,7 @@ Recordings are captured automatically when **Auto Recording** is on in the live 
 
 ### 4. Add images for your pages {#images}
 
-Open the **Images** tab to see [images you've uploaded for your pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#page-settings). Click **Add Media** to upload more.
+Open the **Images** tab to see [images you've uploaded for your pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#page-settings). Click **Add Media** to upload more.
 
 ### 5. Keep documents in Files {#files}
 
@@ -87,7 +87,7 @@ Click **Add Media**. It works the same on every tab and offers two routes:
 | **Local import** | Uploads from your computer, and EasyWebinar hosts it |
 | **Import from URL** | Points at **YouTube**, **Vimeo**, **Wistia** or a direct **MP4** link |
 
-For an imported video you also enter its length, because EasyWebinar needs the duration to schedule sessions. See [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/) for both routes step by step.
+For an imported video you also enter its length, because EasyWebinar needs the duration to schedule sessions. See [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/) for both routes step by step.
 
 ### 7. Use a video or recording in a webinar {#use-in-webinar}
 
@@ -157,19 +157,19 @@ One fact is easy to check. Start a simulive or evergreen webinar, and the **Vide
 
 ### Video hosting {#with-video-hosting}
 
-**Add Media** is where you choose between hosting a video on EasyWebinar and importing it from YouTube, Vimeo, Wistia or a direct MP4 link. The choice decides whether the video uses your storage. See [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/).
+**Add Media** is where you choose between hosting a video on EasyWebinar and importing it from YouTube, Vimeo, Wistia or a direct MP4 link. The choice decides whether the video uses your storage. See [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/).
 
 ### The live room {#with-live-room}
 
-The live room's header shows **Auto Recording Enabled** when recording is on, and the badge changes to **Recording** once you're live. Recording can be changed under **Settings → Recording Settings**, and recorded sessions land in **Library → Recordings**. See [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/).
+The live room's header shows **Auto Recording Enabled** when recording is on, and the badge changes to **Recording** once you're live. Recording can be changed under **Settings → Recording Settings**, and recorded sessions land in **Library → Recordings**. See [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/).
 
 ### Turning a live webinar into an evergreen one {#with-cloning}
 
-A webinar's type can't be changed, so the route from live to automated is cloning. Clone the live webinar, choose **Evergreen** for the copy, and pick the live session's recording on the new webinar's **Content** tab. The recording is already in your library. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+A webinar's type can't be changed, so the route from live to automated is cloning. Clone the live webinar, choose **Evergreen** for the copy, and pick the live session's recording on the new webinar's **Content** tab. The recording is already in your library. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
 
 ### Simulive and evergreen webinars {#with-recorded-webinars}
 
-Both types play a recording, and both choose it from the library on the **Video Selection** step. See [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) and [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
+Both types play a recording, and both choose it from the library on the **Video Selection** step. See [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) and [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
 
 ### Storage and your plan {#with-plan}
 
@@ -185,7 +185,7 @@ These are typical patterns, shown to illustrate how the Library fits different k
 
 ### Course creators {#course-creators}
 
-A creator [runs a launch webinar](https://easywebinar.com/use-cases/launch-courses-programs/) live with recording on. Afterwards, the session sits in **Recordings**, and the creator clones the webinar as evergreen and picks that recording, so the version that sold well live keeps running. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator [runs a launch webinar](https://easywebinar.com/use-cases/launch-courses-programs/) live with recording on. Afterwards, the session sits in **Recordings**, and the creator clones the webinar as evergreen and picks that recording, so the version that sold well live keeps running. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### SaaS and product teams {#product-teams}
 
@@ -278,7 +278,7 @@ Yes. Each video card has a menu for renaming, previewing or removing it.
 
 ## Related {#related}
 
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): the route from a live recording in the Library to an evergreen webinar.
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): another place a recorded session is watched after the event.
-- [Webinars overview](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types): which webinar types play a video from the Library.
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): the Additional Storage add-on alongside the others.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): the route from a live recording in the Library to an evergreen webinar.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): another place a recorded session is watched after the event.
+- [Webinars overview](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types): which webinar types play a video from the Library.
+- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): the Additional Storage add-on alongside the others.

@@ -5,7 +5,7 @@ The People view in EasyWebinar lists every registrant and attendee across all yo
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/
 
 **People** is a single table of everyone who registered for or attended any of your EasyWebinar webinars. Each row shows one person on one webinar, with what they did: their attendance status, how much of the live session and the replay they watched, whether they clicked your offer, and a lead score for how engaged they were. You can filter the table by webinar, dates, behaviour, campaign source, device or location, and export exactly the segment you need.
 
@@ -24,9 +24,9 @@ The People view in EasyWebinar lists every registrant and attendee across all yo
 
 ## What the People view is {#what-it-is}
 
-A webinar's own [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) gives you counts: how many registered, how many attended, how many missed. **People** gives you the names behind those counts, for every webinar in your account at once.
+A webinar's own [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel) gives you counts: how many registered, how many attended, how many missed. **People** gives you the names behind those counts, for every webinar in your account at once.
 
-That changes what you can do after a session. Instead of knowing that a large share of registrants missed the webinar, you can see who they are, narrow the list to one webinar, and export it for a [replay email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#with-follow-ups). Instead of knowing that some people clicked your offer, you can find the ones who watched most of the session, clicked, and still haven't bought.
+That changes what you can do after a session. Instead of knowing that a large share of registrants missed the webinar, you can see who they are, narrow the list to one webinar, and export it for a [replay email](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#with-follow-ups). Instead of knowing that some people clicked your offer, you can find the ones who watched most of the session, clicked, and still haven't bought.
 
 ## Why the People view matters {#why-it-matters}
 
@@ -79,15 +79,15 @@ Each row is one person on one webinar, with columns including:
 | **Phone** | Their phone number, if you collected it |
 | **Status** | Attendance status, such as Attended or No Show |
 | **Lead score** | How engaged they were, for example Hot |
-| **Webinar** and **Type** | Which webinar, and whether it was [live, simulive or evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types) |
+| **Webinar** and **Type** | Which webinar, and whether it was [live, simulive or evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) |
 | **Session date & time** | The session they registered for |
 | **Attendee timezone** | Where they are |
 | **Registered on** | When they signed up |
 | **Watch percentage** | How much of the live session they watched |
 | **Replay watch percentage** | How much of the replay they watched |
 | **Country** | Their country |
-| **Polls** | How many [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#with-people-view) they answered |
-| **Offer clicked** | Whether they clicked your [offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#with-people-view) |
+| **Polls** | How many [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#with-people-view) they answered |
+| **Offer clicked** | Whether they clicked your [offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#with-people-view) |
 
 Use **Columns** to choose which of these appear. **Watch percentage** and **Offer clicked** are the two most worth sorting by: someone who watched most of the session and clicked your offer is a very different prospect from someone who left in the first few minutes.
 
@@ -95,7 +95,7 @@ Use **Columns** to choose which of these appear. **Watch percentage** and **Offe
 
 Click **Add Filter**.
 
-![The Filters panel with the six categories on the left, the Webinar refinements on the right, and Apply Filter marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/people/step-01-filters.png)
+![The Filters panel with the six categories on the left, the Webinar refinements on the right, and Apply Filter marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/people/step-01-filters.png)
 
 *1 Categories · 2 Refinements · 3 Apply Filter.*
 
@@ -119,7 +119,7 @@ Pick a category on the left, refine it on the right, then click **Apply Filter**
 | Everyone to send the replay to, for one webinar | **Behavior** → no-show, plus **Webinar** |
 | Interested people who didn't buy | **Behavior** → high watch time and offer clicked |
 | Which campaign produced attendees, not only registrations | **Source & UTM** |
-| How your [automated funnel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-analytics) compares with your live sessions | **Webinar** → Evergreen |
+| How your [automated funnel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-analytics) compares with your live sessions | **Webinar** → Evergreen |
 
 ### 5. Export the result {#export}
 
@@ -131,12 +131,12 @@ Filter first, then export. Exporting everything and cutting it down in a spreads
 
 **Source & UTM** only has something to filter if your registration form records it. To set that up:
 
-1. Open the webinar's **Content** tab and edit the [**Registration Page**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#form-block).
-2. Select the form block and turn on [**UTM Params**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#utm-capture), so each registration records the campaign that brought it in.
+1. Open the webinar's **Content** tab and edit the [**Registration Page**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#form-block).
+2. Select the form block and turn on [**UTM Params**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#utm-capture), so each registration records the campaign that brought it in.
 3. Tag the links in your ads, emails and posts as you normally would.
 4. Filter **People** by **Source & UTM** to see which campaign each registrant came from.
 
-Because People also holds attendance and watch time, this gives you campaign attribution against real viewing, not just clicks. UTM capture is easy to miss; without it, you'll know how many people registered but not which ad, email or post sent them. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+Because People also holds attendance and watch time, this gives you campaign attribution against real viewing, not just clicks. UTM capture is easy to miss; without it, you'll know how many people registered but not which ad, email or post sent them. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
 
 ## Lead score {#lead-score}
 
@@ -146,7 +146,7 @@ Because People also holds attendance and watch time, this gives you campaign att
 
 ### Webinar analytics {#with-analytics}
 
-The **Analytics** tab on a single webinar shows the funnel and offer numbers; People shows the individuals across all webinars. Use Analytics to find where a webinar is leaking, then People to find who is in that gap. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
+The **Analytics** tab on a single webinar shows the funnel and offer numbers; People shows the individuals across all webinars. Use Analytics to find where a webinar is leaking, then People to find who is in that gap. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
 
 ### Follow-up emails {#with-follow-ups}
 
@@ -154,11 +154,11 @@ If you only need to email no-shows or attendees of one webinar, [**Webinar Follo
 
 ### CRM and email tools {#with-crm}
 
-A connected CRM can receive the same behaviour as tags: **Missed**, **Watched full**, **Clicked offer** and more. People complements that by letting you look back across webinars and export a segment on demand. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
+A connected CRM can receive the same behaviour as tags: **Missed**, **Watched full**, **Clicked offer** and more. People complements that by letting you look back across webinars and export a segment on demand. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
 
 ### Registration fields {#with-registration-fields}
 
-The **Phone** column fills only if your form collects it. Add the **Phone** field, or your own fields, on the registration form block. See [Custom fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/).
+The **Phone** column fills only if your form collects it. Add the **Phone** field, or your own fields, on the registration form block. See [Custom fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/).
 
 ## Who uses the People view, and how {#who-uses-it}
 
@@ -170,7 +170,7 @@ A [marketing team](https://easywebinar.com/solutions/marketing-teams/) running p
 
 ### Course creators {#course-creators}
 
-A creator filters for high watch time plus **Offer clicked** after each evergreen session and exports the list for a personal follow-up, since those viewers were interested enough to click but didn't enrol. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator filters for high watch time plus **Offer clicked** after each evergreen session and exports the list for a personal follow-up, since those viewers were interested enough to click but didn't enrol. See [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Customer success teams {#customer-success}
 
@@ -258,7 +258,7 @@ The result count is shown below the table.
 
 ## Related {#related}
 
-- [Map webinar behaviour to CRM tags](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-events-to-tags): send the same behaviour People shows into your CRM automatically.
-- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/): fewer no-shows means a shorter replay list to export.
-- [Write polls people will answer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#write-good-polls): the **Polls** column only tells you something if people answer them.
-- [Follow up after a course webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#follow-up): how a course creator acts on the people who clicked but didn't enrol.
+- [Map webinar behaviour to CRM tags](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#map-events-to-tags): send the same behaviour People shows into your CRM automatically.
+- [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/): fewer no-shows means a shorter replay list to export.
+- [Write polls people will answer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#write-good-polls): the **Polls** column only tells you something if people answer them.
+- [Follow up after a course webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#follow-up): how a course creator acts on the people who clicked but didn't enrol.

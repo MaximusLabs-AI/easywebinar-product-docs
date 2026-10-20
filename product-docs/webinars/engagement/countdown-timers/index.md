@@ -5,9 +5,9 @@ How EasyWebinar's countdown timers work on offers and registration pages, why th
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/
 
-EasyWebinar has two countdowns. An **offer countdown** sits on an offer card in the webinar room and shows how long that offer stays open. A [**registration-page countdown**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#countdown-block) shows how long is left until the session starts. Both are built in, and neither needs a separate timer tool or embedded widget.
+EasyWebinar has two countdowns. An **offer countdown** sits on an offer card in the webinar room and shows how long that offer stays open. A [**registration-page countdown**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#countdown-block) shows how long is left until the session starts. Both are built in, and neither needs a separate timer tool or embedded widget.
 
 ## At a glance {#at-a-glance}
 
@@ -71,7 +71,7 @@ In the numbered editor screenshot further down, **Countdown timer** is item 2, a
 5. Check the preview in the centre of the editor. It shows the offer exactly as attendees will see it and updates as you type.
 6. Save.
 
-![The offer editor showing style, countdown timer, price, copy and button settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/ctas/step-03-offer-editor.png)
+![The offer editor showing style, countdown timer, price, copy and button settings](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/ctas/step-03-offer-editor.png)
 
 *The offer editor: 1 Offer Style · 2 Countdown timer · 3 Offer Price · 4 Title, Headline and Sub Headline · 5 Button · 6 Colours.*
 
@@ -98,13 +98,13 @@ The offer stays ready but does not appear until you switch it on.
 
 ## Set up the registration-page countdown {#set-up-registration-countdown}
 
-When you [create a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template), the registration page builder opens with your schedule applied and a countdown to the session already running. On other webinar types, open the page in the builder to check for the countdown block.
+When you [create a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template), the registration page builder opens with your schedule applied and a countdown to the session already running. On other webinar types, open the page in the builder to check for the countdown block.
 
-![The registration page builder showing the webinar date, a countdown timer and the registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder showing the webinar date, a countdown timer and the registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
 
 To change it:
 
-1. Open your webinar and click **Content**, then [**Edit** on **Registration Page**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#open-the-builder).
+1. Open your webinar and click **Content**, then [**Edit** on **Registration Page**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#open-the-builder).
 2. Click the countdown block on the canvas. An orange toolbar appears above it, and the settings panel on the right fills with its options.
 3. Adjust its settings across the **Settings** and **Advanced** tabs.
 4. Use the device toggle to check the mobile layout, then **Preview**, **Save** and **Publish**.
@@ -126,11 +126,11 @@ To change it:
 | Webinar type | Offer countdown | Registration-page countdown |
 |---|---|---|
 | **Live** | When you push the offer to the room from the **Offers** panel | Counts down to the scheduled session |
-| [**Simulive**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#what-it-is) | Offers work as they do on a live webinar | Counts down to the scheduled session |
-| [**Evergreen**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#what-it-is) | Offers work as they do on a live webinar | Check with **Preview**: [just-in-time](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#what-it-is) and [on-demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/#what-it-is) sessions can start minutes after someone registers |
-| **Replay** | Offers carry over when the [replay page uses **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience) | Not applicable |
+| [**Simulive**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#what-it-is) | Offers work as they do on a live webinar | Counts down to the scheduled session |
+| [**Evergreen**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#what-it-is) | Offers work as they do on a live webinar | Check with **Preview**: [just-in-time](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#what-it-is) and [on-demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/on-demand/#what-it-is) sessions can start minutes after someone registers |
+| **Replay** | Offers carry over when the [replay page uses **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience) | Not applicable |
 
-On a live webinar you choose the moment to [show the offer from the **Offers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room) in the room. Before you go live, [**Go Live**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live) reminds you to have offers and polls ready.
+On a live webinar you choose the moment to [show the offer from the **Offers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room) in the room. Before you go live, [**Go Live**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live) reminds you to have offers and polls ready.
 
 ## How countdowns work with other EasyWebinar features {#works-with}
 
@@ -140,22 +140,22 @@ The countdown is part of an offer, so everything about the offer still applies: 
 
 ### Replays and replay deadlines {#with-replays}
 
-With **Webinar Replica**, the replay page shows the same video, offers, polls and chat replay as the session, so your offers keep selling after the event. The replay itself can also have a deadline: [**Expire after days**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) closes it a set number of days after the session, and **Specific date** closes it at a time you choose. A replay deadline and an offer deadline are separate settings; keep them consistent so attendees aren't told two different end times.
+With **Webinar Replica**, the replay page shows the same video, offers, polls and chat replay as the session, so your offers keep selling after the event. The replay itself can also have a deadline: [**Expire after days**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) closes it a set number of days after the session, and **Specific date** closes it at a time you choose. A replay deadline and an offer deadline are separate settings; keep them consistent so attendees aren't told two different end times.
 
 ### Create with AI {#with-create-with-ai}
 
-**Create with AI** [writes offers for you](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-offers). Its **Direct Pitch** positioning is "offer-focused, repeated CTAs, strong urgency", while **Soft Pitch** is education-focused with the offer at the end. Whichever you choose, the offers it creates are normal offers on the **CTAs** tab, so you can add a countdown to any of them.
+**Create with AI** [writes offers for you](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-offers). Its **Direct Pitch** positioning is "offer-focused, repeated CTAs, strong urgency", while **Soft Pitch** is education-focused with the offer at the end. Whichever you choose, the offers it creates are normal offers on the **CTAs** tab, so you can add a countdown to any of them.
 
 ### Analytics {#with-analytics}
 
-After the webinar, open [**Analytics**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers). **Offers Performance** shows views, clicks and purchases for each offer with a click rate. **Views to Clicks** and **Clicks to Purchases** show where the offer loses people, and **Revenue by Offer** shows what each offer earned. Comparing an offer with and without a countdown across sessions is the clearest way to see what the timer is doing for you.
+After the webinar, open [**Analytics**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers). **Offers Performance** shows views, clicks and purchases for each offer with a click rate. **Views to Clicks** and **Clicks to Purchases** show where the offer loses people, and **Revenue by Offer** shows what each offer earned. Comparing an offer with and without a countdown across sessions is the clearest way to see what the timer is doing for you.
 
 ### Follow-up and CRM tags {#with-follow-up}
 
 People who click an offer can be treated differently afterwards:
 
 - [**Attendee Action Follow-ups**](https://easywebinar.com/features/webinar-follow-up/) on the **Notifications** tab send emails based on what someone did, including whether they clicked an offer.
-- In a connected CRM, the [**Clicked offer** event](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#events) can apply a tag, for example `webinar-hot`, so sales can follow up.
+- In a connected CRM, the [**Clicked offer** event](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/#events) can apply a tag, for example `webinar-hot`, so sales can follow up.
 
 ## Who uses countdown timers, and how {#who-uses-it}
 
@@ -163,7 +163,7 @@ These are typical patterns, shown to illustrate how the feature fits each kind o
 
 ### Course creators {#course-creators}
 
-An evergreen webinar teaches the core idea of a course and ends with an [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#sell-during-the-webinar). A countdown on the offer marks the window for an enrolment bonus. Because the webinar is automated, the timer carries the deadline for every session without the creator being there.
+An evergreen webinar teaches the core idea of a course and ends with an [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#sell-during-the-webinar). A countdown on the offer marks the window for an enrolment bonus. Because the webinar is automated, the timer carries the deadline for every session without the creator being there.
 
 ### Coaches and consultants {#coaches}
 
@@ -171,7 +171,7 @@ A [live masterclass](https://easywebinar.com/webinar-platform-for-coaches-course
 
 ### Paid workshops and live events {#paid-workshops}
 
-For a [paid workshop](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#paid-workshops), the registration-page countdown shows how long is left to register before the session starts. Inside the workshop, a countdown on an offer can mark a follow-on programme available to attendees only.
+For a [paid workshop](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#paid-workshops), the registration-page countdown shows how long is left to register before the session starts. Inside the workshop, a countdown on an offer can mark a follow-on programme available to attendees only.
 
 ### Product and SaaS teams {#product-teams}
 
@@ -215,7 +215,7 @@ Countdown features, from each platform's public documentation:
 - **The offer countdown is set per offer.** Each offer has its own **Countdown timer** switch.
 - **Polls have no countdown setting.** The **Countdown timer** switch is in the offer editor only.
 - **The registration-page countdown is a page block.** It can be hidden on mobile with **Desktop Only** visibility, styled, or removed like any other block.
-- **Live-room timers are different.** Once you go live, the [room header shows **LIVE**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live) with a timer of how long you have been broadcasting. That timer counts up and is separate from offer countdowns.
+- **Live-room timers are different.** Once you go live, the [room header shows **LIVE**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#go-live) with a timer of how long you have been broadcasting. That timer counts up and is separate from offer countdowns.
 
 ## Common questions {#common-questions}
 
@@ -257,8 +257,8 @@ No. Both countdowns are built into EasyWebinar.
 
 ## Related {#related}
 
-- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): build the offer card that carries the countdown.
-- [Charge for webinar registration](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): paid workshops, where the registration-page countdown shows how long is left to register.
-- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/): enrolment offers on automated webinars, with a bonus window.
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): the schedule the registration-page countdown counts down to.
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag the people who clicked a timed offer.
+- [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): build the offer card that carries the countdown.
+- [Charge for webinar registration](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): paid workshops, where the registration-page countdown shows how long is left to register.
+- [Course creators](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/): enrolment offers on automated webinars, with a bonus window.
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): the schedule the registration-page countdown counts down to.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag the people who clicked a timed offer.

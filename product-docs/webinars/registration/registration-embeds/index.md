@@ -5,7 +5,7 @@ Put an EasyWebinar registration form on your own website with the Registration W
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/
 
 The **Registration Widget** lets people register for your webinar without leaving your own website. On the webinar's **Content** tab you copy its **Embed Code** and paste it into your page wherever the form should appear: a landing page, a blog post, a sidebar. The same snippet is in the **Share** dialog, and **View & Customize** lets you change how the widget looks before you copy it.
 
@@ -78,7 +78,7 @@ Open the **Content** tab and scroll below the five page cards. The **Registratio
 3. If you want to change how the form looks, click **View & Customize** first.
 4. Copy the **Embed Code**.
 
-![The Content tab with the five webinar page cards and the Registration Widget section and its embed code below them](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/content/step-01-content-tab.png)
+![The Content tab with the five webinar page cards and the Registration Widget section and its embed code below them](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/content/step-01-content-tab.png)
 
 ### From the Share dialog {#from-share-dialog}
 
@@ -86,7 +86,7 @@ Open the **Content** tab and scroll below the five page cards. The **Registratio
 2. Choose **Registration Widget** in the dialog.
 3. Copy the snippet.
 
-![The Share dialog with Registration Widget, Share on social media and the list of sharable links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/overview-tab/step-02-share-links.png)
+![The Share dialog with Registration Widget, Share on social media and the list of sharable links](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/overview-tab/step-02-share-links.png)
 
 *1 Registration Widget · 2 Share on social media · 3 One-Click Registration Link.*
 
@@ -98,7 +98,7 @@ It's the same snippet in both places, so use whichever screen you're on.
 2. Paste the embed code wherever the form should appear.
 3. Publish the page on your site.
 4. Register once yourself through the embedded form.
-5. Check the webinar's [**Overview**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#read-the-stats): the **Registrants** stat counts people who completed the registration form, so your test registration should show there.
+5. Check the webinar's [**Overview**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#read-the-stats): the **Registrants** stat counts people who completed the registration form, so your test registration should show there.
 
 ## Widget or link: which to use {#widget-or-link}
 
@@ -117,23 +117,23 @@ You don't have to choose one. You can use the widget on your own site and the li
 
 ### The registration page {#with-registration-page}
 
-The registration page is still where your webinar's full pitch lives: the design, the [countdown](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown), the copy. Build and publish it in the [page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#publish) even if most registrations come through the widget, because the link and the page are what you'll use in email and on social.
+The registration page is still where your webinar's full pitch lives: the design, the [countdown](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown), the copy. Build and publish it in the [page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#publish) even if most registrations come through the widget, because the link and the page are what you'll use in email and on social.
 
 ### Share links {#with-share-links}
 
-The Share dialog groups [every way to share a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#the-seven-links): **Share Links**, **Registration Widget** and **Share on social media**.
+The Share dialog groups [every way to share a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#the-seven-links): **Share Links**, **Registration Widget** and **Share on social media**.
 
 ### Confirmation emails {#with-confirmation-emails}
 
-[**Registration Confirmation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#review-confirmation) is sent immediately after someone registers, and it carries their join link.
+[**Registration Confirmation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/#review-confirmation) is sent immediately after someone registers, and it carries their join link.
 
 ### The People view {#with-people-view}
 
-[**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#read-the-table) in the sidebar lists every registrant across your webinars. After your test registration, find yourself there to confirm the [details came through](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#where-the-data-goes).
+[**People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#read-the-table) in the sidebar lists every registrant across your webinars. After your test registration, find yourself there to confirm the [details came through](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#where-the-data-goes).
 
 ### Cloning {#with-cloning}
 
-The **Clone Webinar** dialog lists **Embed widgets** under **Webinar assets**, alongside registration pages, the webinar schedule and replay settings. Leave it ticked to [copy the widget into the new webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration).
+The **Clone Webinar** dialog lists **Embed widgets** under **Webinar assets**, alongside registration pages, the webinar schedule and replay settings. Leave it ticked to [copy the widget into the new webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration).
 
 ## Who uses registration embeds, and how {#who-uses-it}
 
@@ -213,7 +213,7 @@ Use the widget when you want people to register without leaving your site. Use t
 
 #### How do I check the widget is working? {#faq-check-working}
 
-Register once through it, then look at **Registrants** on the webinar's Overview and [find yourself in **People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list).
+Register once through it, then look at **Registrants** on the webinar's Overview and [find yourself in **People**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#filter-the-list).
 
 #### Does cloning a webinar copy its widget? {#faq-clone}
 
@@ -225,8 +225,8 @@ Yes, for anywhere you share a link, such as email and social posts. The **Regist
 
 ## Related {#related}
 
-- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): the page your link still needs for email and social.
-- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/): the Registration Page Link and One-Click Registration Link that sit beside the widget.
-- [Custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/): the fields and consent checkbox the form asks for.
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where **Registrants** confirms your test registration.
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): carry **Embed widgets** into a copy of this webinar.
+- [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/): the page your link still needs for email and social.
+- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/): the Registration Page Link and One-Click Registration Link that sit beside the widget.
+- [Custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/): the fields and consent checkbox the form asks for.
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where **Registrants** confirms your test registration.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): carry **Embed widgets** into a copy of this webinar.

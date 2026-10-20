@@ -5,9 +5,9 @@ Charge people to register for a webinar in EasyWebinar, take payment through Str
 - Applies to: Paid Webinars add-on · connected Stripe account · live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/
 
-A paid webinar asks people to pay before they are registered. In EasyWebinar you [choose **Paid** when you create the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#pricing), set a price, and attendees pay through a Stripe checkout on their way to registering. The money goes straight to your own Stripe account, and every payment appears in the webinar's Overview and Analytics. Paid registration launched in **March 2026**.
+A paid webinar asks people to pay before they are registered. In EasyWebinar you [choose **Paid** when you create the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#pricing), set a price, and attendees pay through a Stripe checkout on their way to registering. The money goes straight to your own Stripe account, and every payment appears in the webinar's Overview and Analytics. Paid registration launched in **March 2026**.
 
 ## At a glance {#at-a-glance}
 
@@ -25,9 +25,9 @@ A paid webinar asks people to pay before they are registered. In EasyWebinar you
 
 ## What paid registration is {#what-it-is}
 
-Paid registration makes payment part of signing up. Instead of a free form that registers someone straight away, [the registration page shows your price](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#paid-registration-pages), the **Register Now** button opens a checkout, and the person is registered only once payment succeeds.
+Paid registration makes payment part of signing up. Instead of a free form that registers someone straight away, [the registration page shows your price](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#paid-registration-pages), the **Register Now** button opens a checkout, and the person is registered only once payment succeeds.
 
-It is different from [**selling an offer during a webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/):
+It is different from [**selling an offer during a webinar**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/):
 
 | | Paid registration | Selling an offer in the webinar |
 |---|---|---|
@@ -84,7 +84,7 @@ In the Revenue screenshot below, the **Paid Webinar** view splits registration p
 
 Create a webinar as usual: **My Webinars → Create a Webinar → Create Manually**, name it and choose a type. On **Step 3 of 4: Pricing**, choose **Paid**.
 
-![Step 3 of Create Webinar with Paid selected](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-01-set-a-price.png)
+![Step 3 of Create Webinar with Paid selected](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-01-set-a-price.png)
 
 | | Setting | What to do |
 |---|---|---|
@@ -96,17 +96,17 @@ Create a webinar as usual: **My Webinars → Create a Webinar → Create Manuall
 
 If Stripe isn't connected yet, a **Payments · Action required** panel appears with **Connect with Stripe**.
 
-Continue to [choose a registration template](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#choose-a-template) and click **Create Webinar**. The template you pick includes the price automatically. You can switch back to **Free** at any point before creating the webinar.
+Continue to [choose a registration template](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/#choose-a-template) and click **Create Webinar**. The template you pick includes the price automatically. You can switch back to **Free** at any point before creating the webinar.
 
 ### Pricing on simulive and evergreen webinars {#pricing-recorded-webinars}
 
-[Simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#pricing) and [evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#pricing) webinars have the same **Free** or **Paid** choice. On those types, the pricing step comes after the schedule and before **Continue to Video Selection**, where you pick the recording the sessions will play.
+[Simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#pricing) and [evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#pricing) webinars have the same **Free** or **Paid** choice. On those types, the pricing step comes after the schedule and before **Continue to Video Selection**, where you pick the recording the sessions will play.
 
 ### Sell the replay with a bundle {#live-replay-bundle}
 
 Turn on **Live + Replay bundle** to offer two choices on the registration page: the live webinar alone, or the webinar plus its recording, each at its own price. It suits people who want to attend but also keep the session to watch again, and people who can't make the live time.
 
-If you sell replay access, [set how long the replay stays open](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) on the **Replay** tab: **Always Available**, **Expire after days** or a **Specific date**. Make sure the bundle's description matches that setting.
+If you sell replay access, [set how long the replay stays open](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) on the **Replay** tab: **Always Available**, **Expire after days** or a **Specific date**. Make sure the bundle's description matches that setting.
 
 ## What attendees see {#what-attendees-see}
 
@@ -114,7 +114,7 @@ If you sell replay access, [set how long the replay stays open](https://maximusl
 
 The registration page shows the price above the form.
 
-![A paid registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-02-registration-page.png)
+![A paid registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-02-registration-page.png)
 
 | | Area | What it does |
 |---|---|---|
@@ -131,20 +131,20 @@ Attendees outside the US may be offered the price in their own currency alongsid
 
 Once payment goes through, the attendee is registered and sent to your thank-you page.
 
-![The thank-you page after a successful payment](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-04-thank-you.png)
+![The thank-you page after a successful payment](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-04-thank-you.png)
 
 | | Area | What it shows |
 |---|---|---|
 | 1 | **Webinar join link** and **Join Room** | The attendee's personal link to the webinar |
 | 2 | **Date** and **Add to Calendar** | The session they booked, with Google, Outlook and Apple calendar buttons |
 
-They also receive your [**Registration Confirmation** email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/), which carries their join link, and [your reminders](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) before the session.
+They also receive your [**Registration Confirmation** email](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/), which carries their join link, and [your reminders](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) before the session.
 
 ## See what you've earned {#see-what-youve-earned}
 
 ### On the Overview tab {#earned-on-overview-tab}
 
-![The Overview tab of a paid webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-05-overview.png)
+![The Overview tab of a paid webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-05-overview.png)
 
 | | Area | What it shows |
 |---|---|---|
@@ -155,9 +155,9 @@ They also receive your [**Registration Confirmation** email](https://maximuslabs
 
 ### In Analytics {#earned-in-analytics}
 
-Open the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#revenue-view), then **Revenue**.
+Open the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#revenue-view), then **Revenue**.
 
-![Analytics, Revenue view](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-06-revenue.png)
+![Analytics, Revenue view](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-06-revenue.png)
 
 | | Area | What it shows |
 |---|---|---|
@@ -180,11 +180,11 @@ Each transaction shows one of these statuses: **Pending**, **Processing**, **Suc
 
 ### Offers inside a paid webinar {#with-offers}
 
-A paid webinar can still sell. [Add offers on the **CTAs** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer), with an optional price and [countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/), and offer sales are reported under **Paid Offer**, separately from registration revenue. Buyers of an offer receive the **Paid Offer — Transaction Success** email.
+A paid webinar can still sell. [Add offers on the **CTAs** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer), with an optional price and [countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/), and offer sales are reported under **Paid Offer**, separately from registration revenue. Buyers of an offer receive the **Paid Offer — Transaction Success** email.
 
 ### Replays {#with-replays}
 
-With the [replay page set to **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience), the recording shows the same video, offers, polls and chat replay as the session. Replay availability is set on the **Replay** tab, and **After the replay ends** under Redirects can [send viewers to your next offer](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/).
+With the [replay page set to **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience), the recording shows the same video, offers, polls and chat replay as the session. Replay availability is set on the **Replay** tab, and **After the replay ends** under Redirects can [send viewers to your next offer](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/).
 
 ### Emails {#with-emails}
 
@@ -192,7 +192,7 @@ Paid registrants get the same **Registration Confirmation**, **Webinar Reminders
 
 ### CRM and email tools {#with-crm}
 
-A [connected CRM or email tool](https://easywebinar.com/integrations/) can tag paid registrants as they sign up (the **Registered** event), and tag what they did in the session, from **Attended** and **Missed** to **Watched full** and **Clicked offer**. Map the **Webinar Join Link** into a CRM field if you want to send reminders from your own system. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
+A [connected CRM or email tool](https://easywebinar.com/integrations/) can tag paid registrants as they sign up (the **Registered** event), and tag what they did in the session, from **Attended** and **Missed** to **Watched full** and **Clicked offer**. Map the **Webinar Join Link** into a CRM field if you want to send reminders from your own system. See [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/).
 
 ### People view {#with-people-view}
 
@@ -200,7 +200,7 @@ A [connected CRM or email tool](https://easywebinar.com/integrations/) can tag p
 
 ### Create with AI {#with-create-with-ai}
 
-Webinars built with [**Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#with-paid-webinars) have the same pricing step and behave like any other once created. Include who the webinar is for and what you are selling in your prompt so the pages and emails it writes fit a paid event, and read the generated copy before you publish, especially around price and what's included.
+Webinars built with [**Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#with-paid-webinars) have the same pricing step and behave like any other once created. Include who the webinar is for and what you are selling in your prompt so the pages and emails it writes fit a paid event, and read the generated copy before you publish, especially around price and what's included.
 
 ## Who uses paid webinars, and how {#who-uses-it}
 
@@ -208,11 +208,11 @@ These patterns show how paid registration fits different kinds of webinars.
 
 ### Paid workshops and masterclasses {#paid-workshops}
 
-A coach or educator [runs a live, ticketed workshop](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#paid-workshops). The registration page sells a general admission ticket, the **Live + Replay bundle** sells the recording to people who can't attend live, and the confirmation page gives each buyer their join link and calendar buttons.
+A coach or educator [runs a live, ticketed workshop](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#paid-workshops). The registration page sells a general admission ticket, the **Live + Replay bundle** sells the recording to people who can't attend live, and the confirmation page gives each buyer their join link and calendar buttons.
 
 ### Course creators {#course-creators}
 
-A creator charges a small fee for a live training that previews a full course, then [presents the course itself as an offer](https://easywebinar.com/sell-and-monetize/) inside the session. Registration revenue and course sales appear separately under **Revenue by Source**. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator charges a small fee for a live training that previews a full course, then [presents the course itself as an offer](https://easywebinar.com/sell-and-monetize/) inside the session. Registration revenue and course sales appear separately under **Revenue by Source**. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Evergreen paid trainings {#evergreen-paid}
 
@@ -225,7 +225,7 @@ Educators in fields such as real estate, finance or wellness run paid seminars. 
 ## Choose Paid at creation {#choose-paid-at-creation}
 
 > **Choose Paid when you create the webinar**
-> [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#registration-pricing) has a **Convert to paid** button for free webinars. If you convert an existing free webinar to paid, its registration page keeps the free form, so people can still register without paying. Create a new webinar and choose **Paid** on the pricing step instead.
+> [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#registration-pricing) has a **Convert to paid** button for free webinars. If you convert an existing free webinar to paid, its registration page keeps the free form, so people can still register without paying. Create a new webinar and choose **Paid** on the pricing step instead.
 
 
 ## How paid webinars compare {#compare}
@@ -320,8 +320,8 @@ The Overview tab has a **Convert to paid** button, but the registration page of 
 
 ## Related {#related}
 
-- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): see registrants and revenue, and edit the price with the pencil.
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): every transaction, abandoned checkout and source of revenue.
-- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): add a deadline to an offer sold inside a paid webinar.
-- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag paid registrants and what they did in the session.
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): where the Paid Webinars add-on sits among the other add-ons.
+- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): see registrants and revenue, and edit the price with the pencil.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): every transaction, abandoned checkout and source of revenue.
+- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): add a deadline to an offer sold inside a paid webinar.
+- [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag paid registrants and what they did in the session.
+- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): where the Paid Webinars add-on sits among the other add-ons.

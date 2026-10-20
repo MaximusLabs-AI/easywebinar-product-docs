@@ -5,9 +5,9 @@ Set up a simulive webinar in EasyWebinar that plays a pre-recorded video at the 
 - Applies to: Simulive webinars
 - Status: Live
 - Verified: 2026-10-21
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/
 
-A simulive webinar plays a recording at the dates and times you schedule. Everyone in a session reaches the same point of the video at the same moment, so the [chat behaves like one shared room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#simulive-chat), and you or your moderators can answer questions while the recording runs. Creating one takes five steps in the manual builder: name and type, schedule, pricing, video selection and registration template.
+A simulive webinar plays a recording at the dates and times you schedule. Everyone in a session reaches the same point of the video at the same moment, so the [chat behaves like one shared room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#simulive-chat), and you or your moderators can answer questions while the recording runs. Creating one takes five steps in the manual builder: name and type, schedule, pricing, video selection and registration template.
 
 **Expected result:** a simulive webinar with its schedule, pricing and recording in place, listed on the **Simulive** tab of **My Webinars**, with a **Webinar Video** panel on its **Content** tab.
 
@@ -30,7 +30,7 @@ A simulive webinar plays a recording at the dates and times you schedule. Everyo
 - **Have a recording.** A simulive webinar plays a video, so you need one in your library or ready to add. You can add it during setup without leaving the builder.
 - **Decide where the video will live.** Uploading it means EasyWebinar hosts it for you. Importing a link means it stays on YouTube, Vimeo or Wistia. See Which video source to use, below.
 - **Pick your session times and timezone.** Sessions play at the times you set, in one timezone, so choose times that suit the audience you are targeting.
-- **Charging for it?** Paid registration runs through Stripe. Leave pricing on **Free** if you aren't charging. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#pricing-recorded-webinars).
+- **Charging for it?** Paid registration runs through Stripe. Leave pricing on **Free** if you aren't charging. See [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#pricing-recorded-webinars).
 - **Be sure about the type.** The type is fixed once the webinar exists. If you later want an evergreen or live version, you clone it.
 
 ## Step 1: Open the create dialog {#open-create-dialog}
@@ -39,7 +39,7 @@ A simulive webinar plays a recording at the dates and times you schedule. Everyo
 2. Click **Create a Webinar**.
 3. Choose **Create Manually**.
 
-If you'd rather have the script, pages, emails, polls and offers written for you, choose **Create with AI** and set **Type** to Simulive before generating. You still pick the video afterwards. See [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/).
+If you'd rather have the script, pages, emails, polls and offers written for you, choose **Create with AI** and set **Type** to Simulive before generating. You still pick the video afterwards. See [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/).
 
 ## Step 2: Name it and choose Simulive {#name-and-type}
 
@@ -60,7 +60,7 @@ The schedule step works the same way it does for a live webinar.
 4. Under **Schedule Preferences**, choose how many upcoming sessions registrants can choose from. By default they see only the next available one.
 5. Click **Continue to Pricing**.
 
-Choosing **Weekly** adds **Days of week**, a **Start Date** and **End Date (Optional)**, **Session Time** with **Add Time**, and **Blackout Dates** for days the webinar should skip. Past dates are greyed out in the date picker. For a walkthrough of every schedule control with screenshots, see [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/).
+Choosing **Weekly** adds **Days of week**, a **Start Date** and **End Date (Optional)**, **Session Time** with **Add Time**, and **Blackout Dates** for days the webinar should skip. Past dates are greyed out in the date picker. For a walkthrough of every schedule control with screenshots, see [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/).
 
 > **Simulive sessions use the webinar's timezone**
 > The schedule step shows a message saying attendees will see times in their local time. For simulive sessions that isn't how they run: they play at the times you set, in the webinar's timezone. Only just-in-time sessions on evergreen webinars follow each attendee's local time.
@@ -77,7 +77,7 @@ Choosing **Weekly** adds **Days of week**, a **Start Date** and **End Date (Opti
 
 This is the step that makes the webinar simulive. Whatever you pick here is what plays in every session.
 
-![The Video Selection step showing the All, Videos and Recordings filters, a search box, Add Video, the drag-and-drop upload area and the video library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/simulive/step-01-video-selection.png)
+![The Video Selection step showing the All, Videos and Recordings filters, a search box, Add Video, the drag-and-drop upload area and the video library](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/simulive/step-01-video-selection.png)
 
 *1 All · Videos · Recordings · 2 Search and sort · 3 Add Video · 4 Drag and drop · 5 Your library.*
 
@@ -92,7 +92,7 @@ This is the step that makes the webinar simulive. Whatever you pick here is what
 1. Click the video you want.
 2. Click **Continue to Registration Template**.
 
-The **Recordings** filter is where earlier webinars show up. If you ran a session live [with recording on](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording), its recording can become the content of this simulive webinar.
+The **Recordings** filter is where earlier webinars show up. If you ran a session live [with recording on](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording), its recording can become the content of this simulive webinar.
 
 ### If the video isn't in your library yet {#add-video-during-setup}
 
@@ -101,11 +101,11 @@ The **Recordings** filter is where earlier webinars show up. If you ran a sessio
 - **Local import** uploads a file from your computer, and EasyWebinar stores and serves it. No YouTube or Vimeo account is involved.
 - **Import from URL** plays a video already on **YouTube**, **Vimeo**, **Wistia** or a direct **MP4** link. You enter the link and the video's length.
 
-![The Import from URL form with Platform, Video title, Video URL and Video duration in hours, minutes and seconds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/add-video/step-02-import-from-url.png)
+![The Import from URL form with Platform, Video title, Video URL and Video duration in hours, minutes and seconds](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/add-video/step-02-import-from-url.png)
 
 *1 Platform · 2 Video title · 3 Video URL · 4 Video duration.*
 
-Either way, the video is saved to your library and can be reused on other webinars. For the full upload and import walkthrough, see [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/).
+Either way, the video is saved to your library and can be reused on other webinars. For the full upload and import walkthrough, see [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/).
 
 > **Enter an imported video's duration accurately**
 > EasyWebinar reads the length of an uploaded file itself, but not of a linked one. It uses the duration to schedule sessions and to know when the webinar ends, so a wrong figure can cut the video short or leave attendees waiting after it has finished.
@@ -126,16 +126,16 @@ A video on YouTube stays discoverable there unless you've unlisted it, which is 
 
 Pick a registration template for the page people sign up on, or click **Skip & Create Webinar** to choose one later.
 
-Your registration page can then be edited in the drag-and-drop builder. It doesn't go public until you click **Publish**. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
+Your registration page can then be edited in the drag-and-drop builder. It doesn't go public until you click **Publish**. See [Registration page builder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/).
 
 ## Verify the result {#verify}
 
 - **In My Webinars**, the webinar sits under the **Simulive** tab and its card carries a type badge, the next session's date, time and timezone, and the registrant count.
-- **On the Overview tab**, the **Sessions** panel lists each sitting under **Upcoming**, **Past** and **Cancelled**. A daily or weekly schedule fills the list from its recurrence. See [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/).
+- **On the Overview tab**, the **Sessions** panel lists each sitting under **Upcoming**, **Past** and **Cancelled**. A daily or weekly schedule fills the list from its recurrence. See [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/).
 - **On the Content tab**, a **Webinar Video** panel shows the recording you chose. Live webinars don't have this panel.
 - **On the registration page**, check the session times and publish the page before you share the link.
 
-![The Content tab of a simulive webinar, with the five webinar pages and the Webinar Video panel marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/simulive/step-02-webinar-video.png)
+![The Content tab of a simulive webinar, with the five webinar pages and the Webinar Video panel marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/simulive/step-02-webinar-video.png)
 
 *1 Webinar Video, the panel only recorded webinars have.*
 
@@ -157,7 +157,7 @@ EasyWebinar has three webinar types, and they differ only in how the content is 
 | **Needs a recording** | No | Yes | Yes |
 | **Your role during a session** | Presenting | Optional: answering in the chat | Optional |
 
-The short version: [simulive is a broadcast of a recording on a timetable](https://easywebinar.com/simulive-webinars/). It sits between live, where you present every time, and evergreen, where the schedule runs continuously and each person picks their own time. For the evergreen setup, see [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
+The short version: [simulive is a broadcast of a recording on a timetable](https://easywebinar.com/simulive-webinars/). It sits between live, where you present every time, and evergreen, where the schedule runs continuously and each person picks their own time. For the evergreen setup, see [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
 
 ## Why simulive matters {#why-it-matters}
 
@@ -198,25 +198,25 @@ When the school improves the lesson, it swaps the file with **Change Video** in 
 
 ### Chat and Q&A {#with-chat}
 
-Chat and Q&A are set up on the **Engagement** tab, as on a live webinar. You and your moderators reply in real time while the recording plays. See [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/) and [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/).
+Chat and Q&A are set up on the **Engagement** tab, as on a live webinar. You and your moderators reply in real time while the recording plays. See [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/) and [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/).
 
 Recorded webinars also have chat options a live webinar lacks: **Third party** embeds an external chat tool, **No Chat** hides the panel, and the **EW Contact Box** collects attendee questions by email even when chat is off.
 
 ### Chat Simulation {#with-chat-simulation}
 
-**Chat Simulation**, under **Engagement**, fills the chat on simulive and evergreen webinars, either with **AI Simulation** or with a scripted CSV in **Manual Simulation**. Only one can be active at a time. See [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/).
+**Chat Simulation**, under **Engagement**, fills the chat on simulive and evergreen webinars, either with **AI Simulation** or with a scripted CSV in **Manual Simulation**. Only one can be active at a time. See [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/).
 
 ### Emails and reminders {#with-notifications}
 
-Confirmation, reminder and follow-up emails live on the **Notifications** tab. Reminders are timed relative to the webinar rather than at a fixed clock time, so they follow a recurring simulive schedule. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
+Confirmation, reminder and follow-up emails live on the **Notifications** tab. Reminders are timed relative to the webinar rather than at a fixed clock time, so they follow a recurring simulive schedule. See [Reminder emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/).
 
 ### Replays {#with-replays}
 
-A simulive session can have a replay page for people who missed it, set on the **Replay** tab. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/).
+A simulive session can have a replay page for people who missed it, set on the **Replay** tab. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/).
 
 ### The Library {#with-library}
 
-Every video you add, and every recording of a past webinar, lands in the **Library**. Recordings appear there automatically when **Auto Recording** is on in the live room. See [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/).
+Every video you add, and every recording of a past webinar, lands in the **Library**. Recordings appear there automatically when **Auto Recording** is on in the live room. See [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/).
 
 ### Plan usage {#with-plan-usage}
 
@@ -224,7 +224,7 @@ The **Plan** tab, under **Settings** → **Manage Plan**, counts people watching
 
 ### People {#with-people}
 
-**People** in the sidebar can filter registrants by webinar **Type**, so you can look at simulive audiences on their own. See [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/).
+**People** in the sidebar can filter registrants by webinar **Type**, so you can look at simulive audiences on their own. See [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/).
 
 ## Who uses simulive webinars, and how {#who-uses-it}
 
@@ -244,7 +244,7 @@ A customer success team turns its [onboarding talk](https://easywebinar.com/use-
 
 ### Coaches and consultants {#coaches}
 
-A coach records a signature talk once and broadcasts it on a regular schedule, joining the chat when they can. [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/) work as they would live, so the session still ends with a next step.
+A coach records a signature talk once and broadcasts it on a regular schedule, joining the chat when they can. [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/) work as they would live, so the session still ends with a next step.
 
 ## How simulive webinars compare {#compare}
 
@@ -273,7 +273,7 @@ Simulive set-up, from each platform's public documentation:
 
 ## Limits and things to know {#limits}
 
-- **The type is fixed.** You can't convert a simulive webinar to live or evergreen. Clone it and choose the new type on the copy. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+- **The type is fixed.** You can't convert a simulive webinar to live or evergreen. Clone it and choose the new type on the copy. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
 - **A recording is required.** Simulive and evergreen both play a video; live webinars don't.
 - **Sessions run in the webinar's timezone,** whatever the in-app message on the schedule step says.
 - **You can't schedule a session in the past.**
@@ -326,9 +326,9 @@ Yes. Choose **Paid** on the pricing step, which comes just before video selectio
 
 ## Related {#related}
 
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/)
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/)
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
-- [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/)
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/)
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/)
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/)
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/)
+- [Video hosting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/)
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/)
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/)

@@ -5,7 +5,7 @@ Enter the EasyWebinar webinar room, prepare in the green room, go live, present 
 - Applies to: Live webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/
 
 To run a live webinar in EasyWebinar, you open the webinar room from the webinar's **Overview**, pass a quick camera and microphone check, and arrive in the green room, where nothing reaches your audience. When you're ready you click **Go Live**, present using the panels on the right-hand rail, and finish with **End Session**. The result is a broadcast to everyone registered for the session, with the recording saved to **Library → Recordings** if recording was on.
 
@@ -25,10 +25,10 @@ To run a live webinar in EasyWebinar, you open the webinar room from the webinar
 
 ## Before you begin {#before-you-begin}
 
-- **Be signed in as a team member.** Any team member signed in to EasyWebinar can open the room. To bring in a co-presenter or moderator, see [The green room and backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/).
+- **Be signed in as a team member.** Any team member signed in to EasyWebinar can open the room. To bring in a co-presenter or moderator, see [The green room and backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/green-room/).
 - **Check your camera and microphone.** The room won't let you past the device check without both.
 - **Set chat, Q&A and the attendee list in advance.** Who can see chat messages and how Q&A works are chosen on the webinar's **Engagement** tab. Whether attendees can see each other is **Show Attendees** on the **Settings** tab. These belong to the webinar's setup, not the live room, so decide them before the session.
-- **Build your polls and offers.** Create [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#create-a-poll) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer) on the **CTAs** tab. You can keep an offer switched off in the list until you want it.
+- **Build your polls and offers.** Create [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#create-a-poll) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#create-an-offer) on the **CTAs** tab. You can keep an offer switched off in the list until you want it.
 - **Fill in End of Session.** On the **Settings** tab, **End of Session** is where attendees go when the stream ends. It's empty by default, which leaves attendees on a finished webinar.
 - **Connect any streaming destinations.** If you plan to [stream to YouTube or LinkedIn](https://easywebinar.com/easycast/) as well, connect them once under **Integrations → EasyCast** in the sidebar.
 
@@ -45,7 +45,7 @@ You can also click **⋮** on the webinar's card in **My Webinars** and choose *
 
 You're asked to choose your **camera, microphone and speakers**. Pick each one, then click **Continue to Green Room**.
 
-The button stays greyed out until the room can see a camera and a microphone. If it can't open your camera, you'll see **"Not able to access selected media device"**. Allow camera access in your browser and close any other app that's using the camera. [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/) walks through the fixes.
+The button stays greyed out until the room can see a camera and a microphone. If it can't open your camera, you'll see **"Not able to access selected media device"**. Allow camera access in your browser and close any other app that's using the camera. [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/) walks through the fixes.
 
 If another of your webinars is already live, **Enter Room** shows **"You can only have one event live at a time."** Join the session that's running, or go live with the new one.
 
@@ -53,17 +53,17 @@ If another of your webinars is already live, **Enter Room** shows **"You can onl
 
 The green room is the room as it will look, with nothing broadcast. Check your framing, test **Share**, and get your co-hosts in place.
 
-![The green room before going live, with the status badges, top-bar controls, Go Live, the Backstage panel, the side rail and Layout marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/live-room/step-01-green-room.png)
+![The green room before going live, with the status badges, top-bar controls, Go Live, the Backstage panel, the side rail and Layout marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-01-green-room.png)
 
 *The green room: 1 Status · 2 Settings, Reactions, EasyCast and Full Screen · 3 Camera, Mic and Share · 4 Go Live and Exit · 5 Backstage · 6 Side rail · 7 Layout.*
 
-Anyone who joins as a co-host or moderator lands in **Backstage**, not on stage. The [green room page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/green-room/) covers backstage, the People panel and presenter links in detail.
+Anyone who joins as a co-host or moderator lands in **Backstage**, not on stage. The [green room page](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/green-room/) covers backstage, the People panel and presenter links in detail.
 
 ### 4. Check recording {#check-recording}
 
 Look at the badge in the header. **Auto Recording Enabled** means the session will be recorded. To change it, click **Settings** in the top bar, then **Recording Settings**.
 
-![The room Settings dialog with Device settings, Recording Settings and Preferences marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/live-room/step-03-settings.png)
+![The room Settings dialog with Device settings, Recording Settings and Preferences marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-03-settings.png)
 
 | | Section | What it covers |
 |---|---|---|
@@ -77,7 +77,7 @@ Keep recording on unless you have a specific reason to switch it off. The replay
 
 Click **Design** on the right-hand rail. Do this now: design changes apply immediately, so anything you change once you're live happens in front of your audience.
 
-![The Design panel with Stage and Frame tabs, background presets, Blur Intensity, colours, Frame Overlays, Layout and Theme marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/live-room/step-01-design.png)
+![The Design panel with Stage and Frame tabs, background presets, Blur Intensity, colours, Frame Overlays, Layout and Theme marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-01-design.png)
 
 | | Control | What to do with it |
 |---|---|---|
@@ -101,7 +101,7 @@ EasyCast is set up per account, so a destination connected once is available on 
 
 Click **Go Live**. A confirmation asks you to check two things: people in the waiting area will be moved into the webinar automatically, and your offers and polls should already be created. Click **Go Live** in the dialog to start.
 
-![The room broadcasting, with the LIVE timer and Recording badge, a streaming platform icon and End Session marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/live-room/step-07-live.png)
+![The room broadcasting, with the LIVE timer and Recording badge, a streaming platform icon and End Session marked](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/live-room/step-07-live.png)
 
 *Live: 1 LIVE with a timer, and Recording · 2 One icon per EasyCast destination · 3 End Session.*
 
@@ -125,7 +125,7 @@ Everything you use while presenting sits on the right-hand rail:
 
 In the top bar, **Share** shares your screen, **Full Screen** expands the stage, and **Reactions** enables emoji reactions from the room.
 
-Polls don't fire on their own in a live session, so [plan when each poll goes out](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#launch-a-poll-live). Offers reach the room when you [push them from the **Offers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room). The [**Question** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#answer-in-the-room) keeps **Active** and **Answered** apart, so you can see at a glance what's still waiting.
+Polls don't fire on their own in a live session, so [plan when each poll goes out](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#launch-a-poll-live). Offers reach the room when you [push them from the **Offers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room). The [**Question** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#answer-in-the-room) keeps **Active** and **Answered** apart, so you can see at a glance what's still waiting.
 
 ### 9. End the session {#end-the-session}
 
@@ -138,7 +138,7 @@ Attendees then go to the URL you set in **End of Session**, if you set one.
 - **While live:** the header shows **LIVE** with a running timer and the **Recording** badge. With EasyCast on, there's one platform icon per destination.
 - **Recording:** open **Library → Recordings**. The recording is named after its webinar, with its duration and the date it was recorded.
 - **Session history:** on the webinar's **Overview**, the session moves to the **Past** tab of the **Sessions** panel.
-- **Attendance:** the webinar's **Analytics** tab shows **Live Attended** for people who joined the broadcast. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
+- **Attendance:** the webinar's **Analytics** tab shows **Live Attended** for people who joined the broadcast. See [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/).
 
 ## What the live room is {#what-it-is}
 
@@ -151,7 +151,7 @@ The live room is where you present a live webinar. You arrive in a green room wh
 | Where does the recording go? | **Library → Recordings** |
 | Which webinar types use it? | Live webinars. Simulive and evergreen webinars play a recording instead |
 
-To run a recording at set times without presenting, see [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/).
+To run a recording at set times without presenting, see [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/).
 
 ## Why running the room well matters {#why-it-matters}
 
@@ -193,19 +193,19 @@ One fact is easy to check before you start. In the green room the header reads *
 
 ### Chat and Q&A settings {#with-chat-and-qa}
 
-How chat and questions behave in the room is set on the webinar's **Engagement** tab. **Hosts only** makes each attendee's messages private to your team, **No Chat** removes the panel, and Q&A can be public, private or disabled. See [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/) and [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/).
+How chat and questions behave in the room is set on the webinar's **Engagement** tab. **Hosts only** makes each attendee's messages private to your team, **No Chat** removes the panel, and Q&A can be public, private or disabled. See [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/) and [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/).
 
 ### Polls and offers {#with-polls-and-offers}
 
-Polls and offers are created on the **CTAs** tab and shown from the room. A row's toggle in the CTAs list keeps an offer ready without showing it. Switch on **Countdown timer** in the offer editor to put a [countdown on an offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-offer-countdown).
+Polls and offers are created on the **CTAs** tab and shown from the room. A row's toggle in the CTAs list keeps an offer ready without showing it. Switch on **Countdown timer** in the offer editor to put a [countdown on an offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-offer-countdown).
 
 ### Replays and the Library {#with-replays-and-library}
 
-Your recording appears in **Library → Recordings**. With the replay page set to **Webinar Replica**, the replay shows the same video, offers, polls and chat replay as the live session. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/) and [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/).
+Your recording appears in **Library → Recordings**. With the replay page set to **Webinar Replica**, the replay shows the same video, offers, polls and chat replay as the live session. See [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/) and [The Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/).
 
 ### Evergreen from a live session {#with-cloning}
 
-A webinar's type can't be changed, so the way to automate a successful live session is to clone it as **Evergreen** and pick its recording. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+A webinar's type can't be changed, so the way to automate a successful live session is to clone it as **Evergreen** and pick its recording. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
 
 ### EasyCast {#with-easycast}
 
@@ -229,7 +229,7 @@ A marketing team runs a panel webinar with branded frame overlays and streams it
 
 ### Course creators {#course-creators}
 
-A creator runs a training live a few times with recording on, then clones the strongest session as an [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) using the recording from the Library. The [course creator's guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#live-then-automate) follows that route end to end.
+A creator runs a training live a few times with recording on, then clones the strongest session as an [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) using the recording from the Library. The [course creator's guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#live-then-automate) follows that route end to end.
 
 ## How the live room compares {#compare}
 
@@ -274,7 +274,7 @@ No. The header reads **Not Live** until you click **Go Live** and confirm.
 
 #### Why is Continue to Green Room greyed out? {#faq-greyed-out}
 
-The room needs to see a working camera and microphone before it lets you in. See [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/).
+The room needs to see a working camera and microphone before it lets you in. See [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/).
 
 #### Can I go live with my camera off? {#faq-camera-off}
 
@@ -314,7 +314,7 @@ Another of your events is live. EasyWebinar allows one live event at a time.
 
 ## Related {#related}
 
-- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): set the session time and registration before you open the room.
-- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room): where **Enter Room** sits, and where past sessions are listed.
-- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#co-presenter-join-link): the co-presenter and moderator links that bring people backstage.
-- [Webinar analytics and live attendance](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel): how many registrants turned up to this session.
+- [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): set the session time and registration before you open the room.
+- [The webinar Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room): where **Enter Room** sits, and where past sessions are listed.
+- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#co-presenter-join-link): the co-presenter and moderator links that bring people backstage.
+- [Webinar analytics and live attendance](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-the-funnel): how many registrants turned up to this session.

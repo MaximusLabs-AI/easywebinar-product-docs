@@ -5,7 +5,7 @@ Choose how attendees talk in your webinar room, from EasyWebinar's built-in chat
 - Applies to: Live, simulive and evergreen webinars (third-party chat on simulive and evergreen only)
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/
 
 Live chat is the panel in the webinar room where attendees post messages while the webinar runs. In EasyWebinar you set it up on the webinar's **Engagement** tab before the session: built-in chat or no chat, and whether attendees see each other's messages or only talk privately to your team. On [simulive and evergreen webinars](https://easywebinar.com/automated-webinars/) you can also embed an external chat tool instead. During the session, your team reads and answers messages from the **Chat** panel in the room.
 
@@ -32,7 +32,7 @@ Two settings shape the chat:
 - **The chat mode** decides whether there is a chat panel, and whose chat it is: EasyWebinar's built-in panel, an external tool embedded in the room, or none.
 - **Who can see messages** decides whether the chat is a shared room or a set of private conversations with your team. It applies to everything attendees post.
 
-How chat behaves also depends on the webinar type. On a live or [simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#what-it-is), everyone in a session is watching the same moment, so the chat works as one shared room. On an [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#what-it-is), attendees arrive at different times, so a genuinely shared live chat isn't possible.
+How chat behaves also depends on the webinar type. On a live or [simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#what-it-is), everyone in a session is watching the same moment, so the chat works as one shared room. On an [evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#what-it-is), attendees arrive at different times, so a genuinely shared live chat isn't possible.
 
 ## Why live chat matters {#why-it-matters}
 
@@ -78,7 +78,7 @@ The screenshot under Set up chat shows both **Who can see messages** options, **
 4. Choose **Who can see messages**.
 5. Save your changes.
 
-![The Engagement tab's Chat section with Easywebinar Chat and No Chat, the Who can see messages options and the AI Moderation switch](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/engagement/step-01-chat.png)
+![The Engagement tab's Chat section with Easywebinar Chat and No Chat, the Who can see messages options and the AI Moderation switch](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/engagement/step-01-chat.png)
 
 ### Choose the chat mode {#chat-mode}
 
@@ -112,7 +112,7 @@ The screenshot under Set up chat shows both **Who can see messages** options, **
 
 ## Use the chat in the live room {#chat-in-the-room}
 
-Once you [enter the room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#open-the-room), the **Chat** panel sits on the side rail with **People**, [**Offers**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room), [**Polls**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#launch-a-poll-live), **Question**, **Design** and **Theme**. It holds messages from attendees, split into **Global Chat** and **Admin Chats**.
+Once you [enter the room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#open-the-room), the **Chat** panel sits on the side rail with **People**, [**Offers**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room), [**Polls**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#launch-a-poll-live), **Question**, **Design** and **Theme**. It holds messages from attendees, split into **Global Chat** and **Admin Chats**.
 
 Chat moderation preferences sit in the room's **Settings**, under **Preferences**, alongside Q&A moderation and appearance.
 
@@ -125,7 +125,7 @@ Set both before you go live rather than in the middle of a session.
 
 ### Bring in a moderator {#moderators}
 
-On a busy webinar, one presenter can't watch the chat and present at the same time. The webinar's **Share** dialog includes a [**Moderator Join Link for Live room**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#moderator-join-link), which lets a moderator join to handle chat and questions. Treat it as private: anyone holding it can join the room in that role.
+On a busy webinar, one presenter can't watch the chat and present at the same time. The webinar's **Share** dialog includes a [**Moderator Join Link for Live room**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#moderator-join-link), which lets a moderator join to handle chat and questions. Treat it as private: anyone holding it can join the room in that role.
 
 ## Chat on simulive and evergreen webinars {#recorded-webinars}
 
@@ -135,13 +135,13 @@ A simulive webinar [plays a recording at times you set](https://easywebinar.com/
 
 ### Evergreen: simulate the room {#evergreen-chat}
 
-On an evergreen webinar, a real shared chat isn't possible because attendees arrive at different times. [**Chat Simulation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) plays back a conversation, either generated by AI or scripted by you in a CSV, so the room doesn't look empty. It needs **Easywebinar Chat**.
+On an evergreen webinar, a real shared chat isn't possible because attendees arrive at different times. [**Chat Simulation**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) plays back a conversation, either generated by AI or scripted by you in a CSV, so the room doesn't look empty. It needs **Easywebinar Chat**.
 
 ### Embed a third-party chat tool {#third-party-chat}
 
 On simulive and evergreen webinars you can replace the built-in panel with a chat tool you already use, such as Chatroll, Intercom or anything that gives you an embed snippet.
 
-![The Chat section on an evergreen webinar with Third party selected, a box title and Chatroll widget code pasted in](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/third-party-chat/step-01-third-party.png)
+![The Chat section on an evergreen webinar with Third party selected, a box title and Chatroll widget code pasted in](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/third-party-chat/step-01-third-party.png)
 
 1. On **Engagement** → **Chat**, choose **Third party**.
 2. Give the box a **Box title**. Attendees see it above the widget, so a plain label such as "Live Chat" or "Ask the team" works better than the tool's name.
@@ -151,9 +151,9 @@ On simulive and evergreen webinars you can replace the built-in panel with a cha
 
 Messages then go to your chat tool, not to EasyWebinar, and you read and answer them from that tool's own dashboard.
 
-To check it, [join a running session](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-recorded-session) as an attendee, not as an admin. The widget sits under **Contact** in the right-hand rail, on its **Chat** tab. In the admin view the side panel shows your own host tools instead.
+To check it, [join a running session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-recorded-session) as an attendee, not as an admin. The widget sits under **Contact** in the right-hand rail, on its **Chat** tab. In the admin view the side panel shows your own host tools instead.
 
-![The webinar room seen as an attendee, with the Contact panel open on its Chat tab showing the embedded widget](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/third-party-chat/step-03-widget-in-room.png)
+![The webinar room seen as an attendee, with the Contact panel open on its Chat tab showing the embedded widget](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/third-party-chat/step-03-widget-in-room.png)
 
 > **Third party replaces the built-in chat**
 > AI Moderation and simulated chat only work with **Easywebinar Chat**. If you want either of them, don't choose **Third party**.
@@ -176,19 +176,19 @@ Use an email address someone actually monitors, or the questions go nowhere.
 
 ### Questions and answers {#with-qa}
 
-Chat is conversation; Q&A is a list of questions. A common setup is **Everyone** for chat with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat): the room stays sociable while questions arrive in an orderly queue.
+Chat is conversation; Q&A is a list of questions. A common setup is **Everyone** for chat with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat): the room stays sociable while questions arrive in an orderly queue.
 
 ### AI Moderation (Beta) {#with-ai-moderation}
 
-**AI Moderation**, in Beta, can answer attendee questions from [documents you upload](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/#files) and keep the chat civil. It works with the built-in chat only, and it doesn't replace a human moderator on a live session. It is switched on from the **Chat** screen once set up in the **AI Moderation** section.
+**AI Moderation**, in Beta, can answer attendee questions from [documents you upload](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#files) and keep the chat civil. It works with the built-in chat only, and it doesn't replace a human moderator on a live session. It is switched on from the **Chat** screen once set up in the **AI Moderation** section.
 
 ### Analytics {#with-analytics}
 
-After the session, the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers) has a **Chat** panel showing total messages, which you can filter by session.
+After the session, the webinar's [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers) has a **Chat** panel showing total messages, which you can filter by session.
 
 ### Replays {#with-replays}
 
-A [replay page set to **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience) shows the same video, offers, polls and chat replay as the session.
+A [replay page set to **Webinar Replica**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience) shows the same video, offers, polls and chat replay as the session.
 
 ## Who uses live chat, and how {#who-uses-it}
 
@@ -293,10 +293,10 @@ Open **Analytics**. The **Chat** panel shows total messages, filterable by sessi
 
 ## Related {#related}
 
-- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): the question queue you set beside chat on the same tab.
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): fill the chat on an evergreen webinar, where a shared chat isn't possible.
-- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/): the other way to hear from the room, including people who never type.
-- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): where the **Chat** panel sits among the room's other tools.
-- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): the recorded format where you can still answer in the chat live.
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the recorded format that offers **Third party** chat and Chat Simulation.
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): the **Chat** message totals after the session.
+- [Questions and answers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/): the question queue you set beside chat on the same tab.
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): fill the chat on an evergreen webinar, where a shared chat isn't possible.
+- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/): the other way to hear from the room, including people who never type.
+- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): where the **Chat** panel sits among the room's other tools.
+- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): the recorded format where you can still answer in the chat live.
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the recorded format that offers **Third party** chat and Chat Simulation.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): the **Chat** message totals after the session.

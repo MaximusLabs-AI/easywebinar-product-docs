@@ -5,7 +5,7 @@ How On Demand works on EasyWebinar's evergreen webinars, letting registrants sta
 - Applies to: Evergreen webinars
 - Status: Live
 - Verified: 2026-10-21
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/on-demand/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/on-demand/
 
 **On Demand** is an [evergreen schedule setting](https://easywebinar.com/evergreen-webinars/) that lets a registrant start watching your webinar straight away, with no session to wait for. EasyWebinar also calls it **instant replay**: registrants click a button, labelled *Watch instant replay* unless you change it, and the recording starts. It is a different thing from the replay page on the **Replay** tab, which shows the recording of a session that has already happened.
 
@@ -92,11 +92,11 @@ The screenshot under Set it up shows the **Instant replay text** field, which re
 5. Set any other options you want alongside it: **Just-in-time Registration**, **Recurring Schedule**, **Availability** and **Schedule Preferences**.
 6. Click **Continue to Pricing** and complete the remaining steps.
 
-![The evergreen schedule step with On Demand switched on and the Instant replay text field showing Watch instant replay, beside Just-in-time Registration, Recurring Schedule, Availability and Schedule Preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/evergreen/step-01-schedule.png)
+![The evergreen schedule step with On Demand switched on and the Instant replay text field showing Watch instant replay, beside Just-in-time Registration, Recurring Schedule, Availability and Schedule Preferences](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/evergreen/step-01-schedule.png)
 
 *1 Just-in-time Registration · 2 On Demand · 3 Recurring Schedule · 4 Availability · 5 Schedule Preferences.*
 
-Pricing, video selection and templates are covered in [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
+Pricing, video selection and templates are covered in [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/).
 
 ### On an existing evergreen webinar {#set-up-existing}
 
@@ -128,7 +128,7 @@ With On Demand off, registrants still have just-in-time or recurring sessions if
 
 ### Just-in-time Registration {#with-just-in-time}
 
-Just-in-time offers a session a few minutes away, in each attendee's local time. With both on, registrants choose between watching now and joining a session shortly. [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) covers the interval and timezone rules.
+Just-in-time offers a session a few minutes away, in each attendee's local time. With both on, registrants choose between watching now and joining a session shortly. [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/) covers the interval and timezone rules.
 
 ### Recurring Schedule {#with-recurring}
 
@@ -136,19 +136,19 @@ A daily or weekly schedule can run alongside On Demand for registrants who want 
 
 ### The replay page {#with-replay-page}
 
-The **Replay** tab controls a separate page for people who missed a session, with [availability options](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) of **Always Available**, **Expire after days** or **Specific date**, and an **Experience** of **Webinar Replica** or **Custom Build**. Those settings belong to the replay page, not to On Demand.
+The **Replay** tab controls a separate page for people who missed a session, with [availability options](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability) of **Always Available**, **Expire after days** or **Specific date**, and an **Experience** of **Webinar Replica** or **Custom Build**. Those settings belong to the replay page, not to On Demand.
 
 ### Polls, offers and chat {#with-engagement}
 
-[Chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#evergreen-chat), Q&A, [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/#with-recorded-webinars), [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), emails and [analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/) work on evergreen webinars as they do everywhere else. Where viewers watch at different times, [Chat Simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) on the **Engagement** tab keeps the chat from looking empty.
+[Chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#evergreen-chat), Q&A, [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/#with-recorded-webinars), [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), emails and [analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/) work on evergreen webinars as they do everywhere else. Where viewers watch at different times, [Chat Simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) on the **Engagement** tab keeps the chat from looking empty.
 
 ### Emails {#with-notifications}
 
-Confirmation, [reminder](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-evergreen) and follow-up emails are set on the **Notifications** tab. Replay emails are set up there too, not on the **Replay** tab. The [confirmation email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/) is the first one registrants receive.
+Confirmation, [reminder](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/#with-evergreen) and follow-up emails are set on the **Notifications** tab. Replay emails are set up there too, not on the **Replay** tab. The [confirmation email](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/) is the first one registrants receive.
 
 ### Plan usage {#with-plan-usage}
 
-People watching evergreen sessions count towards the [**Automated attendees** meter](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) on the **Plan** tab.
+People watching evergreen sessions count towards the [**Automated attendees** meter](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) on the **Plan** tab.
 
 ## Who uses On Demand, and how {#who-uses-it}
 
@@ -164,7 +164,7 @@ A product team offers a recorded feature walkthrough with On Demand alongside ju
 
 ### Course creators {#course-creators}
 
-A creator offers a free training lesson on demand, so new subscribers can start it the moment they sign up. On a separate sales webinar, the creator leaves On Demand off so the session feels like an event people turn up for. This is one pattern in [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator offers a free training lesson on demand, so new subscribers can start it the moment they sign up. On a separate sales webinar, the creator leaves On Demand off so the session feels like an event people turn up for. This is one pattern in [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Coaches and consultants {#coaches}
 
@@ -200,8 +200,8 @@ Instant viewing, from each platform's public documentation:
 
 - **Evergreen only.** On Demand is set on the evergreen schedule step. Live and simulive webinars don't have it.
 - **It isn't the replay page.** Replay availability, deadlines, redirects and the replay page's look are set on the **Replay** tab for the replay page.
-- **The recording is the webinar's.** An evergreen webinar plays the recording chosen on its video step; [change it from the **Webinar Video** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#change-video) on the **Content** tab.
-- **The type is fixed.** To offer On Demand for a live or simulive webinar, [clone it as Evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
+- **The recording is the webinar's.** An evergreen webinar plays the recording chosen on its video step; [change it from the **Webinar Video** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#change-video) on the **Content** tab.
+- **The type is fixed.** To offer On Demand for a live or simulive webinar, [clone it as Evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/).
 
 ## Common questions {#common-questions}
 
@@ -243,8 +243,8 @@ Not necessarily. Turn it on when the content matters more than the event feeling
 
 ## Related {#related}
 
-- [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/): the option for registrants happy to wait a few minutes for a session.
-- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the schedule step where On Demand is switched on.
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): the separate page for people who missed a session.
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): a chat for registrants who start watching at different times.
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): how a live or simulive webinar gets On Demand viewing.
+- [Just-in-time webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/): the option for registrants happy to wait a few minutes for a session.
+- [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the schedule step where On Demand is switched on.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): the separate page for people who missed a session.
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): a chat for registrants who start watching at different times.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): how a live or simulive webinar gets On Demand viewing.

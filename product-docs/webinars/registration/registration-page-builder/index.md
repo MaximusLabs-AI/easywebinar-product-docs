@@ -5,7 +5,7 @@ How EasyWebinar's drag-and-drop page builder creates and publishes a webinar's r
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/
 
 The registration page is the page people see before they sign up, and the link you promote. EasyWebinar builds it in a drag-and-drop page builder that already carries your webinar's date, time and timezone, with a countdown and a name-and-email form in place. You choose a template, edit blocks on a canvas, check the mobile layout, and click **Publish** to make the page public. The same builder edits the webinar's other four pages.
 
@@ -28,7 +28,7 @@ Every webinar has five pages that its audience moves through: **Registration Pag
 
 The registration page matters most because it carries your signups. It's built from **blocks**, such as the date and countdown block and the form block, plus whatever else the template includes. You select a block on the canvas to change it, add new blocks underneath, and set page-wide options such as fonts, background and tracking from the top bar.
 
-Each page has a working default, so you don't have to design any of them. If you only have time for two, make them the registration page and the [replay page](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#style-replay-page).
+Each page has a working default, so you don't have to design any of them. If you only have time for two, make them the registration page and the [replay page](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#style-replay-page).
 
 ## Why the registration page builder matters {#why-it-matters}
 
@@ -50,7 +50,7 @@ Without a registration page, people have nowhere to sign up. Your posts and emai
 
 ### Why buyers care {#why-buyers-care}
 
-The registration page decides how much of your promotion becomes an audience. It matters most to whoever pays for the traffic, in the weeks before a session. That's when a page that [matches your brand](https://easywebinar.com/blog/customizing-webinar-software-for-brand-consistency/) and shows [which campaign drove each signup](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/people/#capture-utms) earns its keep.
+The registration page decides how much of your promotion becomes an audience. It matters most to whoever pays for the traffic, in the weeks before a session. That's when a page that [matches your brand](https://easywebinar.com/blog/customizing-webinar-software-for-brand-consistency/) and shows [which campaign drove each signup](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#capture-utms) earns its keep.
 
 ## The EasyWebinar approach to the registration page builder {#approach}
 
@@ -68,9 +68,9 @@ Open the template step of the create flow. Next to **Education**, **Coach** and 
 
 ## Choose a template {#choose-a-template}
 
-You pick the registration page's look on **Step 4 of 4 — Registration Template** when you [create a webinar manually](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template).
+You pick the registration page's look on **Step 4 of 4 — Registration Template** when you [create a webinar manually](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/#registration-template).
 
-![Step 4 of 4 of the create flow showing the template category filters and a grid of registration page templates](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-04-registration-template.png)
+![Step 4 of 4 of the create flow showing the template category filters and a grid of registration page templates](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-04-registration-template.png)
 
 *1 Category filters · 2 Template cards · 3 The create button.*
 
@@ -93,13 +93,13 @@ When you create a webinar, it opens straight into the registration page builder 
 1. Open your webinar and click the **Content** tab.
 2. Click **Edit** on the **Registration Page** card.
 
-![The Content tab with cards for the registration, thank-you, waiting area, webinar and replay pages, and the registration widget below](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/content/step-01-content-tab.png)
+![The Content tab with cards for the registration, thank-you, waiting area, webinar and replay pages, and the registration widget below](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/content/step-01-content-tab.png)
 
 *1 Registration Page · 2 Thank you Page · 3 Waiting Area · 4 Webinar Page · 5 Replay Page.*
 
 ## The builder controls {#builder-controls}
 
-![The page builder with the page switcher, templates, device toggle, settings and preview, save and publish, the block toolbar and the settings panel numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/content/step-02-page-builder.png)
+![The page builder with the page switcher, templates, device toggle, settings and preview, save and publish, the block toolbar and the settings panel numbered](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/content/step-02-page-builder.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -120,9 +120,9 @@ When you create a webinar, it opens straight into the registration page builder 
 
 ### The countdown block {#countdown-block}
 
-New registration pages show the date, time and timezone with a [countdown to the session](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown). Selecting that block gives you its visibility (including a **Desktop Only** option), its margins and width, and the fonts, sizes and alignment for the date, time and timezone.
+New registration pages show the date, time and timezone with a [countdown to the session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/#set-up-registration-countdown). Selecting that block gives you its visibility (including a **Desktop Only** option), its margins and width, and the fonts, sizes and alignment for the date, time and timezone.
 
-![The registration page builder right after creating a webinar, with the date, countdown and registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
+![The registration page builder right after creating a webinar, with the date, countdown and registration form](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/create-live/step-05-registration-page-builder.png)
 
 ### The form block {#form-block}
 
@@ -156,7 +156,7 @@ The tracking, SEO, social and CSS areas also appear on the webinar's **Settings*
 
 ## Let AI write the pages {#ai-written-pages}
 
-[**Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-pages) can build your pages as part of a full webinar. After it writes the script, the pages step asks you to choose **AI picks for you**, which auto-selects a template, or **Choose manually** to browse.
+[**Create with AI**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/#generate-pages) can build your pages as part of a full webinar. After it writes the script, the pages step asks you to choose **AI picks for you**, which auto-selects a template, or **Choose manually** to browse.
 
 The AI then [writes your registration page](https://easywebinar.com/ai-webinar-registration-page-builder/), thank-you page and waiting area, using the script as source material: headline, what you'll learn, instructor bio and the rest. The pages open in an editor with **Edit**, **Preview**, **SEO** and **Scripts** tabs, and a desktop and mobile view. Treat the output as a strong first draft; afterwards, pages open in the normal builder.
 
@@ -170,25 +170,25 @@ The AI then [writes your registration page](https://easywebinar.com/ai-webinar-r
 
 When you choose **Paid** at creation, the registration page shows the price above the form. The price option (pricing title, description and price) is selected by default, and **Register Now** takes the attendee to checkout instead of registering them straight away.
 
-![A paid registration page showing the price option above the form and the Register Now button](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/paid-registration/step-02-registration-page.png)
+![A paid registration page showing the price option above the form and the Register Now button](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/paid-registration/step-02-registration-page.png)
 
 *1 Price option · 2 Register Now.*
 
-The price block is added only when **Paid** is chosen at creation. A free webinar converted to paid afterwards keeps the free form, so [choose **Paid** at creation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#choose-paid-at-creation) if you want to charge.
+The price block is added only when **Paid** is chosen at creation. A free webinar converted to paid afterwards keeps the free form, so [choose **Paid** at creation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#choose-paid-at-creation) if you want to charge.
 
 ## How the builder works with other features {#works-with}
 
 ### Custom fields, consent and UTM capture {#with-custom-fields}
 
-The form block is where you [collect more than name and email](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form).
+The form block is where you [collect more than name and email](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#set-up-the-form).
 
 ### Embedding the form on your own site {#with-embeds}
 
-The [**Registration Widget**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/#from-content-tab) on the Content tab gives you embed code to put the form on your own page instead of sending people to the EasyWebinar page.
+The [**Registration Widget**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/#from-content-tab) on the Content tab gives you embed code to put the form on your own page instead of sending people to the EasyWebinar page.
 
 ### Share links {#with-share-links}
 
-The [**Registration Page Link**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#registration-page-link) in the Share dialog is the published page's address, and the **Registration Page** button on the webinar header opens the live page.
+The [**Registration Page Link**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#registration-page-link) in the Share dialog is the published page's address, and the **Registration Page** button on the webinar header opens the live page.
 
 ### Tracking pixels {#with-tracking}
 
@@ -196,7 +196,7 @@ On the webinar's **Settings → Tracking Code** sub-tab, you pick a page and pas
 
 ### Your domain and branding {#with-domain}
 
-Your registration page lives on your subdomain, ending in `.easywebinar.live`, set in your profile. The [**C-Name** add-on](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons), with a CNAME record at your DNS provider, puts the pages on your own domain. The **White Label** add-on removes EasyWebinar branding. Changing your subdomain changes your existing links, so set it before you promote anything.
+Your registration page lives on your subdomain, ending in `.easywebinar.live`, set in your profile. The [**C-Name** add-on](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons), with a CNAME record at your DNS provider, puts the pages on your own domain. The **White Label** add-on removes EasyWebinar branding. Changing your subdomain changes your existing links, so set it before you promote anything.
 
 ### Language and date format {#with-language}
 
@@ -204,11 +204,11 @@ Your registration page lives on your subdomain, ending in `.easywebinar.live`, s
 
 ### Analytics {#with-analytics}
 
-On the [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#find-the-gaps), **Visitors** counts unique IPs on your landing page and **Registered** counts unique sign-ups. A low **Visitors to Registered** rate points at the page itself: [the headline, the form, the promise](https://easywebinar.com/blog/improve-your-webinar-registration-page/).
+On the [**Analytics** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#find-the-gaps), **Visitors** counts unique IPs on your landing page and **Registered** counts unique sign-ups. A low **Visitors to Registered** rate points at the page itself: [the headline, the form, the promise](https://easywebinar.com/blog/improve-your-webinar-registration-page/).
 
 ### Cloning {#with-cloning}
 
-**Clone Webinar** can copy registration pages into a new webinar. To try a different registration page on a webinar that's already running, [clone it and change the copy](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration).
+**Clone Webinar** can copy registration pages into a new webinar. To try a different registration page on a webinar that's already running, [clone it and change the copy](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/#with-registration).
 
 ## Who uses the registration page builder, and how {#who-uses-it}
 
@@ -216,7 +216,7 @@ These are typical patterns, shown to illustrate how the builder fits different k
 
 ### Course creators {#course-creators}
 
-A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/#registration-page) starts from an **Education** template and saves their styled version to **My Templates**, so every launch looks consistent. They add a field asking for the student's current level and turn on UTM capture to see which posts drive signups.
+A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/#registration-page) starts from an **Education** template and saves their styled version to **My Templates**, so every launch looks consistent. They add a field asking for the student's current level and turn on UTM capture to see which posts drive signups.
 
 ### Agencies {#agencies}
 
@@ -302,7 +302,7 @@ Yes, with **Social Sharing (Open Graph)** in the page settings.
 
 #### Can AI write my registration page? {#faq-ai-pages}
 
-Yes. **Create with AI** writes the registration, thank-you and waiting-area pages from your script. [Landing pages use 10 credits](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits).
+Yes. **Create with AI** writes the registration, thank-you and waiting-area pages from your script. [Landing pages use 10 credits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#ai-credits).
 
 #### Will EasyWebinar translate my page? {#faq-translate}
 
@@ -314,10 +314,10 @@ Yes, with the **C-Name** add-on and a CNAME record at your DNS provider.
 
 ## Related {#related}
 
-- [Custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/): phone, your own questions, consent and UTM capture on the form block.
-- [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/): put the same form on your own site with the Registration Widget.
-- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/): the link that only works once this page is published.
-- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): the countdown block every new registration page starts with.
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): why the price block appears only when Paid is chosen at creation.
-- [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/ai/create-with-ai/): the full build that writes these pages from your script.
-- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where the **Registration Page** button opens the live page.
+- [Custom registration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/): phone, your own questions, consent and UTM capture on the form block.
+- [Registration embeds](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-embeds/): put the same form on your own site with the Registration Widget.
+- [Sharing links](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/): the link that only works once this page is published.
+- [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): the countdown block every new registration page starts with.
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): why the price block appears only when Paid is chosen at creation.
+- [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/): the full build that writes these pages from your script.
+- [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where the **Registration Page** button opens the live page.

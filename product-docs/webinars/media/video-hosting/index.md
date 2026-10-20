@@ -5,9 +5,9 @@ Host a webinar video on EasyWebinar with Local import, or play one from YouTube,
 - Applies to: Simulive and evergreen webinars · videos are added to your account's Library
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/video-hosting/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/
 
-[Simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) and [evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) play a recording, so before you can run one you need a video in your library. EasyWebinar gives you two ways to get it there. **Local import** uploads the file and EasyWebinar hosts it for you, so you don't need a separate video host. **Import from URL** plays a video that already lives on **YouTube**, **Vimeo**, **Wistia** or at a direct **MP4** link. The route you pick decides whether the video uses your storage and whether you need to tell EasyWebinar how long it runs.
+[Simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/) and [evergreen webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) play a recording, so before you can run one you need a video in your library. EasyWebinar gives you two ways to get it there. **Local import** uploads the file and EasyWebinar hosts it for you, so you don't need a separate video host. **Import from URL** plays a video that already lives on **YouTube**, **Vimeo**, **Wistia** or at a direct **MP4** link. The route you pick decides whether the video uses your storage and whether you need to tell EasyWebinar how long it runs.
 
 ## At a glance {#at-a-glance}
 
@@ -27,11 +27,11 @@ Both routes start from **Library → Add Media**, or from **Add Video** while yo
 
 Video hosting answers a practical question: where does the file your [automated webinar](https://easywebinar.com/automated-webinars/) plays actually live?
 
-With **Local import**, the answer is EasyWebinar. You upload the file, EasyWebinar stores and serves it in the same way a dedicated video host would, and nothing else is needed to play it in a webinar. The upload uses part of your [storage allowance](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#video-and-media), shown at the top of the Library.
+With **Local import**, the answer is EasyWebinar. You upload the file, EasyWebinar stores and serves it in the same way a dedicated video host would, and nothing else is needed to play it in a webinar. The upload uses part of your [storage allowance](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#video-and-media), shown at the top of the Library.
 
 With **Import from URL**, the answer is somewhere else. You give EasyWebinar the platform, a link and the video's length, and the webinar plays the video from that platform. Nothing is stored on EasyWebinar, so no storage is used, but the webinar now depends on the video staying where it is.
 
-Live webinars don't need either. You supply their content by presenting, and recordings of those live sessions land in your library automatically [when recording is on](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording).
+Live webinars don't need either. You supply their content by presenting, and recordings of those live sessions land in your library automatically [when recording is on](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#check-recording).
 
 ## Why video hosting matters {#why-it-matters}
 
@@ -77,7 +77,7 @@ One fact is easy to check. On the **Videos** tab of the Library, each card carri
 4. Drop your file onto the box, or click it to browse.
 5. Click **Upload**.
 
-![The Upload media dialog with Local import selected, a video title field and the file drop area](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/video-hosting/step-01-local-import.png)
+![The Upload media dialog with Local import selected, a video title field and the file drop area](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/video-hosting/step-01-local-import.png)
 
 | | Control | What it does |
 |---|---|---|
@@ -97,7 +97,7 @@ EasyWebinar hosts the file from then on. Upload **MP4** files up to **4 GB**, an
 5. Enter the **Video duration** in hours, minutes and seconds.
 6. Click **Upload**.
 
-![The Import from URL form with the Platform, Video title, Video URL and Video duration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/video-hosting/step-02-import-from-url.png)
+![The Import from URL form with the Platform, Video title, Video URL and Video duration fields](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/video-hosting/step-02-import-from-url.png)
 
 | | Field | What to enter |
 |---|---|---|
@@ -106,7 +106,7 @@ EasyWebinar hosts the file from then on. Upload **MP4** files up to **4 GB**, an
 | 3 | **Video URL** | The link to the video |
 | 4 | **Video duration** | The length, in hours, minutes and seconds |
 
-![The Platform list open, showing YouTube, Vimeo, Wistia and MP4 link](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/video-hosting/step-03-platforms.png)
+![The Platform list open, showing YouTube, Vimeo, Wistia and MP4 link](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/video-hosting/step-03-platforms.png)
 
 *The four places a video can come from: EasyWebinar itself, or YouTube, Vimeo, Wistia or a direct MP4 link.*
 
@@ -116,7 +116,7 @@ EasyWebinar hosts the file from then on. Upload **MP4** files up to **4 GB**, an
 
 ## Add a video while you set up a webinar {#add-during-setup}
 
-You don't have to visit the Library first. Simulive and evergreen webinars have a **Video Selection** step, [after pricing](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#pricing-recorded-webinars), where you choose the recording the sessions will play.
+You don't have to visit the Library first. Simulive and evergreen webinars have a **Video Selection** step, [after pricing](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/#pricing-recorded-webinars), where you choose the recording the sessions will play.
 
 | | Control | What it does |
 |---|---|---|
@@ -130,7 +130,7 @@ You don't have to visit the Library first. Simulive and evergreen webinars have 
 2. If it isn't there yet, click **Add Video** for both routes, **Local import** and **Import from URL**, or drop a file onto the page.
 3. Click **Continue to Registration Template**.
 
-See [choose a simulive recording](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video) and [choose an evergreen video](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#choose-video) for the rest of each setup.
+See [choose a simulive recording](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video) and [choose an evergreen video](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#choose-video) for the rest of each setup.
 
 ## Change a webinar's video later {#change-video}
 
@@ -158,7 +158,7 @@ Hosting on EasyWebinar is the simpler route for a webinar recording you don't wa
 
 ### The Library {#with-library}
 
-Every video you add, by either route, appears on the [Library's **Videos** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/#videos) with a badge in its corner: **EasyWebinar** for a hosted file, or the platform's logo for an imported link. Recordings of live sessions appear on the **Recordings** tab.
+Every video you add, by either route, appears on the [Library's **Videos** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#videos) with a badge in its corner: **EasyWebinar** for a hosted file, or the platform's logo for an imported link. Recordings of live sessions appear on the **Recordings** tab.
 
 ### Simulive and evergreen webinars {#with-recorded-webinars}
 
@@ -166,11 +166,11 @@ Both types play a video from your library. [Simulive plays it at times you set](
 
 ### Live recordings and cloning {#with-cloning}
 
-A live session recorded with **Auto Recording** on lands in [**Library → Recordings**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/library/#recordings), already hosted on EasyWebinar. To run it as an automated webinar, clone the live webinar, choose **Evergreen** or **Simulive** for the copy, and pick the recording. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/) and [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/).
+A live session recorded with **Auto Recording** on lands in [**Library → Recordings**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#recordings), already hosted on EasyWebinar. To run it as an automated webinar, clone the live webinar, choose **Evergreen** or **Simulive** for the copy, and pick the recording. See [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/) and [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/).
 
 ### Storage and your plan {#with-plan}
 
-Hosted videos and recordings count towards your storage, metered on the **Plan** tab under **Settings** → **Manage Plan**, with **Buy More**. **Additional Storage (5GB)** is [available as an add-on](https://easywebinar.com/pricing/). See [storage and upload limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/reference/limits-and-defaults/).
+Hosted videos and recordings count towards your storage, metered on the **Plan** tab under **Settings** → **Manage Plan**, with **Buy More**. **Additional Storage (5GB)** is [available as an add-on](https://easywebinar.com/pricing/). See [storage and upload limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/).
 
 ## Who uses it, and how {#who-uses-it}
 
@@ -182,7 +182,7 @@ A product team [records a demo for an evergreen webinar](https://easywebinar.com
 
 ### Course creators {#course-creators}
 
-A creator already has a teaching video on YouTube. They import it with **Import from URL**, enter its exact duration, and use no storage. Later they replace it with a recording of a live session through the **Webinar Video** panel. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator already has a teaching video on YouTube. They import it with **Import from URL**, enter its exact duration, and use no storage. Later they replace it with a recording of a live session through the **Webinar Video** panel. See [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Agencies {#agencies}
 
@@ -272,7 +272,7 @@ It's still a YouTube video, discoverable unless you've unlisted it. Host it on E
 
 ## Related {#related}
 
-- [Webinars overview](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/#webinar-types): which of the three webinar types play a video and which don't.
-- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): turn a hosted live recording into a simulive or evergreen webinar.
-- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): the pricing step that comes just before Video Selection.
-- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): where a live session's recording is watched after the event.
+- [Webinars overview](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types): which of the three webinar types play a video and which don't.
+- [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): turn a hosted live recording into a simulive or evergreen webinar.
+- [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): the pricing step that comes just before Video Selection.
+- [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/): where a live session's recording is watched after the event.

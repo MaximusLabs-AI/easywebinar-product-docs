@@ -5,7 +5,7 @@ Run a question queue in your webinar separately from chat, choose whether questi
 - Applies to: Live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
-- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/
+- Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/
 
 Q&A in EasyWebinar is a question queue that runs separately from chat. Attendees submit questions, and you and your moderators work through them in the room's **Question** panel, which splits them into **Active** and **Answered**. You decide on the webinar's **Engagement** tab whether questions are visible to everyone, visible only to hosts and moderators, or switched off. After the session, Analytics shows how many questions were asked and how many you answered.
 
@@ -76,7 +76,7 @@ The Q&A screenshot under Set up Q&A shows the three options side by side: **Publ
 3. Choose one of the three options.
 4. Save your changes.
 
-![The Q&A section of the Engagement tab with Public Q&A selected and Private Q&A and Disable alongside](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/images/engagement/step-02-qna.png)
+![The Q&A section of the Engagement tab with Public Q&A selected and Private Q&A and Disable alongside](https://maximuslabs-ai.github.io/easywebinar-product-docs/images/engagement/step-02-qna.png)
 
 | Option | What happens |
 |---|---|
@@ -108,7 +108,7 @@ Q&A and chat are set side by side on the Engagement tab, and they work best chos
 
 ## Answer questions in the live room {#answer-in-the-room}
 
-When you [enter the room](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room), the side rail holds a **Question** panel. It is the Q&A queue, split into two lists:
+When you [enter the room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/#enter-room), the side rail holds a **Question** panel. It is the Q&A queue, split into two lists:
 
 | List | What it holds |
 |---|---|
@@ -123,17 +123,17 @@ A few habits that keep the queue under control:
 - **Group similar questions** and answer them together on air.
 - **Leave time at the end** to clear what's left in Active before you close.
 
-Ending the session disconnects everyone and nobody can rejoin, so finish the questions you want to answer before you click [**End Session**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#end-the-session).
+Ending the session disconnects everyone and nobody can rejoin, so finish the questions you want to answer before you click [**End Session**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#end-the-session).
 
 ### Bring in a moderator {#moderators}
 
-On a large webinar, a moderator can work the queue while the presenter keeps presenting. Send them the [**Moderator Join Link for Live room**](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#moderator-join-link) from the webinar's **Share** dialog; it is the link for someone handling chat and questions. Keep it private, because anyone holding it can join in that role.
+On a large webinar, a moderator can work the queue while the presenter keeps presenting. Send them the [**Moderator Join Link for Live room**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#moderator-join-link) from the webinar's **Share** dialog; it is the link for someone handling chat and questions. Keep it private, because anyone holding it can join in that role.
 
 ## Q&A on recorded webinars {#recorded-webinars}
 
-On a [**simulive** webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#with-chat), chat and Q&A work normally. Everyone in a session sees the same moment of the video, and you and your moderators answer in real time while the recording plays.
+On a [**simulive** webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#with-chat), chat and Q&A work normally. Everyone in a session sees the same moment of the video, and you and your moderators answer in real time while the recording plays.
 
-On an [**evergreen** webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-chat-options), Q&A is set up the same way on the Engagement tab. There is also a separate built-in contact form, the **EW Contact Box**, which sends submitted questions to an email address you choose. On a recorded webinar, attendees find it under **Contact** in the room, on its **Question** tab. It is a different thing from the Q&A queue: questions arrive by email rather than in the room's **Question** panel.
+On an [**evergreen** webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-chat-options), Q&A is set up the same way on the Engagement tab. There is also a separate built-in contact form, the **EW Contact Box**, which sends submitted questions to an email address you choose. On a recorded webinar, attendees find it under **Contact** in the room, on its **Question** tab. It is a different thing from the Q&A queue: questions arrive by email rather than in the room's **Question** panel.
 
 | | Q&A queue | Contact box |
 |---|---|---|
@@ -145,15 +145,15 @@ On an [**evergreen** webinar](https://maximuslabs-ai.github.io/easywebinar-produ
 
 ### Live chat {#with-chat}
 
-Chat and Q&A are separate controls on the same tab. Chat's [**Who can see messages** setting](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#who-can-see-messages) and the Q&A option are chosen separately, so you can run a public chat with private questions.
+Chat and Q&A are separate controls on the same tab. Chat's [**Who can see messages** setting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#who-can-see-messages) and the Q&A option are chosen separately, so you can run a public chat with private questions.
 
 ### AI Moderation (Beta) {#with-ai-moderation}
 
-The [AI Moderator](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-ai-moderator), in Beta, has a **Q&A Moderation** screen. With **Suggest Answer** it drafts an answer for you to approve before attendees see it; with **Answer directly** it answers without host approval. It doesn't replace a human moderator on a live webinar.
+The [AI Moderator](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-ai-moderator), in Beta, has a **Q&A Moderation** screen. With **Suggest Answer** it drafts an answer for you to approve before attendees see it; with **Answer directly** it answers without host approval. It doesn't replace a human moderator on a live webinar.
 
 ### Analytics {#with-analytics}
 
-The webinar's **Analytics** Overview includes a [**Questions & Answers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers) showing how many questions were asked and how many you answered. The **Not Answered Rate** is a useful check after a busy session: it tells you how many questions you left behind.
+The webinar's **Analytics** Overview includes a [**Questions & Answers** panel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#engagement-and-offers) showing how many questions were asked and how many you answered. The **Not Answered Rate** is a useful check after a busy session: it tells you how many questions you left behind.
 
 ### Follow-up {#with-follow-up}
 
@@ -169,7 +169,7 @@ A [live product demo](https://easywebinar.com/use-cases/product-demos/) runs **P
 
 ### Course creators {#course-creators}
 
-A [creator teaching a free workshop](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/use-cases/sell-courses/) uses **Public Q&A**. Attendees see that someone has already asked about prerequisites, and the creator answers the most common questions in a block before the [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room).
+A [creator teaching a free workshop](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/) uses **Public Q&A**. Attendees see that someone has already asked about prerequisites, and the creator answers the most common questions in a block before the [enrolment offer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/#show-in-room).
 
 ### Customer success teams {#customer-success}
 
@@ -238,7 +238,7 @@ In the **Question** panel on the room's side rail, split into **Active** and **A
 
 #### Can someone else answer questions while I present? {#faq-moderator}
 
-Yes. Send them the **Moderator Join Link for Live room** from the [**Share** dialog](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#open-share-dialog).
+Yes. Send them the **Moderator Join Link for Live room** from the [**Share** dialog](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/#open-share-dialog).
 
 #### Can I change the Q&A setting once the webinar has started? {#faq-change-live}
 
@@ -258,9 +258,9 @@ The AI Moderator is in Beta. In **Suggest Answer** mode it drafts answers for yo
 
 ## Related {#related}
 
-- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the chat setting you choose next to Q&A on the **Engagement** tab.
-- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/polls/): ask the room a question of your own instead of waiting for theirs.
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): the busy automated room that pairs with **Private Q&A**.
-- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): the **Question** panel alongside the rest of the room.
-- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): questions asked, answered and the **Not Answered Rate**.
-- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): answer questions live while a recording plays.
+- [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the chat setting you choose next to Q&A on the **Engagement** tab.
+- [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/): ask the room a question of your own instead of waiting for theirs.
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): the busy automated room that pairs with **Private Q&A**.
+- [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): the **Question** panel alongside the rest of the room.
+- [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): questions asked, answered and the **Not Answered Rate**.
+- [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): answer questions live while a recording plays.
