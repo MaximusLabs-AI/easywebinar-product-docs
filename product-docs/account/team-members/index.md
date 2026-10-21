@@ -182,19 +182,19 @@ Team and client access, from each platform's public documentation:
 | Platform | Own login for each team member | Guests join by link, no account | Separate account for each client |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes | Yes (Guest Event Admins) | Not in docs |
-| **Livestorm** | Yes | Yes (external speakers) | Partly (multiple workspaces mentioned) |
-| **WebinarJam and EverWebinar** | Yes | Yes (unique access link) | Not in docs |
-| **Kajabi** | Yes | Not in docs | Not in docs |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/3527405-manage-team-members)) | Yes ([Guest Event Admins](https://help.demio.com/en/articles/3528394-managing-admins)) | Not in docs |
+| **Livestorm** | Yes ([detail](https://support.livestorm.co/article/313-manage-team-members-monthly-active-contacts)) | Yes ([external speakers](https://support.livestorm.co/article/115-login-connections-overview)) | Partly ([multiple workspaces mentioned](https://support.livestorm.co/article/connect-livestorm-hubspot)) |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15370058-manage-team-members)) | Yes ([unique access link](https://support.webinarjam.com/en/articles/15369981-presenter-and-moderator-roles)) | Not in docs |
+| **Kajabi** | Yes ([detail](https://help.kajabi.com/en/articles/17299999-add-and-manage-account-users)) | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for team members {#compare-stronger}
 
-- **A separate account for each client.** EasyWebinar's client workspaces give each client their own account that you manage, on its own plan. Demio's team article describes inviting Team Members to your one Demio account. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Client work set up for agencies.** Each EasyWebinar workspace keeps a client's webinars, registrants and settings apart. Livestorm's help centre mentions multiple workspaces only in its HubSpot connection article. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Logins ready as you add them.** EasyWebinar's **Add user** sets the password when you create the member. WebinarJam's team article says the user must accept an invitation and create a password first. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **Guests without a login.** EasyWebinar's Co-presenter and Moderator join links bring a speaker into one webinar with no account. Kajabi's account users article covers people who help run the account, each with their own login. See [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
+- **A separate account for each client.** EasyWebinar's client workspaces give each client their own account that you manage, on its own plan. [Demio's team article describes inviting Team Members to your one Demio account](https://help.demio.com/en/articles/3527405-manage-team-members). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Client work set up for agencies.** Each EasyWebinar workspace keeps a client's webinars, registrants and settings apart. [Livestorm's help centre mentions multiple workspaces only in its HubSpot connection article](https://support.livestorm.co/article/connect-livestorm-hubspot). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Logins ready as you add them.** EasyWebinar's **Add user** sets the password when you create the member. [WebinarJam's team article says the user must accept an invitation and create a password first](https://support.webinarjam.com/en/articles/15370058-manage-team-members). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Guests without a login.** EasyWebinar's Co-presenter and Moderator join links bring a speaker into one webinar with no account. [Kajabi's account users article covers people who help run the account, each with their own login](https://help.kajabi.com/en/articles/17299999-add-and-manage-account-users). See [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

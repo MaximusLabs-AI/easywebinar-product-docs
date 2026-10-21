@@ -164,21 +164,21 @@ Registration embed features, from each platform's public documentation:
 | Platform | Registration form you embed on your site | Change the widget's look in the app | One-click registration link | Widget copied when you clone the webinar |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **Demio** | Yes | Partly (Styled or Unstyled versions) | Partly (through CRM integrations) | Not in docs |
-| **WebinarJam** | Yes (four embed formats) | Partly (style parameters in the code) | Partly (generated through the API) | Not in docs |
-| **eWebinar** | Yes | Yes | Yes (into on-demand sessions) | Not in docs |
-| **Livestorm** | Yes (form or whole page) | Partly (inherits the page's branding) | Not in docs | Not in docs |
-| **StealthSeminar** | Yes | Partly (your own CSS) | Not in docs | Partly (contact support before duplicating) |
-| **WebinarKit** | Yes | Yes (drag and drop embed builder) | Yes | Not in docs |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/2303545-embed-your-registration-form)) | Partly ([Styled or Unstyled versions](https://help.demio.com/en/articles/2303545-embed-your-registration-form)) | Partly ([through CRM integrations](https://help.demio.com/en/articles/6461410-integrate-with-salesforce)) | Not in docs |
+| **WebinarJam** | Yes (four embed formats) | Partly ([style parameters in the code](https://support.webinarjam.com/en/articles/15370016-embed-your-webinar-registration-externally)) | Partly ([generated through the API](https://support.webinarjam.com/en/articles/15370149-retrieve-a-full-list-of-all-webinars-published-in-your-account-webinarjam-api)) | Not in docs |
+| **eWebinar** | Yes ([detail](https://ewebinar.com/help/share-and-widgets)) | Yes ([detail](https://ewebinar.com/help/how-do-i-use-ewebinar-widgets-on-my-framer-site)) | Yes ([into on-demand sessions](https://ewebinar.com/help/getting-into-the-webinar)) | Not in docs |
+| **Livestorm** | Yes (form or whole page) | Partly ([inherits the page's branding](https://support.livestorm.co/article/embed-on-your-site)) | Not in docs | Not in docs |
+| **StealthSeminar** | Yes ([detail](https://help.stealthseminarapp.com/article/300-webinar-registration-embed-code)) | Partly ([your own CSS](https://help.stealthseminarapp.com/article/298-external-css)) | Not in docs | Partly ([contact support before duplicating](https://help.stealthseminarapp.com/article/182-how-do-i-duplicate-my-event)) |
+| **WebinarKit** | Yes ([detail](https://getwebinarkit.com/)) | Yes ([drag and drop embed builder](https://help.webinarkit.com/help/how-to-embed-webinarkit-event-lead-registration-form-on-external-landing-pages)) | Yes ([detail](https://help.webinarkit.com/help/how-to-use-one-click-registration-links-for-your-events)) | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for registration embeds {#compare-stronger}
 
-- **You style the widget, not the code.** EasyWebinar's **View & Customize** changes the widget's look before you copy it. WebinarJam puts style parameters inside the embed code itself. See [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **No CSS needed.** StealthSeminar styles its embedded widgets through CSS selectors you write. Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **The one-click link sits beside the widget.** EasyWebinar's **Share** dialog holds both, while Demio describes one-click links as part of its CRM integrations. More in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **The widget has its own look.** Livestorm's form embed inherits the page's branding, while EasyWebinar's widget is customised on its own. Read [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **You style the widget, not the code.** EasyWebinar's **View & Customize** changes the widget's look before you copy it. [WebinarJam puts style parameters inside the embed code itself](https://support.webinarjam.com/en/articles/15370016-embed-your-webinar-registration-externally). See [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No CSS needed.** [StealthSeminar styles its embedded widgets through CSS selectors you write](https://help.stealthseminarapp.com/article/298-external-css). Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **The one-click link sits beside the widget.** EasyWebinar's **Share** dialog holds both, while [Demio describes one-click links as part of its CRM integrations](https://help.demio.com/en/articles/6461410-integrate-with-salesforce). More in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **The widget has its own look.** [Livestorm's form embed inherits the page's branding](https://support.livestorm.co/article/embed-on-your-site), while EasyWebinar's widget is customised on its own. Read [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

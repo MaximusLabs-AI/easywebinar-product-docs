@@ -207,19 +207,19 @@ Replay features, from each platform's public documentation:
 | Platform | Replay closes after set days or on a date | Replay repeats the live offers and polls | Replay page designed separately | Replay viewers counted apart from live |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **Demio** | Not in docs | Partly (one call to action) | Yes (Replay Page Editor) | Yes (unique and total views) |
-| **WebinarJam and EverWebinar** | Partly (hours after the session) | Yes (Replica replay) | Partly (custom video or redirect) | Yes |
-| **eWebinar** | Partly (days after the session) | Yes (video with its interactions) | Not in docs | Partly (replay as a session type) |
-| **Livestorm** | Not in docs | Not in docs | Not in docs | Yes (number of replay viewers) |
+| **Demio** | Not in docs | Partly ([one call to action](https://help.demio.com/en/articles/3527760-recording-page-editor)) | Yes (Replay Page Editor) | Yes ([unique and total views](https://help.demio.com/en/articles/7985569-insights-overview)) |
+| **WebinarJam and EverWebinar** | Partly ([hours after the session](https://support.webinarjam.com/en/articles/15370002-enable-and-configure-webinar-replays)) | Yes (Replica replay) | Partly (custom video or redirect) | Yes ([detail](https://support.webinarjam.com/support/solutions/articles/153000168588-view-webinar-analytics)) |
+| **eWebinar** | Partly ([days after the session](https://ewebinar.com/help/settings-feature-guide)) | Yes ([video with its interactions](https://ewebinar.com/help/guide-to-using-replays-in-ewebinar)) | Not in docs | Partly ([replay as a session type](https://ewebinar.com/help/ewebinar-analytics)) |
+| **Livestorm** | Not in docs | Not in docs | Not in docs | Yes ([number of replay viewers](https://support.livestorm.co/article/129-data-analytics)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for replay pages {#compare-stronger}
 
-- **A deadline in days or on a date.** EasyWebinar offers **Expire after days** and **Specific date**. WebinarJam's help centre sets replay access as a number of hours after the live session. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **The whole offer, not one button.** **Webinar Replica** repeats the live video, offers, polls and chat replay. Demio's replay page carries a single Call-to-Action window. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **A replay page with its own pitch.** **Custom Build** gives the replay its own layout, CTAs and branding. eWebinar's help centre doesn't describe designing a separate replay page. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **A closing point you control.** EasyWebinar's **Availability** setting closes the replay when you choose. Livestorm's help centre doesn't document a replay expiry setting. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **A deadline in days or on a date.** EasyWebinar offers **Expire after days** and **Specific date**. [WebinarJam's help centre sets replay access as a number of hours after the live session](https://support.webinarjam.com/en/articles/15370002-enable-and-configure-webinar-replays). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **The whole offer, not one button.** **Webinar Replica** repeats the live video, offers, polls and chat replay. [Demio's replay page carries a single Call-to-Action window](https://help.demio.com/en/articles/3527760-recording-page-editor). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **A replay page with its own pitch.** **Custom Build** gives the replay its own layout, CTAs and branding. [eWebinar's help centre doesn't describe designing a separate replay page](https://ewebinar.com/help/guide-to-using-replays-in-ewebinar). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **A closing point you control.** EasyWebinar's **Availability** setting closes the replay when you choose. [Livestorm's help centre doesn't document a replay expiry setting](https://support.livestorm.co/article/129-data-analytics). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

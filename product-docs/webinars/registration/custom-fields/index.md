@@ -198,20 +198,20 @@ Registration form features, from each platform's public documentation:
 | Platform | Your own questions on the form | Consent checkbox on the form | Campaign (UTM) capture per registrant | SMS reminders to the form's phone number (Beta) |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **Demio** | Yes | Partly (account setting adds a default) | Yes | Partly (through a Zapier workaround) |
-| **WebinarJam** | Yes | Yes (terms agreement checkbox) | Yes | Partly (needs your own Twilio account) |
-| **eWebinar** | Yes | Yes | Partly (captured through widgets) | Partly (through a Twilio integration) |
-| **Livestorm** | Yes | Yes (custom consents) | Yes | Not in docs |
-| **StealthSeminar** | Yes | Partly (one setting for all forms) | Yes | Yes |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/3527853-edit-the-registration-form)) | Partly ([account setting adds a default](https://help.demio.com/en/articles/2449217-gdpr-settings)) | Yes ([detail](https://help.demio.com/en/articles/5455398-source-tracking-for-registrations)) | Partly ([through a Zapier workaround](https://help.demio.com/en/articles/3469843-how-to-send-sms-notifications)) |
+| **WebinarJam** | Yes ([detail](https://support.webinarjam.com/en/articles/15369985-create-and-manage-custom-registration-fields)) | Yes ([terms agreement checkbox](https://support.webinarjam.com/en/articles/15370053-manage-gdpr-and-data-privacy-settings)) | Yes ([detail](https://support.webinarjam.com/en/articles/15370049-track-webinar-registrations-using-utm-parameters)) | Partly ([needs your own Twilio account](https://support.webinarjam.com/en/articles/15370081-connect-and-use-twilio-for-sms-and-call-reminders)) |
+| **eWebinar** | Yes ([detail](https://ewebinar.com/help/map-properties-to-crm)) | Yes ([detail](https://ewebinar.com/help/share-and-widgets)) | Partly ([captured through widgets](https://ewebinar.com/help/how-do-i-set-up-a-basic-sales-funnel-for-my-ewebinar)) | Partly ([through a Twilio integration](https://ewebinar.com/help/how-to-use-ewebinars-twilio-integration-to-send-messages-over-whatsapp)) |
+| **Livestorm** | Yes ([detail](https://support.livestorm.co/article/13-customize-registration-form)) | Yes ([custom consents](https://support.livestorm.co/article/102-add-custom-consents)) | Yes ([detail](https://support.livestorm.co/article/acquisition-sources)) | Not in docs |
+| **StealthSeminar** | Yes ([detail](https://help.stealthseminarapp.com/article/222-how-do-i-add-custom-field-to-my-registration-page)) | Partly ([one setting for all forms](https://help.stealthseminarapp.com/article/305-gdpr-support)) | Yes ([detail](https://help.stealthseminarapp.com/article/245-use-utm-parameters-in-your-registration-page-urls)) | Yes ([detail](https://stealthseminar.com/pricing/)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for custom fields {#compare-stronger}
 
-- **Consent is set on the form you're editing.** EasyWebinar's **GDPR Compliance** switch sits on the form block, with your own wording. Demio adds a default GDPR checkbox through an account setting. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Consent can differ from one webinar to the next.** StealthSeminar's GDPR option shows one consent checkbox on all its registration forms. Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **Campaign capture is a switch on the hosted form.** EasyWebinar's **UTM Params** records the campaign behind each registration, while eWebinar describes UTM capture as a job for its widgets. More in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **Text reminders need no SMS account of your own.** EasyWebinar's SMS reminders (Beta) come from an EasyWebinar number, while WebinarJam asks you to connect your own Twilio account. Read [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Consent is set on the form you're editing.** EasyWebinar's **GDPR Compliance** switch sits on the form block, with your own wording. [Demio adds a default GDPR checkbox through an account setting](https://help.demio.com/en/articles/2449217-gdpr-settings). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Consent can differ from one webinar to the next.** [StealthSeminar's GDPR option shows one consent checkbox on all its registration forms](https://help.stealthseminarapp.com/article/305-gdpr-support). Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Campaign capture is a switch on the hosted form.** EasyWebinar's **UTM Params** records the campaign behind each registration, while [eWebinar describes UTM capture as a job for its widgets](https://ewebinar.com/help/how-do-i-set-up-a-basic-sales-funnel-for-my-ewebinar). More in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Text reminders need no SMS account of your own.** EasyWebinar's SMS reminders (Beta) come from an EasyWebinar number, while [WebinarJam asks you to connect your own Twilio account](https://support.webinarjam.com/en/articles/15370081-connect-and-use-twilio-for-sms-and-call-reminders). Read [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

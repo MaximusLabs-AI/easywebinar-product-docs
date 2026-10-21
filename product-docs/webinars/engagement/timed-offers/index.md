@@ -265,19 +265,19 @@ Offer features, from each platform's public documentation:
 | Platform | Countdown on the offer card | Views, clicks and purchases per offer | Same offers on live and automated webinars |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **WebinarJam and EverWebinar** | Yes (Apply urgency) | Partly (purchases via tracking codes) | Partly (two separate products) |
-| **Demio** | Not in docs | Partly (click counts only) | Yes |
-| **eWebinar** | Partly (shown in one example) | Partly (one conversion event per webinar) | Partly (recorded webinars only) |
-| **Kajabi** | Not in docs | Not in docs | Partly (webinar runs on another host) |
+| **WebinarJam and EverWebinar** | Yes ([Apply urgency](https://support.webinarjam.com/en/articles/15370007-add-product-offers-to-your-webinar)) | Partly ([purchases via tracking codes](https://support.webinarjam.com/en/articles/15369999-track-sales-from-your-webinar)) | Partly ([two separate products](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar)) |
+| **Demio** | Not in docs | Partly ([click counts only](https://help.demio.com/en/articles/3442463-resources-featured-action-call-to-action)) | Yes ([detail](https://help.demio.com/en/articles/2397335-managing-resources)) |
+| **eWebinar** | Partly (shown in one example) | Partly ([one conversion event per webinar](https://ewebinar.com/help/interactions-feature-guide)) | Partly ([recorded webinars only](https://ewebinar.com/ai-info)) |
+| **Kajabi** | Not in docs | Not in docs | Partly ([webinar runs on another host](https://help.kajabi.com/en/articles/17175213-funnel-templates)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for offers {#compare-stronger}
 
-- **A deadline on the card itself.** EasyWebinar's **Countdown timer** is one toggle on each offer. Demio's help centre documents no countdown setting for its Featured Action call to action. More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Clicks and purchases in one report.** **Offers Performance** lists views, clicks and purchases for each offer. WebinarJam records sales through two tracking codes that you place on your own pages. More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **Every offer measured.** EasyWebinar reports each offer separately under **Revenue by Offer**. eWebinar's help centre says only one conversion event can be tracked per eWebinar. More detail in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **The offer inside the webinar room.** EasyWebinar pushes the card to attendees from the room's **Offers** panel. Kajabi's webinar funnel can run on any webinar host, such as Zoom, linked into the funnel. More detail in [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
+- **A deadline on the card itself.** EasyWebinar's **Countdown timer** is one toggle on each offer. [Demio's help centre documents no countdown setting for its Featured Action call to action](https://help.demio.com/en/articles/3442463-resources-featured-action-call-to-action). More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Clicks and purchases in one report.** **Offers Performance** lists views, clicks and purchases for each offer. [WebinarJam records sales through two tracking codes that you place on your own pages](https://support.webinarjam.com/en/articles/15369999-track-sales-from-your-webinar). More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Every offer measured.** EasyWebinar reports each offer separately under **Revenue by Offer**. [eWebinar's help centre says only one conversion event can be tracked per eWebinar](https://ewebinar.com/help/interactions-feature-guide). More detail in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The offer inside the webinar room.** EasyWebinar pushes the card to attendees from the room's **Offers** panel. [Kajabi's webinar funnel can run on any webinar host, such as Zoom](https://help.kajabi.com/en/articles/17175213-funnel-templates), linked into the funnel. More detail in [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

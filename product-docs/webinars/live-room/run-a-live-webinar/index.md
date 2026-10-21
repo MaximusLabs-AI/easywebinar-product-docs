@@ -240,18 +240,18 @@ Live room features, from each platform's public documentation:
 | Platform | Private room before going live | Co-hosts wait backstage | Stream out to YouTube and LinkedIn |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes (room opens 24 hours before) | Not in docs | Yes |
-| **WebinarJam** | Yes (off air up to 60 minutes) | Not in docs | Partly (YouTube and Facebook only) |
-| **Livestorm** | Yes (green room) | Not in docs | Yes |
-| **Zoom** | Yes (practice session) | Yes | Partly (Facebook, YouTube, Twitch, custom) |
+| **Demio** | Yes ([room opens 24 hours before](https://help.demio.com/en/articles/3453507-event-room)) | Not in docs | Yes ([detail](https://help.demio.com/en/articles/15300057-restreaming-platforms)) |
+| **WebinarJam** | Yes ([off air up to 60 minutes](https://support.webinarjam.com/en/articles/15370029-video-guide-navigate-the-webinarjam-live-room)) | Not in docs | Partly ([YouTube and Facebook only](https://support.webinarjam.com/en/articles/15369978-choose-a-streaming-service-for-your-webinar)) |
+| **Livestorm** | Yes ([green room](https://support.livestorm.co/article/315-share-link-event-room)) | Not in docs | Yes ([detail](https://support.livestorm.co/article/306-restreaming-event-platforms)) |
+| **Zoom** | Yes ([practice session](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059405)) | Yes ([detail](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0057903)) | Partly ([Facebook, YouTube, Twitch, custom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059831)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for the live room {#compare-stronger}
 
-- **Co-hosts arrive out of sight.** In EasyWebinar, co-hosts and moderators land backstage and stay unseen until you move them on stage. Demio describes presenters choosing **Go On Stage** to appear immediately, and Livestorm's public docs describe no backstage. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **LinkedIn company pages built in.** EasyCast lists **LinkedIn** and **LinkedIn Organisation** next to **YouTube** and **Custom RTMP**. Zoom's livestreaming setting names Facebook, YouTube, Twitch and a custom service. See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
-- **Destinations connected once.** An EasyCast destination is connected once for the account and switched on in the room. WebinarJam has you choose the streaming service for each webinar in its configuration wizard, from YouTube Live and Facebook Live. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Co-hosts arrive out of sight.** In EasyWebinar, co-hosts and moderators land backstage and stay unseen until you move them on stage. [Demio describes presenters choosing **Go On Stage** to appear immediately](https://help.demio.com/en/articles/3453507-event-room), and [Livestorm's public docs describe no backstage](https://support.livestorm.co/article/315-share-link-event-room). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **LinkedIn company pages built in.** EasyCast lists **LinkedIn** and **LinkedIn Organisation** next to **YouTube** and **Custom RTMP**. [Zoom's livestreaming setting names Facebook, YouTube, Twitch and a custom service](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059831). See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
+- **Destinations connected once.** An EasyCast destination is connected once for the account and switched on in the room. [WebinarJam has you choose the streaming service for each webinar in its configuration wizard](https://support.webinarjam.com/en/articles/15369978-choose-a-streaming-service-for-your-webinar), from YouTube Live and Facebook Live. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

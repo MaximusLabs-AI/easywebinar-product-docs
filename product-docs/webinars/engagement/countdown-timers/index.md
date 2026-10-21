@@ -194,19 +194,19 @@ Countdown features, from each platform's public documentation:
 | Platform | Countdown on the offer | Countdown on the registration page itself | Offer countdown on live and automated webinars |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **WebinarJam and EverWebinar** | Yes | Separate holding page | Partly (two separate products) |
-| **Demio** | Not in docs | Yes | Not in docs |
-| **eWebinar** | Partly (one documented example) | Partly (widget on your own page) | Partly (recorded webinars only) |
-| **Livestorm** | Not in docs | Separate waiting page | Not in docs |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15370007-add-product-offers-to-your-webinar)) | [Separate holding page](https://support.webinarjam.com/en/articles/15369983-customize-pages) | Partly ([two separate products](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar)) |
+| **Demio** | Not in docs | Yes ([detail](https://help.demio.com/en/articles/2303544-customize-the-registration-page)) | Not in docs |
+| **eWebinar** | Partly ([one documented example](https://ewebinar.com/help/interactions-feature-guide)) | Partly ([widget on your own page](https://ewebinar.com/help/what-are-widgets-and-how-do-i-install-them)) | Partly ([recorded webinars only](https://ewebinar.com/ai-info)) |
+| **Livestorm** | Not in docs | [Separate waiting page](https://support.livestorm.co/article/122-attendee-user-guide) | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for countdown timers {#compare-stronger}
 
-- **A documented offer countdown.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio documents its Featured Actions, and Livestorm its in-room link promotion, without a countdown setting. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **The countdown is on the registration page.** EasyWebinar's countdown is a block on the page people sign up on. WebinarJam's help docs describe its countdown on a separate holding page for people who open the live link early. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **No widget to install elsewhere.** eWebinar's countdown to the start comes from widgets you place on your own landing page. EasyWebinar's is a block in its own page builder. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **One product for live and automated offers.** An EasyWebinar offer, countdown included, runs on every webinar type you create. WebinarJam handles live sessions and EverWebinar the automated ones, as two separate products. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
+- **A documented offer countdown.** EasyWebinar's offer editor has a **Countdown timer** switch. [Demio documents its Featured Actions](https://help.demio.com/en/articles/3442463-resources-featured-action-call-to-action), and [Livestorm its in-room link promotion](https://support.livestorm.co/article/120-send-a-cta), without a countdown setting. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **The countdown is on the registration page.** EasyWebinar's countdown is a block on the page people sign up on. [WebinarJam's help docs describe its countdown on a separate holding page for people who open the live link early](https://support.webinarjam.com/en/articles/15369983-customize-pages). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No widget to install elsewhere.** [eWebinar's countdown to the start comes from widgets you place on your own landing page](https://ewebinar.com/help/what-are-widgets-and-how-do-i-install-them). EasyWebinar's is a block in its own page builder. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **One product for live and automated offers.** An EasyWebinar offer, countdown included, runs on every webinar type you create. [WebinarJam handles live sessions and EverWebinar the automated ones, as two separate products](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar). See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

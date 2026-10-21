@@ -262,19 +262,19 @@ Live webinar set-up, from each platform's public documentation:
 | Platform | Live and recorded webinars in one product | Weekly recurring live sessions | Paid registration with built-in checkout |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes | Yes | Via Zapier |
-| **Livestorm** | Yes | Partly (one session per click) | Via another app |
-| **WebinarJam** | Separate product (EverWebinar) | Yes | Third-party checkout |
-| **WebinarKit** | Partly (depends on plan) | Yes | Yes (through Whop) |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) | Yes ([detail](https://help.demio.com/en/articles/3829686-scheduling-an-event)) | [Via Zapier](https://help.demio.com/en/articles/1161209-can-i-run-a-paid-event) |
+| **Livestorm** | Yes ([detail](https://support.livestorm.co/article/104-create-on-demand-events)) | Partly ([one session per click](https://support.livestorm.co/article/adding-and-managing-multiple-sessions-in-a-livestorm-event)) | [Via another app](https://support.livestorm.co/article/45-host-private-and-or-paid-events) |
+| **WebinarJam** | [Separate product (EverWebinar)](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar) | Yes ([detail](https://support.webinarjam.com/en/articles/15369982-schedule-your-webinar-in-webinarjam)) | [Third-party checkout](https://support.webinarjam.com/en/articles/15370022-set-up-paid-registration-for-your-webinar) |
+| **WebinarKit** | Partly ([depends on plan](https://help.webinarkit.com/help/how-to-build-an-autowebinar-funnel-with-webinarkit)) | Yes ([detail](https://help.webinarkit.com/help/how-to-choose-the-right-scheduling-options-for-your-webinar-instant-watch-just-in-time-ongoing-and-specific-times)) | Yes ([through Whop](https://help.webinarkit.com/help/collecting-payments-for-paid-webinars-and-other-products)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for live webinar scheduling {#compare-stronger}
 
-- **Charging is part of the builder.** Choosing **Paid** in EasyWebinar sends registrants to a Stripe checkout. Demio's help centre says it has no native paid webinar feature and points to Zapier. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **A whole term in one schedule.** EasyWebinar's **Weekly** option sets days, an end date and blackout days at once. In Livestorm, each **Add session** click adds one session a week later. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Live and recorded in one account.** EasyWebinar offers **Live Webinar**, **Simulive Webinar** and **Evergreen Webinar** in the same dialog. WebinarJam runs recorded webinars in its sister product, EverWebinar. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **No plan gate on the type.** Every EasyWebinar plan includes this builder. WebinarKit's help centre says live and automated creation depend on your plan. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Charging is part of the builder.** Choosing **Paid** in EasyWebinar sends registrants to a Stripe checkout. [Demio's help centre says it has no native paid webinar feature and points to Zapier](https://help.demio.com/en/articles/1161209-can-i-run-a-paid-event). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **A whole term in one schedule.** EasyWebinar's **Weekly** option sets days, an end date and blackout days at once. [In Livestorm, each **Add session** click adds one session a week later](https://support.livestorm.co/article/adding-and-managing-multiple-sessions-in-a-livestorm-event). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Live and recorded in one account.** EasyWebinar offers **Live Webinar**, **Simulive Webinar** and **Evergreen Webinar** in the same dialog. [WebinarJam runs recorded webinars in its sister product, EverWebinar](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No plan gate on the type.** Every EasyWebinar plan includes this builder. [WebinarKit's help centre says live and automated creation depend on your plan](https://help.webinarkit.com/help/how-to-build-an-autowebinar-funnel-with-webinarkit). See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

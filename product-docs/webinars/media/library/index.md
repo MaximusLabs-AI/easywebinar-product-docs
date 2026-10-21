@@ -208,19 +208,19 @@ Library and recording features, from each platform's public documentation:
 | Platform | Live sessions recorded automatically | Recordings reused as an automated webinar's video | Uploads and imported links in one library |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes | Yes | Not in docs |
-| **WebinarKit** | Yes (live webinars) | Yes | Partly (uploads depend on plan) |
-| **eWebinar** | Not in docs | Partly (Zoom cloud recordings) | Yes |
-| **WebinarNinja** | Yes | Yes | Partly (only YouTube documented) |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/2928769-recording-overview)) | Yes ([detail](https://help.demio.com/en/articles/3527840-creating-an-event)) | Not in docs |
+| **WebinarKit** | Yes ([live webinars](https://help.webinarkit.com/help/webinarkit-live-recordings)) | Yes ([detail](https://help.webinarkit.com/help/using-the-webinar-watch-room-builder)) | Partly ([uploads depend on plan](https://help.webinarkit.com/help/how-to-upload-videos-using-webinarkit-landing-page-webinar-presentation-thank-you-page-videos)) |
+| **eWebinar** | Not in docs | Partly ([Zoom cloud recordings](https://ewebinar.com/help/what-is-ewebinars-integration-with-zoom-and-how-do-i-set-it-up)) | Yes ([detail](https://ewebinar.com/help/category/plan-script-record)) |
+| **WebinarNinja** | Yes ([detail](https://help.webinarninja.com/pre-broadcast-checklist-for-live-sessions)) | Yes ([detail](https://help.webinarninja.com/create-watch-now-webinar)) | Partly ([only YouTube documented](https://help.webinarninja.com/create-watch-now-webinar)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for the Library {#compare-stronger}
 
-- **Recordings sit next to your videos.** In EasyWebinar, **Recordings** is a Library tab beside **Videos**, and it appears in the video picker too. Demio's help centre sends you to the **Schedule** page, filtered to **All Past**, to reach recordings. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Your own live sessions, kept.** EasyWebinar saves recordings of your live webinars straight into the Library. eWebinar imports cloud recordings from a connected Zoom account, and notes that Zoom only surfaces recordings under a month old. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **Larger uploads.** EasyWebinar takes video uploads up to **4 GB** per file. WebinarNinja's help centre lists a 2 GB limit for its video files. See [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
-- **Uploads and links side by side.** **Add Media** offers **Local import** and **Import from URL** on every tab. WebinarKit says direct uploads apply if your plan includes them. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Recordings sit next to your videos.** In EasyWebinar, **Recordings** is a Library tab beside **Videos**, and it appears in the video picker too. [Demio's help centre sends you to the **Schedule** page, filtered to **All Past**, to reach recordings](https://help.demio.com/en/articles/2928769-recording-overview). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Your own live sessions, kept.** EasyWebinar saves recordings of your live webinars straight into the Library. [eWebinar imports cloud recordings from a connected Zoom account, and notes that Zoom only surfaces recordings under a month old](https://ewebinar.com/help/what-is-ewebinars-integration-with-zoom-and-how-do-i-set-it-up). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Larger uploads.** EasyWebinar takes video uploads up to **4 GB** per file. [WebinarNinja's help centre lists a 2 GB limit for its video files](https://help.webinarninja.com/upload-and-play-videos-in-course-sessions). See [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
+- **Uploads and links side by side.** **Add Media** offers **Local import** and **Import from URL** on every tab. [WebinarKit says direct uploads apply if your plan includes them](https://help.webinarkit.com/help/how-to-upload-videos-using-webinarkit-landing-page-webinar-presentation-thank-you-page-videos). See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

@@ -184,18 +184,18 @@ Sharing link features, from each platform's public documentation:
 | Platform | One-click registration link | Join links for presenters and moderators | Shorter versions of your links |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes | Yes (no Demio account needed) | Not in docs |
-| **WebinarJam and EverWebinar** | Yes | Yes (two links each) | Not in docs |
-| **WebinarKit** | Yes | Not in docs | Partly (text message keyword) |
-| **eWebinar** | Yes (instant join links) | Not in docs | Not in docs |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/6461410-integrate-with-salesforce)) | Yes ([no Demio account needed](https://www.demio.com/pricing)) | Not in docs |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15370017-register-existing-contacts-with-one-click)) | Yes ([two links each](https://support.webinarjam.com/en/articles/15370027-share-presenter-and-moderator-access-links)) | Not in docs |
+| **WebinarKit** | Yes ([detail](https://help.webinarkit.com/help/how-to-use-one-click-registration-links-for-your-events)) | Not in docs | Partly ([text message keyword](https://help.webinarkit.com/help/understanding-webinarkit-s-built-in-text-messages)) |
+| **eWebinar** | Yes ([instant join links](https://ewebinar.com/help/getting-into-the-webinar)) | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for sharing links {#compare-stronger}
 
-- **Shorter links from the Share dialog.** EasyWebinar's **Shorten URL's** toggle gives you shorter versions of the webinar's links. WebinarJam's help centre doesn't document a link shortener, as the [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) comparison shows.
-- **Short links for any channel.** EasyWebinar's shorter links work in posts, emails and show notes alike. WebinarKit documents its short link as a keyword for its text messages, covered in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
-- **Guest speakers and moderators by link.** EasyWebinar's **Co-presenter Join Link** and **Moderator Join Link for Live room** let people join without an account. eWebinar's help centre doesn't document presenter or moderator join links, as [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) sets out.
+- **Shorter links from the Share dialog.** EasyWebinar's **Shorten URL's** toggle gives you shorter versions of the webinar's links. [WebinarJam's help centre doesn't document a link shortener](https://support.webinarjam.com/en/articles/15370027-share-presenter-and-moderator-access-links), as the [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) comparison shows.
+- **Short links for any channel.** EasyWebinar's shorter links work in posts, emails and show notes alike. [WebinarKit documents its short link as a keyword for its text messages](https://help.webinarkit.com/help/understanding-webinarkit-s-built-in-text-messages), covered in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Guest speakers and moderators by link.** EasyWebinar's **Co-presenter Join Link** and **Moderator Join Link for Live room** let people join without an account. [eWebinar's help centre doesn't document presenter or moderator join links](https://ewebinar.com/help/getting-into-the-webinar), as [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) sets out.
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

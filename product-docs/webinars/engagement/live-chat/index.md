@@ -219,19 +219,19 @@ Chat features, from each platform's public documentation:
 | Platform | Everyone or hosts-only chat | Embed your own chat tool | Contact form with chat off |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes (Public or Private) | Not in docs | Not in docs |
-| **Livestorm** | Partly (public chat only) | Not in docs | Not in docs |
-| **eWebinar** | Partly (private chat only) | Yes | Yes (Email form option) |
-| **WebinarJam and EverWebinar** | Yes (public, private or both) | Not in docs | Not in docs |
+| **Demio** | Yes ([Public or Private](https://help.demio.com/en/articles/2951759-chat-preference)) | Not in docs | Not in docs |
+| **Livestorm** | Partly ([public chat only](https://support.livestorm.co/article/42-sidebar-event-room)) | Not in docs | Not in docs |
+| **eWebinar** | Partly ([private chat only](https://ewebinar.com/help/chat)) | Yes ([detail](https://ewebinar.com/help/third-party-chat)) | Yes ([Email form option](https://ewebinar.com/help/feature-glossary-of-best-practices-chat-tab)) |
+| **WebinarJam and EverWebinar** | Yes ([public, private or both](https://support.webinarjam.com/en/articles/15370032-moderate-your-webinarjam-event-using-the-control-panel)) | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for live chat {#compare-stronger}
 
-- **A shared room or private conversations.** EasyWebinar's **Who can see messages** offers **Everyone** or **Hosts only**. Livestorm's help centre says an enabled chat is public, so everyone in the room sees the messages. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **A chat that can be open to the room.** With **Everyone**, attendees see and reply to each other. eWebinar's help centre describes its chat as private, not public. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **Your own chat tool in the room.** EasyWebinar's **Third party** option takes your provider's embed snippet on simulive and evergreen webinars. Demio's help centre doesn't document embedding a third-party chat tool. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Reachable with chat off.** EasyWebinar's **EW Contact Box** works with **No Chat** and sends questions to an email address you choose. WebinarJam's control panel article covers chat visibility, with no contact form documented. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **A shared room or private conversations.** EasyWebinar's **Who can see messages** offers **Everyone** or **Hosts only**. [Livestorm's help centre says an enabled chat is public, so everyone in the room sees the messages](https://support.livestorm.co/article/42-sidebar-event-room). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **A chat that can be open to the room.** With **Everyone**, attendees see and reply to each other. [eWebinar's help centre describes its chat as private, not public](https://ewebinar.com/help/chat). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Your own chat tool in the room.** EasyWebinar's **Third party** option takes your provider's embed snippet on simulive and evergreen webinars. [Demio's help centre doesn't document embedding a third-party chat tool](https://help.demio.com/en/articles/2951759-chat-preference). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Reachable with chat off.** EasyWebinar's **EW Contact Box** works with **No Chat** and sends questions to an email address you choose. [WebinarJam's control panel article covers chat visibility, with no contact form documented](https://support.webinarjam.com/en/articles/15370032-moderate-your-webinarjam-event-using-the-control-panel). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

@@ -239,21 +239,21 @@ Registration page features, from each platform's public documentation:
 | Platform | Ready-made page templates | AI writes the page copy | Countdown on the registration page |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes (Accent, Gradient, Background Image) | Not in docs | Yes (top of the form) |
-| **WebinarJam** | Yes | Not in docs | Partly (on a separate countdown page) |
-| **eWebinar** | Yes | Yes | Partly (widgets on your own page) |
-| **Livestorm** | Partly (Detailed and Light layouts) | Not in docs | Partly (waiting page, before the event) |
-| **StealthSeminar** | Yes | Not in docs | Partly (as an embeddable widget) |
-| **WebinarKit** | Yes | Yes | Partly (thank-you page embeds) |
+| **Demio** | Yes ([Accent, Gradient, Background Image](https://help.demio.com/en/articles/13680693-how-can-i-add-a-background-image-to-a-registration-page-in-demio)) | Not in docs | Yes ([top of the form](https://help.demio.com/en/articles/2303544-customize-the-registration-page)) |
+| **WebinarJam** | Yes | Not in docs | Partly ([on a separate countdown page](https://support.webinarjam.com/en/articles/15369983-customize-pages)) |
+| **eWebinar** | Yes ([detail](https://ewebinar.com/help/template-resources)) | Yes ([detail](https://ewebinar.com/help/category/ai-assistance)) | Partly ([widgets on your own page](https://ewebinar.com/help/what-are-widgets-and-how-do-i-install-them)) |
+| **Livestorm** | Partly ([Detailed and Light layouts](https://support.livestorm.co/article/12-customize-design-your-registration-page-emails)) | Not in docs | Partly ([waiting page, before the event](https://support.livestorm.co/article/122-attendee-user-guide)) |
+| **StealthSeminar** | Yes ([detail](https://help.stealthseminarapp.com/article/369-getting-started-with-webinars-in-stealth-seminar)) | Not in docs | Partly ([as an embeddable widget](https://help.stealthseminarapp.com/article/111-how-to-create-a-two-step-optin)) |
+| **WebinarKit** | Yes ([detail](https://getwebinarkit.com/)) | Yes ([detail](https://help.webinarkit.com/help/understanding-webinarkits-ai-credit-pricing)) | Partly ([thank-you page embeds](https://getwebinarkit.com/)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for registration pages {#compare-stronger}
 
-- **The countdown sits on the page you promote.** EasyWebinar adds it to every new registration page, while WebinarJam shows its start countdown on a separate holding page. See [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **AI drafts the whole set of pages.** **Create with AI** writes the registration, thank-you and waiting-area pages from your script, while Demio's public docs describe no AI page writing. Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Templates come sorted by business type.** EasyWebinar sorts templates by business type, while Livestorm applies one set of design settings to its Detailed and Light pages. More in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **The countdown is native, not a widget.** EasyWebinar builds it into the page, while eWebinar delivers its countdown through widgets on your own landing page. Read [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The countdown sits on the page you promote.** EasyWebinar adds it to every new registration page, while [WebinarJam shows its start countdown on a separate holding page](https://support.webinarjam.com/en/articles/15369983-customize-pages). See [EasyWebinar vs WebinarJam](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **AI drafts the whole set of pages.** **Create with AI** writes the registration, thank-you and waiting-area pages from your script, while [Demio's public docs describe no AI page writing](https://help.demio.com/en/articles/2303544-customize-the-registration-page). Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Templates come sorted by business type.** EasyWebinar sorts templates by business type, while [Livestorm applies one set of design settings to its Detailed and Light pages](https://support.livestorm.co/article/12-customize-design-your-registration-page-emails). More in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **The countdown is native, not a widget.** EasyWebinar builds it into the page, while [eWebinar delivers its countdown through widgets on your own landing page](https://ewebinar.com/help/what-are-widgets-and-how-do-i-install-them). Read [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

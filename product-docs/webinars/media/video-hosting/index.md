@@ -201,19 +201,19 @@ Video sources for recorded webinars, from each platform's public documentation:
 | Platform | Upload and host the video itself | Import from YouTube, Vimeo or Wistia | Reuse recordings of past live webinars |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **EverWebinar** | External video required | Partly (YouTube, Vimeo, MP4 links) | Yes (past WebinarJam sessions) |
-| **eWebinar** | Yes (re-hosted through Vimeo) | Yes | Partly (Zoom cloud recordings) |
-| **WebinarKit** | Partly (on Pro plans) | Partly (YouTube and direct Vimeo links) | Yes |
-| **Demio** | Yes (up to 5 GB) | Partly (registration page video only) | Yes |
+| **EverWebinar** | [External video required](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar) | Partly (YouTube, Vimeo, MP4 links) | Yes ([past WebinarJam sessions](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event)) |
+| **eWebinar** | Yes ([re-hosted through Vimeo](https://ewebinar.com/help/what-kinds-of-video-does-ewebinar-support)) | Yes ([detail](https://ewebinar.com/help/what-kinds-of-video-does-ewebinar-support)) | Partly ([Zoom cloud recordings](https://ewebinar.com/help/what-is-ewebinars-integration-with-zoom-and-how-do-i-set-it-up)) |
+| **WebinarKit** | Partly ([on Pro plans](https://getwebinarkit.com/)) | Partly ([YouTube and direct Vimeo links](https://help.webinarkit.com/help/how-to-use-video-urls-as-the-video-source-in-webinarkit)) | Yes ([detail](https://help.webinarkit.com/help/using-the-webinar-watch-room-builder)) |
+| **Demio** | Yes ([up to 5 GB](https://help.demio.com/en/articles/3527840-creating-an-event)) | Partly ([registration page video only](https://help.demio.com/en/articles/2303544-customize-the-registration-page)) | Yes ([detail](https://help.demio.com/en/articles/3527840-creating-an-event)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for video hosting {#compare-stronger}
 
-- **Hosting comes with the webinar.** **Local import** uploads the file and EasyWebinar serves it. EverWebinar's help centre lists an external video as required for its primary video source. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
-- **Wistia links work as well.** EasyWebinar imports from **YouTube**, **Vimeo**, **Wistia** or a direct **MP4 link**. WebinarKit's help asks for direct Vimeo file links rather than regular Vimeo links, and its built-in hosting is a Pro feature. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
-- **Your own live sessions, ready to reuse.** Recordings of your live webinars land in **Library → Recordings** and appear in the video picker. eWebinar's import route lists recent cloud recordings from a connected Zoom account. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **The webinar video itself, from a link.** In EasyWebinar, an imported link becomes the video your sessions play. Demio's docs describe YouTube, Vimeo and Wistia URLs for the registration page video. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Hosting comes with the webinar.** **Local import** uploads the file and EasyWebinar serves it. [EverWebinar's help centre lists an external video as required for its primary video source](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar). See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
+- **Wistia links work as well.** EasyWebinar imports from **YouTube**, **Vimeo**, **Wistia** or a direct **MP4 link**. [WebinarKit's help asks for direct Vimeo file links rather than regular Vimeo links](https://help.webinarkit.com/help/how-to-use-video-urls-as-the-video-source-in-webinarkit), and [its built-in hosting is a Pro feature](https://getwebinarkit.com/). See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Your own live sessions, ready to reuse.** Recordings of your live webinars land in **Library → Recordings** and appear in the video picker. [eWebinar's import route lists recent cloud recordings from a connected Zoom account](https://ewebinar.com/help/what-is-ewebinars-integration-with-zoom-and-how-do-i-set-it-up). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The webinar video itself, from a link.** In EasyWebinar, an imported link becomes the video your sessions play. [Demio's docs describe YouTube, Vimeo and Wistia URLs for the registration page video](https://help.demio.com/en/articles/2303544-customize-the-registration-page). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

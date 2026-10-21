@@ -205,21 +205,21 @@ Just-in-time scheduling, from each platform's public documentation:
 | Platform | Just-in-time sessions | Just-in-time, instant viewing and set times together | Hours kept free of just-in-time sessions | Live webinars in the same product |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **eWebinar** | Yes | Yes | Yes (hours of operation) | Pre-recorded only |
-| **WebinarJam and EverWebinar** | Yes | Yes | Yes (hides night-time sessions) | Partly (separate WebinarJam product) |
-| **StealthSeminar** | Yes | Partly (replay is yesterday's session) | Yes (allowed time window) | Partly (streamed from YouTube or Twitch) |
-| **WebinarKit** | Yes | Yes | Not in docs | Yes |
-| **Demio** | Not in docs | Not in docs | Not in docs | Yes |
-| **Livestorm** | Not in docs | Not in docs | Not in docs | Yes |
+| **eWebinar** | Yes | Yes ([detail](https://ewebinar.com/help/feature-glossary-of-best-practices-schedule-tab)) | Yes ([hours of operation](https://ewebinar.com/help/feature-glossary-of-best-practices-schedule-tab)) | [Pre-recorded only](https://ewebinar.com/automated-webinars) |
+| **WebinarJam and EverWebinar** | Yes | Yes ([detail](https://support.webinarjam.com/en/articles/15370041-schedule-your-webinar-in-everwebinar)) | Yes ([hides night-time sessions](https://support.webinarjam.com/en/articles/15370041-schedule-your-webinar-in-everwebinar)) | Partly ([separate WebinarJam product](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar)) |
+| **StealthSeminar** | Yes ([detail](https://help.stealthseminarapp.com/article/260-how-does-just-in-time-option-work)) | Partly ([replay is yesterday's session](https://help.stealthseminarapp.com/article/161-how-do-i-create-an-automated-webinar)) | Yes ([allowed time window](https://help.stealthseminarapp.com/article/260-how-does-just-in-time-option-work)) | Partly ([streamed from YouTube or Twitch](https://help.stealthseminarapp.com/article/123-how-do-i-set-up-a-live-or-hybrid-webinar)) |
+| **WebinarKit** | Yes ([detail](https://help.webinarkit.com/help/how-to-choose-the-right-scheduling-options-for-your-webinar-instant-watch-just-in-time-ongoing-and-specific-times)) | Yes ([detail](https://help.webinarkit.com/help/how-to-choose-the-right-scheduling-options-for-your-webinar-instant-watch-just-in-time-ongoing-and-specific-times)) | Not in docs | Yes ([detail](https://help.webinarkit.com/help/how-to-build-webinar-funnels)) |
+| **Demio** | Not in docs | Not in docs | Not in docs | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) |
+| **Livestorm** | Not in docs | Not in docs | Not in docs | Yes ([detail](https://support.livestorm.co/article/104-create-on-demand-events)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for just-in-time {#compare-stronger}
 
-- **A session minutes away.** EasyWebinar's **Just-in-time Registration** offers a session starting shortly after someone registers. Demio's help centre and product pages don't document a just-in-time option. Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Watch now, soon or at a set time.** EasyWebinar's **On Demand** starts the recording straight away, beside just-in-time and set times. StealthSeminar's instant choice, Watch Yesterday's Replay, plays the previous session. Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **Quiet hours you choose.** **Exclude specific time** keeps chosen hours free of just-in-time sessions. WebinarKit's help centre covers just-in-time labels and spacing, with no hour exclusion documented. Compare [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
-- **Evergreen sessions that start soon.** EasyWebinar adds just-in-time to the evergreen schedule step. Livestorm's on-demand and automation pages don't document just-in-time sessions. Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **A session minutes away.** EasyWebinar's **Just-in-time Registration** offers a session starting shortly after someone registers. [Demio's help centre and product pages don't document a just-in-time option](https://help.demio.com/en/articles/2303559-automated-vs-standard-event). Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Watch now, soon or at a set time.** EasyWebinar's **On Demand** starts the recording straight away, beside just-in-time and set times. [StealthSeminar's instant choice, Watch Yesterday's Replay, plays the previous session](https://help.stealthseminarapp.com/article/161-how-do-i-create-an-automated-webinar). Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Quiet hours you choose.** **Exclude specific time** keeps chosen hours free of just-in-time sessions. [WebinarKit's help centre covers just-in-time labels and spacing, with no hour exclusion documented](https://help.webinarkit.com/help/how-to-build-webinar-funnels). Compare [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Evergreen sessions that start soon.** EasyWebinar adds just-in-time to the evergreen schedule step. [Livestorm's on-demand and automation pages don't document just-in-time sessions](https://support.livestorm.co/article/104-create-on-demand-events). Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

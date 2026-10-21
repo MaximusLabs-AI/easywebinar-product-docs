@@ -183,19 +183,19 @@ Confirmation features, from each platform's public documentation:
 | Platform | Confirmation sent on registration | Your sender name and reply-to address | Copy of each registration to an admin | WhatsApp welcome message (Beta) |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **Demio** | Yes | Partly (sender name only) | Not in docs | Not in docs |
-| **Livestorm** | Yes | Partly (reply-to is account-wide) | Not in docs | Not in docs |
-| **WebinarKit** | Yes | Yes | Not in docs | Not in docs |
-| **WebinarJam and EverWebinar** | Yes | Partly (sender is the host's name) | Not in docs | Not in docs |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/9127442-collect-registrations-using-your-own-custom-page)) | Partly ([sender name only](https://help.demio.com/en/articles/7238993-customize-sender-name-in-email-template)) | Not in docs | Not in docs |
+| **Livestorm** | Yes ([detail](https://support.livestorm.co/article/register-for-multiple-sessions-at-once)) | Partly ([reply-to is account-wide](https://support.livestorm.co/article/305-create-your-first-event)) | Not in docs | Not in docs |
+| **WebinarKit** | Yes ([detail](https://help.webinarkit.com/help/understanding-webinarkit-emails)) | Yes ([detail](https://help.webinarkit.com/help/understanding-webinarkit-emails)) | Not in docs | Not in docs |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15370026-test-your-webinarjam-webinar-before-going-live)) | Partly ([sender is the host's name](https://support.webinarjam.com/en/articles/15369991-customize-notification-sender-details)) | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for confirmation emails {#compare-stronger}
 
-- **A copy of every sign-up.** EasyWebinar's **Notify admin** sends a copy of each registration to an address you choose. Demio's help centre doesn't document an admin copy of registrations, as [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) shows.
-- **Reply-to set per webinar.** EasyWebinar keeps **Email Settings** with each webinar. Livestorm's reply-to address is the account owner's email, changed in team settings, covered in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **A sender name you choose.** EasyWebinar's **Sender name** can be you, your company or a client. WebinarJam shows the webinar host's full name as the sender, as [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) sets out.
-- **A WhatsApp welcome, in Beta.** EasyWebinar's Beta **Welcome Message** on the **Whatsapp** tab sends the moment someone registers. WebinarKit's help centre covers confirmation and reminder texts only, detailed in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **A copy of every sign-up.** EasyWebinar's **Notify admin** sends a copy of each registration to an address you choose. [Demio's help centre doesn't document an admin copy of registrations](https://help.demio.com/en/articles/9127442-collect-registrations-using-your-own-custom-page), as [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) shows.
+- **Reply-to set per webinar.** EasyWebinar keeps **Email Settings** with each webinar. [Livestorm's reply-to address is the account owner's email, changed in team settings](https://support.livestorm.co/article/305-create-your-first-event), covered in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **A sender name you choose.** EasyWebinar's **Sender name** can be you, your company or a client. [WebinarJam shows the webinar host's full name as the sender](https://support.webinarjam.com/en/articles/15369991-customize-notification-sender-details), as [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) sets out.
+- **A WhatsApp welcome, in Beta.** EasyWebinar's Beta **Welcome Message** on the **Whatsapp** tab sends the moment someone registers. [WebinarKit's help centre covers confirmation and reminder texts only](https://help.webinarkit.com/help/how-to-build-webinar-funnels), detailed in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

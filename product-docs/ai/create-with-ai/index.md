@@ -253,19 +253,19 @@ AI webinar-building features, from each platform's public documentation:
 | Platform | AI writes the presentation script | AI writes the registration page | AI writes the email sequence | AI writes polls and offers |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **eWebinar** | Not in docs | Partly (rewrites one section at a time) | Yes (a notification set) | Yes (from the video transcript) |
-| **WebinarKit** | Yes (AI Creator Suite) | Not in docs | Partly (marketing page only) | Not in docs |
-| **WebinarJam and EverWebinar** | Partly (AI Agenda Planner) | Not in docs | Not in docs | Not in docs |
-| **Livestorm** | Not in docs | Not in docs | Partly (post-event drafts, in beta) | Not in docs |
+| **eWebinar** | Not in docs | Partly ([rewrites one section at a time](https://ewebinar.com/help/ai-rewrite-registration-pages)) | Yes ([a notification set](https://ewebinar.com/help/ai-notifications)) | Yes ([from the video transcript](https://ewebinar.com/help/ai-generate-interactions-from-video)) |
+| **WebinarKit** | Yes ([AI Creator Suite](https://help.webinarkit.com/help/using-our-ai-features-to-create-video-sales-letter-and-webinar-scripts)) | Not in docs | Partly ([marketing page only](https://getwebinarkit.com/)) | Not in docs |
+| **WebinarJam and EverWebinar** | Partly ([AI Agenda Planner](https://support.webinarjam.com/en/articles/15370009-set-up-a-live-webinar-agenda)) | Not in docs | Not in docs | Not in docs |
+| **Livestorm** | Not in docs | Not in docs | Partly ([post-event drafts, in beta](https://support.livestorm.co/article/easily-generate-post-event-marketing-content-with-ai)) | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for Create with AI {#compare-stronger}
 
-- **A script, not just an outline.** EasyWebinar writes the script in named sections with timings and speaker notes. WebinarJam's AI Agenda Planner generates a webinar agenda. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **Whole pages written from the script.** EasyWebinar writes the registration, thank-you and waiting-area pages in one step. eWebinar's AI rewrites registration page sections one at a time. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **Polls and offers in the same build.** EasyWebinar generates polls from the goals you pick, then offers in the pitch style you choose. WebinarKit's AI Creator Suite covers scripts, slide decks and avatar videos. See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
-- **Emails ready before the event.** EasyWebinar drafts the welcome email, three reminders and two follow-ups. Livestorm's AI drafts emails from an event recording, after the event. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **A script, not just an outline.** EasyWebinar writes the script in named sections with timings and speaker notes. [WebinarJam's AI Agenda Planner generates a webinar agenda](https://support.webinarjam.com/en/articles/15370009-set-up-a-live-webinar-agenda). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Whole pages written from the script.** EasyWebinar writes the registration, thank-you and waiting-area pages in one step. [eWebinar's AI rewrites registration page sections one at a time](https://ewebinar.com/help/ai-rewrite-registration-pages). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Polls and offers in the same build.** EasyWebinar generates polls from the goals you pick, then offers in the pitch style you choose. [WebinarKit's AI Creator Suite covers scripts, slide decks and avatar videos](https://help.webinarkit.com/help/webinarkit-ai-creator-suite). See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Emails ready before the event.** EasyWebinar drafts the welcome email, three reminders and two follow-ups. [Livestorm's AI drafts emails from an event recording, after the event](https://support.livestorm.co/article/easily-generate-post-event-marketing-content-with-ai). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

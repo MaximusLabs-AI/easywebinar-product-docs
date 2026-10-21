@@ -227,19 +227,19 @@ Simulated chat features, from each platform's public documentation:
 | Platform | Chat written by AI | Scripted chat from a CSV | Simulated names in the attendee list |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **WebinarJam and EverWebinar** | Not in docs | Yes (EverWebinar) | Not in docs |
-| **WebinarKit** | Partly (marketing page only) | Yes | Not in docs |
-| **StealthSeminar** | Not in docs | Yes (Chat Replay import) | Yes |
+| **WebinarJam and EverWebinar** | Not in docs | Yes ([EverWebinar](https://support.webinarjam.com/en/articles/15370042-import-chat-messages-for-everwebinar-using-a-csv-file)) | Not in docs |
+| **WebinarKit** | Partly ([marketing page only](https://getwebinarkit.com/)) | Yes ([detail](https://help.webinarkit.com/help/using-the-chat-simulator-in-your-webinars)) | Not in docs |
+| **StealthSeminar** | Not in docs | Yes ([Chat Replay import](https://help.stealthseminarapp.com/article/311-how-does-live-chatchat-replay-work)) | Yes ([detail](https://help.stealthseminarapp.com/article/296-name-list)) |
 | **Demio** | Not in docs | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for chat simulation {#compare-stronger}
 
-- **A chat the AI writes for you.** EasyWebinar's **AI Simulation** (Beta) generates chat and questions from a cast with set engagement, knowledge, language and behaviour. StealthSeminar's Chat Replay is built from messages you add or import. More detail in [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **Host replies inside the script.** EasyWebinar's CSV has a **Role** column, so `Admin` lines appear as host replies. WebinarKit's chat simulator documents a username, message text and display time for each message. More detail in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
-- **Names in the attendee list as well.** **Attendees on Event Page** adds simulated names to the list attendees see. EverWebinar's help centre covers preloaded chat messages, with no simulated attendee list documented. More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **Part of the webinar itself.** Chat Simulation (Beta) sits on the same **Engagement** tab as chat and Q&A. Demio's help centre doesn't document simulated chat. More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **A chat the AI writes for you.** EasyWebinar's **AI Simulation** (Beta) generates chat and questions from a cast with set engagement, knowledge, language and behaviour. [StealthSeminar's Chat Replay is built from messages you add or import](https://help.stealthseminarapp.com/article/311-how-does-live-chatchat-replay-work). More detail in [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Host replies inside the script.** EasyWebinar's CSV has a **Role** column, so `Admin` lines appear as host replies. [WebinarKit's chat simulator documents a username, message text and display time for each message](https://help.webinarkit.com/help/using-the-chat-simulator-in-your-webinars). More detail in [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Names in the attendee list as well.** **Attendees on Event Page** adds simulated names to the list attendees see. [EverWebinar's help centre covers preloaded chat messages, with no simulated attendee list documented](https://support.webinarjam.com/en/articles/15370042-import-chat-messages-for-everwebinar-using-a-csv-file). More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Part of the webinar itself.** Chat Simulation (Beta) sits on the same **Engagement** tab as chat and Q&A. [Demio's help centre doesn't document simulated chat](https://help.demio.com/en/articles/3448733-chat-box-overview). More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

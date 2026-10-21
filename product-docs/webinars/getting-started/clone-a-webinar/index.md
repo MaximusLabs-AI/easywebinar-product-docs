@@ -201,20 +201,20 @@ Cloning features, from each platform's public documentation:
 | Platform | Choose items to copy | Schedule comes with the copy | Integration settings copied |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Copies all Customize settings | Sessions not copied | Not in docs |
-| **StealthSeminar** | Full copy only | Yes (full copy) | Yes (plugin setup) |
-| **eWebinar** | Copies everything | Yes (everything copied) | Yes |
-| **Livestorm** | Keeps event settings | Not in docs | Not in docs |
-| **WebinarNinja** | Not in docs | Yes (then edit the dates) | Not in docs |
+| **Demio** | Copies all Customize settings | [Sessions not copied](https://help.demio.com/en/articles/3528377-copy-duplicate-an-event) | Not in docs |
+| **StealthSeminar** | Full copy only | Yes (full copy) | Yes ([plugin setup](https://help.stealthseminarapp.com/article/182-how-do-i-duplicate-my-event)) |
+| **eWebinar** | [Copies everything](https://ewebinar.com/help/preview-and-test) | Yes (everything copied) | Yes ([detail](https://ewebinar.com/help/preview-and-test)) |
+| **Livestorm** | [Keeps event settings](https://support.livestorm.co/article/63-best-practices-before-going-live) | Not in docs | Not in docs |
+| **WebinarNinja** | Not in docs | Yes ([then edit the dates](https://help.webinarninja.com/create-live-webinar-with-multiple-dates-and-times-options)) | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for cloning {#compare-stronger}
 
-- **You pick what comes across.** EasyWebinar lists eight items under **What would you like to copy?**, each one optional. StealthSeminar's help centre says its duplicate is a full copy of the original event. See [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **The schedule can travel with it.** Ticking **Webinar schedule** in EasyWebinar brings the sessions to the copy. Demio says none of the sessions are copied, which leaves a blank schedule. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Integrations come along on request.** EasyWebinar has an **Integration settings** item in the clone dialog. Livestorm's public docs show no copying of integrations. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Less to redo after cloning.** EasyWebinar can copy pages, polls, offers and emails in one pass. WebinarNinja's guide has you clone, then update the title, date and time. See [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
+- **You pick what comes across.** EasyWebinar lists eight items under **What would you like to copy?**, each one optional. [StealthSeminar's help centre says its duplicate is a full copy of the original event](https://help.stealthseminarapp.com/article/182-how-do-i-duplicate-my-event). See [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **The schedule can travel with it.** Ticking **Webinar schedule** in EasyWebinar brings the sessions to the copy. [Demio says none of the sessions are copied](https://help.demio.com/en/articles/3528377-copy-duplicate-an-event), which leaves a blank schedule. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Integrations come along on request.** EasyWebinar has an **Integration settings** item in the clone dialog. [Livestorm's public docs show no copying of integrations](https://support.livestorm.co/article/63-best-practices-before-going-live). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Less to redo after cloning.** EasyWebinar can copy pages, polls, offers and emails in one pass. [WebinarNinja's guide has you clone, then update the title, date and time](https://help.webinarninja.com/create-live-webinar-with-multiple-dates-and-times-options). See [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

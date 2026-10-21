@@ -182,18 +182,18 @@ Reminder features, from each platform's public documentation:
 | Platform | Reminder timing you choose | SMS reminder (Beta) | WhatsApp reminder (Beta) |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **WebinarJam and EverWebinar** | Yes | Yes | Not in docs |
-| **WebinarKit** | Partly (1 day and 30 minutes by default) | Yes | Not in docs |
-| **Livestorm** | Partly (1 hour and 24 hours by default) | Not in docs | Not in docs |
-| **Zoom** | Partly (1 hour, 1 day or 1 week) | Not in docs | Not in docs |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15369989-send-notifications-using-webinarjam-mail)) | Yes ([detail](https://support.webinarjam.com/en/articles/15369988-manage-webinar-notifications-and-reminders)) | Not in docs |
+| **WebinarKit** | Partly ([1 day and 30 minutes by default](https://help.webinarkit.com/help/understanding-webinarkit-emails)) | Yes ([detail](https://help.webinarkit.com/help/how-to-build-webinar-funnels)) | Not in docs |
+| **Livestorm** | Partly ([1 hour and 24 hours by default](https://support.livestorm.co/article/37-customize-edit-content-emails)) | Not in docs | Not in docs |
+| **Zoom** | Partly ([1 hour, 1 day or 1 week](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065074)) | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for reminder emails {#compare-stronger}
 
-- **Timing to the minute.** EasyWebinar takes timings such as *0h 15m 0s before webinar*. Zoom's reminder email offers 1 hour, 1 day or 1 week before the start, as [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/) shows.
-- **As many reminders as your schedule needs.** EasyWebinar adds another reminder with **Create New**. Livestorm documents two reminders by default, one hour and 24 hours before, covered in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **WhatsApp for the final nudge.** EasyWebinar's Beta **Reminder Message** on the **Whatsapp** tab sends before the webinar starts. WebinarJam's reminders run by email, SMS or voice call, as [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) sets out.
+- **Timing to the minute.** EasyWebinar takes timings such as *0h 15m 0s before webinar*. [Zoom's reminder email offers 1 hour, 1 day or 1 week before the start](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065074), as [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/) shows.
+- **As many reminders as your schedule needs.** EasyWebinar adds another reminder with **Create New**. [Livestorm documents two reminders by default, one hour and 24 hours before](https://support.livestorm.co/article/37-customize-edit-content-emails), covered in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **WhatsApp for the final nudge.** EasyWebinar's Beta **Reminder Message** on the **Whatsapp** tab sends before the webinar starts. [WebinarJam's reminders run by email, SMS or voice call](https://support.webinarjam.com/en/articles/15369988-manage-webinar-notifications-and-reminders), as [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/) sets out.
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

@@ -179,20 +179,20 @@ Instant viewing, from each platform's public documentation:
 | Platform | Watch straight after registering | Instant viewing beside set daily or weekly times | Instant viewing beside just-in-time sessions | Live webinars in the same product |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **eWebinar** | Yes | Yes | Yes | Pre-recorded only |
-| **WebinarJam and EverWebinar** | Yes | Yes | Yes | Partly (separate WebinarJam product) |
-| **Demio** | Yes | Yes | Not in docs | Yes |
-| **Livestorm** | Yes | Partly (no sessions after on-demand registrants) | Not in docs | Yes |
-| **StealthSeminar** | Yes (Dedicated Replay event type) | Partly (replay is yesterday's session) | Partly (replay is yesterday's session) | Partly (streamed from YouTube or Twitch) |
+| **eWebinar** | Yes ([detail](https://ewebinar.com/help/scheduling-and-availability)) | Yes ([detail](https://ewebinar.com/help/feature-glossary-of-best-practices-schedule-tab)) | Yes ([detail](https://ewebinar.com/help/feature-glossary-of-best-practices-schedule-tab)) | [Pre-recorded only](https://ewebinar.com/automated-webinars) |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15370041-schedule-your-webinar-in-everwebinar)) | Yes | Yes ([detail](https://support.webinarjam.com/en/articles/15370041-schedule-your-webinar-in-everwebinar)) | Partly ([separate WebinarJam product](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar)) |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/2303561-on-demand)) | Yes ([detail](https://help.demio.com/en/articles/2397335-managing-resources)) | Not in docs | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) |
+| **Livestorm** | Yes | Partly ([no sessions after on-demand registrants](https://support.livestorm.co/article/104-create-on-demand-events)) | Not in docs | Yes |
+| **StealthSeminar** | Yes ([Dedicated Replay event type](https://help.stealthseminarapp.com/article/108-different-event-types)) | Partly ([replay is yesterday's session](https://help.stealthseminarapp.com/article/161-how-do-i-create-an-automated-webinar)) | Partly ([replay is yesterday's session](https://help.stealthseminarapp.com/article/261-can-i-add-a-watch-yesterdays-replay-option-to-my-event)) | Partly ([streamed from YouTube or Twitch](https://help.stealthseminarapp.com/article/123-how-do-i-set-up-a-live-or-hybrid-webinar)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for On Demand {#compare-stronger}
 
-- **Instant viewing that keeps your schedule.** EasyWebinar runs **On Demand** beside a daily or weekly **Recurring Schedule** on one webinar. Livestorm's help centre says that once an on-demand registrant exists, you can't add more sessions. Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Now or in a few minutes.** EasyWebinar offers **On Demand** and **Just-in-time Registration** on the same registration page. Demio documents on-demand sessions for automated events, with no just-in-time option. Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **The full webinar, inside the same event.** EasyWebinar's **On Demand** plays the webinar's own recording from the evergreen schedule. StealthSeminar's in-event choice, Watch Yesterday's Replay, plays the previous session, and fully on-demand viewing is its own event type. Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
-- **Live sessions in the same account.** EasyWebinar runs live, simulive and evergreen webinars, with **On Demand** on the evergreen ones. eWebinar describes its webinars as running without anyone having to be there live. Compare [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Instant viewing that keeps your schedule.** EasyWebinar runs **On Demand** beside a daily or weekly **Recurring Schedule** on one webinar. [Livestorm's help centre says that once an on-demand registrant exists, you can't add more sessions](https://support.livestorm.co/article/104-create-on-demand-events). Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Now or in a few minutes.** EasyWebinar offers **On Demand** and **Just-in-time Registration** on the same registration page. [Demio documents on-demand sessions for automated events, with no just-in-time option](https://help.demio.com/en/articles/2303561-on-demand). Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **The full webinar, inside the same event.** EasyWebinar's **On Demand** plays the webinar's own recording from the evergreen schedule. [StealthSeminar's in-event choice, Watch Yesterday's Replay, plays the previous session](https://help.stealthseminarapp.com/article/161-how-do-i-create-an-automated-webinar), and [fully on-demand viewing is its own event type](https://help.stealthseminarapp.com/article/108-different-event-types). Compare [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Live sessions in the same account.** EasyWebinar runs live, simulive and evergreen webinars, with **On Demand** on the evergreen ones. [eWebinar describes its webinars as running without anyone having to be there live](https://ewebinar.com/automated-webinars). Compare [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

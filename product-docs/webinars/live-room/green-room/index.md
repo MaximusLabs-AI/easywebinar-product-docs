@@ -184,19 +184,19 @@ Green room features, from each platform's public documentation:
 | Platform | Private room before going live | Backstage before and during the session | Stream to several platforms at once |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Zoom** | Yes (Backstage) | Yes | Not in docs |
-| **ON24** | Yes (presenters backstage) | Partly (before the start) | Not in docs |
-| **Demio** | Not in docs | Not in docs | Yes |
-| **WebinarJam and EverWebinar** | Not in docs | Not in docs | Partly (one service chosen per webinar) |
+| **Zoom** | Yes ([Backstage](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058229)) | Yes ([detail](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058229)) | Not in docs |
+| **ON24** | Yes ([presenters backstage](https://support.on24.com/hc/en-us/articles/21420704476699-Webcast-Elite-Classic-Elite-Studio-User-Guide)) | Partly (before the start) | Not in docs |
+| **Demio** | Not in docs | Not in docs | Yes ([detail](https://help.demio.com/en/articles/15300057-restreaming-platforms)) |
+| **WebinarJam and EverWebinar** | Not in docs | Not in docs | Partly ([one service chosen per webinar](https://support.webinarjam.com/en/articles/15369978-choose-a-streaming-service-for-your-webinar)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for the green room {#compare-stronger}
 
-- **Guests held backstage during the session too.** In EasyWebinar, co-hosts and moderators land backstage and move to the stage and back as needed. ON24's guide describes presenters talking backstage before the webinar starts. More detail in [EasyWebinar vs ON24](https://easywebinar.com/compare/easywebinar-vs-on24/).
-- **A rehearsal room inside the webinar.** EasyWebinar's green room is the full webinar room in a **Not Live** state. Demio's help centre describes a waiting room for attendees, with no presenter green room documented. More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Several streams from one room.** EasyCast broadcasts to YouTube, LinkedIn or a custom RTMP destination at the same time, switched on in the green room. Zoom's help centre covers livestreaming webinars to YouTube, with no multi-destination streaming documented. More detail in [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
-- **Checks before the broadcast starts.** EasyWebinar keeps you in **Not Live** until you click **Go Live** and confirm. WebinarJam's help centre doesn't document a green room or backstage for presenters. More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Guests held backstage during the session too.** In EasyWebinar, co-hosts and moderators land backstage and move to the stage and back as needed. [ON24's guide describes presenters talking backstage before the webinar starts](https://support.on24.com/hc/en-us/articles/21420704476699-Webcast-Elite-Classic-Elite-Studio-User-Guide). More detail in [EasyWebinar vs ON24](https://easywebinar.com/compare/easywebinar-vs-on24/).
+- **A rehearsal room inside the webinar.** EasyWebinar's green room is the full webinar room in a **Not Live** state. [Demio's help centre describes a waiting room for attendees, with no presenter green room documented](https://help.demio.com/en/articles/3873760-waiting-room). More detail in [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Several streams from one room.** EasyCast broadcasts to YouTube, LinkedIn or a custom RTMP destination at the same time, switched on in the green room. [Zoom's help centre covers livestreaming webinars to YouTube, with no multi-destination streaming documented](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062284). More detail in [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
+- **Checks before the broadcast starts.** EasyWebinar keeps you in **Not Live** until you click **Go Live** and confirm. [WebinarJam's help centre doesn't document a green room or backstage for presenters](https://support.webinarjam.com/en/articles/15369979-stream-your-webinar-on-youtube-live). More detail in [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

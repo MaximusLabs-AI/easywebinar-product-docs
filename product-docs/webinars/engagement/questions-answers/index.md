@@ -188,20 +188,20 @@ Q&A features, from each platform's public documentation:
 | Platform | Question queue separate from chat | Public or private questions | Answered and unanswered counts in analytics | Same Q&A setting on live, simulive and evergreen |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **Livestorm** | Yes | Yes | Question count | Partly (advised off for on-demand) |
-| **Demio** | Partly (chat messages marked as questions) | Not in docs | Questions filter in chat analytics | Via chat on automated events |
-| **WebinarJam and EverWebinar** | Partly (chat messages marked as questions) | Not in docs | Questions in session logs | Partly (two separate products) |
-| **eWebinar** | Questions go through chat | Private chat only | Chat message counts | Automated only |
-| **StealthSeminar** | Partly (questions sent by email) | Not in docs | Replied filter on emailed questions | Yes (by email) |
+| **Livestorm** | Yes ([detail](https://support.livestorm.co/article/42-sidebar-event-room)) | Yes ([detail](https://support.livestorm.co/article/42-sidebar-event-room)) | [Question count](https://support.livestorm.co/article/129-data-analytics) | Partly ([advised off for on-demand](https://support.livestorm.co/article/104-create-on-demand-events)) |
+| **Demio** | Partly ([chat messages marked as questions](https://help.demio.com/en/articles/3586333-questions)) | Not in docs | [Questions filter in chat analytics](https://help.demio.com/en/articles/3525824-manage-chat-analytics) | [Via chat on automated events](https://help.demio.com/en/articles/2303559-automated-vs-standard-event) |
+| **WebinarJam and EverWebinar** | Partly ([chat messages marked as questions](https://support.webinarjam.com/en/articles/15370032-moderate-your-webinarjam-event-using-the-control-panel)) | Not in docs | [Questions in session logs](https://support.webinarjam.com/en/articles/15370037-review-webinar-session-logs-and-attendee-feedback) | Partly ([two separate products](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar)) |
+| **eWebinar** | Questions go through chat | [Private chat only](https://ewebinar.com/help/chat) | [Chat message counts](https://ewebinar.com/help/analytics-sections-explained) | [Automated only](https://ewebinar.com/help/what-best-practices-should-i-follow-when-recording-a-video-for-ewebinar) |
+| **StealthSeminar** | Partly ([questions sent by email](https://help.stealthseminarapp.com/article/312-how-does-qa-work)) | Not in docs | Replied filter on emailed questions | Yes (by email) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for Q&A {#compare-stronger}
 
-- **Questions start in their own queue.** EasyWebinar collects them in the room's **Question** panel. In Demio and WebinarJam, a question is a chat message that the host or a moderator marks as one. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **A public chat with private questions.** EasyWebinar sets chat and Q&A separately, so **Everyone** chat can run beside **Private Q&A**. eWebinar's help centre describes its chat as private, with questions answered through that chat. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **A count of the questions you missed.** EasyWebinar's **Analytics** shows questions asked and answered, with a **Not Answered Rate**. Livestorm's analytics dashboard lists the number of questions. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Questions stay in the webinar room.** EasyWebinar's Q&A queue lives in the room on live, simulive and evergreen webinars. StealthSeminar's Q&A is a message box that sends each question to you by email. See [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **Questions start in their own queue.** EasyWebinar collects them in the room's **Question** panel. In [Demio](https://help.demio.com/en/articles/3586333-questions) and [WebinarJam](https://support.webinarjam.com/en/articles/15370032-moderate-your-webinarjam-event-using-the-control-panel), a question is a chat message that the host or a moderator marks as one. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **A public chat with private questions.** EasyWebinar sets chat and Q&A separately, so **Everyone** chat can run beside **Private Q&A**. [eWebinar's help centre describes its chat as private, with questions answered through that chat](https://ewebinar.com/help/chat). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **A count of the questions you missed.** EasyWebinar's **Analytics** shows questions asked and answered, with a **Not Answered Rate**. [Livestorm's analytics dashboard lists the number of questions](https://support.livestorm.co/article/129-data-analytics). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Questions stay in the webinar room.** EasyWebinar's Q&A queue lives in the room on live, simulive and evergreen webinars. [StealthSeminar's Q&A is a message box that sends each question to you by email](https://help.stealthseminarapp.com/article/312-how-does-qa-work). See [EasyWebinar vs StealthSeminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

@@ -210,21 +210,21 @@ Poll features, from each platform's public documentation:
 | Platform | Launch polls in a live session | Polls on recorded webinars | AI writes the polls |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **eWebinar** | Automated only | Yes | Yes (from the video transcript) |
-| **WebinarJam and EverWebinar** | Yes | Partly (EverWebinar results preconfigured) | Not in docs |
-| **Demio** | Yes | Yes | Not in docs |
-| **Livestorm** | Yes | Not in docs | Not in docs |
-| **Zoom** | Yes | Partly (Webinars Plus or Events licence) | Not in docs |
-| **WebinarKit** | Yes | Yes | Not in docs |
+| **eWebinar** | [Automated only](https://ewebinar.com/help) | Yes ([detail](https://ewebinar.com/help/interactions-feature-guide)) | Yes ([from the video transcript](https://ewebinar.com/help/ai-generate-interactions-from-video)) |
+| **WebinarJam and EverWebinar** | Yes | Partly ([EverWebinar results preconfigured](https://support.webinarjam.com/en/articles/15370008-create-polls-for-your-webinar)) | Not in docs |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/3452008-resources-polls)) | Yes ([detail](https://help.demio.com/en/articles/2397335-managing-resources)) | Not in docs |
+| **Livestorm** | Yes ([detail](https://support.livestorm.co/article/42-sidebar-event-room)) | Not in docs | Not in docs |
+| **Zoom** | Yes ([detail](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066668)) | Partly ([Webinars Plus or Events licence](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068467)) | Not in docs |
+| **WebinarKit** | Yes ([detail](https://help.webinarkit.com/help/setting-up-and-running-live-webinars)) | Yes ([detail](https://help.webinarkit.com/help/using-the-webinar-watch-room-builder)) | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for polls {#compare-stronger}
 
-- **Polls written from your goals.** EasyWebinar's polls step asks what the polls are for, then writes five polls with a note on where each fits. eWebinar's AI drafts interactions from the video transcript instead. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **One set of polls for every webinar type.** EasyWebinar's live, simulive and evergreen webinars use the same polls. In EverWebinar, poll results are preconfigured, and no poll statistics come from attendee answers. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **Live and automated polls in one product.** eWebinar runs automated webinars only, so there is no live poll to launch. Livestorm's help docs don't describe polls in automated events. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Polls are part of the AI build.** EasyWebinar's **Create with AI** can include polls alongside the script, pages and emails. The help docs of Demio, Zoom and WebinarKit don't describe AI that writes polls. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Polls written from your goals.** EasyWebinar's polls step asks what the polls are for, then writes five polls with a note on where each fits. [eWebinar's AI drafts interactions from the video transcript](https://ewebinar.com/help/ai-generate-interactions-from-video) instead. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **One set of polls for every webinar type.** EasyWebinar's live, simulive and evergreen webinars use the same polls. [In EverWebinar, poll results are preconfigured, and no poll statistics come from attendee answers](https://support.webinarjam.com/en/articles/15370008-create-polls-for-your-webinar). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Live and automated polls in one product.** [eWebinar runs automated webinars only, so there is no live poll to launch](https://ewebinar.com/help). [Livestorm's help docs don't describe polls in automated events](https://support.livestorm.co/article/124-event-automation). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Polls are part of the AI build.** EasyWebinar's **Create with AI** can include polls alongside the script, pages and emails. The help docs of [Demio](https://help.demio.com/en/?q=AI), [Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066668) and [WebinarKit](https://help.webinarkit.com/help/webinarkit-ai-creator-suite) don't describe AI that writes polls. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

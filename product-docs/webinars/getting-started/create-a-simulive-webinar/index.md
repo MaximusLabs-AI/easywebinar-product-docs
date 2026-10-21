@@ -255,19 +255,19 @@ Simulive set-up, from each platform's public documentation:
 | Platform | Recording at set times, chat staffed live | Video hosted in the product | Past live session as the video | YouTube, Vimeo or Wistia link as the video |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **EverWebinar** | Yes (Hybrid mode) | External video required | Partly (needs WebinarJam subscription) | Yes |
-| **Demio** | Yes | Yes | Yes | Not in docs |
-| **Zoom** | Partly (extra licence needed) | Partly (extra licence needed) | Yes (cloud recordings) | Not in docs |
-| **eWebinar** | Yes (when a host is free) | Yes | Partly (Zoom cloud recordings only) | Yes |
+| **EverWebinar** | Yes ([Hybrid mode](https://everwebinar.com/simulated-live-webinar/)) | [External video required](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar) | Partly ([needs WebinarJam subscription](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event)) | Yes ([detail](https://support.webinarjam.com/en/articles/15369974-video-guide-set-up-your-automated-webinar-with-everwebinar)) |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) | Yes ([detail](https://help.demio.com/en/articles/3527840-creating-an-event)) | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) | Not in docs |
+| **Zoom** | Partly ([extra licence needed](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058205)) | Partly ([extra licence needed](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0057928)) | Yes (cloud recordings) | Not in docs |
+| **eWebinar** | Yes ([when a host is free](https://ewebinar.com/help/chat)) | Yes ([detail](https://ewebinar.com/help/category/plan-script-record)) | Partly ([Zoom cloud recordings only](https://ewebinar.com/help/what-is-ewebinars-integration-with-zoom-and-how-do-i-set-it-up)) | Yes ([detail](https://ewebinar.com/help/what-kinds-of-video-does-ewebinar-support)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for simulive webinars {#compare-stronger}
 
-- **The video lives with the webinar.** With **Local import**, EasyWebinar stores and serves the file, so no YouTube or Vimeo account is involved. EverWebinar's help centre lists an external video as its primary source. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
-- **Your live sessions become content.** The **Recordings** filter on the video step lists your past EasyWebinar sessions. EverWebinar needs an active WebinarJam subscription to import a live session. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **No add-on licence.** **Simulive Webinar** is one of the three type cards in EasyWebinar's create dialog. Zoom's simulive needs a Zoom Events or Zoom Webinars Plus licence on top of a webinar licence. See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
-- **Recordings from your own room.** EasyWebinar reuses recordings made in its own live room. eWebinar builds from imported Zoom cloud recordings. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The video lives with the webinar.** With **Local import**, EasyWebinar stores and serves the file, so no YouTube or Vimeo account is involved. [EverWebinar's help centre lists an external video as its primary source](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar). See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
+- **Your live sessions become content.** The **Recordings** filter on the video step lists your past EasyWebinar sessions. [EverWebinar needs an active WebinarJam subscription to import a live session](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No add-on licence.** **Simulive Webinar** is one of the three type cards in EasyWebinar's create dialog. [Zoom's simulive needs a Zoom Events or Zoom Webinars Plus licence on top of a webinar licence](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058205). See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/).
+- **Recordings from your own room.** EasyWebinar reuses recordings made in its own live room. [eWebinar builds from imported Zoom cloud recordings](https://ewebinar.com/help/what-is-ewebinars-integration-with-zoom-and-how-do-i-set-it-up). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

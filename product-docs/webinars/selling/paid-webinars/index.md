@@ -237,21 +237,21 @@ Paid registration features, from each platform's public documentation:
 | Platform | Pay and register in one step | Replay access sold at its own price | Every payment listed against the webinar |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Zoom** (Zoom Events and Webinars Plus) | Yes | Complimentary with the ticket | Yes |
-| **WebinarJam and EverWebinar** | Partly (form to fill after paying) | Not in docs | Partly (host-entered fee amount) |
-| **Livestorm** | Partly (Pages & Hubs pages only) | Not in docs | Partly (Paid column per registrant) |
-| **WebinarNinja** | Yes | Not in docs | Not in docs |
-| **Demio** | Via Zapier | Not in docs | Not in docs |
-| **eWebinar** | Third-party checkout | Not in docs | Not in docs |
+| **Zoom** (Zoom Events and Webinars Plus) | Yes ([detail](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059666)) | [Complimentary with the ticket](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067155) | Yes ([detail](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068995)) |
+| **WebinarJam and EverWebinar** | Partly ([form to fill after paying](https://support.webinarjam.com/en/articles/15370022-set-up-paid-registration-for-your-webinar)) | Not in docs | Partly ([host-entered fee amount](https://support.webinarjam.com/en/articles/15370022-set-up-paid-registration-for-your-webinar)) |
+| **Livestorm** | Partly (Pages & Hubs pages only) | Not in docs | Partly ([Paid column per registrant](https://support.livestorm.co/article/paid-registration)) |
+| **WebinarNinja** | Yes ([detail](https://help.webinarninja.com/create-a-paid-webinar)) | Not in docs | Not in docs |
+| **Demio** | [Via Zapier](https://help.demio.com/en/articles/1161209-can-i-run-a-paid-event) | Not in docs | Not in docs |
+| **eWebinar** | [Third-party checkout](https://ewebinar.com/help/webinars-for-purchase) | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for paid webinars {#compare-stronger}
 
-- **One flow, no second form.** EasyWebinar registers the buyer as soon as payment succeeds. WebinarJam and EverWebinar send buyers back to a registration form, and their PayPal guide warns that people aren't registered until they complete it. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **A priced replay option.** EasyWebinar's **Live + Replay bundle** sells the recording as a second option with its own price. Zoom's replay access is complimentary viewing included with the ticket. WebinarNinja's help centre says multiple pricing levels aren't supported. See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/) and [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
-- **Every payment in one list.** EasyWebinar's **Paid Webinar** view lists each transaction with its status. Livestorm's help pages describe a Paid column per registrant, with no revenue total for the event. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Native, not a workaround.** Demio's help centre points to a Zapier workflow in place of a native paid webinar feature. EasyWebinar's paid registration is a step in creating the webinar. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **One flow, no second form.** EasyWebinar registers the buyer as soon as payment succeeds. WebinarJam and EverWebinar send buyers back to a registration form, and [their PayPal guide warns that people aren't registered until they complete it](https://support.webinarjam.com/en/articles/15370023-set-up-paid-webinar-registration-with-paypal). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **A priced replay option.** EasyWebinar's **Live + Replay bundle** sells the recording as a second option with its own price. [Zoom's replay access is complimentary viewing included with the ticket](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067155). [WebinarNinja's help centre says multiple pricing levels aren't supported](https://help.webinarninja.com/create-a-paid-webinar). See [EasyWebinar vs Zoom](https://easywebinar.com/compare/easywebinar-vs-zoom/) and [EasyWebinar vs WebinarNinja](https://easywebinar.com/compare/easywebinar-vs-webinar-ninja/).
+- **Every payment in one list.** EasyWebinar's **Paid Webinar** view lists each transaction with its status. [Livestorm's help pages describe a Paid column per registrant, with no revenue total for the event](https://support.livestorm.co/article/paid-registration). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Native, not a workaround.** [Demio's help centre points to a Zapier workflow in place of a native paid webinar feature](https://help.demio.com/en/articles/1161209-can-i-run-a-paid-event). EasyWebinar's paid registration is a step in creating the webinar. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

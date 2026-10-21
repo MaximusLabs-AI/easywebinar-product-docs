@@ -253,20 +253,20 @@ Course-selling webinar features, from each platform's public documentation (Kaja
 | Platform | Live and automated webinars in one product | Offer shown inside the room | Countdown on the offer |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Kajabi** | Webinar hosted elsewhere | Not in docs | Not in docs |
-| **WebinarJam and EverWebinar** | Partly (two separate products) | Yes | Yes |
-| **Demio** | Yes | Yes | Not in docs |
-| **WebinarKit** | Partly (live sold separately) | Yes | Partly (claimed on product page) |
-| **eWebinar** | Partly (recorded webinars only) | Yes | Partly (one documented example) |
+| **Kajabi** | [Webinar hosted elsewhere](https://help.kajabi.com/en/articles/17175213-funnel-templates) | Not in docs | Not in docs |
+| **WebinarJam and EverWebinar** | Partly ([two separate products](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar)) | Yes ([detail](https://support.webinarjam.com/en/articles/15370007-add-product-offers-to-your-webinar)) | Yes ([detail](https://support.webinarjam.com/en/articles/15370007-add-product-offers-to-your-webinar)) |
+| **Demio** | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) | Yes ([detail](https://help.demio.com/en/articles/3442463-resources-featured-action-call-to-action)) | Not in docs |
+| **WebinarKit** | Partly ([live sold separately](https://help.webinarkit.com/help/how-to-build-an-autowebinar-funnel-with-webinarkit)) | Yes ([detail](https://help.webinarkit.com/help/using-the-webinar-watch-room-builder)) | Partly ([claimed on product page](https://www.getwebinarkit.com/live/)) |
+| **eWebinar** | Partly ([recorded webinars only](https://ewebinar.com/ai-info)) | Yes ([detail](https://ewebinar.com/help/interactions-feature-guide)) | Partly ([one documented example](https://ewebinar.com/help/interactions-feature-guide)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for selling courses {#compare-stronger}
 
-- **Live and automated in one place.** EasyWebinar can run the same course webinar live, simulive or evergreen. eWebinar runs recorded sessions, so it covers the automated half of a launch. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **The pitch happens in the room.** EasyWebinar shows the enrolment offer during the session. Kajabi's Zoom funnel makes the pitch afterwards, through follow-up emails that link to the sales page. See [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
-- **A deadline on the offer itself.** EasyWebinar's offer editor has a **Countdown timer** switch. Demio's help docs describe no countdown on a Featured Action. WebinarKit's offer countdown appears on its product page, not in its help docs. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
-- **Your setup comes with you.** Clone a live webinar as **Evergreen** and its offers, polls and emails can come too. Demio's **Create On-Demand** makes a new automated event, but the original settings aren't copied. EverWebinar's import of a past WebinarJam session needs an active WebinarJam subscription. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Live and automated in one place.** EasyWebinar can run the same course webinar live, simulive or evergreen. [eWebinar runs recorded sessions](https://ewebinar.com/ai-info), so it covers the automated half of a launch. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **The pitch happens in the room.** EasyWebinar shows the enrolment offer during the session. [Kajabi's Zoom funnel makes the pitch afterwards, through follow-up emails that link to the sales page](https://help.kajabi.com/en/articles/17175224-set-up-a-zoom-webinar-funnel). See [EasyWebinar vs Kajabi](https://easywebinar.com/compare/easywebinar-vs-kajabi/).
+- **A deadline on the offer itself.** EasyWebinar's offer editor has a **Countdown timer** switch. [Demio's help docs describe no countdown on a Featured Action](https://help.demio.com/en/articles/3442463-resources-featured-action-call-to-action). [WebinarKit's offer countdown appears on its product page, not in its help docs](https://www.getwebinarkit.com/live/). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/) and [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
+- **Your setup comes with you.** Clone a live webinar as **Evergreen** and its offers, polls and emails can come too. [Demio's **Create On-Demand** makes a new automated event, but the original settings aren't copied](https://help.demio.com/en/articles/8176433-convert-event-recording-to-on-demand-session). [EverWebinar's import of a past WebinarJam session needs an active WebinarJam subscription](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

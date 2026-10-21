@@ -261,20 +261,20 @@ Evergreen features, from each platform's public documentation:
 | Platform | Just-in-time, on-demand and set times in one webinar | Hosts the video itself | Live webinars in the same product |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **EverWebinar** | Yes | External video required | Separate product (WebinarJam) |
-| **eWebinar** | Yes | Yes | Not in docs |
-| **StealthSeminar** | Partly (on-demand as yesterday's replay) | Yes | Via YouTube Live or Twitch |
-| **Demio** | Partly (just-in-time not in docs) | Yes | Yes |
-| **Livestorm** | Partly (on-demand can't be recurring) | Yes | Yes |
+| **EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15370041-schedule-your-webinar-in-everwebinar)) | [External video required](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar) | [Separate product (WebinarJam)](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar) |
+| **eWebinar** | Yes ([detail](https://ewebinar.com/help/schedule-event-types)) | Yes ([detail](https://ewebinar.com/help/what-kinds-of-video-does-ewebinar-support)) | Not in docs |
+| **StealthSeminar** | Partly ([on-demand as yesterday's replay](https://help.stealthseminarapp.com/article/261-can-i-add-a-watch-yesterdays-replay-option-to-my-event)) | Yes ([detail](https://help.stealthseminarapp.com/article/287-where-can-i-host-my-webinar-video)) | [Via YouTube Live or Twitch](https://help.stealthseminarapp.com/article/123-how-do-i-set-up-a-live-or-hybrid-webinar) |
+| **Demio** | Partly ([just-in-time not in docs](https://help.demio.com/en/articles/3829686-scheduling-an-event)) | Yes ([detail](https://help.demio.com/en/articles/3527840-creating-an-event)) | Yes ([detail](https://help.demio.com/en/articles/2303559-automated-vs-standard-event)) |
+| **Livestorm** | Partly ([on-demand can't be recurring](https://support.livestorm.co/article/104-create-on-demand-events)) | Yes | Yes |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for evergreen webinars {#compare-stronger}
 
-- **All three ways to watch in one webinar.** EasyWebinar offers just-in-time, On Demand and set times together on one page. Livestorm says recurring events can't be set up on-demand, and Demio's public docs show no just-in-time option. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/) and [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Video hosting in the same flow.** With **Local import**, EasyWebinar hosts the video itself, so you don't need a YouTube or Vimeo account. EverWebinar's help centre says an external video source is required. See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
-- **From live to evergreen in one product.** EasyWebinar lists recordings of your past webinars under **Recordings** when you pick the video. EverWebinar can import a past WebinarJam session if the same account has an active WebinarJam subscription. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **Live webinars built in.** EasyWebinar runs live, simulive and evergreen webinars from one account. eWebinar's public docs show no live video broadcast, and StealthSeminar streams live video in from YouTube Live or Twitch. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) and [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
+- **All three ways to watch in one webinar.** EasyWebinar offers just-in-time, On Demand and set times together on one page. [Livestorm says recurring events can't be set up on-demand](https://support.livestorm.co/article/104-create-on-demand-events), and [Demio's public docs show no just-in-time option](https://help.demio.com/en/articles/3829686-scheduling-an-event). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/) and [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Video hosting in the same flow.** With **Local import**, EasyWebinar hosts the video itself, so you don't need a YouTube or Vimeo account. [EverWebinar's help centre says an external video source is required](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar). See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
+- **From live to evergreen in one product.** EasyWebinar lists recordings of your past webinars under **Recordings** when you pick the video. [EverWebinar can import a past WebinarJam session if the same account has an active WebinarJam subscription](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Live webinars built in.** EasyWebinar runs live, simulive and evergreen webinars from one account. [eWebinar's public docs show no live video broadcast](https://ewebinar.com/automated-webinars), and [StealthSeminar streams live video in from YouTube Live or Twitch](https://help.stealthseminarapp.com/article/123-how-do-i-set-up-a-live-or-hybrid-webinar). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) and [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

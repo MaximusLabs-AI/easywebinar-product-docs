@@ -189,19 +189,19 @@ People list features, from each platform's public documentation:
 | Platform | One list across every webinar | Filter by watch time and offer clicks | Campaign source (UTM) per person | Export the filtered list |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **Demio** | Partly (inside each event's activity) | Partly (attended or no-show) | Yes (UTM data in registrant export) | Yes (CSV by email) |
-| **Livestorm** | Yes (People page export) | Partly (filter by session) | Partly (source, medium and campaign) | Yes (current view) |
-| **WebinarJam and EverWebinar** | Yes (registrants from all events) | Partly (attended, replay or purchase) | Partly (through an API call) | Yes |
-| **eWebinar** | Yes (with Universal Dashboard) | Not in docs | Yes (tracked per registrant) | Yes (filtered date range) |
+| **Demio** | Partly ([inside each event's activity](https://help.demio.com/en/articles/3344029-people-overview)) | Partly (attended or no-show) | Yes ([UTM data in registrant export](https://help.demio.com/en/articles/5455398-source-tracking-for-registrations)) | Yes ([CSV by email](https://help.demio.com/en/articles/7981762-data-export)) |
+| **Livestorm** | Yes ([People page export](https://support.livestorm.co/article/15-export-event-data)) | Partly ([filter by session](https://support.livestorm.co/article/15-export-event-data)) | Partly ([source, medium and campaign](https://support.livestorm.co/article/export-registrants)) | Yes (current view) |
+| **WebinarJam and EverWebinar** | Yes ([registrants from all events](https://support.webinarjam.com/en/articles/15370125-2025-mar-13-webinarjam-7-25-4-release-notes)) | Partly ([attended, replay or purchase](https://support.webinarjam.com/en/articles/15370012-view-and-manage-webinar-registrants)) | Partly ([through an API call](https://support.webinarjam.com/en/articles/15370049-track-webinar-registrations-using-utm-parameters)) | Yes |
+| **eWebinar** | Yes ([with Universal Dashboard](https://ewebinar.com/help/kpi-glossary)) | Not in docs | Yes ([tracked per registrant](https://ewebinar.com/help/affiliate-tracking)) | Yes ([filtered date range](https://ewebinar.com/help/ewebinar-analytics)) |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for the People view {#compare-stronger}
 
-- **Filters on how people watched.** EasyWebinar's **Behavior** filter covers attendance, watch time and offer clicks. WebinarJam's registrant filter covers who attended, watched the replay or made a purchase. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
-- **One table for every webinar.** **People** sits in the sidebar and spans all your webinars. Demio's People section sits under each event's activity. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Every UTM value you capture.** **Source & UTM** filters the table by the campaign that brought each person. Livestorm's registrant export says utm_term and utm_content are not exported. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Watch time as a filter.** EasyWebinar filters people by watch time and offer clicks. eWebinar's help centre doesn't describe filtering people by watch time. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Filters on how people watched.** EasyWebinar's **Behavior** filter covers attendance, watch time and offer clicks. [WebinarJam's registrant filter covers who attended, watched the replay or made a purchase](https://support.webinarjam.com/en/articles/15370012-view-and-manage-webinar-registrants). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **One table for every webinar.** **People** sits in the sidebar and spans all your webinars. [Demio's People section sits under each event's activity](https://help.demio.com/en/articles/3344029-people-overview). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Every UTM value you capture.** **Source & UTM** filters the table by the campaign that brought each person. [Livestorm's registrant export says utm_term and utm_content are not exported](https://support.livestorm.co/article/export-registrants). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Watch time as a filter.** EasyWebinar filters people by watch time and offer clicks. [eWebinar's help centre doesn't describe filtering people by watch time](https://ewebinar.com/help/ewebinar-analytics). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

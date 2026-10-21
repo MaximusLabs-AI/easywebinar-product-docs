@@ -210,19 +210,19 @@ CRM features, from each platform's public documentation:
 | Platform | Tags by what attendees did | Join link sent to a CRM field | Own CRM in the same product |
 |---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes |
-| **Demio** | Yes (segment by behaviour) | Yes (Unique Join Link) | Not in docs |
-| **Livestorm** | Partly (registrant and attendee data) | Yes (connection link) | Not in docs |
-| **WebinarJam and EverWebinar** | Yes (attended, missed, left early) | Yes (live room link) | Not in docs |
-| **eWebinar** | Yes (trigger-based tags) | Yes (join links) | Not in docs |
+| **Demio** | Yes ([segment by behaviour](https://help.demio.com/en/articles/2953788-setting-up-an-integration)) | Yes ([Unique Join Link](https://help.demio.com/en/articles/5651907-integrate-with-hubspot)) | Not in docs |
+| **Livestorm** | Partly ([registrant and attendee data](https://support.livestorm.co/article/connect-livestorm-hubspot)) | Yes ([connection link](https://support.livestorm.co/article/map-fields-between-livestorm-salesforce)) | Not in docs |
+| **WebinarJam and EverWebinar** | Yes ([attended, missed, left early](https://support.webinarjam.com/en/articles/15369997-create-autoresponder-automation-rules-for-your-webinar)) | Yes ([live room link](https://support.webinarjam.com/en/articles/15370089-2026-apr-6-webinarjam-8-17-0-release-notes)) | Not in docs |
+| **eWebinar** | Yes ([trigger-based tags](https://ewebinar.com/help/integrate-ewebinar-with-crm)) | Yes ([join links](https://ewebinar.com/help/category/integrations/crm-setup)) | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for CRM mapping {#compare-stronger}
 
-- **A CRM in the same product.** EasyCRM is EasyWebinar's own CRM and connects to a webinar like any other integration. Demio's integration guide has you connect an outside account in your User settings, and no Demio CRM is documented. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **Tags for how long people stayed.** EasyWebinar's **Stayed on webinar at least** and **Watched full** each apply their own tag. Livestorm's HubSpot article describes sending registrant and attendee data to HubSpot. See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Tags without a separate tool.** EasyWebinar's **When**, **Then** and **Value** choices tag contacts directly from the webinar. eWebinar's CRM guide also covers connecting products it doesn't integrate with directly through Zapier. See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
-- **Points in the session you choose.** EasyWebinar's **Joined webinar after** and **Left webinar before** let you set the point in the session. WebinarJam's trigger examples include leaving early, evaluated after the session concludes. See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **A CRM in the same product.** EasyCRM is EasyWebinar's own CRM and connects to a webinar like any other integration. [Demio's integration guide has you connect an outside account in your User settings](https://help.demio.com/en/articles/2953788-setting-up-an-integration), and no Demio CRM is documented. See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **Tags for how long people stayed.** EasyWebinar's **Stayed on webinar at least** and **Watched full** each apply their own tag. [Livestorm's HubSpot article describes sending registrant and attendee data to HubSpot](https://support.livestorm.co/article/connect-livestorm-hubspot). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Tags without a separate tool.** EasyWebinar's **When**, **Then** and **Value** choices tag contacts directly from the webinar. [eWebinar's CRM guide also covers connecting products it doesn't integrate with directly through Zapier](https://ewebinar.com/help/integrate-ewebinar-with-crm). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).
+- **Points in the session you choose.** EasyWebinar's **Joined webinar after** and **Left webinar before** let you set the point in the session. [WebinarJam's trigger examples include leaving early, evaluated after the session concludes](https://support.webinarjam.com/en/articles/15369997-create-autoresponder-automation-rules-for-your-webinar). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 

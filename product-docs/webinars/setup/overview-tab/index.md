@@ -249,18 +249,18 @@ Webinar management features, from each platform's public documentation:
 | Platform | Join links for guest presenters | One-click registration link | Revenue shown for the webinar | Cancelled sessions kept on their own list |
 |---|---|---|---|---|
 | **EasyWebinar** | Yes | Yes | Yes | Yes |
-| **WebinarJam and EverWebinar** | Yes | Yes | Yes | Not in docs |
-| **WebinarKit** | Yes | Yes | Yes | Not in docs |
-| **Demio** | Yes (guest presenters and moderators) | Yes | Not in docs | Not in docs |
-| **Livestorm** | Yes (unique speaker links) | Not in docs | Not in docs | Not in docs |
+| **WebinarJam and EverWebinar** | Yes ([detail](https://support.webinarjam.com/en/articles/15369975-run-your-first-webinar-in-webinarjam)) | Yes ([detail](https://support.webinarjam.com/en/articles/15370013-ways-to-register-attendees-for-a-webinar)) | Yes ([detail](https://support.webinarjam.com/en/articles/15369974-video-guide-set-up-your-automated-webinar-with-everwebinar)) | Not in docs |
+| **WebinarKit** | Yes ([detail](https://help.webinarkit.com/help/how-to-host-multiple-presenters-guest-presenters-on-your-webinar)) | Yes ([detail](https://help.webinarkit.com/help/how-to-use-one-click-registration-links-for-your-events)) | Yes ([detail](https://help.webinarkit.com/help/collecting-payments-for-paid-webinars-and-other-products)) | Not in docs |
+| **Demio** | Yes ([guest presenters and moderators](https://help.demio.com/en/articles/6374918-event-room-roles-and-permissions)) | Yes ([detail](https://help.demio.com/en/articles/2297199-registration-overview)) | Not in docs | Not in docs |
+| **Livestorm** | Yes ([unique speaker links](https://support.livestorm.co/article/206-sign-in)) | Not in docs | Not in docs | Not in docs |
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
 ### Why EasyWebinar is the stronger choice for the Overview tab {#compare-stronger}
 
-- **Known contacts register in one click.** EasyWebinar's **One-Click Registration Link** carries a contact's name and email in the URL. Livestorm's help centre documents sharing the registration page, with no one-click registration link. Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
-- **Revenue beside registrations.** EasyWebinar's Overview shows **Revenue** next to **Registrants** and attendance. Demio's help centre doesn't document a revenue figure for a webinar. Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
-- **A record of called-off sessions.** EasyWebinar keeps cancelled sittings on a **Cancelled** tab so the webinar's history stays intact. WebinarJam's help centre doesn't document a list of cancelled sessions. Compare [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **Known contacts register in one click.** EasyWebinar's **One-Click Registration Link** carries a contact's name and email in the URL. [Livestorm's help centre documents sharing the registration page, with no one-click registration link](https://support.livestorm.co/article/70-invite-people-to-your-event). Compare [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
+- **Revenue beside registrations.** EasyWebinar's Overview shows **Revenue** next to **Registrants** and attendance. [Demio's help centre doesn't document a revenue figure for a webinar](https://help.demio.com/en/articles/2297199-registration-overview). Compare [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
+- **A record of called-off sessions.** EasyWebinar keeps cancelled sittings on a **Cancelled** tab so the webinar's history stays intact. [WebinarJam's help centre doesn't document a list of cancelled sessions](https://support.webinarjam.com/en/articles/15369975-run-your-first-webinar-in-webinarjam). Compare [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
