@@ -1,0 +1,32 @@
+{
+ "/product-docs/images/screens/easycrm-broadcasts/step-01-broadcasts.webp": {
+  "height": 946,
+  "id": "EW-SC-033",
+  "width": 1440
+ },
+ "/product-docs/images/screens/easycrm-sending/step-01-configurations.webp": {
+  "height": 946,
+  "id": "EW-SC-039",
+  "width": 1440
+ },
+ "/product-docs/images/screens/easycrm-workflows/step-01-workflows.webp": {
+  "height": 946,
+  "id": "EW-SC-042",
+  "width": 1440
+ },
+ "/product-docs/images/screens/sms-notifications/step-01-sms-builder.webp": {
+  "height": 946,
+  "id": "EW-SC-064",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-analytics-section/step-01-overview.webp": {
+  "height": 946,
+  "id": "EW-SC-071",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-notifications-section/step-01-emails.webp": {
+  "height": 946,
+  "id": "EW-SC-082",
+  "width": 1440
+ }
+}
