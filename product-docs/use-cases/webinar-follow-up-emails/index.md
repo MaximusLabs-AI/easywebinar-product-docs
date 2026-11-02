@@ -75,6 +75,34 @@ The last row needs care. A fixed date can't be true for everyone when people wat
 
 Three emails per group is enough for most sessions. If you can only write two, keep the first and the last. The first delivers what people signed up for, and the last tells them what is about to close. For more on how the wider sequence fits together, read our guide to [webinar retention and post-webinar follow-up](https://easywebinar.com/blog/webinar-retention-strategies-for-post-webinar-follow-up/).
 
+## What makes a webinar follow-up email work {#how-they-work}
+
+Usability research hasn't studied webinar follow-ups as such, but it has tested how people handle email. Five findings apply directly to what you're writing today. Some of this research is old, so each one carries its date, and the studies looked at other kinds of email.
+
+### A sender people recognise {#sender}
+
+In [Nielsen Norman Group's 2008 study of transactional email](https://www.nngroup.com/articles/transactional-and-confirmation-email/), an unrecognised sender was the main reason people gave for leaving a message unread. The study also advises a descriptive sender name alongside the address. So use the name people saw when they registered, whether that's yours or your company's.
+
+### A subject line that says what's inside {#subject-line}
+
+[Nielsen Norman Group's 2014 subject line guidance](https://www.nngroup.com/articles/email-subject-lines/) puts the useful words first and recommends about 40 characters, because inboxes cut long lines off. It also advises against putting the recipient's name in the subject. That's why the templates on this page start with the replay, the course or the deadline. If your webinar title is long, use a shorter version.
+
+### What the reader came for, first {#reader-first}
+
+The 2008 study's guidance is to [start with what matters most to the reader](https://www.nngroup.com/articles/transactional-and-confirmation-email/). It warns that email opening with marketing risks being deleted before people reach what they need. A person who registered came for the session, so the replay link sits above the offer in these templates.
+
+### Few messages, each with its own job {#few-messages}
+
+The same study found that spreading one transaction across too many messages caused problems: people lost track and overlooked what mattered. Follow-ups aren't transactions, but the lesson carries over. That's the reason for stopping at about three emails per group, each with one next step.
+
+### A quick first message {#quick-first}
+
+A 2011 Harvard Business Review article on online sales enquiries reported that [most companies weren't responding nearly fast enough](https://hbr.org/2011/03/the-short-life-of-online-sales-leads). It looked at companies handling online queries, not webinars, and it's an old study. Registering is still a similar first move, which is one more reason to send your first email today.
+
+### What you control in EasyWebinar {#what-you-control}
+
+EasyWebinar gives you each of these controls on the webinar itself. **Email Settings** holds the **Sender name** and **Reply-to email**. Each email has its own subject, content, timing and audience.
+
 ## Write them in this order if you're sending today {#write-today}
 
 You don't need to write these in the order they send. This order gets the most important messages finished first.
@@ -88,13 +116,13 @@ You don't need to write these in the order they send. This order gets the most i
 
 ## Webinar follow-up email templates for attendees {#attendee-emails}
 
-Each template below is a complete email. Replace the words in square brackets, then cut anything that doesn't sound like you. The examples assume a course offer, and the table further down shows what to swap for other kinds of webinar.
+Each template below is a complete email. Replace the words in square brackets, then cut anything that doesn't sound like you. Any version that promotes your offer also needs the opt-out notice and postal address described under What the law says, below. The examples assume a course offer, and the table further down shows what to swap for other kinds of webinar.
 
 ### Thank-you email after a webinar {#attendee-thank-you}
 
 Send this right after the session, to attendees only. Its job is to thank them once, give them the replay and show them one next step.
 
-> **Subject:** Thanks for coming to [webinar title]. Your replay is inside.
+> **Subject:** Your [webinar title] replay, and thanks for coming
 >
 > Hi [first name],
 >
@@ -152,7 +180,7 @@ Yes, no-shows should get a different email from attendees. They signed up and so
 
 Send this right after the session. Its job is to hand over the recording and say how long it lasts.
 
-> **Subject:** Sorry we missed you. Here's the [webinar title] replay.
+> **Subject:** [Webinar title] replay: sorry we missed you
 >
 > Hi [first name],
 >
@@ -168,7 +196,7 @@ Send this right after the session. Its job is to hand over the recording and say
 
 Send this a day later. Its job is to make the recording feel smaller, because a full session is a big ask on a busy day. Point to one moment instead.
 
-> **Subject:** The part of [webinar title] I'd watch first
+> **Subject:** [Webinar title]: the part I'd watch first
 >
 > Hi [first name],
 >
@@ -186,7 +214,7 @@ Only use "the part people asked about most" if it's true. Your chat and question
 
 Send this the day before the replay closes. Its job is to give a plain reason to watch now. It works best when the offer sits on the replay page itself, which the **Webinar Replica** option provides.
 
-> **Subject:** The [webinar title] replay closes on [day]
+> **Subject:** Replay closes [day]: [webinar title]
 >
 > Hi [first name],
 >
@@ -228,7 +256,7 @@ This sends on the action, so it can arrive while the person is still deciding. W
 
 Send this a day later. Its job is to tell people what they missed, without commenting on the fact that they left.
 
-> **Subject:** What came after the first half of [webinar title]
+> **Subject:** [Webinar title]: what came after the first half
 >
 > Hi [first name],
 >
@@ -266,6 +294,47 @@ These are the errors that come from writing fast on the day of a session.
 - **Pitching people who already bought.** That's why the last-call templates above carry a line for buyers. It costs one sentence and saves an awkward reply.
 - **A reply line nobody reads.** People do reply to webinar emails, so set the reply-to address to an inbox someone checks.
 - **Repeating your reminders.** The [reminder emails you sent before the session](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/reminder-emails/) were about turning up. Follow-ups should talk about what happens next.
+
+## What the law says about follow-up emails {#the-law}
+
+Whether you may send a follow-up depends on where you and your registrants are. This summary reflects the sources as we read them on 2 November 2026, and it isn't legal advice. An email that promotes your course is the kind these rules are written for, so check your attendee and last-call emails first.
+
+### United States: a way to opt out {#law-opt-out}
+
+The CAN-SPAM Act requires a commercial email to carry [a "clear and conspicuous notice"](https://www.law.cornell.edu/uscode/text/15/7704) that people can decline further messages. Once someone asks, you have 10 business days to stop sending them commercial email. Put a visible unsubscribe line at the foot of every follow-up that pitches something.
+
+### United States: a postal address and an honest subject {#law-address-subject}
+
+The same section requires [a valid physical postal address](https://www.law.cornell.edu/uscode/text/15/7704) in commercial email. It also prohibits a subject line you know is likely to mislead a reader about the message. So "Replay closes Friday" is only safe to send if the replay really closes on Friday. Check each email for both, and add them if they aren't there.
+
+### United Kingdom: a stated purpose {#law-uk}
+
+UK data protection rules say personal data must be [used for "specified, explicit purposes"](https://www.gov.uk/data-protection), and used fairly and transparently. A replay email is what people expect after registering for a session. An unrelated promotion is harder to justify, so say on your registration form what else you'll send. **GDPR Compliance** on the [registration form adds a consent checkbox](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/custom-fields/#gdpr-consent) that you word yourself.
+
+## How to send webinar follow-up emails by hand {#by-hand}
+
+If your webinar ran somewhere with no follow-up settings, the job looks like this.
+
+1. Download the list of registrants and the attendance report from the tool that ran your webinar.
+2. Match the two lists to sort people into attended and missed.
+3. Note who clicked your offer and who has already bought, if your tools record it.
+4. Import each group into your email tool as its own list.
+5. Paste the replay link into each email, and schedule the first email, the day-after email and the last call for each list.
+6. Do it all again after your next session, with new dates and links.
+
+The cost is time on the day you can least spare it, and the lists start to age the moment you export them. Someone who watches the replay this evening still gets tomorrow's "you missed it" email.
+
+### The same job in EasyWebinar {#same-job}
+
+| By hand | In EasyWebinar |
+|---|---|
+| Match registrants against attendance | **Missed** and **Live Attended** are counted for you on the **Analytics** tab |
+| Build a separate list for each group | Choose the audience on each **Webinar Follow-up** |
+| Find who clicked your offer | **Attendee Action Follow-ups**, or filter **People** and use **Export** |
+| Schedule each email in another tool | Set each email's timing on the **Notifications** tab |
+| Rebuild it for the next session | Clone the webinar and update the dates and links |
+
+The full steps are in the next section.
 
 ## Schedule your follow-ups in EasyWebinar {#build-it}
 
@@ -311,6 +380,8 @@ Follow-ups belong to one webinar, so your next session needs its own set. [Cloni
 ### If you run the sequence in EasyCRM {#workflows}
 
 If you'd rather run follow-ups as an automated sequence, [EasyCRM](https://easywebinar.com/easycrm/) has **Workflows**. Our guide to [automating webinar follow-ups with CRM tools](https://easywebinar.com/blog/how-to-automate-webinar-follow-ups-with-crm-tools/) walks through the thinking. The simplest version gives attendees one message and no-shows the replay, and it runs after every webinar.
+
+EasyCRM is optional. If you already use a tool such as HubSpot or ActiveCampaign, keep it, and connect it on your webinar's **Integrations** tab so it can tag who attended and who missed.
 
 <figure>
 
@@ -358,6 +429,31 @@ Judge a follow-up by what people did next. Open the webinar's [**Analytics** tab
 | **Views to Clicks** and **Clicks to Purchases** | Whether the offer or the checkout is losing people |
 
 The [**People** view](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/) shows the individuals behind those numbers. Filter by **Behavior → no-show** for one webinar to see who still needs the replay. Filter by high watch time plus offer clicked to find people who were interested and didn't buy, then check their **Replay watch percentage** before you write to them again.
+
+### How far to trust these numbers {#measure-limits}
+
+The useful measures for this job are the ones that show someone taking the next step: watching the replay, clicking the offer in the room, and buying. They have weak spots, so read them with care.
+
+- **They count people, not emails.** **Replay Watched** tells you someone watched. It can't show on its own which email brought them back.
+- **Deadlines bunch the activity.** A rush just before the replay closes could come from the last call, the deadline itself or both.
+- **Small lists swing.** On a list of 50, three extra purchases can look like a big change. Look across several webinars before you rewrite a template.
+- **Change one thing at a time.** Between webinars, keep the schedule steady while you change one email, and keep the same date range. The range applies to everything on the page, so a different one will skew the comparison.
+
+## Worked example: sizing your follow-up lists {#worked-example}
+
+This is an illustrative calculation with sample figures, not an EasyWebinar output. Take the watercolour class from earlier, with 200 registrants, and the send plan from this page. Three emails go to each main group, and one goes to each behaviour group.
+
+| Group | People | Emails each | Total sends |
+|---|---:|---:|---:|
+| Attendees | 80 | 3 | 80 × 3 = 240 |
+| No-shows | 200 − 80 = 120 | 3 | 120 × 3 = 360 |
+| Clicked the offer in the room | 20 | 1 | 20 × 1 = 20 |
+| Left early | 15 | 1 | 15 × 1 = 15 |
+| **Total** | | | 240 + 360 + 20 + 15 = 635 |
+
+No-shows take 360 of the 635 sends, which is about 57%. So the no-show emails deserve as much care as the attendee thank-you, and they're the ones to write first. If you send through EasyCRM, this total also tells you what the sequence will use from your **Wallet** allowance.
+
+Now suppose 30 of those no-shows watch the replay. That's 30 ÷ 120 = 25% of the no-show list, and it takes total attendance from 80 to 110. As a share of registrants, that's a move from 80 ÷ 200 = 40% to 110 ÷ 200 = 55%. Those are the figures to compare on your next webinar.
 
 ## How EasyWebinar compares for webinar follow-up emails {#compare}
 
@@ -439,9 +535,27 @@ Yes. When **Create with AI** builds a webinar, the email sequence includes an in
 
 Yes. Connect it on the webinar's **Integrations** tab and tag people by what they did, such as **Missed** or **Clicked offer**. Your tool then starts the right sequence.
 
+#### Do webinar follow-up emails need an unsubscribe link? {#faq-unsubscribe}
+
+If the email promotes something and goes to US recipients, the CAN-SPAM Act requires a clear way to opt out and a postal address. Other countries have their own rules, so take advice if you're unsure.
+
+#### How long should a follow-up subject line be? {#faq-subject-length}
+
+Aim for about 40 characters, with the useful words first, such as the replay or the deadline. That's Nielsen Norman Group's 2014 guidance, because inboxes can cut longer lines off.
+
+## Further reading {#further-reading}
+
+- [Transactional Email and Confirmation Messages](https://www.nngroup.com/articles/transactional-and-confirmation-email/), Nielsen Norman Group, 2008: how people sort a crowded inbox, and what they look for first in an email.
+- [Email Subject Lines: 5 Tips to Attract Readers](https://www.nngroup.com/articles/email-subject-lines/), Nielsen Norman Group, 2014: why useful words go first, and why names and symbols rarely help.
+- [The Short Life of Online Sales Leads](https://hbr.org/2011/03/the-short-life-of-online-sales-leads), Harvard Business Review, March 2011: the case for answering online enquiries quickly. One co-author ran a sales software company, and the full article is behind a paywall.
+- [15 U.S. Code 7704](https://www.law.cornell.edu/uscode/text/15/7704), Legal Information Institute: the CAN-SPAM rules on opt-outs, postal addresses and subject lines, in full.
+- [The UK's data protection legislation](https://www.gov.uk/data-protection), GOV.UK: the data protection principles that apply to anyone using registrants' details.
+
 ## Related {#related}
 
 - [Selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/): how these follow-ups fit into a full course launch, from the first build to the sales numbers.
 - [Replay deadlines and experience](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#experience): the settings behind every replay link and closing date in these templates.
 - [Find people by what they did](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/#use-it): the filters to use when you want to write to one group by hand.
 - [Reading the webinar funnel](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/#read-your-analytics): what each figure counts, and how to tell a page problem from a reminder problem.
+
+*Updated 2 November 2026: added the research on what makes a follow-up work, the legal rules, the manual method, a measurement guide and a worked example.*

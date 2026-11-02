@@ -7,7 +7,7 @@ How to set up sending so CRM broadcasts and workflows go out from your own domai
 - Verified: 2026-11-02
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/easycrm/sending-setup/
 
-Webinar CRM email sending has to be set up before a single broadcast or workflow can leave your account. The job has three parts: choose an email service, verify the domain or business address you send as, and decide where replies go. In EasyWebinar you do all of it once, on the **Configurations** screen of its built-in CRM, [EasyCRM](https://easywebinar.com/easycrm/). A webinar's own confirmation and reminder emails aren't part of this setup, because each webinar has separate settings for them.
+Webinar CRM email sending has to be set up before a single broadcast or workflow can leave your account. The job has three parts: choose an email service, verify the domain or business address you send as, and decide where replies go. In EasyWebinar you do all of it once, on the **Configurations** screen of its built-in CRM, [EasyCRM](https://easywebinar.com/easycrm/). A webinar's own confirmation and reminder emails aren't part of this setup, because each webinar has separate settings for them. If you already use another CRM, such as HubSpot or ActiveCampaign, you can keep it and skip this setup.
 
 ## At a glance {#at-a-glance}
 
@@ -21,6 +21,7 @@ Webinar CRM email sending has to be set up before a single broadcast or workflow
 | **When to do it** | Once, before you build any broadcast or workflow |
 | **Also on this screen** | **Call Integration** and **SMS Integration** (Beta) |
 | **What sends count against** | Your monthly **Wallet** allowance |
+| **If you already have a CRM** | Keep it, connect it to your webinars and skip this setup |
 | **What it leaves alone** | A webinar's own emails, set under **Email Settings** on its **Notifications** tab |
 
 ## What webinar CRM email setup covers {#what-it-is}
@@ -42,6 +43,12 @@ The setup rests on two separate decisions, and it helps to keep them apart. The 
 
 **Email Integration** has four parts. **Email provider** lists your services, **Reply & forwarding settings** decides where replies go, and **Analytics** sits beside those two. **Domains** is a button on the provider list.
 
+## Already have a CRM? You can keep it {#already-have-a-crm}
+
+EasyCRM is optional. If you don't have a CRM, it gives you somewhere to manage leads and send broadcasts. If you already use HubSpot, ActiveCampaign, Mailchimp or another connected tool, keep it. [Connect it on a webinar's **Integrations** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/), and EasyWebinar tags each contact by what they did, such as attending or missing the session.
+
+Your broadcasts then go out from that tool, so you don't need this setup. Your webinar's own confirmation, reminder and follow-up emails still go out from EasyWebinar either way.
+
 ## Why webinar CRM email sending matters {#why-it-matters}
 
 ### What it's for {#what-its-for}
@@ -57,7 +64,7 @@ This setup answers one question: how do my CRM broadcasts and workflows go out f
 
 ### What happens without it {#without-it}
 
-Nothing sends. A broadcast you have written can't go out, and a published workflow can't reach anyone. People often find this out on the day of their first send, when an offer or a replay link is already due.
+Nothing sends from EasyCRM. A broadcast you have written can't go out, and a published workflow can't reach anyone. People often find this out on the day of their first send, when an offer or a replay link is already due.
 
 ### Why buyers care {#why-buyers-care}
 
@@ -77,51 +84,42 @@ EasyWebinar puts that job on one screen, **Configurations**, inside its CRM. It 
 
 One detail shows how firm the gate is. The screen tells you to verify your sending identity before you can start sending email, and that notice sits right above the list of services. The other platforms' options are covered in How EasyWebinar compares for webinar CRM email sending, below.
 
-## How to set up webinar CRM email {#set-up}
+## How email sender authentication works {#how-authentication-works}
 
-Work through these steps in order, and do them before you build anything else in the CRM:
+Verifying a domain makes more sense once you know what a receiving mail system checks. Three open standards do most of the work, and each relies on records in your domain's DNS. This section explains them in general, so read it as background rather than as EasyCRM steps.
 
-1. Click **Configurations** in the EasyCRM sidebar and stay on **Email Integration**.
-2. Choose your email service under **Email provider**, connecting your own SMTP account if you use one.
-3. Verify your sending identity, either a whole domain or a single business address.
-4. Open **Reply & forwarding settings** and set an address someone reads.
-5. Set up **Call Integration** and **SMS Integration** (Beta) if you need them.
-6. Run the checks described below, then build your broadcasts and workflows.
+### SPF: who may send for your domain {#spf}
 
-### What to have ready {#what-to-have-ready}
+[SPF lets a domain owner name the hosts allowed to use its domain](https://www.rfc-editor.org/rfc/rfc7208), and a receiving system can check that permission. Think of it as a published guest list. [A domain can't have several competing SPF records](https://www.rfc-editor.org/rfc/rfc7208), so a new sending service joins your existing record rather than getting a second one.
 
-EasyCRM is a plan add-on, which you can check under **Plan & Billing → Add-ons**, and [plans and add-ons are on the pricing page](https://easywebinar.com/pricing/). You reach it by clicking **EasyCRM** under **Other Products** in the EasyWebinar sidebar, using the same login.
+### DKIM: a signature on each message {#dkim}
 
-A few things save time once you start. If you're verifying a domain, you need access to its DNS settings, or a colleague who has it. That colleague can [work from their own team member login](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/). If you're connecting a provider, have your account credentials to hand. You also need a reply address that a person actually reads.
+[DKIM lets the owner of a signing domain claim some responsibility for a message](https://www.rfc-editor.org/rfc/rfc6376). The sending system adds a cryptographic signature, and the receiver fetches the matching public key from that domain. When the signature checks out, the message is tied to your domain.
 
-### Open the Configurations screen {#open-configurations}
+### DMARC: your policy when checks fail {#dmarc}
 
-Click **Configurations** in the EasyCRM sidebar. Three areas on the screen do most of the work: the channel tabs, the verification notice and the list of services.
+[DMARC lets a domain owner state policies for validation, handling and reporting](https://www.rfc-editor.org/rfc/rfc7489), which receiving systems can use. It also brings in alignment, which means the domain in your From address has to match a domain that SPF or DKIM has validated. A policy of `none` requests no specific action on delivery, so it's a gentle place to start.
 
-<figure>
+Alignment is the idea that links all this to your goal. Your contacts see your From address, so these checks only help your name when they pass for that same domain.
 
-![The EasyCRM Configurations screen open on Email Integration, with a notice about verifying your sending identity above a Select Email service list showing EasyCRM Mail as Default and a connected SMTP provider.](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/screens/easycrm-sending/step-01-configurations.webp)
+### What's confirmed for EasyCRM {#confirmed-for-easycrm}
 
-<figcaption>Start here for every send. The notice above the list says what must be verified, and the Sending health label sits beside the default service.</figcaption>
-</figure>
+These standards are general, and they don't describe EasyCRM's screens. What's confirmed for EasyCRM is narrower: you complete **Domain Configuration** for a dedicated domain, it involves DNS work, and a verified domain gives better deliverability than a single address. Follow what that screen asks for, rather than copying records from another service or guide. This page names no specific EasyCRM records for that reason.
 
-### Choose an email service {#choose-service}
+## What mailbox providers ask of senders in 2026 {#mailbox-rules}
 
-The list is headed **Select Email service**, and it invites you to connect an SMTP provider to send emails from EasyCRM. **EasyCRM Mail** is already on the list, marked **Default**. To use your own provider, click **Add Service**, then **Configure** on the one you use, and enter its credentials. The next section explains how to choose.
+Two large mailbox providers publish rules that apply to whatever your CRM sends, and both pages were checked on 2 November 2026. Gmail's requirements have applied since 1 February 2024, and they concern personal accounts ending in @gmail.com or @googlemail.com. Providers change these rules, so check the source pages before a large send.
 
-### Verify who you send as {#verify-identity}
+| Requirement | [Gmail](https://support.google.com/a/answer/81126) | [Yahoo](https://senders.yahooinc.com/best-practices/) |
+|---|---|---|
+| **Authentication, all senders** | SPF or DKIM | SPF or DKIM at a minimum |
+| **Spam rate, all senders** | Below 0.3% in Postmaster Tools | Below 0.3% |
+| **Who counts as bulk** | More than 5,000 messages a day to Gmail accounts | Bulk senders, with no figure on the page |
+| **Authentication, bulk** | SPF and DKIM, plus DMARC | Both SPF and DKIM, plus a DMARC policy of at least `p=none` |
+| **From address, bulk** | Aligned with the SPF or DKIM domain | Aligned with the SPF or DKIM domain |
+| **Unsubscribe, bulk** | One-click, plus a visible link in the message | One-click, with requests honoured within 2 days |
 
-The notice on the screen sets out the requirement. You must either complete **Domain Configuration** for a dedicated domain, or validate a single business email address under **Email addresses**. Either route counts, and nothing sends until one of them is done. The **Domain Configuration** link in the notice and the **Domains** button both sit on this screen.
-
-### Decide where replies go {#reply-forwarding}
-
-**Reply & forwarding settings** decides where replies to your email go. Point it at an address someone reads, because people reply to marketing email more than you might expect. A monitored team inbox is a sensible choice for a small business, since replies still get seen when one person is away.
-
-### Add call and SMS (Beta) sending {#call-sms}
-
-**Call Integration** and **SMS Integration** (Beta) have their own tabs, and you set them up the same way as email. Skip both if your first sends are email only, and come back when you need them. Calling is connected here, and your **Wallet** meters the minutes.
-
-WhatsApp (Beta) can't be set up here yet, because the **Whatsapp** tab in EasyCRM is marked **Coming soon**. WhatsApp (Beta) notifications are available on the EasyWebinar side, under a webinar's **Notifications** tab.
+These are the providers' rules for senders, and they don't describe what EasyCRM does on your behalf. If your volume is nearing the bulk level, confirm with EasyWebinar how your setup meets each row before you scale up.
 
 ## Domain or single address: which to verify {#domain-or-address}
 
@@ -157,6 +155,84 @@ Yes, you can use your own SMTP provider. Three are offered, and each sends throu
 
 The choice usually comes down to what you already run. If your company has an SES, SendGrid or Mailgun account that someone manages, connect it. If you have no provider account, start from the default row and leave provider work for later. Whichever you select, the verification notice still applies, so choosing a service never replaces verifying your identity.
 
+## How to authenticate a sending domain by hand {#manual-method}
+
+Without a setup screen, this job happens directly in DNS. These steps show the general method, and they're useful for briefing whoever holds your DNS.
+
+1. List every service that sends mail as your domain, including your office mailbox.
+2. Find out who controls the domain's DNS, and agree a time to make the changes.
+3. Add each sending service to one SPF record, keeping a single record for the domain.
+4. Publish the DKIM public key that your sending service gives you.
+5. Publish a DMARC record with a policy of `none`, and include a reporting address so you can monitor the initial setup.
+6. Send a test to a mailbox you control, then read its full header, using [Show original in Gmail](https://support.google.com/mail/answer/29436).
+7. Watch your spam rate after each large send, and keep it below 0.3%.
+
+### The same job in EasyWebinar {#same-job-in-easywebinar}
+
+In EasyWebinar the job starts on **Configurations** rather than in your DNS settings. Steps 1 and 2 still apply, because they're about your own company. From there, you complete **Domain Configuration** or validate a single business email address, following what the screen asks for. The set-up steps below cover the rest, including replies.
+
+### Worked example: sizing the garden centre's first month {#worked-example}
+
+This is an illustrative calculation with sample figures, not an EasyWebinar output. It uses the garden centre from earlier and asks two planning questions. Does the month fit the **Wallet** allowance, and how close is the largest day to the level Gmail treats as bulk?
+
+| Check | Sample figures | Arithmetic | Result |
+|---|---|---|---|
+| Broadcast to the whole list | 1,800 leads, 1,000 emails included | 1,800 − 1,000 | 800 over the allowance |
+| Broadcast to a targeted list | 600 people, one email each | 600 × 1 | 600 emails |
+| One workflow | 100 new leads, three emails each | 100 × 3 | 300 emails |
+| Month's total | Broadcast plus workflow | 600 + 300 | 900 emails |
+| Allowance left | 1,000 emails included | 1,000 − 900 | 100 emails |
+| Largest day against Gmail's bulk level | 600 emails, 5,000 a day | 600 ÷ 5,000 | 12% of the level |
+| Complaints that would reach 0.3% | 600 emails on that day | 600 × 0.003 | 1.8 complaints |
+
+A whole-list send would overrun the allowance, so the targeted list is the better first broadcast. Even if every address were at Gmail, the largest day stays well under the bulk level, though the rules for all senders still apply. Two complaints on 600 emails would pass 0.3%, so this rough guide favours people who expect to hear from you. Each provider measures its own traffic, so treat the last row as a planning figure.
+
+## How to set up webinar CRM email {#set-up}
+
+Work through these steps in order, and do them before you build anything else in the CRM:
+
+1. Click **Configurations** in the EasyCRM sidebar and stay on **Email Integration**.
+2. Choose your email service under **Email provider**, connecting your own SMTP account if you use one.
+3. Verify your sending identity, either a whole domain or a single business address.
+4. Open **Reply & forwarding settings** and set an address someone reads.
+5. Set up **Call Integration** and **SMS Integration** (Beta) if you need them.
+6. Run the checks described below, then build your broadcasts and workflows.
+
+### What to have ready {#what-to-have-ready}
+
+EasyCRM is a plan add-on, which you can check under **Plan & Billing → Add-ons**, and [plans and add-ons are on the pricing page](https://easywebinar.com/pricing/). You reach it by clicking **EasyCRM** under **Other Products** in the EasyWebinar sidebar, using the same login.
+
+A few things save time once you start. If you're verifying a domain, you need access to its DNS settings, or a colleague who has it. That colleague can [work from their own team member login](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/). If you're connecting a provider, have your account credentials to hand. You also need a reply address that a person actually reads.
+
+### Open the Configurations screen {#open-configurations}
+
+Click **Configurations** in the EasyCRM sidebar. Three areas on the screen do most of the work: the channel tabs, the verification notice and the list of services.
+
+<figure>
+
+![The EasyCRM Configurations screen open on Email Integration, with a notice about verifying your sending identity above a Select Email service list showing EasyCRM Mail as Default and a connected SMTP provider.](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/images/screens/easycrm-sending/step-01-configurations.webp)
+
+<figcaption>Start here for every send. The notice above the list says what must be verified, and the Sending health label sits beside the default service.</figcaption>
+</figure>
+
+### Choose an email service {#choose-service}
+
+The list is headed **Select Email service**, and it invites you to connect an SMTP provider to send emails from EasyCRM. **EasyCRM Mail** is already on the list, marked **Default**. To use your own provider, click **Add Service**, then **Configure** on the one you use, and enter its credentials. The section on built-in mail or your own SMTP provider, above, explains how to choose.
+
+### Verify who you send as {#verify-identity}
+
+The notice on the screen sets out the requirement. You must either complete **Domain Configuration** for a dedicated domain, or validate a single business email address under **Email addresses**. Either route counts, and nothing sends until one of them is done. The **Domain Configuration** link in the notice and the **Domains** button both sit on this screen.
+
+### Decide where replies go {#reply-forwarding}
+
+**Reply & forwarding settings** decides where replies to your email go. Point it at an address someone reads, because people reply to marketing email more than you might expect. A monitored team inbox is a sensible choice for a small business, since replies still get seen when one person is away.
+
+### Add call and SMS (Beta) sending {#call-sms}
+
+**Call Integration** and **SMS Integration** (Beta) have their own tabs, and you set them up the same way as email. Skip both if your first sends are email only, and come back when you need them. Calling is connected here, and your **Wallet** meters the minutes.
+
+WhatsApp (Beta) can't be set up here yet, because the **Whatsapp** tab in EasyCRM is marked **Coming soon**. WhatsApp (Beta) notifications are available on the EasyWebinar side, under a webinar's **Notifications** tab.
+
 ## Check sending before your first broadcast {#check-before-send}
 
 Run through this short list once the steps are done, and again before any large send:
@@ -182,6 +258,19 @@ Once a broadcast has gone out, **Marketing → Broadcasts** is the first place a
 </figure>
 
 A low open rate usually points to the subject line or the sender, so recheck your sending identity along with your wording. A good open rate with a low click rate means the email was opened and the offer didn't land, which isn't a setup problem.
+
+## How sending health is measured {#measuring-sending-health}
+
+No single number proves your email setup is healthy, so it helps to know what each common measure can and can't tell you:
+
+| Measure | What it tells you | Its weak spot |
+|---|---|---|
+| **Spam complaint rate** | The share of mail people mark as spam, which Gmail and Yahoo want below 0.3% | Each provider measures its own traffic, and [Yahoo bases its rate on mail delivered to the inbox](https://senders.yahooinc.com/best-practices/) |
+| **Authentication results** | Whether SPF, DKIM and DMARC passed on a message | A pass doesn't promise inbox placement |
+| **Open rate** | How many people opened the message | A low figure can come from the subject line or the sender |
+| **Click rate** | Whether the content landed | It says little about your setup |
+
+In EasyWebinar, two places help. The **Broadcasts** screen shows your open and click rates beside industry averages, and **Sending health** sits beside **EasyCRM Mail** on the service list. Outside the product, [Google's guidelines point to Postmaster Tools](https://support.google.com/a/answer/81126) for monitoring your domain's spam rate with Gmail.
 
 ## When CRM emails aren't sending {#not-sending}
 
@@ -233,7 +322,7 @@ Several parts of the product rely on this setup or sit right beside it:
 - **Workflows.** A workflow is an automated sequence, and [webinar follow-up](https://easywebinar.com/features/webinar-follow-up/) is the sensible first one to build. It keeps sending once published, so it relies on these settings for as long as it runs.
 - **Wallet.** Email, SMS (Beta) and call minutes each have a monthly allowance, listed with the other [limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/). Workflows use more over time than broadcasts, because they keep sending every day.
 - **Leads.** **Import from EasyWebinar** pulls registrants and attendees across from a webinar, so [the people in your webinar records](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/) can be sent to once sending works.
-- **Another CRM.** You may prefer to send from a CRM you already use. In that case, [map your webinar data to that CRM](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/) and skip this setup, since [you don't need EasyCRM to run webinars](https://easywebinar.com/blog/webinar-crm/).
+- **Another CRM.** You may prefer to send from a CRM you already use. In that case, skip this setup, since [you don't need EasyCRM to run webinars](https://easywebinar.com/blog/webinar-crm/).
 
 ## Who sets up webinar CRM email {#who-uses-it}
 
@@ -308,6 +397,10 @@ No. They apply to EasyCRM broadcasts and workflows. A webinar's confirmation, re
 
 Almost always, the sending identity isn't verified or no provider is connected. Open **Configurations**, check the notice on **Email Integration**, and finish whichever step is missing. If only a workflow is silent, check that it's published, because a draft sends nothing.
 
+#### Do I need EasyCRM if I already use HubSpot? {#faq-existing-crm}
+
+No. EasyCRM is optional, so you can keep HubSpot or another connected tool and skip this setup. Connect it on a webinar's **Integrations** tab, and your broadcasts go out from that tool. Your webinar's own emails still go out from EasyWebinar.
+
 #### Do I need an account with the SMTP provider? {#faq-provider-account}
 
 Yes. When you connect Amazon SES, SendGrid or Mailgun, EasyCRM sends through your account with that company rather than replacing it. So set up the account first, then bring its credentials to the **Configure** step on the **Email provider** tab.
@@ -340,6 +433,19 @@ No. You set up sending once on **Configurations**, and both broadcasts and workf
 
 No. **Custom domain (C-Name)** points your own domain at your webinar pages, and **Domain Configuration** concerns the email your CRM sends. They are separate settings on separate screens, so finishing one doesn't complete the other, even with the same company domain.
 
+#### Do mailbox providers require email authentication? {#faq-mailbox-rules}
+
+Yes. Gmail asks all senders for SPF or DKIM, and asks for SPF, DKIM and DMARC above 5,000 messages a day to Gmail accounts. Yahoo's rules are similar. On EasyCRM, you complete **Domain Configuration** or validate a single business address on **Configurations**.
+
+## Further reading {#further-reading}
+
+- [Gmail's email sender guidelines](https://support.google.com/a/answer/81126): the full requirements for all senders and for those above 5,000 messages a day.
+- [Yahoo's sender best practices](https://senders.yahooinc.com/best-practices/): the matching rules for all senders and bulk senders, including how Yahoo calculates spam rate.
+- [RFC 7208 on SPF](https://www.rfc-editor.org/rfc/rfc7208): the standard behind authorising hosts to send for your domain.
+- [RFC 6376 on DKIM](https://www.rfc-editor.org/rfc/rfc6376): the standard behind signing messages with your domain.
+- [RFC 7489 on DMARC](https://www.rfc-editor.org/rfc/rfc7489): the standard behind domain policies, reporting and alignment.
+- [Gmail's guide to full headers](https://support.google.com/mail/answer/29436): how to open the header of a test message.
+
 ## Related {#related}
 
 - [Registration confirmation emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/): the webinar's own email that carries the join link, with separate sender settings.
@@ -348,3 +454,5 @@ No. **Custom domain (C-Name)** points your own domain at your webinar pages, and
 - [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/): the monthly email, SMS (Beta) and call allowances in one table.
 - [Everything EasyCRM includes](https://easywebinar.com/easycrm/): the leads, deals and marketing tools these sending settings serve.
 - [EasyWebinar product documentation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/): the full library, for the steps before and after your first send.
+
+*Updated 2 November 2026: added how sender authentication works, mailbox provider rules, the manual method, a worked example and how sending health is measured.*
