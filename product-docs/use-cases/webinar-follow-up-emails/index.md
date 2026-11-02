@@ -381,7 +381,7 @@ Follow-ups belong to one webinar, so your next session needs its own set. [Cloni
 
 If you'd rather run follow-ups as an automated sequence, [EasyCRM](https://easywebinar.com/easycrm/) has **Workflows**. Our guide to [automating webinar follow-ups with CRM tools](https://easywebinar.com/blog/how-to-automate-webinar-follow-ups-with-crm-tools/) walks through the thinking. The simplest version gives attendees one message and no-shows the replay, and it runs after every webinar.
 
-EasyCRM is optional. If you already use a tool such as HubSpot or ActiveCampaign, keep it, and connect it on your webinar's **Integrations** tab so it can tag who attended and who missed.
+It's your CRM or ours. Follow-ups can also run through the Mailchimp, ActiveCampaign or Kit (formerly ConvertKit) account you already use, so keep it, and connect it on your webinar's **Integrations** tab to tag who attended and who missed.
 
 <figure>
 
@@ -457,7 +457,7 @@ Now suppose 30 of those no-shows watch the replay. That's 30 ÷ 120 = 25% of the
 
 ## How EasyWebinar compares for webinar follow-up emails {#compare}
 
-EasyWebinar sends one follow-up to attendees and another to no-shows, and a further email when someone clicks your offer. Its built-in CRM can then run a longer sequence under the same login. EasyWebinar is the only platform in this table that does all three.
+EasyWebinar sends one follow-up to attendees and another to no-shows, and a further email when someone clicks your offer. Its built-in CRM can then run a longer sequence under the same login. Every attendee gets the next message their behaviour earned.
 
 Webinar follow-up email features, from each platform's public documentation:
 

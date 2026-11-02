@@ -7,7 +7,7 @@ How to set up sending so CRM broadcasts and workflows go out from your own domai
 - Verified: 2026-11-02
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/easycrm/sending-setup/
 
-Webinar CRM email sending has to be set up before a single broadcast or workflow can leave your account. The job has three parts: choose an email service, verify the domain or business address you send as, and decide where replies go. In EasyWebinar you do all of it once, on the **Configurations** screen of its built-in CRM, [EasyCRM](https://easywebinar.com/easycrm/). A webinar's own confirmation and reminder emails aren't part of this setup, because each webinar has separate settings for them. If you already use another CRM, such as HubSpot or ActiveCampaign, you can keep it and skip this setup.
+Webinar CRM email sending has to be set up before a single broadcast or workflow can leave your account. The job has three parts: choose an email service, verify the domain or business address you send as, and decide where replies go. In EasyWebinar you do all of it once, on the **Configurations** screen of its built-in CRM, [EasyCRM](https://easywebinar.com/easycrm/). A webinar's own confirmation and reminder emails aren't part of this setup, because each webinar has separate settings for them. It's your CRM or ours, so if you already run HubSpot, Salesforce Pardot or ActiveCampaign, you can keep it and skip this setup.
 
 ## At a glance {#at-a-glance}
 
@@ -21,7 +21,7 @@ Webinar CRM email sending has to be set up before a single broadcast or workflow
 | **When to do it** | Once, before you build any broadcast or workflow |
 | **Also on this screen** | **Call Integration** and **SMS Integration** (Beta) |
 | **What sends count against** | Your monthly **Wallet** allowance |
-| **If you already have a CRM** | Keep it, connect it to your webinars and skip this setup |
+| **Your CRM or ours** | Keep the CRM you have and skip this setup, or use EasyCRM |
 | **What it leaves alone** | A webinar's own emails, set under **Email Settings** on its **Notifications** tab |
 
 ## What webinar CRM email setup covers {#what-it-is}
@@ -43,11 +43,11 @@ The setup rests on two separate decisions, and it helps to keep them apart. The 
 
 **Email Integration** has four parts. **Email provider** lists your services, **Reply & forwarding settings** decides where replies go, and **Analytics** sits beside those two. **Domains** is a button on the provider list.
 
-## Already have a CRM? You can keep it {#already-have-a-crm}
+## Keep your CRM or use ours {#your-crm-or-ours}
 
-EasyCRM is optional. If you don't have a CRM, it gives you somewhere to manage leads and send broadcasts. If you already use HubSpot, ActiveCampaign, Mailchimp or another connected tool, keep it. [Connect it on a webinar's **Integrations** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/), and EasyWebinar tags each contact by what they did, such as attending or missing the session.
+Keep HubSpot, Salesforce Pardot (Account Engagement), ActiveCampaign, Mailchimp or Kit (formerly ConvertKit), or use EasyCRM natively. Both are supported. That means no paying twice and no migration: if you have a CRM, keep it, and if you have none, EasyCRM is built in.
 
-Your broadcasts then go out from that tool, so you don't need this setup. Your webinar's own confirmation, reminder and follow-up emails still go out from EasyWebinar either way.
+If you keep your own, [connect it on a webinar's **Integrations** tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/). Attendee engagement then flows into your system of record, with each contact tagged by what they did, such as attending or missing the session. Your broadcasts go out from that tool, so you don't need this setup. Your webinar's own confirmation, reminder and follow-up emails still go out from EasyWebinar either way.
 
 ## Why webinar CRM email sending matters {#why-it-matters}
 
@@ -322,7 +322,7 @@ Several parts of the product rely on this setup or sit right beside it:
 - **Workflows.** A workflow is an automated sequence, and [webinar follow-up](https://easywebinar.com/features/webinar-follow-up/) is the sensible first one to build. It keeps sending once published, so it relies on these settings for as long as it runs.
 - **Wallet.** Email, SMS (Beta) and call minutes each have a monthly allowance, listed with the other [limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/). Workflows use more over time than broadcasts, because they keep sending every day.
 - **Leads.** **Import from EasyWebinar** pulls registrants and attendees across from a webinar, so [the people in your webinar records](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/) can be sent to once sending works.
-- **Another CRM.** You may prefer to send from a CRM you already use. In that case, skip this setup, since [you don't need EasyCRM to run webinars](https://easywebinar.com/blog/webinar-crm/).
+- **Your own CRM.** You may prefer to send from the CRM you already use. In that case, skip this setup, since [you don't need EasyCRM to run webinars](https://easywebinar.com/blog/webinar-crm/).
 
 ## Who sets up webinar CRM email {#who-uses-it}
 
@@ -344,7 +344,7 @@ An agency often sends for a client whose domain it doesn't control, so the DNS w
 
 ## How EasyWebinar compares for webinar CRM email sending {#compare}
 
-EasyWebinar sets the email service, the sending identity and the reply address on one screen in its own CRM. Those settings then serve broadcasts and workflows, with calling on the next tab. EasyWebinar is the only platform in this table that does all four.
+EasyWebinar sets the email service, the sending identity and the reply address on one screen in its own CRM. Those settings then serve broadcasts and workflows, with calling on the next tab. And it's your CRM or ours: keep the CRM you have, or use EasyCRM natively.
 
 Webinar CRM email sending features, from each platform's public documentation:
 
@@ -399,7 +399,7 @@ Almost always, the sending identity isn't verified or no provider is connected. 
 
 #### Do I need EasyCRM if I already use HubSpot? {#faq-existing-crm}
 
-No. EasyCRM is optional, so you can keep HubSpot or another connected tool and skip this setup. Connect it on a webinar's **Integrations** tab, and your broadcasts go out from that tool. Your webinar's own emails still go out from EasyWebinar.
+No. You can keep your CRM or use EasyCRM, which is built in. Connect HubSpot on a webinar's **Integrations** tab, and your broadcasts go out from HubSpot, so you can skip this setup. Your webinar's own emails still go out from EasyWebinar.
 
 #### Do I need an account with the SMTP provider? {#faq-provider-account}
 
