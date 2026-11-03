@@ -177,7 +177,7 @@ A product team rehearses a [product launch demo](https://easywebinar.com/use-cas
 
 ## How the green room compares {#compare}
 
-EasyWebinar gives you a private green room before the broadcast and a backstage where guests wait, both before and during the session. From the same room you can switch on several streaming destinations at once. EasyWebinar is the only platform in this table that does all three.
+EasyWebinar gives you a private green room before the broadcast and a backstage where guests wait, both before and during the session. From the same room you can switch on several streaming destinations at once. You and your guests get ready out of sight, so the session opens cleanly.
 
 Green room features, from each platform's public documentation:
 

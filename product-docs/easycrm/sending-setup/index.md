@@ -200,7 +200,7 @@ Work through these steps in order, and do them before you build anything else in
 
 ### What to have ready {#what-to-have-ready}
 
-EasyCRM is a plan add-on, which you can check under **Plan & Billing → Add-ons**, and [plans and add-ons are on the pricing page](https://easywebinar.com/pricing/). You reach it by clicking **EasyCRM** under **Other Products** in the EasyWebinar sidebar, using the same login.
+EasyCRM starts at Growth, and [plans and add-ons are on the pricing page](https://easywebinar.com/pricing/). You reach it by clicking **EasyCRM** under **Other Products** in the EasyWebinar sidebar, using the same login.
 
 A few things save time once you start. If you're verifying a domain, you need access to its DNS settings, or a colleague who has it. That colleague can [work from their own team member login](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/). If you're connecting a provider, have your account credentials to hand. You also need a reply address that a person actually reads.
 

@@ -7,7 +7,7 @@ How EasyWebinar's Create with AI builds a webinar from a description, writing th
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/
 
-**Create with AI** builds a complete EasyWebinar webinar from a written description. In five steps it writes a [slide-by-slide presentation script](https://easywebinar.com/ai-webinar-script-generator/), fills your [registration, thank-you and waiting-area pages](https://easywebinar.com/ai-webinar-registration-page-builder/), drafts the [email sequence](https://easywebinar.com/ai-webinar-email-generator/), and creates polls and offers. A full build takes about ten minutes and uses around 23 credits, and everything it produces opens in the normal editors so you can change it.
+**Create with AI** builds a complete EasyWebinar webinar from a written description. In five steps it writes a [slide-by-slide presentation script](https://easywebinar.com/ai-webinar-script-generator/), fills your [registration, thank-you and waiting-area pages](https://easywebinar.com/ai-webinar-registration-page-builder/), drafts the [email sequence](https://easywebinar.com/ai-webinar-email-generator/), and creates polls and offers. A full build takes about 10 to 15 minutes and uses around 23 credits, and everything it produces opens in the normal editors so you can change it.
 
 ## At a glance {#at-a-glance}
 
@@ -17,7 +17,7 @@ How EasyWebinar's Create with AI builds a webinar from a description, writing th
 | **What it builds** | **Script**, **Landing pages**, **Emails**, **Polls** and **Offers** |
 | **Selected by default** | Script, Landing pages and Emails. Polls and Offers are added with a click |
 | **Webinar types** | **Live**, **Simulive** or **Evergreen**, chosen with **Type** before you generate |
-| **How long it takes** | About ten minutes end to end; the script takes roughly a minute and a half |
+| **How long it takes** | About 10 to 15 minutes end to end; the script takes roughly a minute and a half |
 | **Credits** | About 23 for a full build: script 10, pages 10, emails 1, polls 1, offers 1 |
 | **Your balance** | Shown at the top right of every step |
 | **Script output** | Named sections with timings and speaker notes, downloadable as a PDF |
@@ -29,7 +29,7 @@ Building a webinar by hand means writing a presentation, designing a registratio
 
 It works in sequence, one step after another. Your prompt becomes a script, and the AI then uses that script as source material when it writes your pages. That ordering matters: the script is the foundation, so getting it right first improves everything built after it.
 
-The result is a normal EasyWebinar webinar. It has the same nine tabs and the same settings as one built by hand. The only visible difference is the **AI** badge on its card in **My Webinars**.
+The result is a normal EasyWebinar webinar. It has the same nine tabs and the same settings as one built by hand. The one visible difference is the **AI** badge on its card in **My Webinars**.
 
 ## Why Create with AI matters {#why-it-matters}
 
@@ -222,7 +222,7 @@ A webinar built with AI has the same pricing options as one built by hand. If yo
 
 ### Other AI features {#other-ai-features}
 
-Create with AI is one of several [AI features in EasyWebinar](https://easywebinar.com/ai/). **Chat Simulation** can use AI to populate the chat on a recorded webinar; see [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/). The **AI Moderator**, which answers attendee questions in the room, is in Beta.
+Create with AI is one of several [AI features in EasyWebinar](https://easywebinar.com/ai/). **Chat Simulation** can use AI to populate the chat on a recorded webinar; see [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/). The **AI Moderator**, which answers attendee questions in the room, is available from Pro onward.
 
 ## Who uses Create with AI, and how {#who-uses-it}
 
@@ -246,7 +246,7 @@ A product team sets **Type** to **Evergreen** for an [always-on product walkthro
 
 ## How Create with AI compares {#compare}
 
-EasyWebinar's Create with AI writes the presentation script, the registration pages, the email sequence, and the polls and offers from one description. EasyWebinar is the only platform in this table that does all four.
+EasyWebinar's Create with AI writes the presentation script, the registration pages, the email sequence, and the polls and offers from one description. You get a first draft of the whole funnel from one description, and you can edit all of it.
 
 AI webinar-building features, from each platform's public documentation:
 
@@ -283,7 +283,7 @@ AI webinar-building features, from each platform's public documentation:
 
 #### How long does Create with AI take? {#faq-how-long}
 
-About ten minutes end to end. The script is the slowest part, at roughly a minute and a half.
+About 10 to 15 minutes end to end. The script is the slowest part, at roughly a minute and a half.
 
 #### How many credits does it use? {#faq-credits}
 

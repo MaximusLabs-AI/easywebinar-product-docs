@@ -200,7 +200,7 @@ A coach runs a free masterclass and closes the replay on a **Specific date** tha
 
 ## How replay pages compare {#compare}
 
-EasyWebinar lets the replay close after a set number of days or on a date, repeat the live offers and polls, run as a separately designed page, and report replay viewers apart from live attendees. EasyWebinar is the only platform in this table that does all four.
+EasyWebinar lets the replay close after a set number of days or on a date, repeat the live offers and polls, run as a separately designed page, and report replay viewers apart from live attendees. The session keeps working after the live hour, and you can see who came back for it.
 
 Replay features, from each platform's public documentation:
 

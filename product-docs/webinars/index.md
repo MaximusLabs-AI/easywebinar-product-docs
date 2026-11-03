@@ -2,7 +2,7 @@
 
 The three webinar types, what every webinar is made of, and how registration, the room, follow-up and analytics fit together.
 
-- Applies to: All plans
+- Applies to: Live webinars on every plan · simulive and evergreen from Growth
 - Status: Live
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/

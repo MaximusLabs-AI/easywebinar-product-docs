@@ -164,7 +164,7 @@ A product team offers a recorded feature walkthrough with On Demand alongside ju
 
 ### Course creators {#course-creators}
 
-A creator offers a free training lesson on demand, so new subscribers can start it the moment they sign up. On a separate sales webinar, the creator leaves On Demand off so the session feels like an event people turn up for. This is one pattern in [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
+A creator offers a free training session on demand, so new subscribers can start it the moment they sign up. On a separate sales webinar, the creator leaves On Demand off so the session feels like an event people turn up for. This is one pattern in [selling online courses with webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/sell-courses/).
 
 ### Coaches and consultants {#coaches}
 
@@ -172,7 +172,7 @@ A consultant puts an explainer webinar on demand for prospects to watch before a
 
 ## How On Demand compares {#compare}
 
-EasyWebinar's On Demand puts a watch-now button on the same registration page as just-in-time sessions and set daily or weekly times. You also choose the button's wording with **Instant replay text**, and you run live webinars in the same product. EasyWebinar is the only platform in this table that does all four.
+EasyWebinar's On Demand puts a watch-now button on the same registration page as just-in-time sessions and set daily or weekly times. You also choose the button's wording with **Instant replay text**, and you run live webinars in the same product. Each registrant picks the way of watching that suits them.
 
 Instant viewing, from each platform's public documentation:
 

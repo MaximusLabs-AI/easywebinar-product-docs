@@ -184,15 +184,15 @@ It matters to teams that repeat one webinar on a cycle, such as a weekly walkthr
 
 {/* 5P */}
 
-Take a typical case. A small Spanish language school with five teachers offers a free taster lesson for adult beginners before each term. Around 40 people join each sitting, held on Saturday mornings and Wednesday evenings for the six weeks before enrolment closes.
+Take a typical case. A small Spanish language school with five teachers offers a free taster session for adult beginners before each term. Around 40 people join each sitting, held on Saturday mornings and Wednesday evenings for the six weeks before enrolment closes.
 
-A common approach is for a teacher to give the taster live every time, which can mean twelve sittings a term. Teachers may end up repeating the same lesson and fielding the same questions. In a busy week, the lesson can come out rushed or uneven.
+A common approach is for a teacher to give the taster live every time, which can mean twelve sittings a term. Teachers may end up repeating the same session and fielding the same questions. In a busy week, the session can come out rushed or uneven.
 
-The lesson itself barely changes from one sitting to the next. What differs is the questions people ask afterwards about levels and class times. So the teaching can be recorded once, and the teacher's time can move into the chat, while learners still start together.
+The session itself barely changes from one sitting to the next. What differs is the questions people ask afterwards about levels and class times. So the presentation can be recorded once, and the teacher's time can move into the chat, while attendees still start together.
 
-EasyWebinar runs this as one simulive webinar. The school records its strongest taster lesson, uploads it with **Local import**, and sets a **Weekly** schedule for Saturday and Wednesday. A teacher joins each sitting's chat and answers questions about levels, class times and placement while the recording plays.
+EasyWebinar runs this as one simulive webinar. The school records its strongest taster session, uploads it with **Local import**, and sets a **Weekly** schedule for Saturday and Wednesday. A teacher joins each sitting's chat and answers questions about levels, class times and placement while the recording plays.
 
-When the school improves the lesson, it swaps the file with **Change Video** in the **Webinar Video** panel on the **Content** tab. Registrations, pages and the schedule stay exactly as they were. How this compares with other recorded-webinar tools is covered in How simulive webinars compare, below.
+When the school improves the recording, it swaps the file with **Change Video** in the **Webinar Video** panel on the **Content** tab. Registrations, pages and the schedule stay exactly as they were. How this compares with other recorded-webinar tools is covered in How simulive webinars compare, below.
 
 ## How simulive works with other features {#works-with}
 
@@ -248,7 +248,7 @@ A coach records a signature talk once and broadcasts it on a regular schedule, j
 
 ## How simulive webinars compare {#compare}
 
-EasyWebinar plays your recording at the times you set while you staff the chat. It hosts an uploaded video itself, plays one linked from YouTube, Vimeo or Wistia, and lists recordings of your past webinars as ready-made content. EasyWebinar is the only platform in this table that does all four.
+EasyWebinar plays your recording at the times you set while you staff the chat. It hosts an uploaded video itself, plays one linked from YouTube, Vimeo or Wistia, and lists recordings of your past webinars as ready-made content. You record the talk once and spend the session with your attendees in the chat.
 
 Simulive set-up, from each platform's public documentation:
 

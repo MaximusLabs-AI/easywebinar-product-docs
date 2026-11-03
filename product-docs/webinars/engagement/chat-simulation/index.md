@@ -107,9 +107,9 @@ The screenshot under Set up Manual Simulation shows the CSV upload beside **Prev
 | **Language** | What they write in |
 | **Behavior** | Their character, such as Curious, Sceptical or Enthusiastic |
 
-### Build a believable cast {#believable-cast}
+### Build a natural cast {#believable-cast}
 
-The mix of attendees decides whether the chat reads as real. A room full of enthusiastic experts posting constantly looks staged. A few beginners asking basic questions, one sceptic, a couple of quiet observers on low engagement and some mid-level regulars looks like an audience.
+The mix of attendees decides whether the chat reads naturally. A room full of enthusiastic experts posting constantly looks staged. A few beginners asking basic questions, one sceptic, a couple of quiet observers on low engagement and some mid-level regulars reads like a natural conversation.
 
 A useful check: look down the attendee list as a newcomer would meet that room. If almost everyone is an enthusiastic expert on high engagement, add curious and sceptical attendees, and move some of the most active ones to Medium or Low.
 
@@ -170,7 +170,7 @@ HH:MM:SS,Name,Role,Message
 
 ## Use simulated chat honestly {#use-honestly}
 
-Simulated chat is there to stop an automated room looking empty. It isn't a place for social proof that didn't happen.
+Simulated chat keeps an automated room from feeling empty. It doesn't make the webinar live, so never present it as live, and it isn't a place for social proof that didn't happen.
 
 - **No invented testimonials.** Simulated attendees shouldn't claim results or endorse your product.
 - **Don't impersonate real customers.** A simulated message shouldn't pass itself off as something a real customer said.
@@ -188,7 +188,7 @@ Simulated attendees can show in the attendee list too, with **Show attendee list
 
 ### Q&A {#with-qa}
 
-For an automated webinar that should still feel busy, pair **Everyone** chat and Chat Simulation with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat), so real questions reach your team in a queue.
+For an automated webinar with simulated chat, pair **Everyone** chat and Chat Simulation with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat), so real questions reach your team in a queue.
 
 ### Evergreen schedules {#with-evergreen}
 
@@ -220,7 +220,7 @@ An [agency building evergreen funnels](https://easywebinar.com/solutions/marketi
 
 ## How chat simulation compares {#compare}
 
-EasyWebinar's Chat Simulation (Beta) can write the chat with AI or play a script you upload as a CSV. It can also add simulated names to the attendee list. EasyWebinar is the only platform in this table that does all three.
+EasyWebinar's Chat Simulation (Beta) can write the chat with AI or play a script you upload as a CSV. It can also add simulated names to the attendee list. You set the cast or the script yourself, so keep it honest: never present an automated webinar as live.
 
 Simulated chat features, from each platform's public documentation:
 

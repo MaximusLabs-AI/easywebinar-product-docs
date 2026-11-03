@@ -35,7 +35,7 @@ Every webinar's **Notifications** tab has three channels: **Emails**, **SMS** an
 | **Attendee Action Follow-ups** | Based on what someone did, such as engagement and offer clicks |
 | **Paid Offer — Transaction Success** | After a successful purchase |
 
-The confirmation is the only one of the five tied to the moment of sign-up. Reminders count down to the session, [follow-ups react to what happened](https://easywebinar.com/features/webinar-follow-up/) in it, and the transaction email answers a purchase. The confirmation answers a registration.
+Of the five, the confirmation alone is tied to the moment of sign-up. Reminders count down to the session, [follow-ups react to what happened](https://easywebinar.com/features/webinar-follow-up/) in it, and the transaction email answers a purchase. The confirmation answers a registration.
 
 It is a different thing from the **Thank you Page**. The thank-you page is what the browser shows straight after registering, with confirmation and what happens next. The email is what stays in the registrant's inbox after they have closed that tab, and it is where they go looking for the link on the day.
 
@@ -176,7 +176,7 @@ A course creator uses **Create with AI** to draft the sequence, then rewrites th
 
 ## How confirmation emails compare {#compare}
 
-EasyWebinar's confirmation goes out from a sender name and reply-to address you set for each webinar, and **Notify admin** can copy every registration to your inbox. A WhatsApp welcome message, in Beta, can go out at the same moment. EasyWebinar is the only platform in this table that does all four.
+EasyWebinar's confirmation goes out from a sender name and reply-to address you set for each webinar, and **Notify admin** can copy every registration to your inbox. A WhatsApp welcome message, in Beta, can go out at the same moment. Registrants hear from a name they recognise, and you see each sign-up as it happens.
 
 Confirmation features, from each platform's public documentation:
 

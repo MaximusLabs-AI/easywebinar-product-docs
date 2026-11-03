@@ -7,7 +7,7 @@ The seven links in an EasyWebinar webinar's Share dialog, from the registration 
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/
 
-Every EasyWebinar webinar generates seven links, and the **Share** button on the webinar's header shows them all in one dialog. One is the public registration link you promote; others let a known contact register in one click, let attendees join, let a co-presenter or moderator into the room, and send people to the replay. The dialog also holds the **Registration Widget** embed code, a **Share on social media** section, and a **Shorten URL's** toggle for shorter versions of every link.
+Every EasyWebinar webinar generates seven links, and the **Share** button on the webinar's header shows them together in one dialog. One is the public registration link you promote; others let a known contact register in one click, let attendees join, let a co-presenter or moderator into the room, and send people to the replay. The dialog also holds the **Registration Widget** embed code, a **Share on social media** section, and a **Shorten URL's** toggle for shorter versions of every link.
 
 ## At a glance {#at-a-glance}
 
@@ -50,7 +50,7 @@ A webinar has several audiences at once. Some people still need to register, som
 
 ### What happens without it {#without-it}
 
-Without role links, the only way to bring a guest speaker into the room is to give them access to your account. Without a one-click link, every contact you invite from your own list retypes details you already hold. Some of them won't bother, and those registrations are lost.
+Without role links, you have to give a guest speaker access to your account to bring them into the room. Without a one-click link, every contact you invite from your own list retypes details you already hold. Some of them won't bother, and those registrations are lost.
 
 ### Why buyers care {#why-buyers-care}
 
@@ -177,7 +177,7 @@ A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/pro
 
 ## How sharing links compare {#compare}
 
-EasyWebinar puts one-click registration, join links for co-presenters and moderators, and a toggle for shorter links in the same Share dialog. EasyWebinar is the only platform in this table that does all three.
+EasyWebinar puts one-click registration, join links for co-presenters and moderators, and a toggle for shorter links in the same Share dialog. Every link you need to send is in one dialog, so nobody hunts for the right one.
 
 Sharing link features, from each platform's public documentation:
 

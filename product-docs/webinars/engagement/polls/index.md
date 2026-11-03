@@ -50,7 +50,7 @@ A poll puts one question to the whole room, with a fixed set of answers. Everyon
 
 ### What happens without it {#without-it}
 
-Skip polls and you present without knowing who is listening or what they need. Attention drifts through the long sections, and nobody is asked to do anything until the offer. After the session, attendance is the only record of who took part.
+Skip polls and you present without knowing who is listening or what they need. Attention drifts through the long sections, and nobody is asked to do anything until the offer. After the session, attendance is all you have to show who took part.
 
 ### Why buyers care {#why-buyers-care}
 
@@ -203,7 +203,7 @@ A [marketing team running a recurring educational webinar](https://easywebinar.c
 
 ## How polls compare {#compare}
 
-EasyWebinar launches polls live, runs the same polls on recorded webinars, and can have AI write them from goals you pick. EasyWebinar is the only platform in this table that does all three.
+EasyWebinar launches polls live, runs the same polls on recorded webinars, and can have AI write them from goals you pick. Polls land while the audience is still there, whichever way the webinar runs.
 
 Poll features, from each platform's public documentation:
 

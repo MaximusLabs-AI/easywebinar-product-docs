@@ -2,7 +2,7 @@
 
 Charge people to register for a webinar in EasyWebinar, take payment through Stripe, sell a live-plus-replay bundle, and track every paid registration and transaction.
 
-- Applies to: Paid Webinars add-on · connected Stripe account · live, simulive and evergreen webinars
+- Applies to: Growth plan and above · connected Stripe account · live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/
@@ -15,7 +15,7 @@ A paid webinar asks people to pay before they are registered. In EasyWebinar you
 |---|---|
 | **What it does** | Charges attendees to register for a webinar |
 | **Webinar types** | Live, simulive and evergreen; each has the same **Free** or **Paid** pricing step |
-| **What you need** | The **Paid Webinars** add-on and a connected **Stripe** account |
+| **What you need** | The **Growth** plan or above and a connected **Stripe** account |
 | **Price options** | One price, or a second **Live + Replay bundle** option with its own price |
 | **Currency** | Set in US dollars; Stripe may show attendees outside the US their local currency |
 | **How attendees pay** | Stripe checkout, by card, or Apple Pay or Link where available |
@@ -76,7 +76,7 @@ In the Revenue screenshot below, the **Paid Webinar** view splits registration p
 
 ## Before you begin {#before-you-begin}
 
-- **Add the Paid Webinars add-on.** It's listed under **Settings → Plan → Add-ons** as "Selling access to webinars, with checkout". Charging for a webinar needs it.
+- **Be on Growth or above.** Built-in checkout and paid webinars start at Growth.
 - **Connect a Stripe account.** Payments run through Stripe. You can connect it during the pricing step or from **Integrations → Payment**.
 - **Choose Paid when you create the webinar.** The price block is added to your registration page at creation. See Choose Paid at creation below.
 
@@ -230,7 +230,7 @@ Educators in fields such as real estate, finance or wellness run paid seminars. 
 
 ## How paid webinars compare {#compare}
 
-EasyWebinar takes payment as part of sign-up: **Register Now** opens a Stripe checkout, and the person is registered once they've paid. It can also sell the replay at its own price, and it lists every payment against the webinar. EasyWebinar is the only platform in this table that does all three.
+EasyWebinar takes payment as part of sign-up: **Register Now** opens a Stripe checkout, and the person is registered once they've paid. It can also sell the replay at its own price, and it lists every payment against the webinar. The sale, the attendee and the data stay in one place.
 
 Paid registration features, from each platform's public documentation:
 
@@ -270,9 +270,9 @@ Paid registration features, from each platform's public documentation:
 
 Stripe. Connect your Stripe account on the pricing step or from **Integrations → Payment**.
 
-#### Do I need an add-on? {#faq-add-on}
+#### Which plan do I need? {#faq-add-on}
 
-Yes. Charging for a webinar needs the **Paid Webinars** add-on as well as a connected Stripe account. If the paid option isn't behaving as expected, check **Settings → Plan → Add-ons** first.
+Growth or above. Checkout starts at Growth, and charging for a webinar also needs a connected Stripe account. If the paid option isn't behaving as expected, check **Settings → Plan** first.
 
 #### When do I get the money? {#faq-payouts}
 
@@ -324,4 +324,4 @@ The Overview tab has a **Convert to paid** button, but the registration page of 
 - [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): every transaction, abandoned checkout and source of revenue.
 - [Countdown timers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/countdown-timers/): add a deadline to an offer sold inside a paid webinar.
 - [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): tag paid registrants and what they did in the session.
-- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): where the Paid Webinars add-on sits among the other add-ons.
+- [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): which plans include checkout, and the add-ons available on top.

@@ -13,7 +13,7 @@ Use this page to check a number before you plan a webinar. Each row names the un
 
 | Plan | Live attendees | Automated attendees |
 |---|---|---|
-| **Launch** | 50 | Not listed |
+| **Launch** | 50 | Starts at Growth |
 | **Growth** | 200 | 1,000 |
 | **Pro** | 500 | 2,500 |
 | **Scale** | 1,000 | 5,000 |
@@ -24,7 +24,7 @@ Capacities as shown in the plan chooser. [Plans](https://easywebinar.com/pricing
 - **Automated attendees** counts people watching [simulive](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#with-plan-usage) and [evergreen](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-plan-usage) sessions.
 - **Usage resets with your billing period**, so the meters show the current period only.
 
-Check the meters before a big promotion. Running out of live attendee capacity mid-launch is an avoidable problem, and [add-ons for high-traffic webinars](https://easywebinar.com/blog/add-ons-for-high-traffic-webinars/) covers planning for a large audience.
+Check the meters before a big promotion. Your webinar never stops at your plan's limit: if more people join, the session keeps running and extra attendees are billed as overage under our terms. [Add-ons for high-traffic webinars](https://easywebinar.com/blog/add-ons-for-high-traffic-webinars/) covers planning for a large audience.
 
 ## Webinars and scheduling {#webinars-and-scheduling}
 
@@ -60,7 +60,7 @@ Check the meters before a big promotion. Running out of live attendee capacity m
 | Maximum video upload | 4 GB per file | |
 | Video import | YouTube, Vimeo, Wistia or a direct MP4 link | Uses no storage; [enter the duration](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/video-hosting/#import-from-url) so sessions can be scheduled |
 | Additional storage | 5 GB per add-on | See [storage and your plan](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#with-plan) |
-| AI Moderator (Beta) knowledge base | PDF, DOCX or PPTX, up to 25 MB per file | Retrains after each upload |
+| AI Moderator (from Pro onward) knowledge base | PDF, DOCX or PPTX, up to 25 MB per file | Retrains after each upload |
 
 ## AI credits {#ai-credits}
 
@@ -75,7 +75,7 @@ Check the meters before a big promotion. Running out of live attendee capacity m
 | Offers | 1 |
 | **Full build** | **About 23** |
 
-A full build takes about ten minutes.
+A full build takes about 10 to 15 minutes.
 
 ## EasyCRM sending allowance {#easycrm-allowance}
 
@@ -84,6 +84,8 @@ A full build takes about ten minutes.
 | Emails | 1,000 |
 | SMS | 100 messages |
 | Call minutes | 100 |
+
+This allowance applies only if you use EasyCRM. It's your CRM or ours: keep HubSpot, Salesforce Pardot (Account Engagement), ActiveCampaign, Mailchimp or Kit (formerly ConvertKit), or use EasyCRM natively.
 
 Everything [EasyCRM](https://easywebinar.com/easycrm/) sends draws on this monthly allowance, and its **Wallet** screen shows what's left. The allowance resets on your **signup date**, not the first of the month. Broadcasts and workflows draw on the same allowance, and each channel is counted separately.
 
@@ -98,14 +100,14 @@ Everything [EasyCRM](https://easywebinar.com/easycrm/) sends draws on this month
 
 ## Add-ons {#add-ons}
 
+Every plan includes live webinars with browser join. Automation, EasyCRM, [checkout](https://easywebinar.com/paid-webinars/) and EasyCast start at Growth. AI Moderator answers attendee questions from Pro onward.
+
 Add-ons extend your plan without changing it. Switch one on with **Add to plan** on the **Add-ons** tab under **Settings → Manage Plan**.
 
 | Add-on | What it unlocks |
 |---|---|
 | **White Label** | Removes EasyWebinar branding |
 | **C-Name** | A custom domain for webinar pages |
-| **[Paid Webinars](https://easywebinar.com/paid-webinars/)** | Checkout for webinars |
-| **EasyCRM** | The built-in CRM |
 | **Additional Storage** | 5 GB more storage |
 | **One-Time Webinar Setup** | The EasyWebinar team configures a webinar for you |
 
