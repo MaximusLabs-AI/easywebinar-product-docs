@@ -9,6 +9,16 @@
   "id": "EW-SC-012",
   "width": 1440
  },
+ "/product-docs/images/screens/create-a-simulive-webinar/step-01-video-selection.webp": {
+  "height": 761,
+  "id": "EW-SC-015",
+  "width": 1311
+ },
+ "/product-docs/images/screens/create-a-simulive-webinar/step-02-webinar-video.webp": {
+  "height": 946,
+  "id": "EW-SC-016",
+  "width": 1440
+ },
  "/product-docs/images/screens/create-a-webinar-with-ai/step-01-prompt.webp": {
   "height": 946,
   "id": "EW-SC-017",
@@ -69,9 +79,44 @@
   "id": "EW-SC-042",
   "width": 1440
  },
+ "/product-docs/images/screens/find-and-organise-your-webinars/step-01-list-and-filters.webp": {
+  "height": 946,
+  "id": "EW-SC-043",
+  "width": 1440
+ },
  "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-01-build-name-and-type.webp": {
   "height": 946,
   "id": "EW-SC-044",
+  "width": 1440
+ },
+ "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-02-choose-creation-method.webp": {
+  "height": 946,
+  "id": "EW-SC-045",
+  "width": 1440
+ },
+ "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-02-schedule-specific-date.webp": {
+  "height": 946,
+  "id": "EW-SC-046",
+  "width": 1440
+ },
+ "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-03-pricing-free.webp": {
+  "height": 946,
+  "id": "EW-SC-049",
+  "width": 1440
+ },
+ "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-03b-pricing-paid-stripe.webp": {
+  "height": 946,
+  "id": "EW-SC-050",
+  "width": 1440
+ },
+ "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-04-registration-template.webp": {
+  "height": 946,
+  "id": "EW-SC-051",
+  "width": 1440
+ },
+ "/product-docs/images/screens/paid-webinar-registration/step-04-thank-you.webp": {
+  "height": 946,
+  "id": "EW-SC-056",
   "width": 1440
  },
  "/product-docs/images/screens/run-your-live-webinar/step-01-green-room.webp": {
@@ -94,6 +139,11 @@
   "id": "EW-SC-064",
   "width": 1440
  },
+ "/product-docs/images/screens/team-members/step-01-team-list.webp": {
+  "height": 946,
+  "id": "EW-SC-065",
+  "width": 1440
+ },
  "/product-docs/images/screens/the-analytics-section/step-01-overview.webp": {
   "height": 946,
   "id": "EW-SC-071",
@@ -107,6 +157,11 @@
  "/product-docs/images/screens/the-ctas-section/step-01-cta-list.webp": {
   "height": 946,
   "id": "EW-SC-074",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-ctas-section/step-03-offer-editor.webp": {
+  "height": 946,
+  "id": "EW-SC-076",
   "width": 1440
  },
  "/product-docs/images/screens/the-engagement-section/step-01-chat.webp": {
@@ -134,14 +189,29 @@
   "id": "EW-SC-084",
   "width": 1440
  },
+ "/product-docs/images/screens/the-webinar-overview-tab/step-01-overview-tab.webp": {
+  "height": 946,
+  "id": "EW-SC-086",
+  "width": 1440
+ },
  "/product-docs/images/screens/the-webinar-overview-tab/step-02-share-links.webp": {
   "height": 946,
   "id": "EW-SC-087",
   "width": 1440
  },
+ "/product-docs/images/screens/third-party-chat/step-01-third-party.webp": {
+  "height": 946,
+  "id": "EW-SC-088",
+  "width": 1440
+ },
  "/product-docs/images/screens/track-your-webinar/step-01-tracking-code.webp": {
   "height": 946,
   "id": "EW-SC-093",
+  "width": 1440
+ },
+ "/product-docs/images/screens/webinar-types-explained/step-01-choose-type.webp": {
+  "height": 946,
+  "id": "EW-SC-098",
   "width": 1440
  }
 }
