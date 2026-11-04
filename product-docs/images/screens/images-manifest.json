@@ -1,4 +1,19 @@
 {
+ "/product-docs/images/screens/create-a-webinar-with-ai/step-01-prompt.webp": {
+  "height": 946,
+  "id": "EW-SC-017",
+  "width": 1440
+ },
+ "/product-docs/images/screens/create-a-webinar-with-ai/step-05-finished.webp": {
+  "height": 946,
+  "id": "EW-SC-021",
+  "width": 1440
+ },
+ "/product-docs/images/screens/create-an-evergreen-webinar/step-02-video-selection.webp": {
+  "height": 761,
+  "id": "EW-SC-024",
+  "width": 1311
+ },
  "/product-docs/images/screens/easycrm-broadcasts/step-01-broadcasts.webp": {
   "height": 946,
   "id": "EW-SC-033",
@@ -14,6 +29,16 @@
   "id": "EW-SC-042",
   "width": 1440
  },
+ "/product-docs/images/screens/run-your-live-webinar/step-01-green-room.webp": {
+  "height": 946,
+  "id": "EW-SC-061",
+  "width": 1440
+ },
+ "/product-docs/images/screens/run-your-live-webinar/step-03-settings.webp": {
+  "height": 946,
+  "id": "EW-SC-063",
+  "width": 1440
+ },
  "/product-docs/images/screens/sms-notifications/step-01-sms-builder.webp": {
   "height": 946,
   "id": "EW-SC-064",
@@ -24,9 +49,39 @@
   "id": "EW-SC-071",
   "width": 1440
  },
+ "/product-docs/images/screens/the-content-section/step-02-page-builder.webp": {
+  "height": 946,
+  "id": "EW-SC-073",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-integrations-section/step-01-integrations.webp": {
+  "height": 946,
+  "id": "EW-SC-079",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-library/step-02-recordings.webp": {
+  "height": 946,
+  "id": "EW-SC-081",
+  "width": 1440
+ },
  "/product-docs/images/screens/the-notifications-section/step-01-emails.webp": {
   "height": 946,
   "id": "EW-SC-082",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-people-view/step-01-filters.webp": {
+  "height": 946,
+  "id": "EW-SC-084",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-webinar-overview-tab/step-02-share-links.webp": {
+  "height": 946,
+  "id": "EW-SC-087",
+  "width": 1440
+ },
+ "/product-docs/images/screens/track-your-webinar/step-01-tracking-code.webp": {
+  "height": 946,
+  "id": "EW-SC-093",
   "width": 1440
  }
 }

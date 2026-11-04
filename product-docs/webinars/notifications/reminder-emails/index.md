@@ -175,7 +175,7 @@ A marketing team already runs its nurture emails from its own system, so it maps
 
 ## How reminder emails compare {#compare}
 
-EasyWebinar lets you time each reminder in hours, minutes and seconds before the session. You can also add a reminder by text or by WhatsApp, both in Beta. More registrants attend when the reminder arrives at the moment you chose.
+EasyWebinar lets you time each reminder in hours, minutes and seconds before the session. You can also add a reminder by text or by WhatsApp, both in Beta. EasyWebinar is the only platform in this table that does all three.
 
 Reminder features, from each platform's public documentation:
 

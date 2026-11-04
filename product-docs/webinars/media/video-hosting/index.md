@@ -194,7 +194,7 @@ A solo consultant without a video platform account [records a training](https://
 
 ## How video hosting compares {#compare}
 
-EasyWebinar hosts your uploads itself, imports links from YouTube, Vimeo and Wistia, and keeps recordings of your live webinars ready to reuse. Your uploads sit in EasyWebinar's own storage, with no third-party breakage.
+EasyWebinar hosts your uploads itself, imports links from YouTube, Vimeo and Wistia, and keeps recordings of your live webinars ready to reuse. EasyWebinar is the only platform in this table that does all three.
 
 Video sources for recorded webinars, from each platform's public documentation:
 

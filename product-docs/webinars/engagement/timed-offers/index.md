@@ -258,7 +258,7 @@ An [agency building a client's webinar](https://easywebinar.com/solutions/market
 
 ## How offers compare {#compare}
 
-EasyWebinar puts a countdown on the offer card itself and reports views, clicks and purchases for every offer. The same offers run on live, simulive and evergreen webinars in one product. The offer lands at the peak of the pitch, and you can see what each one sold.
+EasyWebinar puts a countdown on the offer card itself and reports views, clicks and purchases for every offer. The same offers run on live, simulive and evergreen webinars in one product. EasyWebinar is the only platform in this table that does all three.
 
 Offer features, from each platform's public documentation:
 

@@ -76,7 +76,7 @@ Open the **Images** tab to see [images you've uploaded for your pages](https://m
 
 Open the **Files** tab for documents, such as PDFs. Each file shows its name, its upload date and its page count.
 
-The **Files** tab is also where the AI Moderator's documents live. The AI Moderator, available from Pro onward, answers attendee questions from documents you give it, reading **PDF, DOCX or PPTX** files up to **25MB** each, and it retrains every time you add a source.
+The **Files** tab is also where the AI Moderator's documents live. The AI Moderator is in **Beta**: it answers attendee questions from documents you give it, reading **PDF, DOCX or PPTX** files up to **25MB** each, and it retrains every time you add a source.
 
 ### 6. Add new media {#add-media}
 
@@ -175,7 +175,7 @@ Both types play a recording, and both choose it from the library on the **Video 
 
 Under **Settings** → **Manage Plan**, the **Plan** tab has a **Storage** meter for space used by your videos and recordings, with **Buy More**, and the **Add-ons** tab offers [**Additional Storage (5GB)**](https://easywebinar.com/pricing/). Both are covered in Your plan, billing and add-ons.
 
-### AI Moderator (from Pro onward) {#with-ai-moderator}
+### AI Moderator (Beta) {#with-ai-moderator}
 
 The AI Moderator's knowledge base documents live on the **Files** tab. Because the moderator retrains with each new source, give it a moment after an upload before you test it.
 
@@ -197,7 +197,7 @@ An agency managing webinars that play videos from a client's YouTube channel che
 
 ### Customer success teams {#customer-success}
 
-A customer success team keeps its product FAQ and onboarding guides on the **Files** tab as the AI Moderator's knowledge base (from Pro onward), so questions on an unattended [evergreen onboarding webinar](https://easywebinar.com/use-cases/onboard-train-customers/) can be answered from the team's own documents.
+A customer success team keeps its product FAQ and onboarding guides on the **Files** tab as the AI Moderator's knowledge base (Beta), so questions on an unattended [evergreen onboarding webinar](https://easywebinar.com/use-cases/onboard-train-customers/) can be answered from the team's own documents.
 
 ## How the Library compares {#compare}
 
@@ -232,7 +232,7 @@ Library and recording features, from each platform's public documentation:
 - **Recordings appear only if recording was on.** Recording is on by default; check the room header before you go live.
 - **Don't delete a video a webinar is using.** The webinar plays it.
 - **Removing a video on YouTube, Vimeo or Wistia** breaks any webinar that plays the imported link.
-- **AI Moderator documents** are PDF, DOCX or PPTX, up to 25MB each, and the AI Moderator is available from Pro onward.
+- **AI Moderator documents** are PDF, DOCX or PPTX, up to 25MB each, and the AI Moderator is in Beta.
 
 ## Common questions {#common-questions}
 
@@ -266,11 +266,11 @@ You shouldn't. The webinar plays that video, so removing it leaves the webinar w
 
 #### Where do I upload documents? {#faq-documents}
 
-On the **Files** tab. It's also where the AI Moderator (from Pro onward) keeps the documents it answers from.
+On the **Files** tab. It's also where the AI Moderator (Beta) keeps the documents it answers from.
 
 #### What file types can the AI Moderator read? {#faq-ai-moderator-files}
 
-**PDF, DOCX or PPTX**, up to **25MB** per file. The AI Moderator is available from Pro onward.
+**PDF, DOCX or PPTX**, up to **25MB** per file. The AI Moderator is in Beta.
 
 #### Can I rename a video? {#faq-rename}
 

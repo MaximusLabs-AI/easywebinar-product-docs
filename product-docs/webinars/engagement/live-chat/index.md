@@ -108,7 +108,7 @@ The screenshot under Set up chat shows both **Who can see messages** options, **
 | A lively public webinar | **Everyone** | Public |
 | A sales session with private conversations | **Hosts only** | Private |
 | A tightly controlled presentation | **Hosts only** | Disable |
-| An automated webinar with simulated chat | **Everyone** + Chat Simulation | Private |
+| An automated webinar that still feels busy | **Everyone** + Chat Simulation | Private |
 
 ## Use the chat in the live room {#chat-in-the-room}
 
@@ -178,9 +178,9 @@ Use an email address someone actually monitors, or the questions go nowhere.
 
 Chat is conversation; Q&A is a list of questions. A common setup is **Everyone** for chat with [**Private Q&A**](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#pair-with-chat): the room stays sociable while questions arrive in an orderly queue.
 
-### AI Moderation (from Pro onward) {#with-ai-moderation}
+### AI Moderation (Beta) {#with-ai-moderation}
 
-**AI Moderation**, available from Pro onward, can answer attendee questions from [documents you upload](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#files) and keep the chat civil. It works with the built-in chat only, and it doesn't replace a human moderator on a live session. It is switched on from the **Chat** screen once set up in the **AI Moderation** section.
+**AI Moderation**, in Beta, can answer attendee questions from [documents you upload](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#files) and keep the chat civil. It works with the built-in chat only, and it doesn't replace a human moderator on a live session. It is switched on from the **Chat** screen once set up in the **AI Moderation** section.
 
 ### Analytics {#with-analytics}
 
@@ -212,7 +212,7 @@ An [agency](https://easywebinar.com/solutions/marketing-agencies/) that already 
 
 ## How live chat compares {#compare}
 
-EasyWebinar lets you choose whether attendees see each other's messages, embed your own chat tool on recorded webinars, and keep a contact form open with chat switched off. You set the room to suit the session, from an open conversation to a contact form.
+EasyWebinar lets you choose whether attendees see each other's messages, embed your own chat tool on recorded webinars, and keep a contact form open with chat switched off. EasyWebinar is the only platform in this table that does all three.
 
 Chat features, from each platform's public documentation:
 
@@ -277,7 +277,7 @@ Into your chat tool, not EasyWebinar. You read and moderate them there.
 
 #### Can I use AI Moderation with an external chat tool? {#faq-ai-third-party}
 
-No. AI Moderation, which is available from Pro onward, works with the built-in chat only.
+No. AI Moderation, which is in Beta, works with the built-in chat only.
 
 #### How do I stop attendees chatting to each other? {#faq-stop-chatting}
 

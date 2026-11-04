@@ -143,7 +143,7 @@ Co-hosts and moderators who join land [backstage, not on stage](https://maximusl
 
 ### Chat and Q&A moderation {#with-moderation}
 
-Moderators work with the settings on the **Engagement** tab. With [Private Q&A](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#public-or-private), questions are visible only to hosts and moderators. With chat set to [Hosts only](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#who-can-see-messages), each attendee talks privately to your team. [AI Moderation (from Pro onward)](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#with-ai-moderation) doesn't replace a human moderator on a live session; someone still spots the question worth answering on air.
+Moderators work with the settings on the **Engagement** tab. With [Private Q&A](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#public-or-private), questions are visible only to hosts and moderators. With chat set to [Hosts only](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#who-can-see-messages), each attendee talks privately to your team. [AI Moderation (Beta)](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#with-ai-moderation) doesn't replace a human moderator on a live session; someone still spots the question worth answering on air.
 
 ### Your plan {#with-plan}
 
@@ -175,7 +175,7 @@ A [customer success team](https://easywebinar.com/solutions/customer-success-tea
 
 ## How team members compares {#compare}
 
-EasyWebinar gives each colleague their own login, lets a guest present or moderate one webinar from a link with no account, and keeps each agency client in a separate workspace on its own plan. Each person's work stays under their own name, and each client's stays in its own workspace.
+EasyWebinar gives each colleague their own login, lets a guest present or moderate one webinar from a link with no account, and keeps each agency client in a separate workspace on its own plan. EasyWebinar is the only platform in this table that does all three.
 
 Team and client access, from each platform's public documentation:
 

@@ -1,13 +1,13 @@
-# Webinar CRM Email Setup: Verify a Domain or Address and Choose a Sending Provider
+# Email Domain Authentication: Verify a Domain or Address and Choose How You Send
 
-How to set up sending so CRM broadcasts and workflows go out from your own domain or address: pick an email service, verify a domain or business address, choose where replies go, and check sending before your first send.
+Broadcasts and workflows can't go out until sending is set up. This email domain authentication guide explains how to verify a domain or a business address in EasyCRM, choose EasyCRM Mail or your own SMTP provider and check sending health, so your first broadcast leaves under your own name.
 
 - Applies to: EasyCRM broadcasts and workflows · set once under Configurations · a webinar's own emails have separate settings
 - Status: Live
 - Verified: 2026-11-02
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/easycrm/sending-setup/
 
-Webinar CRM email sending has to be set up before a single broadcast or workflow can leave your account. The job has three parts: choose an email service, verify the domain or business address you send as, and decide where replies go. In EasyWebinar you do all of it once, on the **Configurations** screen of its built-in CRM, [EasyCRM](https://easywebinar.com/easycrm/). A webinar's own confirmation and reminder emails aren't part of this setup, because each webinar has separate settings for them. It's your CRM or ours, so if you already run HubSpot, Salesforce Pardot or ActiveCampaign, you can keep it and skip this setup.
+Email domain authentication, or verifying one business address instead, has to be done before any broadcast or workflow can leave your account. The job has three parts: choose an email service, verify the domain or business address you send as, and decide where replies go. In EasyWebinar you do all of it once, on the **Configurations** screen of its built-in CRM, [EasyCRM](https://easywebinar.com/easycrm/). A webinar's own confirmation and reminder emails aren't part of this setup, because each webinar has separate settings for them. It's your CRM or ours, so if you already run HubSpot, Salesforce Pardot or ActiveCampaign, you can keep it and skip this setup.
 
 ## At a glance {#at-a-glance}
 
@@ -25,6 +25,8 @@ Webinar CRM email sending has to be set up before a single broadcast or workflow
 | **What it leaves alone** | A webinar's own emails, set under **Email Settings** on its **Notifications** tab |
 
 ## What webinar CRM email setup covers {#what-it-is}
+
+You have written your first broadcast, and it can't go out yet because sending isn't set up. That setup is what this page covers.
 
 Webinar CRM email setup is the step between having contacts and being able to message them. People arrive in the CRM from your webinars, and [broadcasts and workflows handle the communication](https://easywebinar.com/blog/how-to-automate-webinar-follow-ups-with-crm-tools/) after that. Neither can send until this step is finished.
 
@@ -66,7 +68,7 @@ This setup answers one question: how do my CRM broadcasts and workflows go out f
 
 Nothing sends from EasyCRM. A broadcast you have written can't go out, and a published workflow can't reach anyone. People often find this out on the day of their first send, when an offer or a replay link is already due.
 
-### Why buyers care {#why-buyers-care}
+### Who this falls to, and when {#why-buyers-care}
 
 This matters most to the admin or marketer who owns the first send, and to the owner whose domain carries the mail. It matters at the very start, before lists and campaigns exist. Domain work can need help from whoever holds your DNS, so leave time for it.
 
@@ -82,7 +84,7 @@ The job itself hasn't changed. Mail has to leave under a name that belongs to th
 
 EasyWebinar puts that job on one screen, **Configurations**, inside its CRM. It lists your email services, asks you to verify a domain or a single business address, and lets you choose where replies go. The garden centre's admin could validate the office address for Monday's send and plan the domain work for when volume grows.
 
-One detail shows how firm the gate is. The screen tells you to verify your sending identity before you can start sending email, and that notice sits right above the list of services. The other platforms' options are covered in How EasyWebinar compares for webinar CRM email sending, below.
+One detail shows how firm the gate is. The screen tells you to verify your sending identity before you can start sending email, and that notice sits right above the list of services. The other platforms' options are covered in How EasyWebinar compares for email domain authentication, below.
 
 ## How email sender authentication works {#how-authentication-works}
 
@@ -189,7 +191,7 @@ A whole-list send would overrun the allowance, so the targeted list is the bette
 
 ## How to set up webinar CRM email {#set-up}
 
-Work through these steps in order, and do them before you build anything else in the CRM:
+Check What to have ready, below, first, because a domain can stall on DNS access. Then work through these steps in order, and do them before you build anything else in the CRM:
 
 1. Click **Configurations** in the EasyCRM sidebar and stay on **Email Integration**.
 2. Choose your email service under **Email provider**, connecting your own SMTP account if you use one.
@@ -342,7 +344,7 @@ For a coach, the reply is often the point of the email, because a reply can star
 
 An agency often sends for a client whose domain it doesn't control, so the DNS work may sit with the client's own team. Raise it early, because DNS changes can take a few hours to propagate. A separate client workspace keeps that client's webinars, registrants and settings apart from yours.
 
-## How EasyWebinar compares for webinar CRM email sending {#compare}
+## How EasyWebinar compares for email domain authentication {#compare}
 
 EasyWebinar sets the email service, the sending identity and the reply address on one screen in its own CRM. Those settings then serve broadcasts and workflows, with calling on the next tab. And it's your CRM or ours: keep the CRM you have, or use EasyCRM natively.
 
@@ -360,7 +362,7 @@ Webinar CRM email sending features, from each platform's public documentation:
 
 *Yes: documented and built in. Partly: documented with a limit, shown in brackets. Not in docs: not found in the vendor's public documentation.*
 
-### Why EasyWebinar is the stronger choice for webinar CRM email sending {#compare-stronger}
+### Why EasyWebinar is the stronger choice for email domain authentication {#compare-stronger}
 
 - **Sending is part of the product.** EasyWebinar connects your service directly under **Configurations**, while [Livestorm's guide sends your own emails through a Zapier automation](https://support.livestorm.co/article/108-how-to-send-your-own-emails). More in [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 - **Two routes to a verified sender.** EasyWebinar accepts a dedicated domain or a single business address on the same screen, while [eWebinar's SendGrid steps run through verification in SendGrid](https://ewebinar.com/help/sendgrid). More in [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/).

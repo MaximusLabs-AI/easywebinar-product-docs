@@ -187,7 +187,7 @@ A countdown persuades because people trust it. Keep that trust:
 
 ## How countdown timers compare {#compare}
 
-EasyWebinar puts a countdown on the offer and another on the registration page itself. The offer countdown works the same way on live, simulive and evergreen webinars. The deadline stays in front of people from sign-up through to the offer.
+EasyWebinar puts a countdown on the offer and another on the registration page itself. The offer countdown works the same way on live, simulive and evergreen webinars. EasyWebinar is the only platform in this table that does all three.
 
 Countdown features, from each platform's public documentation:
 

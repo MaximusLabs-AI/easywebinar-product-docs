@@ -1,8 +1,8 @@
 # Connect a CRM and map your webinar data
 
-Connect one of EasyWebinar's 15 CRM and email integrations, tag contacts by what they did, and send webinar details into your CRM's own fields.
+Connect one of EasyWebinar's 14 CRM and email integrations, tag contacts by what they did, and send webinar details into your CRM's own fields.
 
-- Applies to: Email and Zapier integrations on every plan · EasyCRM from Growth · native HubSpot and Salesforce Pardot sync from Pro · set per webinar
+- Applies to: All plans · any team member · set per webinar
 - Status: Live
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/
@@ -14,7 +14,7 @@ Connect your CRM or email platform to a webinar, then tag each contact by **what
 | | |
 |---|---|
 | **Where you set it** | Webinar → **Integrations** tab |
-| **Integrations** | 15 CRM and email tools, including EasyWebinar's own EasyCRM |
+| **Integrations** | 14 CRM and email tools, including EasyWebinar's own EasyCRM |
 | **Scope** | Per webinar; each webinar can feed a different list |
 | **Event mappings** | 11 events, from **Registered** to **Clicked offer**, each applying a tag |
 | **Custom fields** | 6 pieces of webinar data, including the **Webinar Join Link** |
@@ -35,10 +35,10 @@ Connect your CRM or email platform to a webinar, then tag each contact by **what
 | GoHighLevel | Mailchimp | Constant Contact |
 | Keap | Ontraport | iContact |
 | AWeber | [HubSpot](https://easywebinar.com/integrations/hubspot-integration/) | InfluencerSoft |
-| Kit (formerly ConvertKit) | [ActiveCampaign](https://easywebinar.com/integrations/activecampaign-integration/) | EasyCRM |
-| GetResponse | Drip | Salesforce Pardot (Account Engagement) |
+| Kit (ConvertKit) | [ActiveCampaign](https://easywebinar.com/integrations/activecampaign-integration/) | EasyCRM |
+| GetResponse | Drip | |
 
-It's your CRM or ours: keep HubSpot, Salesforce Pardot (Account Engagement), ActiveCampaign, Mailchimp or Kit (formerly ConvertKit), or use EasyCRM natively. Both are supported. **[EasyCRM](https://easywebinar.com/easycrm/)** is EasyWebinar's own CRM and connects the same way. The full list, with what each connection is for, is on the [integrations overview](https://easywebinar.com/integrations/).
+**[EasyCRM](https://easywebinar.com/easycrm/)** is EasyWebinar's own CRM and connects the same way. The full list, with what each connection is for, is on the [integrations overview](https://easywebinar.com/integrations/).
 
 ## Connect an integration {#connect}
 
@@ -203,7 +203,7 @@ A team running one webinar per product line connects each webinar to its own lis
 
 ## How CRM mapping compares {#compare}
 
-EasyWebinar tags contacts by what they did in the session, sends each person's join link into a CRM field, and offers its own CRM, EasyCRM, that connects the same way. And it's your CRM or ours: keep the CRM you have, or use EasyCRM natively.
+EasyWebinar tags contacts by what they did in the session, sends each person's join link into a CRM field, and offers its own CRM, EasyCRM, that connects the same way. EasyWebinar is the only platform in this table that does all three.
 
 CRM features, from each platform's public documentation:
 
@@ -231,8 +231,8 @@ CRM features, from each platform's public documentation:
 - **Integrations are per webinar.** Connecting one doesn't connect the rest, and different webinars can feed different lists.
 - **Connecting needs an account with that service**, and you sign in to it during setup.
 - **Tags and custom fields must exist in your CRM first.** Use **Refresh** after adding a field.
-- **There are 15 integrations**, including EasyWebinar's own EasyCRM.
-- **EasyCRM starts at Growth**, and native HubSpot and Salesforce Pardot sync starts at Pro.
+- **There are 14 integrations**, including EasyWebinar's own EasyCRM.
+- **EasyCRM is a plan add-on**, switched on from the **Add-ons** tab under **Settings → Manage Plan**.
 
 ## Common questions {#common-questions}
 
@@ -248,7 +248,7 @@ Eleven, from **Registered** to **Clicked offer**. Each mapping applies the tag y
 
 Create it in your CRM, then click **Refresh**.
 
-#### What if my tool isn't one of the 15? {#faq-other-tools}
+#### What if my tool isn't one of the 14? {#faq-other-tools}
 
 Check whether it accepts data from one of the listed platforms, or use EasyCRM.
 

@@ -102,7 +102,7 @@ Q&A and chat are set side by side on the Engagement tab, and they work best chos
 | A sales session with private conversations | Hosts only | **Private Q&A** |
 | A tightly controlled presentation | Hosts only | **Disable** |
 | A large public webinar you can't moderate by hand | Everyone + AI Moderation | **Private Q&A** |
-| An automated webinar with simulated chat | Everyone + Chat Simulation | **Private Q&A** |
+| An automated webinar that still feels busy | Everyone + Chat Simulation | **Private Q&A** |
 
 **Everyone** for chat plus **Private Q&A** is a common setup: the room stays sociable, and questions reach you in an orderly queue.
 
@@ -147,9 +147,9 @@ On an [**evergreen** webinar](https://maximuslabs-ai.github.io/easywebinar-produ
 
 Chat and Q&A are separate controls on the same tab. Chat's [**Who can see messages** setting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#who-can-see-messages) and the Q&A option are chosen separately, so you can run a public chat with private questions.
 
-### AI Moderation (from Pro onward) {#with-ai-moderation}
+### AI Moderation (Beta) {#with-ai-moderation}
 
-The [AI Moderator](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-ai-moderator), available from Pro onward, has a **Q&A Moderation** screen. With **Suggest Answer** it drafts an answer for you to approve before attendees see it; with **Answer directly** it answers without host approval. It doesn't replace a human moderator on a live webinar.
+The [AI Moderator](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#with-ai-moderator), in Beta, has a **Q&A Moderation** screen. With **Suggest Answer** it drafts an answer for you to approve before attendees see it; with **Answer directly** it answers without host approval. It doesn't replace a human moderator on a live webinar.
 
 ### Analytics {#with-analytics}
 
@@ -181,7 +181,7 @@ A panel discussion is tightly scripted, so Q&A is set to **Disable** and chat to
 
 ## How Q&A compares {#compare}
 
-EasyWebinar keeps questions in their own queue, lets you make that queue public or private, and reports how many questions went unanswered. The same Q&A setting runs on live, simulive and evergreen webinars. Real questions don't get lost in the chat, and you can see which ones you left behind.
+EasyWebinar keeps questions in their own queue, lets you make that queue public or private, and reports how many questions went unanswered. The same Q&A setting runs on live, simulive and evergreen webinars. EasyWebinar is the only platform in this table that does all four.
 
 Q&A features, from each platform's public documentation:
 
@@ -254,13 +254,13 @@ Yes. Chat and Q&A work normally, and you [answer in real time while the recordin
 
 #### Can the AI Moderator answer questions for me? {#faq-ai-moderator}
 
-The AI Moderator is available from Pro onward. In **Suggest Answer** mode it drafts answers for you to approve; in **Answer directly** mode it answers without approval.
+The AI Moderator is in Beta. In **Suggest Answer** mode it drafts answers for you to approve; in **Answer directly** mode it answers without approval.
 
 ## Related {#related}
 
 - [Live chat](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/): the chat setting you choose next to Q&A on the **Engagement** tab.
 - [Polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/): ask the room a question of your own instead of waiting for theirs.
-- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): the simulated chat that pairs with **Private Q&A**.
+- [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): the busy automated room that pairs with **Private Q&A**.
 - [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): the **Question** panel alongside the rest of the room.
 - [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): questions asked, answered and the **Not Answered Rate**.
 - [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/): answer questions live while a recording plays.

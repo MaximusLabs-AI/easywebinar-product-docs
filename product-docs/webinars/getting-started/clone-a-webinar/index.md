@@ -7,7 +7,7 @@ Copy an existing EasyWebinar webinar into a new one, choose its type and which p
 - Verified: 2026-10-21
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/
 
-Cloning makes a new webinar from one you've already built, so you don't set everything up again. In the **Clone Webinar** dialog you choose the type of the copy, give it a name, and tick what should come across: registration pages, schedule, replay settings, embed widgets, polls, offers, email notifications and integration settings. Because a [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) is fixed once it exists, cloning is also how you end up with the same webinar as a different type.
+Cloning makes a new webinar from one you've already built, so you don't set everything up again. In the **Clone Webinar** dialog you choose the type of the copy, give it a name, and tick what should come across: registration pages, schedule, replay settings, embed widgets, polls, offers, email notifications and integration settings. Because a [webinar's type](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/#webinar-types) is fixed once it exists, cloning is also the only way to end up with the same webinar as a different type.
 
 **Expected result:** a new, independent webinar of the type you picked, carrying the settings and assets you selected, with no registrants, and the original webinar exactly as it was.
 
@@ -194,7 +194,7 @@ A customer success team that presents onboarding live clones the webinar as **Si
 
 ## How cloning compares {#compare}
 
-EasyWebinar lets you choose, item by item, what comes across to the copy. The webinar schedule can come with it, and so can the integration settings. You never rebuild a presentation that already works.
+EasyWebinar lets you choose, item by item, what comes across to the copy. The webinar schedule can come with it, and so can the integration settings. EasyWebinar is the only platform in this table that does all three.
 
 Cloning features, from each platform's public documentation:
 
@@ -231,11 +231,11 @@ Cloning features, from each platform's public documentation:
 
 #### How do I change a webinar's type? {#faq-change-type}
 
-Clone it and choose the new type in the dialog. That's how you go from live to automated in one switch.
+Clone it and choose the new type in the dialog. There's no way to convert a webinar in place.
 
 #### Can I make a live webinar into an evergreen one? {#faq-live-to-evergreen}
 
-Yes. That's live to automated in one switch: clone it with **Evergreen** as the type, then select the live session's recording on the copy's **Content** tab.
+Yes. Clone it with **Evergreen** as the type, then select the live session's recording on the copy's **Content** tab.
 
 #### Do registrants come with the copy? {#faq-registrants}
 

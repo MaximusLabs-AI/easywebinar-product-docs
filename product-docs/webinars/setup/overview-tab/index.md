@@ -242,7 +242,7 @@ A [course creator](https://maximuslabs-ai.github.io/easywebinar-product-docs/pro
 
 ## How the Overview tab compares {#compare}
 
-EasyWebinar's Overview gives each webinar private join links for guest presenters, a one-click registration link for known contacts and a **Revenue** figure. Sessions that are called off stay on their own **Cancelled** tab. A webinar's links and its results sit together on one tab, so nothing needs hunting down.
+EasyWebinar's Overview gives each webinar private join links for guest presenters, a one-click registration link for known contacts and a **Revenue** figure. Sessions that are called off stay on their own **Cancelled** tab. EasyWebinar is the only platform in this table that does all four.
 
 Webinar management features, from each platform's public documentation:
 

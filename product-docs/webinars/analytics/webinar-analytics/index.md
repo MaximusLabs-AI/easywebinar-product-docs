@@ -198,7 +198,7 @@ A product team running [onboarding webinars](https://easywebinar.com/use-cases/o
 
 ## How webinar analytics compares {#compare}
 
-EasyWebinar's **Analytics** tab follows one webinar from page visits to offer sales and revenue. It reports each offer's purchases next to its views and clicks, and counts live and replay viewers without double counting. You know what made money, not just who showed up.
+EasyWebinar's **Analytics** tab follows one webinar from page visits to offer sales and revenue. It reports each offer's purchases next to its views and clicks, and counts live and replay viewers without double counting. EasyWebinar is the only platform in this table that does all four.
 
 Single-webinar reporting, from each platform's public help docs:
 

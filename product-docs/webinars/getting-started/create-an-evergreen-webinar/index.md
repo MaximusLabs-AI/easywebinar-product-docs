@@ -212,9 +212,9 @@ On an automated webinar, people arrive at different times, so a shared live conv
 
 Evergreen webinars can use **Easywebinar Chat**, [embed an external chat tool](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/live-chat/#third-party-chat) with **Third party**, or turn chat off with **No Chat** while keeping the **EW Contact Box** for questions sent by email.
 
-### AI Moderator (from Pro onward) {#with-ai-moderator}
+### AI Moderator (Beta) {#with-ai-moderator}
 
-The **AI Moderator** answers attendee questions from documents you upload and keeps the chat civil. It's available from Pro onward. It's aimed at large webinars and automated ones running without you.
+The **AI Moderator** answers attendee questions from documents you upload and keeps the chat civil. It is in Beta. It's aimed at large webinars and automated ones running without you.
 
 ### Emails and reminders {#with-notifications}
 
@@ -254,7 +254,7 @@ A solo operator who can't present every day records a single webinar and runs it
 
 ## How evergreen webinars compare {#compare}
 
-In EasyWebinar, one evergreen webinar can offer just-in-time sessions, On Demand viewing and set times, all on one page. It can host the video itself, and live webinars run in the same product. So you can run it live, then let it run every day, with one login and one subscription.
+In EasyWebinar, one evergreen webinar can offer just-in-time sessions, On Demand viewing and set times, all on one page. It can host the video itself, and live webinars run in the same product. EasyWebinar is the only platform in this table that does all three.
 
 Evergreen features, from each platform's public documentation:
 
@@ -273,7 +273,7 @@ Evergreen features, from each platform's public documentation:
 
 - **All three ways to watch in one webinar.** EasyWebinar offers just-in-time, On Demand and set times together on one page. [Livestorm says recurring events can't be set up on-demand](https://support.livestorm.co/article/104-create-on-demand-events), and [Demio's public docs show no just-in-time option](https://help.demio.com/en/articles/3829686-scheduling-an-event). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/) and [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 - **Video hosting in the same flow.** With **Local import**, EasyWebinar hosts the video itself, so you don't need a YouTube or Vimeo account. [EverWebinar's help centre says an external video source is required](https://support.webinarjam.com/en/articles/15370044-use-external-video-hosting-in-webinarjam-and-everwebinar). See [EasyWebinar vs EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar/).
-- **From live to automated in one switch.** EasyWebinar lists recordings of your past webinars under **Recordings** when you pick the video. [EverWebinar can import a past WebinarJam session if the same account has an active WebinarJam subscription](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **From live to evergreen in one product.** EasyWebinar lists recordings of your past webinars under **Recordings** when you pick the video. [EverWebinar can import a past WebinarJam session if the same account has an active WebinarJam subscription](https://support.webinarjam.com/en/articles/15370040-choose-a-broadcast-source-for-your-everwebinar-event). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
 - **Live webinars built in.** EasyWebinar runs live, simulive and evergreen webinars from one account. [eWebinar's public docs show no live video broadcast](https://ewebinar.com/automated-webinars), and [StealthSeminar streams live video in from YouTube Live or Twitch](https://help.stealthseminarapp.com/article/123-how-do-i-set-up-a-live-or-hybrid-webinar). See [EasyWebinar vs eWebinar](https://easywebinar.com/compare/easywebinar-vs-ewebinar/) and [EasyWebinar vs Stealth Seminar](https://easywebinar.com/compare/easywebinar-vs-stealth-seminar/).
 
 *Competitor details checked against each vendor's public documentation on 20 October 2026. Features and plans change, so confirm with the vendor before you decide.*
@@ -286,7 +286,7 @@ Evergreen features, from each platform's public documentation:
 - **The interval options are fixed:** 2, 15, 30, 45 or 60 minutes.
 - **Imported videos need an accurate duration.** It's how EasyWebinar knows how long each session runs.
 - **Chat Simulation runs one mode at a time:** AI or manual, not both.
-- **The AI Moderator is available from Pro onward.**
+- **The AI Moderator is in Beta.**
 
 ## Common questions {#common-questions}
 

@@ -2,7 +2,7 @@
 
 Create a live webinar, set a one-time or recurring schedule, choose free or paid registration and pick a registration template.
 
-- Applies to: Live webinars on every plan · paid registration from Growth · any team member
+- Applies to: All plans · any team member
 - Status: Live
 - Verified: 2026-10-21
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/
@@ -255,7 +255,7 @@ A coach holds free weekly office hours with **No end date**. Registrants see onl
 
 ## How live webinars compare {#compare}
 
-EasyWebinar builds live, simulive and evergreen webinars from one create dialog. A live webinar can repeat on a **Weekly** schedule and charge at sign-up through a Stripe checkout. It's simple enough for your first webinar and powerful enough to run your whole funnel.
+EasyWebinar builds live, simulive and evergreen webinars from one create dialog. A live webinar can repeat on a **Weekly** schedule and charge at sign-up through a Stripe checkout. EasyWebinar is the only platform in this table that does all three.
 
 Live webinar set-up, from each platform's public documentation:
 
@@ -274,6 +274,7 @@ Live webinar set-up, from each platform's public documentation:
 - **Charging is part of the builder.** Choosing **Paid** in EasyWebinar sends registrants to a Stripe checkout. [Demio's help centre says it has no native paid webinar feature and points to Zapier](https://help.demio.com/en/articles/1161209-can-i-run-a-paid-event). See [EasyWebinar vs Demio](https://easywebinar.com/compare/easywebinar-vs-demio/).
 - **A whole term in one schedule.** EasyWebinar's **Weekly** option sets days, an end date and blackout days at once. [In Livestorm, each **Add session** click adds one session a week later](https://support.livestorm.co/article/adding-and-managing-multiple-sessions-in-a-livestorm-event). See [EasyWebinar vs Livestorm](https://easywebinar.com/compare/easywebinar-vs-livestorm/).
 - **Live and recorded in one account.** EasyWebinar offers **Live Webinar**, **Simulive Webinar** and **Evergreen Webinar** in the same dialog. [WebinarJam runs recorded webinars in its sister product, EverWebinar](https://support.webinarjam.com/en/articles/15369971-getting-started-with-everwebinar). See [EasyWebinar vs WebinarJam and EverWebinar](https://easywebinar.com/compare/easywebinar-vs-everwebinar-webinarjam/).
+- **No plan gate on the type.** Every EasyWebinar plan includes this builder. [WebinarKit's help centre says live and automated creation depend on your plan](https://help.webinarkit.com/help/how-to-build-an-autowebinar-funnel-with-webinarkit). See [EasyWebinar vs WebinarKit](https://easywebinar.com/compare/easywebinar-vs-webinarkit/).
 
 *Competitor details checked against each vendor's public documentation on 21 October 2026. Features and plans change, so confirm with the vendor before you decide.*
 
@@ -282,7 +283,7 @@ Live webinar set-up, from each platform's public documentation:
 - **The type is fixed.** Clone the webinar and choose another type on the copy.
 - **Choose Paid when you create the webinar.** If you switch an existing free webinar to paid, its registration page keeps the free form.
 - **You can't schedule a session in the past.**
-- **Registrant numbers depend on your plan.** [Attendee and registration limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) differ between [EasyWebinar's plans](https://easywebinar.com/pricing/); live webinars are on every plan, and paid registration starts at Growth.
+- **Registrant numbers depend on your plan.** [Attendee and registration limits](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#attendee-capacity) differ between [EasyWebinar's plans](https://easywebinar.com/pricing/); the features on this page are available on all plans.
 
 ### Schedule variations {#limits-and-variations}
 

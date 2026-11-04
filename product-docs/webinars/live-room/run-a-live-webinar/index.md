@@ -233,7 +233,7 @@ A creator runs a training live a few times with recording on, then clones the st
 
 ## How the live room compares {#compare}
 
-EasyWebinar's live room gives you a private green room, a backstage for co-hosts, and streaming out to YouTube and LinkedIn from the same screen you present from. You run the room like a launch, without leaving the screen you present from.
+EasyWebinar's live room gives you a private green room, a backstage for co-hosts, and streaming out to YouTube and LinkedIn from the same screen you present from. EasyWebinar is the only platform in this table that does all three.
 
 Live room features, from each platform's public documentation:
 

@@ -1,13 +1,13 @@
-# Webinar Follow-Up Email Templates: What to Send After the Session, and When
+# Webinar Follow Up Email: What to Send Attendees and No-Shows, and When to Send It
 
-Webinar follow-up emails for attendees and no-shows: real templates to copy, when to send each one, and how to schedule them per webinar in EasyWebinar.
+Not sure what to send after a webinar ends? A webinar follow up email has to fit what each person did, so this guide gives real templates for attendees and no-shows, says when to send each one and how to schedule them per webinar, so every registrant gets the right next step.
 
 - Applies to: Course creators and marketing managers writing follow-ups after a webinar · live, simulive and evergreen webinars
 - Status: Live
 - Verified: 2026-11-02
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/use-cases/webinar-follow-up-emails/
 
-Webinar follow-up emails have one job: to give each person the right next step while your session is still fresh. A webinar follow up email template only helps if it fits what that person did, so attendees and no-shows need different messages. Send attendees a thank-you with the replay and your offer right after the session, and send no-shows the replay at the same moment. Follow each group a day later, then send a last call before your deadline. EasyWebinar schedules these per webinar and by audience, so you write each one once.
+Webinar follow-up emails have one job: to give each person the right next step while your session is still fresh. A webinar follow up email only helps if it fits what that person did, so attendees and no-shows need different messages. Send attendees a thank-you with the replay and your offer right after the session, and send no-shows the replay at the same moment. Follow each group a day later, then send a last call before your deadline. EasyWebinar schedules these per webinar and by audience, so you write each one once.
 
 ## At a glance {#at-a-glance}
 
@@ -21,9 +21,11 @@ Webinar follow-up emails have one job: to give each person the right next step w
 | The part you missed | People who left early | A day later | Tell them what came after they left |
 | Last call | Attendees and no-shows, in separate versions | The day before your deadline, or that morning | State the deadline and the link, and nothing else |
 
-The first two rows and the day-after rows follow the same timing as the [follow-ups an AI-built webinar drafts](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/). The rest are sensible starting points, so move them to fit your own deadline.
+The first two rows and the day-after rows follow the same timing as the [follow-ups an AI-built webinar drafts](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/). The rest are sensible starting points, so move them to fit your own deadline. If you have to send today, go straight to Write them in this order, further down.
 
 ## Where webinar follow-up emails fit {#where-it-fits}
+
+Your session has just ended. Some people attended and some never made it, and each group needs a different next message.
 
 ### What they're for {#fits-what-its-for}
 

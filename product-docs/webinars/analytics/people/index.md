@@ -182,7 +182,7 @@ An [agency running webinars for a client](https://easywebinar.com/solutions/mark
 
 ## How the People view compares {#compare}
 
-EasyWebinar puts everyone from every webinar in one table, filters it by what people did and which campaign brought them, and exports exactly the filtered list. Sales gets the warmest leads first.
+EasyWebinar puts everyone from every webinar in one table, filters it by what people did and which campaign brought them, and exports exactly the filtered list. EasyWebinar is the only platform in this table that does all four.
 
 People list features, from each platform's public documentation:
 

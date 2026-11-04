@@ -191,7 +191,7 @@ An agency [running webinars for clients](https://easywebinar.com/solutions/marke
 
 ## How custom fields compare {#compare}
 
-EasyWebinar keeps your own questions, a consent checkbox and campaign capture together on one form block. Its **Phone** field also feeds SMS reminders (Beta), sent from an EasyWebinar number. You learn who registered and which campaign sent them, on the same form.
+EasyWebinar keeps your own questions, a consent checkbox and campaign capture together on one form block. Its **Phone** field also feeds SMS reminders (Beta), sent from an EasyWebinar number. EasyWebinar is the only platform in this table that does all four.
 
 Registration form features, from each platform's public documentation:
 

@@ -112,7 +112,7 @@ Two minutes is also the setting to use when you want to check the webinar yourse
 
 ## Timezones: who sees which time {#timezones}
 
-Just-in-time follows each attendee's own local time. Everything else runs in the webinar's timezone:
+Just-in-time is the only kind of session in EasyWebinar that follows each attendee's own local time. Everything else runs in the webinar's timezone:
 
 | Session | Runs in |
 |---|---|
@@ -160,9 +160,9 @@ Evergreen webinars have a **Live** tab in the Sessions panel, alongside **Upcomi
 
 Just-in-time attendees arrive at different moments, so there's no shared conversation to join. **Chat Simulation** on the **Engagement** tab fills the chat with an AI-generated or CSV-scripted conversation timed against the video. [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/) covers both methods.
 
-### AI Moderator (from Pro onward) {#with-ai-moderator}
+### AI Moderator (Beta) {#with-ai-moderator}
 
-The **AI Moderator**, available from Pro onward, answers attendee questions from documents you upload and keeps the chat civil. On an automated webinar running at 3am, it can answer a question that would otherwise wait for someone on your team.
+The **AI Moderator**, in Beta, answers attendee questions from documents you upload and keeps the chat civil. On an automated webinar running at 3am, it can answer a question that would otherwise wait for someone on your team.
 
 ### Emails and reminders {#with-notifications}
 
@@ -198,7 +198,7 @@ A customer success team sends new customers to an [onboarding webinar](https://e
 
 ## How just-in-time compares {#compare}
 
-EasyWebinar puts just-in-time sessions, instant viewing and set daily or weekly times on one evergreen webinar. It also keeps chosen hours free of just-in-time sessions with **Exclude specific time**, and runs live webinars in the same product. Sessions start minutes after someone registers, in their own time zone.
+EasyWebinar puts just-in-time sessions, instant viewing and set daily or weekly times on one evergreen webinar. It also keeps chosen hours free of just-in-time sessions with **Exclude specific time**, and runs live webinars in the same product. EasyWebinar is the only platform in this table that does all four.
 
 Just-in-time scheduling, from each platform's public documentation:
 

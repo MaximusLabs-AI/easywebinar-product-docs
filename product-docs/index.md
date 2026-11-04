@@ -2,14 +2,14 @@
 
 How EasyWebinar works, from creating your first webinar to selling, following up and managing your team.
 
-- Applies to: Live webinars on every plan · automation, EasyCRM and checkout from Growth
+- Applies to: All plans
 - Status: Live
 - Verified: 2026-10-16
 - Canonical page: https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/
 
 ## What EasyWebinar is {#what-easywebinar-is}
 
-EasyWebinar is the webinar platform built for conversions: live, automated and on demand. You build a webinar with a [registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/), [emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/), [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), run it live or from a recording, and follow up through [analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/) and your CRM or ours. Keep HubSpot, Salesforce Pardot (Account Engagement), ActiveCampaign, Mailchimp or Kit (formerly ConvertKit), or use the built-in [EasyCRM](https://easywebinar.com/easycrm/) natively.
+EasyWebinar is a webinar platform for running live and recorded webinars that collect leads and sell. You build a webinar with a [registration page](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/registration-page-builder/), [emails](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/notifications/confirmation-emails/), [polls](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/polls/) and [offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/), run it live or from a recording, and follow up through [analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/), integrations and the built-in [EasyCRM](https://easywebinar.com/easycrm/).
 
 ## Start here {#start-here}
 
@@ -42,7 +42,7 @@ EasyWebinar is the webinar platform built for conversions: live, automated and o
 | **Live room** | [Green room, backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/green-room/), [presenting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/), screen sharing and recording |
 | **[EasyCast](https://easywebinar.com/easycast/)** | Streams a live webinar to YouTube, LinkedIn or a custom RTMP destination |
 | **[Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/)** | Your hosted videos, recordings, images and files |
-| **EasyCRM** | Leads, lists, clients, deals, tasks, broadcasts and workflows (from Growth) |
+| **EasyCRM** | Leads, lists, clients, deals, tasks, broadcasts and workflows (add-on) |
 | **Settings** | Profile, team members, plan and billing, client workspaces |
 
 ## How the parts connect {#how-it-connects}
