@@ -239,6 +239,10 @@ Afterwards, the same pages open in the normal builder. Click any block to select
 <figcaption>Generated pages open in this builder, so you can change any block, swap the template or check the mobile view before you publish.</figcaption>
 </figure>
 
+This EasyWebinar video shows how to customize a registration page in the page builder.
+
+Video: [How to Customize a Webinar Registration Page in EasyWebinar](https://www.youtube.com/watch?v=ce2ZrxNiatQ)
+
 ### Finish the build and find your pages {#finish-the-build}
 
 Continue through the emails, polls and offers, or whichever of them you selected. The flow drops you on the finished webinar's **Overview**, and from here it behaves like a webinar you built by hand, with the same nine tabs. Your pages are on the **Content** tab, and the [Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/) guide explains the rest of the screen.

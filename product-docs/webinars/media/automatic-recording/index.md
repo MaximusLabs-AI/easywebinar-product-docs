@@ -221,6 +221,10 @@ Click **Library** in the sidebar, then the **Recordings** tab. Each recording is
 
 The [Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/) page explains the other tabs and how storage is counted.
 
+This EasyWebinar video shows the Library, where you can also upload your own webinar videos.
+
+Video: [How to Upload Webinar Videos to the Library in EasyWebinar](https://www.youtube.com/watch?v=604P8u9E2gU)
+
 ### Use the recording again {#reuse-the-recording}
 
 There are two main reuses. As a replay, the recording serves people who missed the live hour, set up through [Replay pages](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/). As an evergreen webinar, [clone the webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/) as Evergreen and pick the recording when you choose the video.
@@ -233,6 +237,10 @@ There are two main reuses. As a replay, the recording serves people who missed t
 </figure>
 
 Recordings also appear on the **Recordings** tab of the video picker during webinar setup, so you pick it where you pick any other video. [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/) covers the rest of that setup.
+
+This EasyWebinar video shows how to set up a replay that expires.
+
+Video: [How to Set Up an Expiring Webinar Replay in EasyWebinar](https://www.youtube.com/watch?v=lc89dKUnfsQ)
 
 ## What works with webinar recording {#works-with}
 

@@ -161,6 +161,10 @@ Open the webinar's **Integrations** tab, find your tool under **Available integr
 
 Create your tags in the CRM first, then select them here. Map **Webinar Title** to a custom field so each contact shows which webinar it came from; the field has to exist in your CRM before you can map to it. [The mapping guide](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/) lists all eleven events and every field.
 
+This EasyWebinar video shows how to connect your CRM and email tools to a webinar.
+
+Video: [How to Connect Your CRM and Email Tools to EasyWebinar](https://www.youtube.com/watch?v=W_D_8xaQ9Bs)
+
 ### Set follow-ups for attendees and no-shows {#set-follow-ups}
 
 Open the **Notifications** tab. Under **Webinar Follow-ups**, add one email for attendees and one for no-shows, and set the audience on each. No-shows are usually the biggest group, and the replay link is what they want. Under **Attendee Action Follow-ups**, add an email for people who clicked your offer, so they hear something different from someone who left after five minutes.
@@ -179,6 +183,10 @@ Click **People** in the sidebar, then **Add Filter**. Choose **Source & UTM** an
 </figure>
 
 **Export** downloads the filtered list, so filter first and then export. Each row is one person on one webinar, and the result count below the table shows how far a filter narrowed things. [The People view](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/) explains every column.
+
+This EasyWebinar video shows how to filter and export registrants in People.
+
+Video: [How to Filter and Export Webinar Registrants in EasyWebinar](https://www.youtube.com/watch?v=z_4v7LVtKXk)
 
 ### Keep the webinar producing leads {#keep-producing}
 
@@ -202,6 +210,10 @@ Registration rate is registrants divided by visitors to the registration page. A
 </figure>
 
 Open the webinar's **Analytics** tab. **Visitors**, **Registered**, **Live Attended**, **Replay Watched**, **Total Attended** and **Missed** sit along the top, and **Total Attended** splits into **Live only**, **Replay only** and **Both**. [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/) explains each card.
+
+This EasyWebinar video walks through a webinar's Analytics tab, including revenue.
+
+Video: [How to Read Webinar Analytics and Revenue in EasyWebinar](https://www.youtube.com/watch?v=mfdOv3HBbx4)
 
 ### Per campaign {#per-campaign}
 

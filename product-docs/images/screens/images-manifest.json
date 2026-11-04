@@ -1,7 +1,22 @@
 {
+ "/product-docs/images/screens/clone-a-webinar/step-01-clone-dialog.webp": {
+  "height": 946,
+  "id": "EW-SC-011",
+  "width": 1440
+ },
+ "/product-docs/images/screens/clone-a-webinar/step-02-what-to-copy.webp": {
+  "height": 946,
+  "id": "EW-SC-012",
+  "width": 1440
+ },
  "/product-docs/images/screens/create-a-webinar-with-ai/step-01-prompt.webp": {
   "height": 946,
   "id": "EW-SC-017",
+  "width": 1440
+ },
+ "/product-docs/images/screens/create-a-webinar-with-ai/step-02-script.webp": {
+  "height": 946,
+  "id": "EW-SC-018",
   "width": 1440
  },
  "/product-docs/images/screens/create-a-webinar-with-ai/step-05-finished.webp": {
@@ -9,14 +24,39 @@
   "id": "EW-SC-021",
   "width": 1440
  },
+ "/product-docs/images/screens/create-an-evergreen-webinar/step-01-schedule.webp": {
+  "height": 946,
+  "id": "EW-SC-022",
+  "width": 1440
+ },
+ "/product-docs/images/screens/create-an-evergreen-webinar/step-02-overview.webp": {
+  "height": 946,
+  "id": "EW-SC-023",
+  "width": 1440
+ },
  "/product-docs/images/screens/create-an-evergreen-webinar/step-02-video-selection.webp": {
   "height": 761,
   "id": "EW-SC-024",
   "width": 1311
  },
+ "/product-docs/images/screens/easycast/step-03-device-setup.webp": {
+  "height": 946,
+  "id": "EW-SC-028",
+  "width": 1440
+ },
  "/product-docs/images/screens/easycrm-broadcasts/step-01-broadcasts.webp": {
   "height": 946,
   "id": "EW-SC-033",
+  "width": 1440
+ },
+ "/product-docs/images/screens/easycrm-leads/step-01-leads.webp": {
+  "height": 946,
+  "id": "EW-SC-036",
+  "width": 1440
+ },
+ "/product-docs/images/screens/easycrm-overview/step-01-dashboard.webp": {
+  "height": 946,
+  "id": "EW-SC-038",
   "width": 1440
  },
  "/product-docs/images/screens/easycrm-sending/step-01-configurations.webp": {
@@ -29,9 +69,19 @@
   "id": "EW-SC-042",
   "width": 1440
  },
+ "/product-docs/images/screens/how-to-create-and-schedule-a-live-webinar/step-01-build-name-and-type.webp": {
+  "height": 946,
+  "id": "EW-SC-044",
+  "width": 1440
+ },
  "/product-docs/images/screens/run-your-live-webinar/step-01-green-room.webp": {
   "height": 946,
   "id": "EW-SC-061",
+  "width": 1440
+ },
+ "/product-docs/images/screens/run-your-live-webinar/step-02-people.webp": {
+  "height": 946,
+  "id": "EW-SC-062",
   "width": 1440
  },
  "/product-docs/images/screens/run-your-live-webinar/step-03-settings.webp": {
@@ -52,6 +102,16 @@
  "/product-docs/images/screens/the-content-section/step-02-page-builder.webp": {
   "height": 946,
   "id": "EW-SC-073",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-ctas-section/step-01-cta-list.webp": {
+  "height": 946,
+  "id": "EW-SC-074",
+  "width": 1440
+ },
+ "/product-docs/images/screens/the-engagement-section/step-01-chat.webp": {
+  "height": 946,
+  "id": "EW-SC-077",
   "width": 1440
  },
  "/product-docs/images/screens/the-integrations-section/step-01-integrations.webp": {

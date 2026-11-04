@@ -251,6 +251,10 @@ If you built the webinar with [Create with AI](https://maximuslabs-ai.github.io/
 
 EasyWebinar works with your CRM or ours. Keep HubSpot, Salesforce Pardot (Account Engagement), ActiveCampaign, Mailchimp or Kit (formerly ConvertKit), or use EasyCRM natively. Paste the same registration link into your tool's campaign. Then [connect that tool to EasyWebinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/) so registrants are tagged by what they did.
 
+Once people register from your invitation, reminder emails take over. This EasyWebinar video shows how to set them up.
+
+Video: [How to Set Up Webinar Reminder Emails in EasyWebinar](https://www.youtube.com/watch?v=lnEm0LfbXT8)
+
 ## See whether your invitation worked {#measure-it}
 
 Three numbers tell you how an invitation did: opens, clicks and registrations. Each one points at a different line of the email.

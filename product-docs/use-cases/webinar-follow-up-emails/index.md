@@ -353,6 +353,10 @@ The emails live on each webinar's **Notifications** tab, and the replay settings
 
 You'll find fuller guidance on these options in [setting up a replay page](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/#availability), and the same link also sits in the webinar's [Share dialog](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/). Anyone with that link can watch while the page is on, so treat it as public. A replay isn't the same as [instant viewing on demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/on-demand/), which lets someone watch as soon as they register. Our post on [using replays to increase sales](https://easywebinar.com/blog/using-webinar-replays-to-increase-sales/) goes further on the selling side.
 
+This EasyWebinar video shows how to set up a replay that expires.
+
+Video: [How to Set Up an Expiring Webinar Replay in EasyWebinar](https://www.youtube.com/watch?v=lc89dKUnfsQ)
+
 ### Add each follow-up {#add-follow-ups}
 
 <figure>
@@ -393,6 +397,10 @@ It's your CRM or ours. Follow-ups can also run through the Mailchimp, ActiveCamp
 </figure>
 
 Go to **Marketing → Campaign** and click **Create Workflow**. Nothing sends while a workflow is in draft, and nothing sends until sending is set up, including a connected email provider and a verified sender. For a one-off message, such as a replay link after a webinar or an offer closing on Friday, use **Marketing → Broadcasts** instead. A broadcast goes to a list you pick, and it can go now or on a schedule. EasyCRM is a plan add-on, and sends count against your **Wallet** allowance, so check [plans and add-ons](https://easywebinar.com/pricing/) first.
+
+This EasyWebinar video shows EasyCRM follow-up that reacts to what each attendee did.
+
+Video: [EasyCRM: Webinar Follow-Up That Reacts to What Each Attendee Did](https://www.youtube.com/watch?v=hI8YUCKw59s)
 
 ### If your list lives in an email tool {#email-tool}
 
