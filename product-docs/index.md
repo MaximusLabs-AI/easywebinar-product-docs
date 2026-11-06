@@ -28,7 +28,9 @@ EasyWebinar is a webinar platform for running live and recorded webinars that co
 | Hosting your first webinar | [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/) |
 | Selling a workshop or programme | [Charge for webinar registration](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/) and [Offers](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/) |
 | Following up with your CRM | [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/) |
+| Working from ChatGPT or Claude | [Connect EasyWebinar to ChatGPT and Claude](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/connect-chatgpt-and-claude/) |
 | An account admin | [Team members and roles](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/) |
+| Working in another language | [Change your dashboard language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/dashboard-language/), [Change your EasyCRM language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/easycrm-language/) and [Set the webinar language for attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/) |
 | Checking a limit or default | [Limits and defaults](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/) |
 | Stuck in the live room | [Camera not detected](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/) |
 
@@ -38,12 +40,13 @@ EasyWebinar is a webinar platform for running live and recorded webinars that co
 |---|---|
 | **My Webinars** | Lists, filters, [clones](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/) and archives your webinars |
 | **[Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/)** | Generates a webinar script, pages, emails, polls and offers |
+| **[AI connector](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/connect-chatgpt-and-claude/)** | Runs your webinars from ChatGPT or Claude: schedule, write pages and emails, add polls and offers, check attendance |
 | **Webinar tabs** | [Overview](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/), Content, CTAs, Engagement, Notifications, Integrations, Analytics, Replay and Settings for each webinar |
 | **Live room** | [Green room, backstage](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/green-room/), [presenting](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/), screen sharing and recording |
 | **[EasyCast](https://easywebinar.com/easycast/)** | Streams a live webinar to YouTube, LinkedIn or a custom RTMP destination |
 | **[Library](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/)** | Your hosted videos, recordings, images and files |
 | **EasyCRM** | Leads, lists, clients, deals, tasks, broadcasts and workflows (add-on) |
-| **Settings** | Profile, team members, plan and billing, client workspaces |
+| **Settings** | Profile, [dashboard language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/dashboard-language/), team members, plan and billing, client workspaces |
 
 ## How the parts connect {#how-it-connects}
 

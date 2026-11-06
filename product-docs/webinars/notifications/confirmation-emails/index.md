@@ -259,3 +259,4 @@ No. The **Thank you Page** shows in the browser straight after registering. The 
 - [Clone a webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/clone-a-webinar/): carry the confirmation and sender settings to a new webinar.
 - [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): act on the Registered event and store each join link.
 - [People](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/people/): check who registered and when.
+- [Set the webinar language for attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/): the attendee interface default, separate from the emails you write.

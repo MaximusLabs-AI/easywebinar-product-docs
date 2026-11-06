@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 412" width="1440" height="412" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, &quot;Noto Sans&quot;, Arial, sans-serif" role="img" aria-labelledby="d2-title d2-desc">
+<title id="d2-title">Two ways to change your dashboard language</title>
+<desc id="d2-desc">The flag button in the top bar, then pick a language; or Settings, My Profile, General Settings, Language. Same setting, same 11 languages, applies at once.</desc>
+<rect x="0" y="0" width="1440" height="412" fill="#ffffff"/>
+<rect x="355" y="40" width="407" height="76" rx="12" fill="#ffffff" stroke="#e5e5e5" stroke-width="2"/>
+<text x="558" y="87" font-size="26" font-weight="400" fill="#131927" text-anchor="middle">Flag button in the top bar</text>
+<text x="794" y="90" font-size="34" fill="#5c5c5c" text-anchor="middle">→</text>
+<rect x="826" y="40" width="258" height="76" rx="12" fill="#ffffff" stroke="#e5e5e5" stroke-width="2"/>
+<text x="955" y="87" font-size="26" font-weight="400" fill="#131927" text-anchor="middle">Pick a language</text>
+<text x="720" y="160" font-size="24" fill="#5c5c5c" text-anchor="middle">or</text>
+<rect x="207" y="184" width="172" height="76" rx="12" fill="#ffffff" stroke="#e5e5e5" stroke-width="2"/>
+<text x="293" y="231" font-size="26" font-weight="600" fill="#131927" text-anchor="middle">Settings</text>
+<text x="411" y="234" font-size="34" fill="#5c5c5c" text-anchor="middle">→</text>
+<rect x="443" y="184" width="201" height="76" rx="12" fill="#ffffff" stroke="#e5e5e5" stroke-width="2"/>
+<text x="543" y="231" font-size="26" font-weight="600" fill="#131927" text-anchor="middle">My Profile</text>
+<text x="676" y="234" font-size="34" fill="#5c5c5c" text-anchor="middle">→</text>
+<rect x="708" y="184" width="288" height="76" rx="12" fill="#ffffff" stroke="#e5e5e5" stroke-width="2"/>
+<text x="852" y="231" font-size="26" font-weight="600" fill="#131927" text-anchor="middle">General Settings</text>
+<text x="1028" y="234" font-size="34" fill="#5c5c5c" text-anchor="middle">→</text>
+<rect x="1060" y="184" width="172" height="76" rx="12" fill="#ffffff" stroke="#e5e5e5" stroke-width="2"/>
+<text x="1146" y="231" font-size="26" font-weight="600" fill="#131927" text-anchor="middle">Language</text>
+<rect x="40" y="296" width="1360" height="76" rx="12" fill="#f5f5f5"/>
+<text x="720" y="344" font-size="28" font-weight="600" fill="#131927" text-anchor="middle">Same setting, same 11 languages, applies at once</text>
+</svg>

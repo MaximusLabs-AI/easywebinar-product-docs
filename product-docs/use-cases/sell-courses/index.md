@@ -322,3 +322,4 @@ Compare **Visitors → Registered** for your page, **Registered → Attended** f
 - [The Library's recordings](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/library/#recordings): where your live session's recording lands before you clone it as Evergreen.
 - [Style the live room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#style-the-room): backgrounds, overlays and layout so the room matches your course brand.
 - [Add-ons](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/reference/limits-and-defaults/#add-ons): the **Paid Webinars**, **C-Name** and **White Label** add-ons mentioned on this page.
+- [Set the webinar language for attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/): the default interface language for a webinar aimed at another language market.

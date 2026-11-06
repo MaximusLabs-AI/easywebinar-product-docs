@@ -323,6 +323,7 @@ You choose: **Soft Pitch**, **Balanced Approach** or **Direct Pitch**.
 
 ## Related {#related}
 
+- [Connect EasyWebinar to ChatGPT and Claude](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/connect-chatgpt-and-claude/): do the same work from a chat, one request at a time.
 - [Create and schedule a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-live-webinar/): the manual route, and where to set the schedule the AI build leaves to you.
 - [Create a simulive webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-a-simulive-webinar/#choose-video): choose the recording a simulive build still needs.
 - [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/#build-schedule): build the always-on schedule for an evergreen build.

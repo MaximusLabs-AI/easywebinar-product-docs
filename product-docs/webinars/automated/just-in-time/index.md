@@ -276,6 +276,7 @@ Yes. JIT is the common short name for **Just-in-time Registration**.
 ## Related {#related}
 
 - [Create an evergreen webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/getting-started/create-an-evergreen-webinar/): the full setup that just-in-time is one step of.
+- [Connect EasyWebinar to ChatGPT and Claude](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/connect-chatgpt-and-claude/): create and schedule evergreen webinars from a chat.
 - [On Demand](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/on-demand/): the option for registrants who want to watch now rather than in a few minutes.
 - [Chat simulation](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/chat-simulation/): a chat for attendees who each arrive at a different moment.
 - [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where the Live tab shows a just-in-time session on air.

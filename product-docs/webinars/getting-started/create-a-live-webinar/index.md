@@ -344,3 +344,4 @@ Pages for what comes after the webinar exists.
 - [Offers and the countdown timer](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/timed-offers/): put a call to action in front of the room while you present.
 - [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send registrants into your CRM as they sign up.
 - [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): see registrations, attendance and revenue once sessions have run.
+- [Set the webinar language for attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/): choose the default language attendees get, from the webinar's **Settings** tab.

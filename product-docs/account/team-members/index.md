@@ -258,3 +258,4 @@ Yes. The client gets an email confirmation to set their password and join your w
 - [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#device-check): the host's path from the device check to ending the session.
 - [Moderators in the Q&A queue](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/engagement/questions-answers/#moderators): how a moderator works through questions during a session.
 - [Connect a CRM and map your webinar data](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/): send registrants your team brings in to the CRM you already use.
+- [Change your dashboard language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/dashboard-language/): switch the dashboard to one of 11 languages, from the top bar or **My Profile**.

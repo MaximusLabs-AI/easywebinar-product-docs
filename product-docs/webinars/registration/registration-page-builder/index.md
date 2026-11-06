@@ -321,3 +321,4 @@ Yes, with the **C-Name** add-on and a CNAME record at your DNS provider.
 - [Paid webinars](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/selling/paid-webinars/): why the price block appears only when Paid is chosen at creation.
 - [Create with AI](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/ai/create-with-ai/): the full build that writes these pages from your script.
 - [The Overview tab](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/overview-tab/): where the **Registration Page** button opens the live page.
+- [Set the webinar language for attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/): the default interface language attendees get; the words on this page stay as you write them.

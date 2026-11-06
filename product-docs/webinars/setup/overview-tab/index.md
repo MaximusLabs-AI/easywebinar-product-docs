@@ -328,3 +328,4 @@ A recorded webinar has no live room to enter. When a session is running, it appe
 - [Webinar analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/): the full funnel behind the four headline stats.
 - [Run a live webinar](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/): what happens after **Enter Room** and the device check.
 - [Team members](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/): when to give someone a login instead of a join link.
+- [Set the webinar language for attendees](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/): choose the default language attendees get, on the **Settings** tab.

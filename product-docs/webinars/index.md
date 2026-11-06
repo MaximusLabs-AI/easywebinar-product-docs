@@ -57,7 +57,7 @@ All three types use the same pages, emails, polls, offers and analytics. Only th
 | **Integrations** | [Connect a CRM or email tool](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/) for this webinar |
 | **[Analytics](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/analytics/webinar-analytics/)** | Registrations, attendance, offers and revenue |
 | **[Replay](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/media/replay-pages/)** | How and for how long the recording is available |
-| **Settings** | Webinar-level options such as showing the attendee list |
+| **Settings** | Webinar-level options such as showing the attendee list, and the [Webinar Language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/) attendees get |
 
 The webinar header also has **Registration Page**, **[Share](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/registration/sharing-links/)** and **[Enter Room](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/live-room/run-a-live-webinar/#open-the-room)**.
 

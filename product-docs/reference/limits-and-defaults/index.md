@@ -40,6 +40,7 @@ Check the meters before a big promotion. Running out of live attendee capacity m
 | Just-in-time interval | 2, 15, 30, 45 or 60 minutes | Evergreen webinars only; see [choosing an interval](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#choosing-an-interval) |
 | Sessions in the attendee's local time | [Just-in-time sessions only](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/just-in-time/#timezones) | Live and scheduled sessions use the webinar's timezone |
 | Webinars live at once | One | Starting another shows ["You can only have one event live at a time."](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/troubleshooting/camera-not-detected/#one-event-live) |
+| [Webinar Language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/setup/webinar-language/) | 11 languages; default English | Set on each live webinar's **Settings** tab; separate from **Date Display Language** |
 
 ## Registration and selling {#registration-and-selling}
 
@@ -95,6 +96,9 @@ Everything [EasyCRM](https://easywebinar.com/easycrm/) sends draws on this month
 | Team seats | Depend on your plan | Settings overview shows [seats used](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/team-members/#before-you-begin) |
 | Client workspaces | Each on its own plan | Workspaces don't use team seats; built for [agencies running client webinars](https://easywebinar.com/solutions/marketing-agencies/) |
 | [Integrations](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/integrations/map-webinar-data/) | Set per webinar | Connecting one webinar doesn't connect the others |
+| [Dashboard language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/dashboard-language/) | 11 languages | The flag button in the top bar, or **Settings → My Profile → General Settings → Language** |
+| [EasyCRM language](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/account/easycrm-language/) | 11 languages | The flag button in the EasyCRM header; shared with your dashboard language |
+| [AI connector sign-in](https://maximuslabs-ai.github.io/easywebinar-product-docs/product-docs/webinars/automated/connect-chatgpt-and-claude/) | Up to 30 days | ChatGPT or Claude renews it; disconnect to end access at once |
 
 ## Add-ons {#add-ons}
 
